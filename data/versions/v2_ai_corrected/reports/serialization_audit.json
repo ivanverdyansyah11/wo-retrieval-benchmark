@@ -1,0 +1,13 @@
+{
+  "changed_inputs": [
+    "WO-DOC-024-C003",
+    "WO-DOC-027-C009"
+  ],
+  "metadata_allowlist_only": true,
+  "neural_model_loaded": false,
+  "policy_id": "wo_operational_context_dedup_v1",
+  "policy_sha256": "f2dd30f88ed1745c1a9fb9fea850651dbf89cfeed304c8aa1a7c1910afc9d53f",
+  "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+  "serialized_inputs_sha256": "43d9ce463c5613834a3cddab19c204d29b8a805a15a7ebb2594d5ba4bbbdfd14",
+  "xlsx_context_parity": true
+}

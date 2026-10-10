@@ -1,0 +1,2394 @@
+[
+  {
+    "actual_character_count": 6110,
+    "actual_word_count": 793,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "A. Struktur Tim dan Job Description",
+    "content_summary": "Wedding Organizer X membagi pekerjaan menurut kendali acara, pendampingan orang, koordinasi pemasok, dan penguasaan fasilitas. Struktur ini dipakai untuk menetapkan siapa yang menyelesaikan pekerjaan dan siapa yang mengesahkan perubahan. Satu orang boleh memegang lebih dari satu peran pada acara kecil, tetapi penugasannya harus tertulis. Merangkap PIC pengantin dan pengendali seluruh vendor tidak dianjurkan ketika kedua pekerjaan berlangsung bersamaan. Daftar penugasan diterbitkan Event Coordinator sebelum briefing terakhir; kru membaca peran, pengganti, area kerja, dan jalur laporan mereka.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-001",
+    "document_type": "Operational handbook",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "95b6ad60eed86134e9a2cad1b61d28fa85fdf453c2da91d69f73133f9883e0f5",
+    "filename": "WO-DOC-001.docx",
+    "format": "DOCX",
+    "keywords": [
+      "struktur organisasi",
+      "alur komando",
+      "delegasi",
+      "otorisasi"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "95b6ad60eed86134e9a2cad1b61d28fa85fdf453c2da91d69f73133f9883e0f5",
+    "primary_topic": "struktur organisasi",
+    "purpose": "Memandu struktur organisasi untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-002",
+      "WO-DOC-003",
+      "WO-DOC-004",
+      "WO-DOC-006",
+      "WO-DOC-045",
+      "WO-DOC-046"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "alur komando",
+      "delegasi",
+      "otorisasi"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-001.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5398,
+    "actual_word_count": 702,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "A. Struktur Tim dan Job Description",
+    "content_summary": "Event Coordinator memimpin pelaksanaan keseluruhan, sedangkan Wedding Coordinator memastikan kebutuhan pasangan diterjemahkan secara tepat. Keduanya bekerja dari satu rundown, daftar keputusan, dan versi layout. Pada EVT-02 di VENUE-02, mandatnya mencakup akad, resepsi, serta sinkronisasi banquet untuk sekitar 280 tamu. Jumlah ini merupakan dasar simulasi perencanaan, bukan kapasitas resmi ballroom. EC tidak menggantikan kewenangan hotel atas fasilitas; WC tidak menjanjikan tambahan layanan sebelum dampak biaya dan kemampuan vendor diperiksa.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-002",
+    "document_type": "Job description",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "1bbdaa0c0773265b04313a0254d1b7fec85b9e12dd1d196d7a33fdb54515f5d9",
+    "filename": "WO-DOC-002.docx",
+    "format": "DOCX",
+    "keywords": [
+      "Event Coordinator",
+      "Wedding Coordinator",
+      "final approval",
+      "client liaison"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "1bbdaa0c0773265b04313a0254d1b7fec85b9e12dd1d196d7a33fdb54515f5d9",
+    "primary_topic": "Event Coordinator",
+    "purpose": "Memandu Event Coordinator untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-006",
+      "WO-DOC-009",
+      "WO-DOC-030",
+      "WO-DOC-047"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "Wedding Coordinator",
+      "final approval",
+      "client liaison"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-002.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Uraian Tugas Event Coordinator dan Wedding Coordinator",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4960,
+    "actual_word_count": 654,
+    "associated_event_ids": [
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "A. Struktur Tim dan Job Description",
+    "content_summary": "PIC pengantin menjaga kesiapan pasangan dan jalur perpindahannya; PIC keluarga mengatur komunikasi serta posisi keluarga inti. Pada EVT-03, 45 tamu domestik dan internasional mengikuti kegiatan di chapel dan area dinner VENUE-03. Kedua PIC memerlukan jadwal yang sama, tetapi daftar tugasnya berbeda. Pertanyaan mengenai makeup masuk ke PIC pengantin; perubahan posisi orang tua masuk ke PIC keluarga. Permintaan yang berdampak ke acara diteruskan ke WC dan EC.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-003",
+    "document_type": "Role guideline",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "cb50e8420f6e71a95d6d87f7010b6a76a8e807e87dd356bbe15f7db3d9741c88",
+    "filename": "WO-DOC-003.docx",
+    "format": "DOCX",
+    "keywords": [
+      "PIC pengantin",
+      "PIC keluarga",
+      "barang pribadi",
+      "family liaison"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "cb50e8420f6e71a95d6d87f7010b6a76a8e807e87dd356bbe15f7db3d9741c88",
+    "primary_topic": "PIC pengantin",
+    "purpose": "Memandu PIC pengantin untuk tim Wedding Organizer X dalam konteks EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-014",
+      "WO-DOC-039",
+      "WO-DOC-043"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "PIC keluarga",
+      "barang pribadi",
+      "family liaison"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-003.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4470,
+    "actual_word_count": 593,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "A. Struktur Tim dan Job Description",
+    "content_summary": "STAFF-05 sebagai PIC vendor mengendalikan informasi pekerjaan pemasok, sedangkan STAFF-06 sebagai PIC venue mengendalikan koordinasi akses dan fasilitas dengan pengelola. Pada EVT-01, pertemuan kedua fungsi terjadi saat garden villa disiapkan untuk 120 tamu. Pada EVT-02, titik temunya adalah ballroom hotel dan layanan banquet untuk 280 tamu. PIC venue merupakan penghubung WO, bukan pengganti petugas teknis atau pemberi izin fasilitas.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-004",
+    "document_type": "Job description",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "f317e1c2f0875accc95e7474ec1a98d6bffd4dd79bf655f36b677695b4b7fc28",
+    "filename": "WO-DOC-004.docx",
+    "format": "DOCX",
+    "keywords": [
+      "PIC vendor",
+      "PIC venue",
+      "loading",
+      "readiness"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "f317e1c2f0875accc95e7474ec1a98d6bffd4dd79bf655f36b677695b4b7fc28",
+    "primary_topic": "PIC vendor",
+    "purpose": "Memandu PIC vendor untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-009",
+      "WO-DOC-020",
+      "WO-DOC-026",
+      "WO-DOC-035"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "PIC venue",
+      "loading",
+      "readiness"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-004.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Uraian Tugas PIC Vendor dan PIC Venue",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4876,
+    "actual_word_count": 662,
+    "associated_event_ids": [
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "A. Struktur Tim dan Job Description",
+    "content_summary": "Panduan ini digunakan runner, LO, dan guest desk saat EVT-03 di VENUE-03 dengan 45 tamu. Ketiganya bekerja dekat tamu, tetapi menerima tugas dari PIC yang berbeda. Runner menerima penugasan logistik dari PIC terkait melalui pengendali tugas. LO transport bekerja dengan PIC keluarga dan penyedia kendaraan. Guest desk melapor kepada STAFF-08. Jika dua orang memberikan tugas bersamaan, kru menyampaikan pekerjaan yang sedang berjalan dan meminta prioritas; jangan meninggalkan penugasan pertama tanpa handover.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-005",
+    "document_type": "Field reference guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "2d21aabde1df97e43852d2ec64cb184854faf5de93a203f116100dd5f820db5f",
+    "filename": "WO-DOC-005.pdf",
+    "format": "PDF",
+    "keywords": [
+      "runner",
+      "liaison officer",
+      "guest desk",
+      "baca ulang"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "2d21aabde1df97e43852d2ec64cb184854faf5de93a203f116100dd5f820db5f",
+    "primary_topic": "runner",
+    "purpose": "Memandu runner untuk tim Wedding Organizer X dalam konteks EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-016",
+      "WO-DOC-025",
+      "WO-DOC-041",
+      "WO-DOC-045"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "liaison officer",
+      "guest desk",
+      "baca ulang"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-005.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Operasional Runner, Liaison Officer, dan Guest Desk",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5173,
+    "actual_word_count": 693,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "A. Struktur Tim dan Job Description",
+    "content_summary": "Matriks penugasan Wedding Organizer X. A adalah pengesah operasional untuk satu tugas; R pelaksana utama, C dimintai masukan, I penerima informasi. Persetujuan client atas biaya atau lingkup serta kelayakan fasilitas oleh petugas berwenang dicatat pada kolom batas, tidak digantikan oleh A. STAFF-01 EC; STAFF-02 WC; STAFF-03 PIC pengantin; STAFF-04 PIC keluarga; STAFF-05 PIC vendor; STAFF-06 PIC venue; STAFF-07 floor; STAFF-08 guest desk; STAFF-09 runner; STAFF-10 LO. Pada event kecil perangkapan harus tertulis dan beban kerja diperiksa EC. Semua alokasi adalah simulasi, bukan tanda pekerjaan selesai.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-006",
+    "document_type": "Responsibility matrix",
+    "estimated_length": "28 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "2853542df18dbcb27bc13fcc1d0b2030b6081ee573cc1c595c0838b716a7e2de",
+    "filename": "WO-DOC-006.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "RACI",
+      "responsibility matrix",
+      "pelaksana",
+      "pengesah"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "2853542df18dbcb27bc13fcc1d0b2030b6081ee573cc1c595c0838b716a7e2de",
+    "primary_topic": "RACI",
+    "purpose": "Memandu RACI untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-002",
+      "WO-DOC-003",
+      "WO-DOC-004",
+      "WO-DOC-046"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "responsibility matrix",
+      "pelaksana",
+      "pengesah"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-006.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5677,
+    "actual_word_count": 749,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "B. Persiapan Sebelum Acara",
+    "content_summary": "Persiapan EVT-01 di garden villa VENUE-01 untuk sekitar 120 tamu harus menghasilkan lingkup layanan, layout awal yang dapat dilaksanakan, daftar vendor, rencana waktu, dan pilihan area tertutup yang telah dibahas pengelola. H-14 bukan tanggal ketika semua detail harus dipaksakan selesai. Isu terbuka boleh tetap ada jika memiliki penanggung jawab, tenggat, dampak, dan alternatif. EC menggunakan daftar tersebut untuk menghindari kejutan yang baru ditemukan saat setup.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-007",
+    "document_type": "Planning handbook",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "5abda10b32686a27913612fe7d70c41c72f26a692e0eb9870ff58cb9d0519733",
+    "filename": "WO-DOC-007.docx",
+    "format": "DOCX",
+    "keywords": [
+      "H-30",
+      "H-14",
+      "planning",
+      "outstanding list"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "5abda10b32686a27913612fe7d70c41c72f26a692e0eb9870ff58cb9d0519733",
+    "primary_topic": "H-30",
+    "purpose": "Memandu H-30 untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-008",
+      "WO-DOC-009",
+      "WO-DOC-010",
+      "WO-DOC-011",
+      "WO-DOC-027"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "H-14",
+      "planning",
+      "outstanding list"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-007.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Tahapan Persiapan Wedding H-30 hingga H-14",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4934,
+    "actual_word_count": 642,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "B. Persiapan Sebelum Acara",
+    "content_summary": "Checklist rencana EVT-01, VENUE-01 garden villa, sekitar 120 tamu. Status awal seluruh item Belum diperiksa. Isi hasil hanya setelah pemeriksaan; temuan mencatat fakta, pemilik, dan waktu tindak lanjut. EC mengesahkan kesiapan lintas fungsi, WC mengurus persetujuan biaya atau lingkup client, pengelola serta petugas kompeten menilai fasilitas. Tenggat bersifat rencana simulasi WITA.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-008",
+    "document_type": "Operational checklist",
+    "estimated_length": "30 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "9f1280cfaf9efb25d89759dd2f601881095c5723f91712ff8687f55c11fbe71b",
+    "filename": "WO-DOC-008.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "final preparation",
+      "H-7",
+      "H-1",
+      "checklist"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "9f1280cfaf9efb25d89759dd2f601881095c5723f91712ff8687f55c11fbe71b",
+    "primary_topic": "final preparation",
+    "purpose": "Memandu final preparation untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-007",
+      "WO-DOC-009",
+      "WO-DOC-010",
+      "WO-DOC-011",
+      "WO-DOC-012"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "H-7",
+      "H-1",
+      "checklist"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-008.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Checklist Final Preparation H-7 hingga H-1",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4931,
+    "actual_word_count": 644,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "B. Persiapan Sebelum Acara",
+    "content_summary": "Final confirmation menyandingkan janji pemasok dengan kebutuhan event yang terakhir disetujui. Untuk EVT-01, 120 tamu mengikuti ceremony sore dan resepsi malam di VENUE-01. PIC vendor tidak cukup menanyakan apakah vendor siap. Ia membandingkan lingkup, kuantitas, jam kedatangan, jam selesai setup, area kerja, kebutuhan fasilitas, dan PIC pengganti. Perubahan tamu atau layout belum dianggap diterima vendor sampai pemasok mengakui versi tersebut.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-009",
+    "document_type": "Operational guideline",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "cb3a6971b676bf4770f2b1e19911106d48bc4ee498f55c4bc321d8f0aa380d0e",
+    "filename": "WO-DOC-009.docx",
+    "format": "DOCX",
+    "keywords": [
+      "final confirmation",
+      "rekonsiliasi vendor",
+      "deliverable",
+      "outstanding"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "cb3a6971b676bf4770f2b1e19911106d48bc4ee498f55c4bc321d8f0aa380d0e",
+    "primary_topic": "final confirmation",
+    "purpose": "Memandu final confirmation untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-004",
+      "WO-DOC-008",
+      "WO-DOC-026",
+      "WO-DOC-029"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "rekonsiliasi vendor",
+      "deliverable",
+      "outstanding"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-009.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4911,
+    "actual_word_count": 641,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "B. Persiapan Sebelum Acara",
+    "content_summary": "Technical meeting EVT-02 menyelaraskan akad, resepsi, dan banquet untuk sekitar 280 tamu di VENUE-02. Rapat menghasilkan keputusan yang dapat dijalankan, bukan sekadar kesepakatan umum bahwa seluruh pihak akan berkoordinasi. EC memimpin, WC membawa kebutuhan CLIENT-02, PIC venue menghadirkan fungsi hotel yang relevan, dan PIC vendor memastikan pemasok yang pekerjaannya saling bergantung ikut memberi masukan.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-010",
+    "document_type": "Meeting and briefing guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "0b744ed9d7a29655f32dfe4ac25d28eb9d0d665d85d8db36fc2f648638a13fdf",
+    "filename": "WO-DOC-010.docx",
+    "format": "DOCX",
+    "keywords": [
+      "technical meeting",
+      "catatan keputusan",
+      "briefing vendor",
+      "versi rundown"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "0b744ed9d7a29655f32dfe4ac25d28eb9d0d665d85d8db36fc2f648638a13fdf",
+    "primary_topic": "technical meeting",
+    "purpose": "Memandu technical meeting untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-007",
+      "WO-DOC-009",
+      "WO-DOC-042",
+      "WO-DOC-045",
+      "WO-DOC-047"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "catatan keputusan",
+      "briefing vendor",
+      "versi rundown"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-010.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Technical Meeting dan Catatan Keputusan Pra-Acara",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4653,
+    "actual_word_count": 596,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "B. Persiapan Sebelum Acara",
+    "content_summary": "Pemeriksaan lapangan untuk garden EVT-01 berjumlah 120 tamu dan ballroom EVT-02 berjumlah 280 tamu. Pilih konteks yang sesuai; jangan menandai tidak berlaku sebagai selesai tanpa alasan. Semua status awal Belum diperiksa. Kriteria di bawah adalah pemeriksaan koordinasi WO, bukan sertifikasi teknis. Fasilitas dan instalasi dinilai pengelola serta petugas berkompeten.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-011",
+    "document_type": "Inspection checklist",
+    "estimated_length": "28 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "ec9a1826e49108e61ce43712e423a1dc615e5f8baa98eb46b0a1cb6e76ed6d52",
+    "filename": "WO-DOC-011.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "site inspection",
+      "venue readiness",
+      "sound check",
+      "kriteria siap"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "ec9a1826e49108e61ce43712e423a1dc615e5f8baa98eb46b0a1cb6e76ed6d52",
+    "primary_topic": "site inspection",
+    "purpose": "Memandu site inspection untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-004",
+      "WO-DOC-008",
+      "WO-DOC-028",
+      "WO-DOC-035",
+      "WO-DOC-036",
+      "WO-DOC-038"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "venue readiness",
+      "sound check",
+      "kriteria siap"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-011.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Checklist Site Inspection, Venue Readiness, dan Sound Check",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 3743,
+    "actual_word_count": 500,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "B. Persiapan Sebelum Acara",
+    "content_summary": "Event EVT-01, CLIENT-01, VENUE-01 garden villa, sekitar 120 tamu. Ceremony sore dan resepsi malam menggunakan rundown versi 1.0. Catatan ini adalah briefing terisi untuk simulasi; seluruh status di bawah merupakan asumsi latihan. STAFF-01 memimpin kendali acara dan STAFF-02 memegang komunikasi client. Jangan memakai catatan ini sebagai bukti kesiapan fasilitas pada acara nyata.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-012",
+    "document_type": "Internal briefing note",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "f2ca446ee8bf2d75dd172c4430e5a864ff43ce26da382174e2470a80358c7333",
+    "filename": "WO-DOC-012.txt",
+    "format": "TXT",
+    "keywords": [
+      "briefing kru",
+      "garden wedding",
+      "rain plan",
+      "titik standby"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "f2ca446ee8bf2d75dd172c4430e5a864ff43ce26da382174e2470a80358c7333",
+    "primary_topic": "briefing kru",
+    "purpose": "Memandu briefing kru untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-008",
+      "WO-DOC-018",
+      "WO-DOC-027",
+      "WO-DOC-045"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "garden wedding",
+      "rain plan",
+      "titik standby"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-012.txt",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Catatan Briefing Kru Menjelang Wedding Day",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4518,
+    "actual_word_count": 600,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "C. Wedding Day Operation",
+    "content_summary": "SOP ini mengatur kedatangan kru WO pada EVT-01 di VENUE-01, garden villa dengan sekitar 120 tamu. Check-in kru bertujuan memastikan setiap area memiliki pelaksana yang hadir, mengetahui versi informasi, dan dapat dihubungi. Check-in bukan registrasi tamu dan tidak menggunakan meja tamu yang akan dibuka sore. STAFF-01 memimpin assembly; PIC venue memastikan titik kumpul telah diizinkan pengelola.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-013",
+    "document_type": "SOP",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "ce616780e6cf4f44bc6bd577ecd32aaa1c3d9d98715bb5ecee2ee5d8d761b02b",
+    "filename": "WO-DOC-013.docx",
+    "format": "DOCX",
+    "keywords": [
+      "crew check-in",
+      "assembly",
+      "area kerja",
+      "kesiapan kru"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "ce616780e6cf4f44bc6bd577ecd32aaa1c3d9d98715bb5ecee2ee5d8d761b02b",
+    "primary_topic": "crew check-in",
+    "purpose": "Memandu crew check-in untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-004",
+      "WO-DOC-011",
+      "WO-DOC-019",
+      "WO-DOC-045"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "assembly",
+      "area kerja",
+      "kesiapan kru"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-013.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4402,
+    "actual_word_count": 573,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "C. Wedding Day Operation",
+    "content_summary": "Prosedur ini digunakan untuk persiapan pasangan dan keluarga inti pada EVT-02 di hotel ballroom VENUE-02 dengan sekitar 280 tamu. PIC pengantin STAFF-03 berkoordinasi dengan WC dan VEN-MUA-01. PIC keluarga STAFF-04 mengatur kelompok pendamping. Tujuannya menjaga waktu siap yang realistis, kenyamanan, privasi, serta perpindahan menuju akad. Urutan ritual hanya mengikuti konfirmasi pemimpin prosesi dan client melalui WC.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-014",
+    "document_type": "Operational procedure",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "efd1a35896d5cb8a610144ff3c34d70f45c46671e80ff0c637714c5dab1a8f74",
+    "filename": "WO-DOC-014.docx",
+    "format": "DOCX",
+    "keywords": [
+      "persiapan pengantin",
+      "makeup",
+      "keluarga inti",
+      "standby"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "efd1a35896d5cb8a610144ff3c34d70f45c46671e80ff0c637714c5dab1a8f74",
+    "primary_topic": "persiapan pengantin",
+    "purpose": "Memandu persiapan pengantin untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-003",
+      "WO-DOC-024",
+      "WO-DOC-039",
+      "WO-DOC-042"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "makeup",
+      "keluarga inti",
+      "standby"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-014.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4963,
+    "actual_word_count": 666,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "C. Wedding Day Operation",
+    "content_summary": "Floor coordinator STAFF-07 mengubah rundown menjadi pergerakan yang tertib. Tugasnya menjaga jalur, mengumpulkan status, memberi standby, dan melepas cue yang telah diizinkan EC. Pada EVT-01, floor mengatur garden untuk 120 tamu; pada EVT-03, floor mengatur chapel untuk 45 tamu. Jenis prosesi berbeda sehingga urutan ritual tidak disalin begitu saja. WC memperoleh konfirmasi dari client dan pemimpin prosesi sebelum daftar cue dibagikan.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-015",
+    "document_type": "Field operations manual",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "a34cb39b37f2654bfae05d0cdf037f7a67b149420940e298508a6fc10b933c25",
+    "filename": "WO-DOC-015.pdf",
+    "format": "PDF",
+    "keywords": [
+      "floor coordination",
+      "ceremony cue",
+      "standby",
+      "release cue"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "a34cb39b37f2654bfae05d0cdf037f7a67b149420940e298508a6fc10b933c25",
+    "primary_topic": "floor coordination",
+    "purpose": "Memandu floor coordination untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-003",
+      "WO-DOC-017",
+      "WO-DOC-027",
+      "WO-DOC-043"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "ceremony cue",
+      "standby",
+      "release cue"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-015.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4700,
+    "actual_word_count": 621,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "C. Wedding Day Operation",
+    "content_summary": "Panduan ini mengatur penerimaan sekitar 280 tamu EVT-02 di VENUE-02. STAFF-08 memimpin guest desk, berkoordinasi dengan PIC keluarga, floor, dan PIC venue. Registrasi membantu tamu menemukan arah serta membantu tim mengetahui arus kedatangan; proses ini tidak dimaksudkan untuk mengumpulkan data pribadi tambahan. Daftar yang digunakan harus sama versinya dengan seating allocation dan informasi escort.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-016",
+    "document_type": "Operational guideline",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "99b2f0478c658a7b04b44453afc95ada11c7e75756abc414bcd4ec86125a7fad",
+    "filename": "WO-DOC-016.docx",
+    "format": "DOCX",
+    "keywords": [
+      "registrasi tamu",
+      "guest reception",
+      "seating",
+      "escort"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "99b2f0478c658a7b04b44453afc95ada11c7e75756abc414bcd4ec86125a7fad",
+    "primary_topic": "registrasi tamu",
+    "purpose": "Memandu registrasi tamu untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-005",
+      "WO-DOC-032",
+      "WO-DOC-039",
+      "WO-DOC-040",
+      "WO-DOC-041"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "guest reception",
+      "seating",
+      "escort"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-016.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4819,
+    "actual_word_count": 664,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "C. Wedding Day Operation",
+    "content_summary": "Cue guide ini mendampingi rundown EVT-02, hotel ballroom VENUE-02, sekitar 280 tamu. Waktu seluruh kegiatan menggunakan WITA. Jadwal rencana resepsi dimulai dengan pembukaan registrasi pukul 16.30, entrance 17.30, layanan dinner 18.00, dan penutupan 20.30. Waktu adalah asumsi skenario; setiap perubahan utama diterbitkan EC. Floor STAFF-07 meneruskan cue kepada MC, banquet, dokumentasi, dan AV setelah prasyarat siap.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-017",
+    "document_type": "Operational cue guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "152e897c3a9c6ade7b302a84546ed8a367d460519856ded42923c6d6525168d5",
+    "filename": "WO-DOC-017.pdf",
+    "format": "PDF",
+    "keywords": [
+      "cue sheet",
+      "MC",
+      "banquet",
+      "reception flow"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "152e897c3a9c6ade7b302a84546ed8a367d460519856ded42923c6d6525168d5",
+    "primary_topic": "cue sheet",
+    "purpose": "Memandu cue sheet untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-015",
+      "WO-DOC-021",
+      "WO-DOC-023",
+      "WO-DOC-030",
+      "WO-DOC-042"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "MC",
+      "banquet",
+      "reception flow"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-017.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4159,
+    "actual_word_count": 572,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "C. Wedding Day Operation",
+    "content_summary": "Event: EVT-01. Client: CLIENT-01. Venue: VENUE-01 garden villa. Jumlah rencana: sekitar 120 tamu. Waktu: WITA. Catatan ini merupakan kasus simulasi perpindahan dari garden ke area tertutup, bukan arsip kejadian perusahaan. Log disusun STAFF-07 dan diserahkan kepada STAFF-01 untuk pengendalian. Rundown awal versi 1.0 mengikuti briefing WO-DOC-012.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-018",
+    "document_type": "Field operations log",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "6c553785f157031a2463d9099618fa95c86d8e779cce99a3ee36607501bab249",
+    "filename": "WO-DOC-018.txt",
+    "format": "TXT",
+    "keywords": [
+      "handover log",
+      "perubahan lokasi",
+      "simulasi hujan",
+      "kronologi"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "6c553785f157031a2463d9099618fa95c86d8e779cce99a3ee36607501bab249",
+    "primary_topic": "handover log",
+    "purpose": "Memandu handover log untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-012",
+      "WO-DOC-027",
+      "WO-DOC-030",
+      "WO-DOC-047",
+      "WO-DOC-050"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "perubahan lokasi",
+      "simulasi hujan",
+      "kronologi"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-018.txt",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Catatan Handover dan Perubahan Situasi pada Wedding Day",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4434,
+    "actual_word_count": 591,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "C. Wedding Day Operation",
+    "content_summary": "Penutupan acara tidak sama dengan selesainya seluruh tanggung jawab WO. Pada EVT-01, penutupan publik direncanakan pukul 21.00 WITA; setelah itu masih ada tamu pulang, vendor breakdown, pengembalian aset, serta serah terima venue. EC mengendalikan urutan penutupan. PIC vendor menangani pemasok, PIC venue berhubungan dengan pengelola, dan WC memastikan kebutuhan client serta keluarga sudah diterima pihak berikutnya.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-019",
+    "document_type": "SOP",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "e44e4d24ad57e715a64122e038045aa822ba4bd55d045a58b3e4a0aa5c3c0319",
+    "filename": "WO-DOC-019.docx",
+    "format": "DOCX",
+    "keywords": [
+      "penutupan acara",
+      "serah terima area",
+      "vendor checkout",
+      "aset"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "e44e4d24ad57e715a64122e038045aa822ba4bd55d045a58b3e4a0aa5c3c0319",
+    "primary_topic": "penutupan acara",
+    "purpose": "Memandu penutupan acara untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-018",
+      "WO-DOC-033",
+      "WO-DOC-047",
+      "WO-DOC-048",
+      "WO-DOC-049"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "serah terima area",
+      "vendor checkout",
+      "aset"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-019.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Penutupan Acara dan Serah Terima Area Operasional",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4740,
+    "actual_word_count": 621,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "D. Vendor Management",
+    "content_summary": "Panduan ini membahas VEN-DEC-01 dan koordinasinya dengan VEN-AV-01 pada EVT-01 di garden villa VENUE-01, sekitar 120 tamu. Deliverable bukan hanya dekor tampak selesai, melainkan area ceremony dan resepsi yang sesuai layout, akses tamu yang tetap tersedia, serta pekerjaan yang telah diserahterimakan. Pemasangan struktur, rigging, dan perangkat listrik tetap menjadi tugas pemasok atau petugas berkompeten yang disetujui pengelola.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-020",
+    "document_type": "Vendor guideline",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "eeb2a31f413bececb125083a87020c57247155ca080e0734c48580dd1feae624",
+    "filename": "WO-DOC-020.docx",
+    "format": "DOCX",
+    "keywords": [
+      "dekorasi",
+      "lighting",
+      "setup zone",
+      "dependency"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "eeb2a31f413bececb125083a87020c57247155ca080e0734c48580dd1feae624",
+    "primary_topic": "dekorasi",
+    "purpose": "Memandu dekorasi untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-004",
+      "WO-DOC-009",
+      "WO-DOC-027",
+      "WO-DOC-036",
+      "WO-DOC-048"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "lighting",
+      "setup zone",
+      "dependency"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-020.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5161,
+    "actual_word_count": 672,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "D. Vendor Management",
+    "content_summary": "Pada EVT-02, sekitar 280 tamu mengikuti akad dan resepsi di ballroom VENUE-02. Banquet hotel dan penyedia catering yang benar-benar digunakan bertanggung jawab atas penyiapan serta layanan makanan sesuai lingkup mereka. WO mengendalikan arus acara dan pertukaran informasi. PIC vendor STAFF-05 menjadi jalur koordinasi layanan, PIC venue STAFF-06 menghubungkan kebutuhan fasilitas hotel, dan EC mengesahkan perubahan waktu utama.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-021",
+    "document_type": "Vendor operations guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "36b4afc9d1984c9fa5e423fd85348fd7fd5d81a1a7f3e42725ab24e45bde5080",
+    "filename": "WO-DOC-021.pdf",
+    "format": "PDF",
+    "keywords": [
+      "catering",
+      "banquet service",
+      "meal readiness",
+      "alur buffet"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "36b4afc9d1984c9fa5e423fd85348fd7fd5d81a1a7f3e42725ab24e45bde5080",
+    "primary_topic": "catering",
+    "purpose": "Memandu catering untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-017",
+      "WO-DOC-026",
+      "WO-DOC-032",
+      "WO-DOC-035",
+      "WO-DOC-042"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "banquet service",
+      "meal readiness",
+      "alur buffet"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-021.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Sinkronisasi Catering dan Banquet Service",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4547,
+    "actual_word_count": 595,
+    "associated_event_ids": [
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "D. Vendor Management",
+    "content_summary": "EVT-03 berlangsung di chapel dan area dinner VENUE-03 dengan sekitar 45 tamu domestik dan internasional. Brief ini membantu dokumentasi menangkap momen penting tanpa mengganggu prosesi, perpindahan, atau privasi pasangan. PIC vendor menjadi jalur instruksi pemasok; WC memeriksa preferensi CLIENT-03. Kru dokumentasi menerima rundown, peta area yang diizinkan, daftar prioritas kelompok berkode, dan penerima perubahan.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-022",
+    "document_type": "Vendor briefing guide",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "2f162791af638177fc7d5d71056e75f3149e515d24ab959948e292c359652663",
+    "filename": "WO-DOC-022.docx",
+    "format": "DOCX",
+    "keywords": [
+      "photography",
+      "videography",
+      "shot priority",
+      "privasi dokumentasi"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "2f162791af638177fc7d5d71056e75f3149e515d24ab959948e292c359652663",
+    "primary_topic": "photography",
+    "purpose": "Memandu photography untuk tim Wedding Organizer X dalam konteks EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-003",
+      "WO-DOC-014",
+      "WO-DOC-015",
+      "WO-DOC-043"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "videography",
+      "shot priority",
+      "privasi dokumentasi"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-022.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Brief Operasional Photography dan Videography Wedding Day",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4419,
+    "actual_word_count": 597,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "D. Vendor Management",
+    "content_summary": "EVT-02 menggunakan MC, entertainment VEN-ENT-01, dan audiovisual VEN-AV-01 di VENUE-02 untuk sekitar 280 tamu. PIC vendor menyatukan materi dan jadwal pemasok; floor menyampaikan cue yang disahkan EC. MC memandu tamu sesuai naskah yang diperiksa WC. Penampil mengikuti slot yang telah disepakati dan tidak mengubah durasi berdasarkan permintaan spontan tanpa koordinasi.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-023",
+    "document_type": "Vendor coordination guide",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "04e6c75be1e2faad8fa6d4e20f6565f8902afa9721cbe89c78f86a80bbbf8651",
+    "filename": "WO-DOC-023.docx",
+    "format": "DOCX",
+    "keywords": [
+      "MC",
+      "entertainment",
+      "audio cue",
+      "track version"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "04e6c75be1e2faad8fa6d4e20f6565f8902afa9721cbe89c78f86a80bbbf8651",
+    "primary_topic": "MC",
+    "purpose": "Memandu MC untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-017",
+      "WO-DOC-021",
+      "WO-DOC-031",
+      "WO-DOC-042",
+      "WO-DOC-045"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "entertainment",
+      "audio cue",
+      "track version"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-023.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Koordinasi MC, Entertainment, dan Audio Cue",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4523,
+    "actual_word_count": 590,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "candidate_count_method": "DOCX paragraph text joined with LF; words split on whitespace",
+    "category": "D. Vendor Management",
+    "content_summary": "VEN-MUA-01 menangani layanan makeup yang disepakati untuk EVT-02 di VENUE-02. PIC pengantin STAFF-03 menjadi pendamping di ruang persiapan, PIC vendor mengelola lingkup pemasok, dan WC memeriksa kebutuhan client. Rencana disusun mundur dari waktu standby akad, dengan ruang untuk dressing, dokumentasi, dan perpindahan. Jam layanan bukan jaminan siap jika daftar orang atau lingkup berubah.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-024",
+    "document_type": "Service coordination plan",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "1b2ebed2b6a6e91b3e928dfbecd07336e89beab4fe52c4f0887c91152be97fc6",
+    "filename": "WO-DOC-024.docx",
+    "format": "DOCX",
+    "keywords": [
+      "makeup artist",
+      "jadwal persiapan",
+      "MUA",
+      "waktu siap"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "1663be764ba81ab9b4f932d306b4708ff8173b5d6850472f08faaef338564ec2",
+    "primary_topic": "makeup artist",
+    "purpose": "Memandu makeup artist untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-003",
+      "WO-DOC-014",
+      "WO-DOC-029",
+      "WO-DOC-042"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "jadwal persiapan",
+      "MUA",
+      "waktu siap"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-024.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4953,
+    "actual_word_count": 688,
+    "associated_event_ids": [
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "D. Vendor Management",
+    "content_summary": "Dispatch simulasi EVT-03 di VENUE-03 chapel dan area dinner, 45 tamu. Kelompok G-01 sampai G-09 masing-masing lima orang menjadi dasar pembagian; bukan nama tamu. Tiga kendaraan konseptual TRN-01 sampai TRN-03 masing-masing kapasitas layanan simulasi 15 orang wajib diverifikasi penyedia sebelum digunakan nyata. Jadwal perpindahan tamu 16.40-17.00 WITA adalah asumsi, bukan hasil estimasi rute aktual. STAFF-10 LO memegang dispatch, driver mengoperasikan kendaraan sesuai kompetensi. Semua perjalanan berstatus Rencana simulasi; pergerakan barang dan kru terpisah dari hitungan tamu.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-025",
+    "document_type": "Dispatch schedule",
+    "estimated_length": "26 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "a8b070787c73b8a51a949838f81fd8436a7487c3d79b6ec70c17e3ff22c29ecb",
+    "filename": "WO-DOC-025.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "dispatch",
+      "shuttle",
+      "driver",
+      "logistik transport"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "a8b070787c73b8a51a949838f81fd8436a7487c3d79b6ec70c17e3ff22c29ecb",
+    "primary_topic": "dispatch",
+    "purpose": "Memandu dispatch untuk tim Wedding Organizer X dalam konteks EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-003",
+      "WO-DOC-005",
+      "WO-DOC-022",
+      "WO-DOC-039",
+      "WO-DOC-043"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "shuttle",
+      "driver",
+      "logistik transport"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-025.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5533,
+    "actual_word_count": 695,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "D. Vendor Management",
+    "content_summary": "Matriks rencana EVT-01, VENUE-01, 120 tamu. Setiap baris adalah keluaran yang berbeda dan status awal Belum diverifikasi; bukan daftar vendor hadir. Kanal vendor, kanal venue, dan kanal client bersifat konseptual. PIC vendor STAFF-05 menyatukan keluaran; PIC venue STAFF-06 mengonfirmasi fasilitas, WC memperoleh persetujuan biaya atau lingkup. Pemeriksaan pada posisi baru wajib bila lokasi dipindah.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-026",
+    "document_type": "Vendor readiness matrix",
+    "estimated_length": "25 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "352e777e399123966b2840687339cd45c7c4dda9245046e071ecbfd44a522716",
+    "filename": "WO-DOC-026.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "vendor readiness",
+      "saluran koordinasi",
+      "setup",
+      "bukti siap"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "352e777e399123966b2840687339cd45c7c4dda9245046e071ecbfd44a522716",
+    "primary_topic": "vendor readiness",
+    "purpose": "Memandu vendor readiness untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-004",
+      "WO-DOC-009",
+      "WO-DOC-020",
+      "WO-DOC-021",
+      "WO-DOC-022",
+      "WO-DOC-023",
+      "WO-DOC-024",
+      "WO-DOC-029"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "saluran koordinasi",
+      "setup",
+      "bukti siap"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-026.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Matriks Kesiapan Vendor dan Saluran Koordinasi Operasional",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 6788,
+    "actual_word_count": 888,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "candidate_count_method": "DOCX paragraph text joined with LF; words split on whitespace",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "Prosedur ini mengatur antisipasi serta respons hujan untuk outdoor wedding. EVT-01 menggunakan garden villa VENUE-01 untuk sekitar 120 tamu dengan alternatif tertutup. EVT-04 menggunakan area pantai VENUE-04 untuk sekitar 80 tamu, dengan penggunaan lokasi diasumsikan telah disetujui pengelola. Rencana perubahan lokasi EVT-04 tetap harus diverifikasi; jangan menganggap alternatif EVT-01 tersedia untuk event lain. Semua waktu keputusan di bawah merupakan ilustrasi operasional, bukan ambang keselamatan resmi.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-027",
+    "document_type": "Contingency procedure",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "02de2cef6e3e27f36cd934c1c9e587316ac03b4ac694ba6f936f1860be107a0d",
+    "filename": "WO-DOC-027.docx",
+    "format": "DOCX",
+    "keywords": [
+      "hujan",
+      "rain plan",
+      "lokasi alternatif",
+      "penghentian area"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "07ee97c0f177bb3acc2f17c05103796373dac44a31609c214c6c70ffa03f1776",
+    "primary_topic": "hujan",
+    "purpose": "Memandu hujan untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-011",
+      "WO-DOC-018",
+      "WO-DOC-028",
+      "WO-DOC-034",
+      "WO-DOC-036",
+      "WO-DOC-037",
+      "WO-DOC-050"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "rain plan",
+      "lokasi alternatif",
+      "penghentian area"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-027.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5614,
+    "actual_word_count": 728,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "Panduan ini mengatur koordinasi ketika pasokan listrik atau layanan yang bergantung padanya terganggu. Berlaku untuk garden EVT-01 dan ballroom EVT-02 sesuai fasilitas masing-masing. WO mengoordinasikan penghentian kegiatan, perlindungan arus orang, komunikasi, serta keputusan acara. Pemeriksaan instalasi, isolasi sumber daya, penyambungan backup, dan penilaian kelayakan hanya dilakukan petugas berkompeten yang berwenang. Dokumen ini tidak memberi prosedur perbaikan listrik untuk kru umum.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-028",
+    "document_type": "Incident response guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "5753fea5163253377d8570429ca8ac88ec1479f658aa7933682588dae7c27ed9",
+    "filename": "WO-DOC-028.docx",
+    "format": "DOCX",
+    "keywords": [
+      "gangguan listrik",
+      "backup power",
+      "teknisi",
+      "pemulihan layanan"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "5753fea5163253377d8570429ca8ac88ec1479f658aa7933682588dae7c27ed9",
+    "primary_topic": "gangguan listrik",
+    "purpose": "Memandu gangguan listrik untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-004",
+      "WO-DOC-011",
+      "WO-DOC-027",
+      "WO-DOC-031",
+      "WO-DOC-034"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "backup power",
+      "teknisi",
+      "pemulihan layanan"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-028.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5618,
+    "actual_word_count": 738,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "Vendor terlambat berarti waktu kedatangan atau hasil kerja melewati komitmen yang tercatat. Vendor belum menjawab belum otomatis dinyatakan tidak hadir. PIC vendor memeriksa bukti final confirmation, versi rundown, jam akses, serta informasi posisi aktual. Kegagalan vendor harus dibedakan dari perubahan kebutuhan WO yang belum diterima pemasok. Prosedur berlaku sesuai event; keterlambatan makeup pada EVT-02 berbeda dari transport EVT-03 atau dekor EVT-01.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-029",
+    "document_type": "Contingency procedure",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "72cac64eba44de449edd5f185bc6b38de28d894a02a5bfba06286bbbb180da74",
+    "filename": "WO-DOC-029.docx",
+    "format": "DOCX",
+    "keywords": [
+      "vendor terlambat",
+      "vendor tidak hadir",
+      "critical path",
+      "pengganti pemasok"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "72cac64eba44de449edd5f185bc6b38de28d894a02a5bfba06286bbbb180da74",
+    "primary_topic": "vendor terlambat",
+    "purpose": "Memandu vendor terlambat untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-009",
+      "WO-DOC-024",
+      "WO-DOC-026",
+      "WO-DOC-030",
+      "WO-DOC-034"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "vendor tidak hadir",
+      "critical path",
+      "pengganti pemasok"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-029.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Penanganan Vendor Terlambat atau Tidak Hadir",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 3252,
+    "actual_word_count": 438,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "EC STAFF-01 memutuskan perubahan rundown utama. PIC melaporkan posisi kegiatan, prasyarat yang gagal, perkiraan siap, dan dampak. WC STAFF-02 memeriksa persetujuan client bila biaya atau lingkup berubah. Floor tidak memotong urutan utama sendiri, MC tidak mengumumkan jam baru sebelum instruksi, dan runner tidak menyetujui perubahan atas nama EC.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-030",
+    "document_type": "Decision and escalation note",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "3b4f455195922d1ae9d0676348eea0149476195e0add0fa692f3fbf9ac28fb8c",
+    "filename": "WO-DOC-030.txt",
+    "format": "TXT",
+    "keywords": [
+      "rundown terlambat",
+      "buffer",
+      "decision note",
+      "revisi jadwal"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "3b4f455195922d1ae9d0676348eea0149476195e0add0fa692f3fbf9ac28fb8c",
+    "primary_topic": "rundown terlambat",
+    "purpose": "Memandu rundown terlambat untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-002",
+      "WO-DOC-017",
+      "WO-DOC-018",
+      "WO-DOC-029",
+      "WO-DOC-042",
+      "WO-DOC-046"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "buffer",
+      "decision note",
+      "revisi jadwal"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-030.txt",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4945,
+    "actual_word_count": 665,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "Gangguan audio dapat berupa mikrofon tidak terdengar, suara terputus, track salah, sumber audio tidak siap, atau masalah fasilitas yang memengaruhi perangkat. Pada EVT-02 di VENUE-02 untuk sekitar 280 tamu, gangguan entrance berbeda dampaknya dari gangguan musik latar saat dinner. PIC vendor menghubungkan teknisi VEN-AV-01, floor menahan cue yang terdampak, dan EC mengendalikan kelanjutan acara. Kru umum tidak memperbaiki rangkaian atau instalasi.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-031",
+    "document_type": "Technical contingency guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "629153ab1434e2022874fcc123eb4b117522479bdc4ea5d909577d13b5a1c3a1",
+    "filename": "WO-DOC-031.pdf",
+    "format": "PDF",
+    "keywords": [
+      "sound system",
+      "mikrofon",
+      "audio cue",
+      "teknisi AV"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "629153ab1434e2022874fcc123eb4b117522479bdc4ea5d909577d13b5a1c3a1",
+    "primary_topic": "sound system",
+    "purpose": "Memandu sound system untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-017",
+      "WO-DOC-023",
+      "WO-DOC-028",
+      "WO-DOC-034",
+      "WO-DOC-045"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "mikrofon",
+      "audio cue",
+      "teknisi AV"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-031.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4802,
+    "actual_word_count": 629,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "EVT-02 direncanakan untuk sekitar 280 tamu di ballroom VENUE-02. Angka tersebut adalah dasar simulasi, bukan kapasitas resmi venue. Kapasitas, layout yang diizinkan, dan jalur yang wajib tetap tersedia harus dikonfirmasi pengelola untuk acara nyata. Prosedur ini mengatur kedatangan tambahan, perubahan kelompok, dan tekanan arus tamu tanpa menganggap setiap ruang kosong boleh diisi kursi.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-032",
+    "document_type": "Operational contingency",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "073512e729405c53595e1b2bbd8403f61067b7b606d04e1a1378cc09e9ce887a",
+    "filename": "WO-DOC-032.docx",
+    "format": "DOCX",
+    "keywords": [
+      "tamu melebihi kapasitas",
+      "seating change",
+      "headcount",
+      "overflow"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "073512e729405c53595e1b2bbd8403f61067b7b606d04e1a1378cc09e9ce887a",
+    "primary_topic": "tamu melebihi kapasitas",
+    "purpose": "Memandu tamu melebihi kapasitas untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-016",
+      "WO-DOC-021",
+      "WO-DOC-034",
+      "WO-DOC-035",
+      "WO-DOC-040"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "seating change",
+      "headcount",
+      "overflow"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-032.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4823,
+    "actual_word_count": 631,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "SOP ini mengatur laporan kehilangan, barang ditemukan, dan perselisihan kepemilikan perlengkapan. Barang pribadi pengantin, barang tamu, aset WO, dan perangkat vendor memiliki jalur penanganan berbeda. EC mengendalikan koordinasi insiden, PIC venue melibatkan pengelola atau petugas keamanan yang berwenang, dan PIC terkait menjadi penghubung pemilik. Kru tidak menyimpulkan pencurian atau menuduh pihak tertentu tanpa pemeriksaan berwenang.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-033",
+    "document_type": "Incident handling SOP",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "5d7a8bdfac9d60b0c03b301c2df44e70b29257ff83342b630fe2505c23e61b4a",
+    "filename": "WO-DOC-033.docx",
+    "format": "DOCX",
+    "keywords": [
+      "barang hilang",
+      "lost and found",
+      "vendor property",
+      "chain of custody"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "5d7a8bdfac9d60b0c03b301c2df44e70b29257ff83342b630fe2505c23e61b4a",
+    "primary_topic": "barang hilang",
+    "purpose": "Memandu barang hilang untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-003",
+      "WO-DOC-019",
+      "WO-DOC-034",
+      "WO-DOC-048"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "lost and found",
+      "vendor property",
+      "chain of custody"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-033.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 6158,
+    "actual_word_count": 821,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "E. Contingency / Problem Handling",
+    "content_summary": "Matriks keputusan insiden Wedding Organizer X. Prioritas Segera berarti hentikan tugas terdampak dan hubungi petugas berwenang bila ada dugaan bahaya; Kritis acara berarti menghambat cue; Layanan berarti memerlukan pemulihan pelayanan. Kategori ini adalah alat koordinasi draft, bukan skala medis, regulasi, atau batas waktu resmi. EC mengesahkan dampak rundown, WC mengurus biaya atau lingkup client, petugas kompeten menilai fasilitas dan keselamatan. Tutup hanya dengan bukti; tindak lanjut proses dapat tetap terbuka.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-034",
+    "document_type": "Incident decision matrix",
+    "estimated_length": "25 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "39a42ff75293ab6fb2995fe59eff4ce04cb7311a83c1c994c5c263b635c95f77",
+    "filename": "WO-DOC-034.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "incident matrix",
+      "prioritas respons",
+      "eskalasi",
+      "pemicu"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "39a42ff75293ab6fb2995fe59eff4ce04cb7311a83c1c994c5c263b635c95f77",
+    "primary_topic": "incident matrix",
+    "purpose": "Memandu incident matrix untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-027",
+      "WO-DOC-028",
+      "WO-DOC-029",
+      "WO-DOC-031",
+      "WO-DOC-032",
+      "WO-DOC-033",
+      "WO-DOC-046"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "prioritas respons",
+      "eskalasi",
+      "pemicu"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-034.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5136,
+    "actual_word_count": 678,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "F. Venue Operation",
+    "content_summary": "EVT-02 menggunakan hotel ballroom VENUE-02 untuk sekitar 280 tamu dengan akad, resepsi, dan banquet. Jumlah tamu merupakan asumsi perencanaan, bukan kapasitas resmi hotel. PIC venue menghubungkan WO dengan venue operations, banquet, housekeeping, petugas fasilitas, dan keamanan. Setiap batas akses, waktu, kapasitas, serta penggunaan fasilitas harus dikonfirmasi kepada pengelola; panduan ini tidak menetapkan peraturan hotel tertentu.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-035",
+    "document_type": "Venue operations manual",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "3a776a37edb153b34582a844e8fe32232c6f28fe51bca408ad20b1dc0c63a021",
+    "filename": "WO-DOC-035.docx",
+    "format": "DOCX",
+    "keywords": [
+      "ballroom",
+      "hotel operations",
+      "banquet",
+      "loading access"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "3a776a37edb153b34582a844e8fe32232c6f28fe51bca408ad20b1dc0c63a021",
+    "primary_topic": "ballroom",
+    "purpose": "Memandu ballroom untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-004",
+      "WO-DOC-011",
+      "WO-DOC-021",
+      "WO-DOC-032",
+      "WO-DOC-038",
+      "WO-DOC-042"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "hotel operations",
+      "banquet",
+      "loading access"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-035.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4769,
+    "actual_word_count": 636,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "F. Venue Operation",
+    "content_summary": "VENUE-01 berupa garden villa untuk sekitar 120 tamu, ceremony sore dan resepsi malam. Area tertutup menjadi alternatif bila kondisi cuaca tidak mendukung, tetapi penggunaan serta kesiapan harus diperiksa pengelola. Panduan ini memprioritaskan akses, ketergantungan setup, fasilitas, dan transisi orang. Desain garden tidak boleh dianggap otomatis cocok dipindah ke ruang tertutup tanpa layout alternatif.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-036",
+    "document_type": "Venue operations guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "010c099da6ea2b2770fdd4ae8a48b3d8ac395233b0b23d4641a46f7dc466bfe7",
+    "filename": "WO-DOC-036.pdf",
+    "format": "PDF",
+    "keywords": [
+      "garden villa",
+      "jalur taman",
+      "alternatif tertutup",
+      "setup outdoor"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "010c099da6ea2b2770fdd4ae8a48b3d8ac395233b0b23d4641a46f7dc466bfe7",
+    "primary_topic": "garden villa",
+    "purpose": "Memandu garden villa untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-011",
+      "WO-DOC-020",
+      "WO-DOC-027",
+      "WO-DOC-038",
+      "WO-DOC-044"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "jalur taman",
+      "alternatif tertutup",
+      "setup outdoor"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-036.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Setup dan Koordinasi Operasional Garden Villa Wedding",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5426,
+    "actual_word_count": 704,
+    "associated_event_ids": [
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "F. Venue Operation",
+    "content_summary": "EVT-04 adalah beach wedding untuk sekitar 80 tamu di VENUE-04. Penggunaan area diasumsikan telah memperoleh persetujuan pengelola lokasi; dokumen ini tidak menjadi bukti izin, prediksi pasang surut, atau jaminan keamanan pantai. PIC venue memverifikasi ketentuan lokasi dan berkoordinasi dengan pihak berwenang bila diperlukan. EC mengendalikan keputusan operasional, WC mengurus persetujuan client terkait biaya atau lingkup.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-037",
+    "document_type": "Venue-specific guide",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "9d266cb349ef01afdbbbf3fa3e9bf13bd73f462c393bb0b048d798161745cdb4",
+    "filename": "WO-DOC-037.pdf",
+    "format": "PDF",
+    "keywords": [
+      "beach wedding",
+      "akses pantai",
+      "kondisi lokasi",
+      "verifikasi pengelola"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "9d266cb349ef01afdbbbf3fa3e9bf13bd73f462c393bb0b048d798161745cdb4",
+    "primary_topic": "beach wedding",
+    "purpose": "Memandu beach wedding untuk tim Wedding Organizer X dalam konteks EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-011",
+      "WO-DOC-027",
+      "WO-DOC-034",
+      "WO-DOC-038"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "akses pantai",
+      "kondisi lokasi",
+      "verifikasi pengelola"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-037.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4913,
+    "actual_word_count": 616,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "F. Venue Operation",
+    "content_summary": "Matriks survei empat skenario: EVT-01 VENUE-01 garden villa 120 tamu; EVT-02 VENUE-02 ballroom 280 tamu; EVT-03 VENUE-03 chapel dan dinner 45 tamu; EVT-04 VENUE-04 pantai 80 tamu. Jumlah bukan kapasitas resmi. Semua temuan awal Belum diperiksa. Status kelayakan ditentukan melalui pengelola dan petugas berwenang, bukan skor buatan. Persetujuan penggunaan pantai adalah asumsi skenario yang tetap perlu dibuktikan pada pelaksanaan nyata.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-038",
+    "document_type": "Site assessment matrix",
+    "estimated_length": "28 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "74dd8b954185bb02f321f9a3ea619f0b92266d877733a28999777542df2ee716",
+    "filename": "WO-DOC-038.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "site survey",
+      "kelayakan venue",
+      "fasilitas",
+      "batas lokal"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "74dd8b954185bb02f321f9a3ea619f0b92266d877733a28999777542df2ee716",
+    "primary_topic": "site survey",
+    "purpose": "Memandu site survey untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-011",
+      "WO-DOC-035",
+      "WO-DOC-036",
+      "WO-DOC-037"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "kelayakan venue",
+      "fasilitas",
+      "batas lokal"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-038.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Matriks Site Survey, Kelayakan Venue, dan Kebutuhan Fasilitas",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4706,
+    "actual_word_count": 613,
+    "associated_event_ids": [
+      "EVT-02",
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "G. Guest dan Family Handling",
+    "content_summary": "PIC keluarga STAFF-04 menghubungkan keluarga inti, tamu VIP, serta tamu dengan kebutuhan khusus kepada layanan yang disepakati. VIP merupakan kategori layanan dalam daftar kerja, bukan alasan mengabaikan keselamatan, privasi, atau kenyamanan tamu lain. EVT-02 memiliki sekitar 280 tamu di ballroom; EVT-03 memiliki 45 tamu di chapel dan dinner, termasuk tamu internasional. Pendekatan disesuaikan dengan lokasi dan jumlah, bukan satu pola seragam.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-039",
+    "document_type": "Hospitality guideline",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "a2ddec6a7540048a09ea6e5b3e5852dc1c12e9615e4bbec0ff3bdf7bcfcf076b",
+    "filename": "WO-DOC-039.docx",
+    "format": "DOCX",
+    "keywords": [
+      "keluarga inti",
+      "VIP",
+      "hospitality",
+      "kebutuhan akses"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "a2ddec6a7540048a09ea6e5b3e5852dc1c12e9615e4bbec0ff3bdf7bcfcf076b",
+    "primary_topic": "keluarga inti",
+    "purpose": "Memandu keluarga inti untuk tim Wedding Organizer X dalam konteks EVT-02, EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-003",
+      "WO-DOC-016",
+      "WO-DOC-025",
+      "WO-DOC-040",
+      "WO-DOC-041"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "VIP",
+      "hospitality",
+      "kebutuhan akses"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-039.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 6126,
+    "actual_word_count": 884,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "G. Guest dan Family Handling",
+    "content_summary": "Rencana seating EVT-02 VENUE-02 untuk 280 tamu. Dua puluh delapan kelompok masing-masing sepuluh orang menjadi pembagian simulasi, bukan kapasitas meja resmi. G-01 sampai G-28 dan SEAT-01 sampai SEAT-28 hanya kode alokasi; layout serta kapasitas nyata harus disetujui pengelola. Dua escort pendukung STAFF-11 dan STAFF-12 diperkenalkan khusus matriks ini dan berada di bawah STAFF-08, tanpa hak mengubah rundown. Seluruh alokasi belum diverifikasi praktisi; kursi cadangan tidak ditambahkan. Kebutuhan personal hanya dicatat setelah konfirmasi, bukan diasumsikan dari kode kelompok.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-040",
+    "document_type": "Guest arrangement matrix",
+    "estimated_length": "36 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "1e76e559c5b80db04d89414db4f74910523c9846297363f9c0cd7e56da3311e4",
+    "filename": "WO-DOC-040.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "seating allocation",
+      "guest escort",
+      "alokasi kelompok",
+      "280 tamu"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "1e76e559c5b80db04d89414db4f74910523c9846297363f9c0cd7e56da3311e4",
+    "primary_topic": "seating allocation",
+    "purpose": "Memandu seating allocation untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-016",
+      "WO-DOC-032",
+      "WO-DOC-039",
+      "WO-DOC-041",
+      "WO-DOC-042"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "guest escort",
+      "alokasi kelompok",
+      "280 tamu"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-040.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Matriks Seating Allocation dan Penugasan Guest Escort",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4788,
+    "actual_word_count": 650,
+    "associated_event_ids": [
+      "EVT-02",
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "G. Guest dan Family Handling",
+    "content_summary": "FAQ ini dipakai STAFF-08 dan escort pada EVT-02 di VENUE-02 untuk sekitar 280 tamu, serta EVT-03 di VENUE-03 untuk sekitar 45 tamu. Jawaban harus disesuaikan dengan versi daftar dan fasilitas yang telah dikonfirmasi. Bila informasi belum tersedia, sampaikan sedang dikonfirmasi dan beri penerima tindak lanjut; jangan menebak.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-041",
+    "document_type": "Internal FAQ",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "87d1596761e741351eef1d8f895459385471ee1eda5d599062d0639447cc0e49",
+    "filename": "WO-DOC-041.txt",
+    "format": "TXT",
+    "keywords": [
+      "FAQ guest desk",
+      "undangan tidak cocok",
+      "toilet",
+      "lost and found"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "87d1596761e741351eef1d8f895459385471ee1eda5d599062d0639447cc0e49",
+    "primary_topic": "FAQ guest desk",
+    "purpose": "Memandu FAQ guest desk untuk tim Wedding Organizer X dalam konteks EVT-02, EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-005",
+      "WO-DOC-016",
+      "WO-DOC-025",
+      "WO-DOC-032",
+      "WO-DOC-033",
+      "WO-DOC-039"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "undangan tidak cocok",
+      "toilet",
+      "lost and found"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-041.txt",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 6364,
+    "actual_word_count": 955,
+    "associated_event_ids": [
+      "EVT-02"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "H. Rundown dan Timeline",
+    "content_summary": "Rundown simulasi EVT-02 CLIENT-02 VENUE-02, sekitar 280 tamu, seluruh waktu WITA. Jam mulai serta selesai disimpan sebagai nilai jam Excel oleh pembuat file; durasi dihitung dari selisih waktu. Urutan detail akad memerlukan konfirmasi pemimpin prosesi dan client melalui WC. EC mengesahkan perubahan utama; biaya atau lingkup oleh client melalui WC. Buffer disebut eksplisit. Jeda panjang antaracara adalah pemulihan area dan persiapan resepsi, bukan kewajiban tamu menunggu di ballroom.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-042",
+    "document_type": "Detailed rundown",
+    "estimated_length": "33 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "0d528c4e3fcd466093b42d3f5d93347436b56167b2d753071f4601d5ea025f11",
+    "filename": "WO-DOC-042.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "rundown akad",
+      "resepsi ballroom",
+      "timeline",
+      "banquet cue"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "0d528c4e3fcd466093b42d3f5d93347436b56167b2d753071f4601d5ea025f11",
+    "primary_topic": "rundown akad",
+    "purpose": "Memandu rundown akad untuk tim Wedding Organizer X dalam konteks EVT-02.",
+    "related_document_ids": [
+      "WO-DOC-010",
+      "WO-DOC-014",
+      "WO-DOC-017",
+      "WO-DOC-021",
+      "WO-DOC-023",
+      "WO-DOC-030",
+      "WO-DOC-035"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "resepsi ballroom",
+      "timeline",
+      "banquet cue"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-042.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Rundown Operasional Akad dan Resepsi Hotel Ballroom",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 7039,
+    "actual_word_count": 967,
+    "associated_event_ids": [
+      "EVT-03"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "H. Rundown dan Timeline",
+    "content_summary": "CLIENT-03 menyelenggarakan intimate chapel and dinner wedding di VENUE-03 untuk sekitar 45 tamu domestik serta internasional. Semua waktu menggunakan WITA dan merupakan rencana simulasi. Urutan rinci pemberkatan mengikuti konfirmasi pemimpin prosesi dan client melalui WC, bukan ketentuan ritual universal dari WO. EC mengesahkan perubahan rundown utama; WC memperoleh persetujuan client bila biaya atau lingkup berubah. Chapel dan area dinner merupakan dua zona VENUE-03 yang memerlukan perpindahan terkoordinasi.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-043",
+    "document_type": "Timed event rundown",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "af470a8f084471bcc5e4dda5f3c05f3bcdea8b66a2790162dc40d72d4d9f7cbc",
+    "filename": "WO-DOC-043.docx",
+    "format": "DOCX",
+    "keywords": [
+      "rundown chapel",
+      "pemberkatan",
+      "perpindahan venue",
+      "intimate dinner"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "af470a8f084471bcc5e4dda5f3c05f3bcdea8b66a2790162dc40d72d4d9f7cbc",
+    "primary_topic": "rundown chapel",
+    "purpose": "Memandu rundown chapel untuk tim Wedding Organizer X dalam konteks EVT-03.",
+    "related_document_ids": [
+      "WO-DOC-003",
+      "WO-DOC-015",
+      "WO-DOC-022",
+      "WO-DOC-025",
+      "WO-DOC-039"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "pemberkatan",
+      "perpindahan venue",
+      "intimate dinner"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-043.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 7201,
+    "actual_word_count": 1021,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "H. Rundown dan Timeline",
+    "content_summary": "Timeline ini memakai dasar EVT-01 di garden villa VENUE-01, sekitar 120 tamu, ceremony sore dan resepsi malam. Varian ini menambahkan kebutuhan komunikasi dua bahasa dan pendampingan tamu internasional; jumlah tamu, venue, serta pola acara dasar tetap sama. Semua waktu rencana menggunakan WITA. CLIENT-01 melalui WC mengonfirmasi bahasa dan urutan ceremony, sementara rincian ritual mengikuti pihak yang berwenang.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-044",
+    "document_type": "Annotated event timeline",
+    "estimated_length": "Panjang",
+    "extraction_check": "PASS",
+    "file_sha256": "36e4a0ed4a4beac31dc4dc758dfc937c2a501bc9ee86d43ef5b63b0f01fa4725",
+    "filename": "WO-DOC-044.pdf",
+    "format": "PDF",
+    "keywords": [
+      "international wedding",
+      "outdoor reception",
+      "timeline",
+      "bahasa komunikasi"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "36e4a0ed4a4beac31dc4dc758dfc937c2a501bc9ee86d43ef5b63b0f01fa4725",
+    "primary_topic": "international wedding",
+    "purpose": "Memandu international wedding untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-012",
+      "WO-DOC-015",
+      "WO-DOC-018",
+      "WO-DOC-027",
+      "WO-DOC-036"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "outdoor reception",
+      "timeline",
+      "bahasa komunikasi"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-044.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Timeline Koordinasi International Wedding dan Outdoor Reception",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4594,
+    "actual_word_count": 612,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "I. Internal Communication / Escalation",
+    "content_summary": "SOP ini memastikan instruksi wedding day memiliki penerima, waktu berlaku, dan konfirmasi. Radio dipakai untuk koordinasi singkat, grup kerja untuk lampiran serta pembaruan yang perlu dibaca, dan log keputusan untuk jejak resmi internal draft. Kanal client dipegang WC dan kanal vendor dikoordinasikan PIC vendor. Nama kanal bersifat konseptual; frekuensi serta penggunaan perangkat harus mengikuti pengaturan yang benar-benar diizinkan, bukan ditetapkan corpus.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-045",
+    "document_type": "Internal communication SOP",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "1a88eca6efff191b4d34e93a1628d3239e897aa4382c2e8007293632e1fc94c5",
+    "filename": "WO-DOC-045.docx",
+    "format": "DOCX",
+    "keywords": [
+      "radio",
+      "grup koordinasi",
+      "acknowledgement",
+      "komunikasi internal"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "1a88eca6efff191b4d34e93a1628d3239e897aa4382c2e8007293632e1fc94c5",
+    "primary_topic": "radio",
+    "purpose": "Memandu radio untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-012",
+      "WO-DOC-017",
+      "WO-DOC-046",
+      "WO-DOC-047"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "grup koordinasi",
+      "acknowledgement",
+      "komunikasi internal"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-045.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "SOP Komunikasi Internal, Radio, dan Grup Koordinasi Wedding Day",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 2793,
+    "actual_word_count": 354,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "I. Internal Communication / Escalation",
+    "content_summary": "STAFF-01 Event Coordinator mengesahkan perubahan rundown utama dan koordinasi lintas fungsi. STAFF-02 Wedding Coordinator mengurus kebutuhan serta persetujuan client. Perubahan biaya atau lingkup memerlukan persetujuan client melalui WC. Pengelola venue dan petugas kompeten menentukan kelayakan fasilitas serta tindakan keselamatan sesuai bidangnya. Persetujuan client tidak menggantikan penilaian tersebut.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-046",
+    "document_type": "Escalation reference card",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "04c43f52db0bfb2a45c3a34228da1f726e24d7a16a2123c02a3d87eb2aebfc91",
+    "filename": "WO-DOC-046.txt",
+    "format": "TXT",
+    "keywords": [
+      "escalation card",
+      "hak keputusan",
+      "delegasi",
+      "stop work"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "04c43f52db0bfb2a45c3a34228da1f726e24d7a16a2123c02a3d87eb2aebfc91",
+    "primary_topic": "escalation card",
+    "purpose": "Memandu escalation card untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-002",
+      "WO-DOC-034",
+      "WO-DOC-045",
+      "WO-DOC-047"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "hak keputusan",
+      "delegasi",
+      "stop work"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-046.txt",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Singkat Jalur Eskalasi dan Hak Pengambilan Keputusan",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4697,
+    "actual_word_count": 614,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "I. Internal Communication / Escalation",
+    "content_summary": "Handover memindahkan kendali pekerjaan beserta konteksnya kepada penerima tertentu. Mengirim pesan atau meninggalkan daftar tidak cukup jika penerima belum mengetahui risiko dan tindakan berikutnya. Panduan ini digunakan pada pergantian shift, perpindahan ceremony ke resepsi, perubahan lokasi, serta penutupan. EC mengendalikan pembagian tanggung jawab; tiap PIC memastikan tidak ada tugas kritis yang kehilangan pemilik.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-047",
+    "document_type": "Internal operations guideline",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "aec08533dfcda3026ce5686eb86e55b1ed479ece2d332322107b846750857b26",
+    "filename": "WO-DOC-047.docx",
+    "format": "DOCX",
+    "keywords": [
+      "handover antar-PIC",
+      "decision log",
+      "penerima",
+      "outstanding"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "aec08533dfcda3026ce5686eb86e55b1ed479ece2d332322107b846750857b26",
+    "primary_topic": "handover antar-PIC",
+    "purpose": "Memandu handover antar-PIC untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-001",
+      "WO-DOC-018",
+      "WO-DOC-019",
+      "WO-DOC-045",
+      "WO-DOC-046",
+      "WO-DOC-050"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "decision log",
+      "penerima",
+      "outstanding"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-047.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5045,
+    "actual_word_count": 671,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "J. Post-event / Evaluation",
+    "content_summary": "Checklist penutupan EVT-01, VENUE-01, sekitar 120 tamu. Penutupan publik simulasi 21.00 WITA dan handover area 22.30 pada kasus hujan WO-DOC-018. Semua item di sini Belum diperiksa: checklist kerja belum membuktikan kasus nyata telah selesai. Isi waktu aktual dan penerima saat digunakan. Zona vendor hanya dilepas setelah tamu tidak lagi memakai jalur dan pengelola mengizinkan. Petugas kompeten menangani instalasi teknis.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-048",
+    "document_type": "Post-event checklist",
+    "estimated_length": "32 baris operasional",
+    "extraction_check": "PASS",
+    "file_sha256": "f5ff563c58ae617d138033ef5eacfcdd73fcf4015dd69c8337e76438b0fe9063",
+    "filename": "WO-DOC-048.xlsx",
+    "format": "XLSX",
+    "keywords": [
+      "breakdown",
+      "vendor checkout",
+      "pengembalian aset",
+      "post-event"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "f5ff563c58ae617d138033ef5eacfcdd73fcf4015dd69c8337e76438b0fe9063",
+    "primary_topic": "breakdown",
+    "purpose": "Memandu breakdown untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-019",
+      "WO-DOC-033",
+      "WO-DOC-047",
+      "WO-DOC-049",
+      "WO-DOC-050"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "vendor checkout",
+      "pengembalian aset",
+      "post-event"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-048.xlsx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 4521,
+    "actual_word_count": 588,
+    "associated_event_ids": [
+      "EVT-01",
+      "EVT-02",
+      "EVT-03",
+      "EVT-04"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "J. Post-event / Evaluation",
+    "content_summary": "Debrief menghasilkan pemahaman kejadian dan tindakan perbaikan yang memiliki pemilik. Acara selesai bukan bukti seluruh proses bekerja baik. EC memimpin evaluasi internal, WC membawa masukan client yang benar-benar tersedia, PIC vendor membandingkan komitmen dengan keluaran, dan PIC venue membawa catatan pengelola. Dokumen ini tidak mengisi hasil kepuasan, skor vendor, atau persetujuan praktisi yang belum diperoleh.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-049",
+    "document_type": "Evaluation and meeting guide",
+    "estimated_length": "Pendek",
+    "extraction_check": "PASS",
+    "file_sha256": "8b2a8b6e1955a7343df5626c84bfb7a40e8def5aa5e9a39730b042131d4913ad",
+    "filename": "WO-DOC-049.docx",
+    "format": "DOCX",
+    "keywords": [
+      "debrief",
+      "evaluasi operasional",
+      "tindakan perbaikan",
+      "lessons learned"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "8b2a8b6e1955a7343df5626c84bfb7a40e8def5aa5e9a39730b042131d4913ad",
+    "primary_topic": "debrief",
+    "purpose": "Memandu debrief untuk tim Wedding Organizer X dalam konteks EVT-01, EVT-02, EVT-03, EVT-04.",
+    "related_document_ids": [
+      "WO-DOC-019",
+      "WO-DOC-026",
+      "WO-DOC-034",
+      "WO-DOC-048",
+      "WO-DOC-050"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "evaluasi operasional",
+      "tindakan perbaikan",
+      "lessons learned"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-049.docx",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Panduan Debrief dan Evaluasi Operasional Setelah Wedding",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  },
+  {
+    "actual_character_count": 5962,
+    "actual_word_count": 810,
+    "associated_event_ids": [
+      "EVT-01"
+    ],
+    "authoring_date": "2026-10-08",
+    "category": "J. Post-event / Evaluation",
+    "content_summary": "Kasus INC-01 merupakan simulasi respons hujan pada EVT-01, CLIENT-01, VENUE-01 garden villa, sekitar 120 tamu. Laporan disusun sebagai contoh operasional Wedding Organizer X, bukan arsip historis perusahaan. Waktu menggunakan WITA. Insiden ditutup secara operasional pada 21.10 dalam simulasi; tindakan perbaikan proses masih memerlukan review dan tidak dianggap selesai otomatis. Acuan kronologi adalah WO-DOC-018.",
+    "correction_ledger_path": "data/validation/ai_corpus_correction_ledger.xlsx",
+    "dataset_version": "v2-ai-corrected",
+    "document_id": "WO-DOC-050",
+    "document_type": "Incident closure report",
+    "estimated_length": "Menengah",
+    "extraction_check": "PASS",
+    "file_sha256": "5661e92a1759171aa5f320ca658fb4d24504980bf715697e208c54036388c085",
+    "filename": "WO-DOC-050.pdf",
+    "format": "PDF",
+    "keywords": [
+      "laporan insiden",
+      "INC-01",
+      "perpindahan garden",
+      "tindak lanjut"
+    ],
+    "language": "id",
+    "parent_dataset_version": "1.0",
+    "parent_file_sha256": "5661e92a1759171aa5f320ca658fb4d24504980bf715697e208c54036388c085",
+    "primary_topic": "laporan insiden",
+    "purpose": "Memandu laporan insiden untuk tim Wedding Organizer X dalam konteks EVT-01.",
+    "related_document_ids": [
+      "WO-DOC-018",
+      "WO-DOC-027",
+      "WO-DOC-030",
+      "WO-DOC-047",
+      "WO-DOC-049"
+    ],
+    "scenario_status": "simulation",
+    "secondary_topics": [
+      "INC-01",
+      "perpindahan garden",
+      "tindak lanjut"
+    ],
+    "source_path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-050.pdf",
+    "source_type": "researcher_composed_operational_draft",
+    "title": "Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional",
+    "validation_status": "ai_corrected_pilot_not_human_validated"
+  }
+]

@@ -1,0 +1,1118 @@
+{
+  "audit_scope": "Existing chunks.jsonl and canonical documents only; no pipeline execution, reparsing, ML, rewriting, or data repair.",
+  "bucket_distribution": [
+    {
+      "bucket": "<75",
+      "count": 0,
+      "format_distribution": {
+        "DOCX": 0,
+        "PDF": 0,
+        "TXT": 0,
+        "XLSX": 0
+      },
+      "percentage": 0.0,
+      "source_type_distribution": {}
+    },
+    {
+      "bucket": "75-99",
+      "count": 25,
+      "format_distribution": {
+        "DOCX": 5,
+        "PDF": 1,
+        "TXT": 19,
+        "XLSX": 0
+      },
+      "percentage": 6.738544,
+      "source_type_distribution": {
+        "researcher_composed_operational_draft": 25
+      }
+    },
+    {
+      "bucket": "100-149",
+      "count": 177,
+      "format_distribution": {
+        "DOCX": 99,
+        "PDF": 56,
+        "TXT": 22,
+        "XLSX": 0
+      },
+      "percentage": 47.708895,
+      "source_type_distribution": {
+        "researcher_composed_operational_draft": 177
+      }
+    },
+    {
+      "bucket": "150-249",
+      "count": 109,
+      "format_distribution": {
+        "DOCX": 76,
+        "PDF": 21,
+        "TXT": 1,
+        "XLSX": 11
+      },
+      "percentage": 29.380054,
+      "source_type_distribution": {
+        "researcher_composed_operational_draft": 109
+      }
+    },
+    {
+      "bucket": "250-349",
+      "count": 12,
+      "format_distribution": {
+        "DOCX": 7,
+        "PDF": 1,
+        "TXT": 0,
+        "XLSX": 4
+      },
+      "percentage": 3.234501,
+      "source_type_distribution": {
+        "researcher_composed_operational_draft": 12
+      }
+    },
+    {
+      "bucket": "350-449",
+      "count": 31,
+      "format_distribution": {
+        "DOCX": 0,
+        "PDF": 0,
+        "TXT": 0,
+        "XLSX": 31
+      },
+      "percentage": 8.355795,
+      "source_type_distribution": {
+        "researcher_composed_operational_draft": 31
+      }
+    },
+    {
+      "bucket": "450-500",
+      "count": 17,
+      "format_distribution": {
+        "DOCX": 0,
+        "PDF": 0,
+        "TXT": 0,
+        "XLSX": 17
+      },
+      "percentage": 4.58221,
+      "source_type_distribution": {
+        "researcher_composed_operational_draft": 17
+      }
+    }
+  ],
+  "canonical_documents": 50,
+  "context": {
+    "heading_field_present": 371,
+    "heading_literally_in_text": 308,
+    "interpretation": "Title and heading are available in schema for every chunk if counts equal total. XLSX uses Sheet/Section/Header rather than literal combined heading. Fields need not be duplicated into stored text; downstream consumers must preserve context fields.",
+    "issues": [],
+    "table_chunks_examined": 63,
+    "table_chunks_with_valid_structured_context": 63,
+    "title_field_present_and_aligned": 371,
+    "title_literally_in_text": 53
+  },
+  "coverage": {
+    "administrative_blocks_excluded": 235,
+    "canonical_blocks": 1353,
+    "canonical_documents": 50,
+    "fully_covered_nonwhitespace_operational_blocks": 768,
+    "locator_issues": [],
+    "missing_blocks": [],
+    "operational_block_definition": "retrievable=true; nonempty text; kind not title, heading, or table_header. Structural blocks are context, administrative blocks remain excluded.",
+    "operational_blocks": 768,
+    "operational_blocks_covered_at_least_once": 768,
+    "partially_covered_blocks": [],
+    "per_document": [
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-001",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-002",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-003",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 9,
+        "document_id": "WO-DOC-004",
+        "operational_blocks": 9
+      },
+      {
+        "covered_blocks": 9,
+        "document_id": "WO-DOC-005",
+        "operational_blocks": 9
+      },
+      {
+        "covered_blocks": 35,
+        "document_id": "WO-DOC-006",
+        "operational_blocks": 35
+      },
+      {
+        "covered_blocks": 11,
+        "document_id": "WO-DOC-007",
+        "operational_blocks": 11
+      },
+      {
+        "covered_blocks": 36,
+        "document_id": "WO-DOC-008",
+        "operational_blocks": 36
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-009",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-010",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 34,
+        "document_id": "WO-DOC-011",
+        "operational_blocks": 34
+      },
+      {
+        "covered_blocks": 8,
+        "document_id": "WO-DOC-012",
+        "operational_blocks": 8
+      },
+      {
+        "covered_blocks": 9,
+        "document_id": "WO-DOC-013",
+        "operational_blocks": 9
+      },
+      {
+        "covered_blocks": 9,
+        "document_id": "WO-DOC-014",
+        "operational_blocks": 9
+      },
+      {
+        "covered_blocks": 12,
+        "document_id": "WO-DOC-015",
+        "operational_blocks": 12
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-016",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-017",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 9,
+        "document_id": "WO-DOC-018",
+        "operational_blocks": 9
+      },
+      {
+        "covered_blocks": 9,
+        "document_id": "WO-DOC-019",
+        "operational_blocks": 9
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-020",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 11,
+        "document_id": "WO-DOC-021",
+        "operational_blocks": 11
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-022",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-023",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-024",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 33,
+        "document_id": "WO-DOC-025",
+        "operational_blocks": 33
+      },
+      {
+        "covered_blocks": 31,
+        "document_id": "WO-DOC-026",
+        "operational_blocks": 31
+      },
+      {
+        "covered_blocks": 13,
+        "document_id": "WO-DOC-027",
+        "operational_blocks": 13
+      },
+      {
+        "covered_blocks": 11,
+        "document_id": "WO-DOC-028",
+        "operational_blocks": 11
+      },
+      {
+        "covered_blocks": 11,
+        "document_id": "WO-DOC-029",
+        "operational_blocks": 11
+      },
+      {
+        "covered_blocks": 7,
+        "document_id": "WO-DOC-030",
+        "operational_blocks": 7
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-031",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-032",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-033",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 31,
+        "document_id": "WO-DOC-034",
+        "operational_blocks": 31
+      },
+      {
+        "covered_blocks": 11,
+        "document_id": "WO-DOC-035",
+        "operational_blocks": 11
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-036",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 11,
+        "document_id": "WO-DOC-037",
+        "operational_blocks": 11
+      },
+      {
+        "covered_blocks": 34,
+        "document_id": "WO-DOC-038",
+        "operational_blocks": 34
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-039",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 43,
+        "document_id": "WO-DOC-040",
+        "operational_blocks": 43
+      },
+      {
+        "covered_blocks": 13,
+        "document_id": "WO-DOC-041",
+        "operational_blocks": 13
+      },
+      {
+        "covered_blocks": 40,
+        "document_id": "WO-DOC-042",
+        "operational_blocks": 40
+      },
+      {
+        "covered_blocks": 16,
+        "document_id": "WO-DOC-043",
+        "operational_blocks": 16
+      },
+      {
+        "covered_blocks": 16,
+        "document_id": "WO-DOC-044",
+        "operational_blocks": 16
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-045",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 6,
+        "document_id": "WO-DOC-046",
+        "operational_blocks": 6
+      },
+      {
+        "covered_blocks": 10,
+        "document_id": "WO-DOC-047",
+        "operational_blocks": 10
+      },
+      {
+        "covered_blocks": 39,
+        "document_id": "WO-DOC-048",
+        "operational_blocks": 39
+      },
+      {
+        "covered_blocks": 9,
+        "document_id": "WO-DOC-049",
+        "operational_blocks": 9
+      },
+      {
+        "covered_blocks": 12,
+        "document_id": "WO-DOC-050",
+        "operational_blocks": 12
+      }
+    ],
+    "status": "PASS",
+    "structural_context_blocks_excluded_from_body_denominator": 350
+  },
+  "immutability": {
+    "only_output_files": [
+      "experiments/reports/chunk_quality_audit.json",
+      "experiments/reports/chunk_quality_audit.md"
+    ],
+    "protected_existing_files_checked": 112,
+    "protected_file_sha256": {
+      ".gitignore": "c545a5781156126a98fb619a31df1572faf6395361b1b617b926acb5b9076563",
+      "README.md": "fdf96491977e136a4db27bfe41372a1c72c8ad3e9c4a4f8b411f176f572192e5",
+      "data/chunks/chunk_config.json": "3ce4e9bea3adb0abd8e21c9b352295dcb4c686198f94192baed6a33b9f4ac3a5",
+      "data/chunks/chunks.jsonl": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0",
+      "data/processed/documents.jsonl": "314a1e44a769aad9b6e64c1fb2ef42bc04a722b38e8e87589de7e3fb3a046e01",
+      "data/processed/ingestion_config.json": "3ce4e9bea3adb0abd8e21c9b352295dcb4c686198f94192baed6a33b9f4ac3a5",
+      "data/source_corpus/DOCUMENT_SUMMARIES.md": "7c910b1d5089fd77006043f16e54896af673b7f37d1dffbc799376a1b75836c5",
+      "data/source_corpus/FILE_INVENTORY.csv": "7afc19069172640ec8abdd59233ae1e34366f043a34883eff827d59a45c8c3be",
+      "data/source_corpus/QUALITY_REPORT.md": "7ee52aba7e1259781b61e9f1d2369c7e73a12c50f55d6e7b3e845c2eb17bf740",
+      "data/source_corpus/VALIDATION_CHECKLIST.docx": "252f5b5c2375eae82866c5db16764132b414600bc3ef89b6b273daae8276bd11",
+      "data/source_corpus/corpus_manifest.csv": "b638944f62efe87e45be2df4013ad7fbf8ab04cabe242facc7c0fd0ba29e4a08",
+      "data/source_corpus/corpus_manifest.json": "3bc162662521b44e2d8abd06d75729a5e19abba535eb6e2c8bcbb3c5f80cd44f",
+      "data/source_corpus/corpus_manifest.xlsx": "4cf8061784e04dbcbf41644be84b761afc9370d6b866e7743d7ebed0c9ce55c5",
+      "data/source_corpus/documents/WO-DOC-001.docx": "95b6ad60eed86134e9a2cad1b61d28fa85fdf453c2da91d69f73133f9883e0f5",
+      "data/source_corpus/documents/WO-DOC-002.docx": "1bbdaa0c0773265b04313a0254d1b7fec85b9e12dd1d196d7a33fdb54515f5d9",
+      "data/source_corpus/documents/WO-DOC-003.docx": "cb50e8420f6e71a95d6d87f7010b6a76a8e807e87dd356bbe15f7db3d9741c88",
+      "data/source_corpus/documents/WO-DOC-004.docx": "f317e1c2f0875accc95e7474ec1a98d6bffd4dd79bf655f36b677695b4b7fc28",
+      "data/source_corpus/documents/WO-DOC-005.pdf": "2d21aabde1df97e43852d2ec64cb184854faf5de93a203f116100dd5f820db5f",
+      "data/source_corpus/documents/WO-DOC-006.xlsx": "2853542df18dbcb27bc13fcc1d0b2030b6081ee573cc1c595c0838b716a7e2de",
+      "data/source_corpus/documents/WO-DOC-007.docx": "5abda10b32686a27913612fe7d70c41c72f26a692e0eb9870ff58cb9d0519733",
+      "data/source_corpus/documents/WO-DOC-008.xlsx": "9f1280cfaf9efb25d89759dd2f601881095c5723f91712ff8687f55c11fbe71b",
+      "data/source_corpus/documents/WO-DOC-009.docx": "cb3a6971b676bf4770f2b1e19911106d48bc4ee498f55c4bc321d8f0aa380d0e",
+      "data/source_corpus/documents/WO-DOC-010.docx": "0b744ed9d7a29655f32dfe4ac25d28eb9d0d665d85d8db36fc2f648638a13fdf",
+      "data/source_corpus/documents/WO-DOC-011.xlsx": "ec9a1826e49108e61ce43712e423a1dc615e5f8baa98eb46b0a1cb6e76ed6d52",
+      "data/source_corpus/documents/WO-DOC-012.txt": "f2ca446ee8bf2d75dd172c4430e5a864ff43ce26da382174e2470a80358c7333",
+      "data/source_corpus/documents/WO-DOC-013.docx": "ce616780e6cf4f44bc6bd577ecd32aaa1c3d9d98715bb5ecee2ee5d8d761b02b",
+      "data/source_corpus/documents/WO-DOC-014.docx": "efd1a35896d5cb8a610144ff3c34d70f45c46671e80ff0c637714c5dab1a8f74",
+      "data/source_corpus/documents/WO-DOC-015.pdf": "a34cb39b37f2654bfae05d0cdf037f7a67b149420940e298508a6fc10b933c25",
+      "data/source_corpus/documents/WO-DOC-016.docx": "99b2f0478c658a7b04b44453afc95ada11c7e75756abc414bcd4ec86125a7fad",
+      "data/source_corpus/documents/WO-DOC-017.pdf": "152e897c3a9c6ade7b302a84546ed8a367d460519856ded42923c6d6525168d5",
+      "data/source_corpus/documents/WO-DOC-018.txt": "6c553785f157031a2463d9099618fa95c86d8e779cce99a3ee36607501bab249",
+      "data/source_corpus/documents/WO-DOC-019.docx": "e44e4d24ad57e715a64122e038045aa822ba4bd55d045a58b3e4a0aa5c3c0319",
+      "data/source_corpus/documents/WO-DOC-020.docx": "eeb2a31f413bececb125083a87020c57247155ca080e0734c48580dd1feae624",
+      "data/source_corpus/documents/WO-DOC-021.pdf": "36b4afc9d1984c9fa5e423fd85348fd7fd5d81a1a7f3e42725ab24e45bde5080",
+      "data/source_corpus/documents/WO-DOC-022.docx": "2f162791af638177fc7d5d71056e75f3149e515d24ab959948e292c359652663",
+      "data/source_corpus/documents/WO-DOC-023.docx": "04e6c75be1e2faad8fa6d4e20f6565f8902afa9721cbe89c78f86a80bbbf8651",
+      "data/source_corpus/documents/WO-DOC-024.docx": "1663be764ba81ab9b4f932d306b4708ff8173b5d6850472f08faaef338564ec2",
+      "data/source_corpus/documents/WO-DOC-025.xlsx": "a8b070787c73b8a51a949838f81fd8436a7487c3d79b6ec70c17e3ff22c29ecb",
+      "data/source_corpus/documents/WO-DOC-026.xlsx": "352e777e399123966b2840687339cd45c7c4dda9245046e071ecbfd44a522716",
+      "data/source_corpus/documents/WO-DOC-027.docx": "07ee97c0f177bb3acc2f17c05103796373dac44a31609c214c6c70ffa03f1776",
+      "data/source_corpus/documents/WO-DOC-028.docx": "5753fea5163253377d8570429ca8ac88ec1479f658aa7933682588dae7c27ed9",
+      "data/source_corpus/documents/WO-DOC-029.docx": "72cac64eba44de449edd5f185bc6b38de28d894a02a5bfba06286bbbb180da74",
+      "data/source_corpus/documents/WO-DOC-030.txt": "3b4f455195922d1ae9d0676348eea0149476195e0add0fa692f3fbf9ac28fb8c",
+      "data/source_corpus/documents/WO-DOC-031.pdf": "629153ab1434e2022874fcc123eb4b117522479bdc4ea5d909577d13b5a1c3a1",
+      "data/source_corpus/documents/WO-DOC-032.docx": "073512e729405c53595e1b2bbd8403f61067b7b606d04e1a1378cc09e9ce887a",
+      "data/source_corpus/documents/WO-DOC-033.docx": "5d7a8bdfac9d60b0c03b301c2df44e70b29257ff83342b630fe2505c23e61b4a",
+      "data/source_corpus/documents/WO-DOC-034.xlsx": "39a42ff75293ab6fb2995fe59eff4ce04cb7311a83c1c994c5c263b635c95f77",
+      "data/source_corpus/documents/WO-DOC-035.docx": "3a776a37edb153b34582a844e8fe32232c6f28fe51bca408ad20b1dc0c63a021",
+      "data/source_corpus/documents/WO-DOC-036.pdf": "010c099da6ea2b2770fdd4ae8a48b3d8ac395233b0b23d4641a46f7dc466bfe7",
+      "data/source_corpus/documents/WO-DOC-037.pdf": "9d266cb349ef01afdbbbf3fa3e9bf13bd73f462c393bb0b048d798161745cdb4",
+      "data/source_corpus/documents/WO-DOC-038.xlsx": "74dd8b954185bb02f321f9a3ea619f0b92266d877733a28999777542df2ee716",
+      "data/source_corpus/documents/WO-DOC-039.docx": "a2ddec6a7540048a09ea6e5b3e5852dc1c12e9615e4bbec0ff3bdf7bcfcf076b",
+      "data/source_corpus/documents/WO-DOC-040.xlsx": "1e76e559c5b80db04d89414db4f74910523c9846297363f9c0cd7e56da3311e4",
+      "data/source_corpus/documents/WO-DOC-041.txt": "87d1596761e741351eef1d8f895459385471ee1eda5d599062d0639447cc0e49",
+      "data/source_corpus/documents/WO-DOC-042.xlsx": "0d528c4e3fcd466093b42d3f5d93347436b56167b2d753071f4601d5ea025f11",
+      "data/source_corpus/documents/WO-DOC-043.docx": "af470a8f084471bcc5e4dda5f3c05f3bcdea8b66a2790162dc40d72d4d9f7cbc",
+      "data/source_corpus/documents/WO-DOC-044.pdf": "36e4a0ed4a4beac31dc4dc758dfc937c2a501bc9ee86d43ef5b63b0f01fa4725",
+      "data/source_corpus/documents/WO-DOC-045.docx": "1a88eca6efff191b4d34e93a1628d3239e897aa4382c2e8007293632e1fc94c5",
+      "data/source_corpus/documents/WO-DOC-046.txt": "04c43f52db0bfb2a45c3a34228da1f726e24d7a16a2123c02a3d87eb2aebfc91",
+      "data/source_corpus/documents/WO-DOC-047.docx": "aec08533dfcda3026ce5686eb86e55b1ed479ece2d332322107b846750857b26",
+      "data/source_corpus/documents/WO-DOC-048.xlsx": "f5ff563c58ae617d138033ef5eacfcdd73fcf4015dd69c8337e76438b0fe9063",
+      "data/source_corpus/documents/WO-DOC-049.docx": "8b2a8b6e1955a7343df5626c84bfb7a40e8def5aa5e9a39730b042131d4913ad",
+      "data/source_corpus/documents/WO-DOC-050.pdf": "5661e92a1759171aa5f320ca658fb4d24504980bf715697e208c54036388c085",
+      "data/validation/repeatability_report.json": "f28dd6cc78b7b2ac8317f9b8855894ab72459947bef4231073316cd0f8401288",
+      "data/validation/source_integrity.json": "8a4a64ac18a8b24a9c0bcb6056e48bc69f6d8e7aa541377130f74f20f7cef4f6",
+      "experiments/configs/pilot.toml": "958508999a7285dc7e0caf65a6b3b55106bdcc4d8791e6e665529f0f84812a26",
+      "experiments/reports/boilerplate_audit.json": "f2692ae48d4c8bcb25ff4536497b5345b35a4ba77ea15dcf19de5dd7ecb107ff",
+      "experiments/reports/chunk_audit.md": "65c2f868fb8870c886944f6eda673e3df5c6fde1246bd3a19135b3693dda92f4",
+      "experiments/reports/chunk_report.json": "55fa5da6a13cd9ffbbda1fb2494257d6b896ab1da2c2bf56aeac4ed1fe761397",
+      "experiments/reports/ingestion_report.json": "8c107ea503b9affa5a6ffebf9e277a20fd56c48eafab5d1a9f84c4c4f7dd7bf4",
+      "experiments/reports/sample_chunks.json": "180190adc1a49b2e65d7b7b37fe4c11af0d14f85833db7101978e5be7623267a",
+      "experiments/reports/source_audit.json": "00d287e8c5b8c5a72e96ec4737244daced49717ba108b8bef7b3598abbd21c11",
+      "pyproject.toml": "235136ab8780a124af1b5ee5e9f8792508fa982f1c8f01c0ec3934f923433a22",
+      "requirements.lock": "9d43fdc267c4b39369bb2899fc5e7dc5ca47fbee122fee6625dfe86c4fb2403b",
+      "src/wo_retrieval/__init__.py": "30ae7270c946894a58baa3c4563c59b7c3159dd152086057e5bd817491e20095",
+      "src/wo_retrieval/__pycache__/__init__.cpython-312.pyc": "b4a122e219a6ba8ed9d6c4f7460e47bc531fee7059b96067a76c2d031c517c12",
+      "src/wo_retrieval/__pycache__/cli.cpython-312.pyc": "50ab4e4ab29a80b8097f4ab66be41131e429fe40ff7bfbda18e243d1bd0f98b1",
+      "src/wo_retrieval/__pycache__/pipeline.cpython-312.pyc": "1553b75c254244a51d17bbb9ba5f55a164c826a49d7d37c274fd4e44fe8993ac",
+      "src/wo_retrieval/__pycache__/reporting.cpython-312.pyc": "50841e3a869b8c228445a27126003dad13f1afbd5a35e3cd70e06e494a994101",
+      "src/wo_retrieval/cli.py": "ad8536dee12c0122293c0e91004b09f0c56f37da87c1fd704ef20d49b571b560",
+      "src/wo_retrieval/ingestion/__init__.py": "441bb4b613235bc8abc5341a0f4cd24e7a16c500283a06acf14401552289aa9e",
+      "src/wo_retrieval/ingestion/__pycache__/__init__.cpython-312.pyc": "586f3153266142ab986cdac19ad050e373e035bf4f332873c3121ed00fadc078",
+      "src/wo_retrieval/ingestion/__pycache__/common.cpython-312.pyc": "2871fcb298736618dcb2ab77c6884ed577e788e1278ceaec7276bab07227cf40",
+      "src/wo_retrieval/ingestion/__pycache__/docx.cpython-312.pyc": "eb57000715f66f9f2b28e6d1ca6bd279402869a1f717d3b99c9f00480d45e319",
+      "src/wo_retrieval/ingestion/__pycache__/pdf.cpython-312.pyc": "8d0e589f241a608f7f7c661ca166fb3d196c08656aadd275337139cfd5073acb",
+      "src/wo_retrieval/ingestion/__pycache__/txt.cpython-312.pyc": "68da9d3d4366d9b4f6f811e50ee927a4ea7aed813ad9e45e4d72f6a692ab7d14",
+      "src/wo_retrieval/ingestion/__pycache__/xlsx.cpython-312.pyc": "9ce728a5c7c8f7ce12a0401ad7b0dcc601c554ddec94dad6d610251fcb642bb2",
+      "src/wo_retrieval/ingestion/common.py": "06a0d0885d662687e3b3d423fc00f885156b60227a54931aeb33af7d35ffd60f",
+      "src/wo_retrieval/ingestion/docx.py": "4f8a5d85f84fd227fb5124320e1fdc173e5a0846911004577b76da7fcd8d7537",
+      "src/wo_retrieval/ingestion/pdf.py": "74db5165f7b0aa7087fc3eee5a39ae4d44595e8621346c4fbe639b55818e602d",
+      "src/wo_retrieval/ingestion/txt.py": "3764c9340f64a2c3418e0a88ce321ddaa14dc76f7037165f122e2dcab8f029b9",
+      "src/wo_retrieval/ingestion/xlsx.py": "88e2dc002eba0d28175afc663757d56d76859e739f23d7a81f8e2aedf1b55b55",
+      "src/wo_retrieval/pipeline.py": "a52505db2be380b7199d2510a556ff2bef3745332c1e9267eba0447efadf770d",
+      "src/wo_retrieval/preprocessing/__init__.py": "bc0e95de61debd0f813610ea9704e0b281b7e6aa462f3d10dc621eaa44814ec1",
+      "src/wo_retrieval/preprocessing/__pycache__/__init__.cpython-312.pyc": "413e5ee456b8051a8f3c4f613ad1e4a74f5bb14a65a7f7dc0a7988d2f4943910",
+      "src/wo_retrieval/preprocessing/__pycache__/chunking.cpython-312.pyc": "88e430959f8eeb9e62d497977ef460a18f9c0a6761d12782d197dd2c8375a7d3",
+      "src/wo_retrieval/preprocessing/__pycache__/cleaning.cpython-312.pyc": "f9a92519fb11b836fc3efe61dc036d87fcadbd0490d38f1d70935030bffc814c",
+      "src/wo_retrieval/preprocessing/chunking.py": "2abf65761a1eb6255a8de575e9f4fac1a8626dd21a2b8f09831f8b1fd5abe092",
+      "src/wo_retrieval/preprocessing/cleaning.py": "bde8e7dcc85533d8c6f543a9b1d90eaef9f991aa1b773fa4b4aec5f7a29eaa57",
+      "src/wo_retrieval/reporting.py": "7a60554abf05ffc8b580f50fe78f77a1a7decb578f8efba7fe569bf2c896a539",
+      "src/wo_retrieval/schemas/__init__.py": "df14e86d3b0cc1ac58ed9cc091d615f5a8697fe8f9ecbb1417b2464740d8a29e",
+      "src/wo_retrieval/schemas/__pycache__/__init__.cpython-312.pyc": "a7a772de870d909b0822e862b8cd11a76fbaffe8a5ce8834b1b23a71adc8a4f6",
+      "src/wo_retrieval/schemas/__pycache__/models.cpython-312.pyc": "8b002f705a201563caf40a52cdbb98dddb90dbd5b50394a4f9cfebe4bc4dfa16",
+      "src/wo_retrieval/schemas/models.py": "fd55378d952328d1237d5088fe5262b781652a189df7f7d4ab5c55a44b33db44",
+      "src/wo_retrieval_benchmark.egg-info/PKG-INFO": "dd3ddaa867f53a62bf0d5ebbdd8164acdb6b91796836431ab71cd5c98be33a09",
+      "src/wo_retrieval_benchmark.egg-info/SOURCES.txt": "1524e8aa69330c51a67099358356f7ff2f7ebb14895ddbfe38bcb9b3e490314f",
+      "src/wo_retrieval_benchmark.egg-info/dependency_links.txt": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "src/wo_retrieval_benchmark.egg-info/entry_points.txt": "a8e501a1386db6e979924f084fdcf6d2430f6165c1e8c9e624ed47c2ffc59007",
+      "src/wo_retrieval_benchmark.egg-info/requires.txt": "22d19f52bf9d0d5369553508fbbc442f780fa9881d5fb7b78357d6e545efc7b4",
+      "src/wo_retrieval_benchmark.egg-info/top_level.txt": "64729994305eb264568c67d983e52a0e590c6792b43d3a3537e41ce49746bc03",
+      "tests/__pycache__/test_pipeline.cpython-312.pyc": "49ac499041cc99caa74790d75a38561e844b74594ee0f8dfe571c3e902c7b404",
+      "tests/test_pipeline.py": "6a2def67340e5c50745f9dbedcec270cb30b4f12f1927f241033f8dd378d14bc"
+    },
+    "protected_scope": "All existing project files except .venv/.git and the two requested audit outputs; hash, size, mtime_ns and filename set checked. No project modules imported; Python -B prevents bytecode writes.",
+    "source_corpus_files_checked": 57,
+    "unchanged": true
+  },
+  "inputs": {
+    "data/chunks/chunk_config.json": {
+      "sha256": "3ce4e9bea3adb0abd8e21c9b352295dcb4c686198f94192baed6a33b9f4ac3a5"
+    },
+    "data/chunks/chunks.jsonl": {
+      "sha256": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0"
+    },
+    "data/processed/documents.jsonl": {
+      "sha256": "314a1e44a769aad9b6e64c1fb2ef42bc04a722b38e8e87589de7e3fb3a046e01"
+    },
+    "experiments/configs/pilot.toml": {
+      "sha256": "958508999a7285dc7e0caf65a6b3b55106bdcc4d8791e6e665529f0f84812a26"
+    }
+  },
+  "integrity": {
+    "content_hash_and_token_proxy_issues": [],
+    "duplicate_chunk_ids": []
+  },
+  "near_duplicate_detection": {
+    "candidate_count": 0,
+    "candidate_rule": "word 5-gram set Jaccard >=0.85 OR word SequenceMatcher ratio >=0.95, with length ratio >=0.90",
+    "candidates": [],
+    "limitation": "Lexical similarity only; absence of candidates is not proof of semantic uniqueness.",
+    "minimum_word_length_ratio": 0.9,
+    "minimum_words_per_chunk_view": 30,
+    "normalization": "NFC + casefold + Unicode word tokens including hyphenated codes; no code/number masking, stemming, stopword removal, embeddings, or semantic inference",
+    "sequence_matcher": "autojunk=False; skipped when multiset intersection upper bound <0.95 unless Jaccard already passes; no high-ratio pair is skipped by this bound",
+    "total_pairs_considered": 68635,
+    "view_results": {
+      "full_text": {
+        "eligible_pairs_minimum_30_words": 68635,
+        "sequence_ratios_evaluated_after_safe_upper_bound": 0,
+        "top_5_jaccard_pairs_diagnostic_not_flags": [
+          {
+            "chunk_a": "WO-DOC-040-C004",
+            "chunk_b": "WO-DOC-040-C005",
+            "word_5gram_jaccard": 0.35714286
+          },
+          {
+            "chunk_a": "WO-DOC-040-C001",
+            "chunk_b": "WO-DOC-040-C002",
+            "word_5gram_jaccard": 0.29834254
+          },
+          {
+            "chunk_a": "WO-DOC-040-C002",
+            "chunk_b": "WO-DOC-040-C003",
+            "word_5gram_jaccard": 0.26066351
+          },
+          {
+            "chunk_a": "WO-DOC-040-C003",
+            "chunk_b": "WO-DOC-040-C004",
+            "word_5gram_jaccard": 0.26066351
+          },
+          {
+            "chunk_a": "WO-DOC-011-C006",
+            "chunk_b": "WO-DOC-038-C006",
+            "word_5gram_jaccard": 0.24712644
+          }
+        ]
+      },
+      "primary_body": {
+        "eligible_pairs_minimum_30_words": 68635,
+        "sequence_ratios_evaluated_after_safe_upper_bound": 0,
+        "top_5_jaccard_pairs_diagnostic_not_flags": [
+          {
+            "chunk_a": "WO-DOC-040-C004",
+            "chunk_b": "WO-DOC-040-C005",
+            "word_5gram_jaccard": 0.25641026
+          },
+          {
+            "chunk_a": "WO-DOC-011-C006",
+            "chunk_b": "WO-DOC-038-C006",
+            "word_5gram_jaccard": 0.21556886
+          },
+          {
+            "chunk_a": "WO-DOC-008-C006",
+            "chunk_b": "WO-DOC-026-C006",
+            "word_5gram_jaccard": 0.19879518
+          },
+          {
+            "chunk_a": "WO-DOC-008-C006",
+            "chunk_b": "WO-DOC-048-C007",
+            "word_5gram_jaccard": 0.19774011
+          },
+          {
+            "chunk_a": "WO-DOC-008-C006",
+            "chunk_b": "WO-DOC-011-C006",
+            "word_5gram_jaccard": 0.19753086
+          }
+        ]
+      }
+    },
+    "views": {
+      "full_text": "stored chunk text including context and overlap",
+      "primary_body": "exact source-locator spans from operational canonical blocks, joined in reference order; context prefix and overlap excluded only for analysis"
+    }
+  },
+  "orphan_detection": {
+    "candidate_count": 0,
+    "candidates": [],
+    "classification": "deterministic candidates for manual review, not semantic judgments; short chunks alone are not defects",
+    "rules": [
+      "empty text",
+      "single label without a value in primary body",
+      "primary body contains only explicit above/below cross-reference",
+      "body <=8 words or chunk <75 proxy tokens AND both title and heading absent",
+      "continuation marker at body start AND missing heading or midblock span",
+      "list/numbered procedure lacks heading",
+      "table row lacks canonical/header/sheet/row context or is split",
+      "overlap table row not whole"
+    ]
+  },
+  "outside_bucket_chunk_ids": [],
+  "recommendation": {
+    "decision": "LAYAK_DIBEKUKAN_UNTUK_PILOT_RETRIEVAL",
+    "rationale": [
+      "Short chunks have retained headings and operational bodies; length alone did not flag them.",
+      "All operational canonical body blocks covered, with nonwhitespace span coverage also checked.",
+      "No automatic heading insertion, merges, deletions or corrections were made."
+    ],
+    "review_notes": [
+      "Read the 20 shortest samples in full before approving the freeze.",
+      "Retain title/heading and table guide_context in downstream consumers; some document titles are metadata only.",
+      "Practitioner validation remains pending; token counts are pilot character proxies.",
+      "Rerun token counting only in a future version after the embedding model is fixed; preserve this pilot snapshot."
+    ],
+    "scope": "Freeze existing bytes and config for preliminary pilot retrieval; this is a chunk quality gate, not model optimality, domain validation, or retrieval performance evidence."
+  },
+  "shortest_20": [
+    {
+      "chunk_id": "WO-DOC-041-C008",
+      "document_id": "WO-DOC-041",
+      "heading": "Apakah seseorang sudah hadir",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0029-0029",
+            "line_end": 29,
+            "line_start": 29,
+            "section": "Apakah seseorang sudah hadir",
+            "serialized_char_end": 275,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 29,
+        "line_start": 29
+      },
+      "text": "Apakah seseorang sudah hadir\n\nInformasi kedatangan tidak diberikan kepada siapa pun yang bertanya. Arahkan kebutuhan yang sah kepada PIC keluarga. Salinan daftar tidak difoto, diteruskan ke vendor, atau ditempel pada area terbuka. Gunakan kode kelompok dalam komunikasi internal yang dapat terdengar tamu.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 77
+    },
+    {
+      "chunk_id": "WO-DOC-041-C011",
+      "document_id": "WO-DOC-041",
+      "heading": "Tamu melaporkan barang hilang",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0038-0038",
+            "line_end": 38,
+            "line_start": 38,
+            "section": "Tamu melaporkan barang hilang",
+            "serialized_char_end": 282,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 38,
+        "line_start": 38
+      },
+      "text": "Tamu melaporkan barang hilang\n\nCatat ciri umum, lokasi terakhir, waktu, dan kode pelapor. Hubungkan dengan PIC yang menangani lost and found. Jangan membuka tas atau menyebarkan foto dokumen pribadi. Jika barang ditemukan, kepemilikan diverifikasi melalui ciri pembeda serta prosedur pengelola sebelum diserahkan.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 79
+    },
+    {
+      "chunk_id": "WO-DOC-041-C013",
+      "document_id": "WO-DOC-041",
+      "heading": "Jawaban antarstaf berbeda",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0044-0044",
+            "line_end": 44,
+            "line_start": 44,
+            "section": "Jawaban antarstaf berbeda",
+            "serialized_char_end": 297,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 44,
+        "line_start": 44
+      },
+      "text": "Jawaban antarstaf berbeda\n\nHentikan penyebaran jawaban yang belum jelas, periksa versi dokumen, lalu minta STAFF-08 menyatukan informasi melalui PIC terkait. Setelah keputusan diterima, ulangi kepada staf meja dan escort. Catat pertanyaan serta koreksi untuk debrief agar FAQ berikutnya diperbarui berdasarkan temuan aktual.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 81
+    },
+    {
+      "chunk_id": "WO-DOC-041-C012",
+      "document_id": "WO-DOC-041",
+      "heading": "Lokasi acara berubah karena kondisi cuaca",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0041-0041",
+            "line_end": 41,
+            "line_start": 41,
+            "section": "Lokasi acara berubah karena kondisi cuaca",
+            "serialized_char_end": 286,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 41,
+        "line_start": 41
+      },
+      "text": "Lokasi acara berubah karena kondisi cuaca\n\nTunggu instruksi EC yang menyebut tujuan dan waktu berlaku. Ganti penunjuk arah dan tempatkan escort di simpang. PIC venue memastikan tujuan boleh dipakai; PIC vendor memeriksa kesiapan layanan. Informasikan tindakan praktis kepada tamu tanpa prediksi cuaca atau jaminan yang belum ada.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 83
+    },
+    {
+      "chunk_id": "WO-DOC-044-C015",
+      "document_id": "WO-DOC-044",
+      "heading": "20.30 sampai 21.00 perpisahan 30 menit",
+      "orphan_candidate": false,
+      "source_format": "PDF",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "p003-b007",
+            "heading": "20.30 sampai 21.00 perpisahan 30 menit",
+            "page_block": 7,
+            "page_end": 3,
+            "page_start": 3,
+            "serialized_char_end": 297,
+            "serialized_char_start": 0
+          }
+        ],
+        "page_end": 3,
+        "page_start": 3
+      },
+      "text": "20.30 sampai 21.00 perpisahan 30 menit\n\nPIC keluarga memeriksa kepulangan, LO mengonfirmasi kendaraan bila digunakan, dan PIC pengantin mengembalikan barang. MC menutup pukul 21.00 atas cue EC. Guest desk tetap memiliki penerima untuk tamu yang memerlukan bantuan. Vendor belum boleh melintasi jalur tamu dengan alat sampai zona dilepas.",
+      "title": "Timeline Koordinasi International Wedding dan Outdoor Reception",
+      "token_count": 85
+    },
+    {
+      "chunk_id": "WO-DOC-041-C006",
+      "document_id": "WO-DOC-041",
+      "heading": "Tamu membutuhkan bantuan bergerak",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0023-0023",
+            "line_end": 23,
+            "line_start": 23,
+            "section": "Tamu membutuhkan bantuan bergerak",
+            "serialized_char_end": 306,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 23,
+        "line_start": 23
+      },
+      "text": "Tamu membutuhkan bantuan bergerak\n\nTanyakan jenis bantuan yang diinginkan, lalu hubungi escort dan PIC venue untuk jalur yang tersedia. Minta izin sebelum menyentuh orang atau alat bantu. Jangan mengangkat tamu atau menggunakan jalur yang belum diperiksa. Kebutuhan pertolongan kesehatan diarahkan kepada petugas berwenang melalui PIC venue.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 86
+    },
+    {
+      "chunk_id": "WO-DOC-041-C009",
+      "document_id": "WO-DOC-041",
+      "heading": "Tamu datang saat ceremony berjalan",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0032-0032",
+            "line_end": 32,
+            "line_start": 32,
+            "section": "Tamu datang saat ceremony berjalan",
+            "serialized_char_end": 305,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 32,
+        "line_start": 32
+      },
+      "text": "Tamu datang saat ceremony berjalan\n\nFloor menentukan titik tunggu serta jeda masuk yang sesuai dengan arahan pemimpin prosesi. Escort menjaga pintu tetap dapat digunakan dan tidak memotong prosesi. Jangan mempersilakan masuk hanya karena kursi terlihat kosong. Guest desk tetap mencatat kedatangan dan memberi waktu pembaruan yang realistis.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 86
+    },
+    {
+      "chunk_id": "WO-DOC-041-C001",
+      "document_id": "WO-DOC-041",
+      "heading": "FAQ kerja guest desk",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0008-0008",
+            "line_end": 8,
+            "line_start": 8,
+            "section": "FAQ kerja guest desk",
+            "serialized_char_end": 326,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 8,
+        "line_start": 8
+      },
+      "text": "FAQ kerja guest desk\n\nFAQ ini dipakai STAFF-08 dan escort pada EVT-02 di VENUE-02 untuk sekitar 280 tamu, serta EVT-03 di VENUE-03 untuk sekitar 45 tamu. Jawaban harus disesuaikan dengan versi daftar dan fasilitas yang telah dikonfirmasi. Bila informasi belum tersedia, sampaikan sedang dikonfirmasi dan beri penerima tindak lanjut; jangan menebak.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 87
+    },
+    {
+      "chunk_id": "WO-DOC-041-C007",
+      "document_id": "WO-DOC-041",
+      "heading": "Tamu meminta makanan tertentu",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0026-0026",
+            "line_end": 26,
+            "line_start": 26,
+            "section": "Tamu meminta makanan tertentu",
+            "serialized_char_end": 316,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 26,
+        "line_start": 26
+      },
+      "text": "Tamu meminta makanan tertentu\n\nSampaikan kode kebutuhan kepada PIC vendor agar catering atau banquet mengonfirmasi. Jangan menjamin bebas bahan tertentu dari nama menu saja. Jika penyedia belum memberi jawaban, sampaikan keterbatasan informasi dan hubungkan tamu dengan personel layanan. Hindari menyebarkan informasi kesehatan melalui radio umum.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 87
+    },
+    {
+      "chunk_id": "WO-DOC-041-C005",
+      "document_id": "WO-DOC-041",
+      "heading": "Tamu menanyakan toilet atau ruang ibadah",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0020-0020",
+            "line_end": 20,
+            "line_start": 20,
+            "section": "Tamu menanyakan toilet atau ruang ibadah",
+            "serialized_char_end": 307,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 20,
+        "line_start": 20
+      },
+      "text": "Tamu menanyakan toilet atau ruang ibadah\n\nBerikan arah hanya ke fasilitas yang dikonfirmasi PIC venue. Jika belum diketahui, panggil penghubung venue dan jangan mengarahkan tamu ke pintu acak. Tawarkan escort apabila diperlukan. Tidak semua venue memiliki fasilitas yang sama; jangan membawa jawaban ballroom ke chapel atau garden tanpa pemeriksaan.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 88
+    },
+    {
+      "chunk_id": "WO-DOC-041-C010",
+      "document_id": "WO-DOC-041",
+      "heading": "Transport dinner EVT-03 belum datang",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0035-0035",
+            "line_end": 35,
+            "line_start": 35,
+            "section": "Transport dinner EVT-03 belum datang",
+            "serialized_char_end": 312,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 35,
+        "line_start": 35
+      },
+      "text": "Transport dinner EVT-03 belum datang\n\nHubungi LO STAFF-10 untuk posisi kendaraan dan perkiraan yang dikonfirmasi penyedia. Kelompok menunggu di titik yang diizinkan PIC venue. Jangan meminta driver melanggar pembatasan akses atau menjanjikan waktu tiba tanpa sumber. LO mencatat jumlah naik serta tiba dan menyerahkan kelompok kepada penerima dinner.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 88
+    },
+    {
+      "chunk_id": "WO-DOC-041-C002",
+      "document_id": "WO-DOC-041",
+      "heading": "Kode undangan tidak ada pada daftar",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0011-0011",
+            "line_end": 11,
+            "line_start": 11,
+            "section": "Kode undangan tidak ada pada daftar",
+            "serialized_char_end": 316,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 11,
+        "line_start": 11
+      },
+      "text": "Kode undangan tidak ada pada daftar\n\nArahkan tamu ke sisi meja, catat kode kelompok serta jumlah orang, dan minta PIC keluarga memverifikasi. Layanan reguler tetap berjalan. Jangan mengatakan tamu tidak diundang di depan antrean. WC membantu konfirmasi bila hubungan undangan belum jelas. Kursi baru diberikan setelah alokasi dan kondisi area diperiksa.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 89
+    },
+    {
+      "chunk_id": "WO-DOC-041-C004",
+      "document_id": "WO-DOC-041",
+      "heading": "Kursi yang dituju sudah ditempati",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0017-0017",
+            "line_end": 17,
+            "line_start": 17,
+            "section": "Kursi yang dituju sudah ditempati",
+            "serialized_char_end": 321,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 17,
+        "line_start": 17
+      },
+      "text": "Kursi yang dituju sudah ditempati\n\nMinta escort menjaga tamu tetap nyaman sementara floor memeriksa versi seating serta kelompok penghuni. Jangan memindahkan orang secara paksa atau menukar kursi keluarga berdasarkan dugaan. Perubahan dicatat dengan kelompok asal, tujuan, jumlah, alasan, serta pengesah. Guest desk dan escort menerima pembaruan yang sama.",
+      "title": "FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu",
+      "token_count": 89
+    },
+    {
+      "chunk_id": "WO-DOC-046-C004",
+      "document_id": "WO-DOC-046",
+      "heading": "Bila penerima tidak menjawab",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0017-0017",
+            "line_end": 17,
+            "line_start": 17,
+            "section": "Bila penerima tidak menjawab",
+            "serialized_char_end": 323,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 17,
+        "line_start": 17
+      },
+      "text": "Bila penerima tidak menjawab\n\nGunakan jalur cadangan yang disepakati saat briefing. Sampaikan event, lokasi, fakta, dampak, serta keputusan yang dibutuhkan. Penerima membaca ulang waktu dan tujuan. Tidak ada jawaban bukan persetujuan. Floor menahan cue yang belum memenuhi prasyarat; runner membawa pesan tetapi tidak mengambil alih kewenangan pengesah.",
+      "title": "Panduan Singkat Jalur Eskalasi dan Hak Pengambilan Keputusan",
+      "token_count": 89
+    },
+    {
+      "chunk_id": "WO-DOC-043-C012",
+      "document_id": "WO-DOC-043",
+      "heading": "17.30 sampai 18.00 entrance dan sambutan 30 menit",
+      "orphan_candidate": false,
+      "source_format": "DOCX",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "b0028",
+            "body_position": 28,
+            "heading": "17.30 sampai 18.00 entrance dan sambutan 30 menit",
+            "heading_path": [
+              "17.30 sampai 18.00 entrance dan sambutan 30 menit"
+            ],
+            "paragraph_position": 28,
+            "serialized_char_end": 319,
+            "serialized_char_start": 0
+          }
+        ]
+      },
+      "text": "17.30 sampai 18.00 entrance dan sambutan 30 menit\n\nEC mengesahkan cue setelah floor menerima kesiapan. MC, AV, dan dokumentasi mengakui nomor cue yang sama. PIC keluarga menyiapkan pembicara tanpa menutup jalur layanan. Jika sambutan memanjang, EC memeriksa dampaknya kepada catering dan waktu venue. WC mengurus prioritas client bila sesi tambahan perlu disederhanakan.",
+      "title": "Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",
+      "token_count": 93
+    },
+    {
+      "chunk_id": "WO-DOC-046-C006",
+      "document_id": "WO-DOC-046",
+      "heading": "Jejak keputusan minimum",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0023-0023",
+            "line_end": 23,
+            "line_start": 23,
+            "section": "Jejak keputusan minimum",
+            "serialized_char_end": 345,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 23,
+        "line_start": 23
+      },
+      "text": "Jejak keputusan minimum\n\nTuliskan waktu, pemicu, keputusan, pengesah, penerima, instruksi pengganti, dan status tindak lanjut. Sebut versi rundown apabila berubah. Handover kepada pengganti harus mendapat pengakuan. Masalah selesai secara lapangan dapat tetap memiliki tindakan perbaikan terbuka setelah acara; pemilik tindak lanjut tidak boleh hilang saat kru checkout.",
+      "title": "Panduan Singkat Jalur Eskalasi dan Hak Pengambilan Keputusan",
+      "token_count": 93
+    },
+    {
+      "chunk_id": "WO-DOC-018-C001",
+      "document_id": "WO-DOC-018",
+      "heading": "Catatan lapangan simulasi EVT-01",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0008-0008",
+            "line_end": 8,
+            "line_start": 8,
+            "section": "Catatan lapangan simulasi EVT-01",
+            "serialized_char_end": 348,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 8,
+        "line_start": 8
+      },
+      "text": "Catatan lapangan simulasi EVT-01\n\nEvent: EVT-01. Client: CLIENT-01. Venue: VENUE-01 garden villa. Jumlah rencana: sekitar 120 tamu. Waktu: WITA. Catatan ini merupakan kasus simulasi perpindahan dari garden ke area tertutup, bukan arsip kejadian perusahaan. Log disusun STAFF-07 dan diserahkan kepada STAFF-01 untuk pengendalian. Rundown awal versi 1.0 mengikuti briefing WO-DOC-012.",
+      "title": "Catatan Handover dan Perubahan Situasi pada Wedding Day",
+      "token_count": 96
+    },
+    {
+      "chunk_id": "WO-DOC-018-C003",
+      "document_id": "WO-DOC-018",
+      "heading": "14.30 pemeriksaan area",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0014-0014",
+            "line_end": 14,
+            "line_start": 14,
+            "section": "14.30 pemeriksaan area",
+            "serialized_char_end": 360,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 14,
+        "line_start": 14
+      },
+      "text": "14.30 pemeriksaan area\n\nSTAFF-06 melaporkan hujan dan permukaan garden basah; pengelola diminta memeriksa jalur serta fasilitas. STAFF-07 menahan pelepasan garden untuk tamu. STAFF-05 meminta perkiraan pemindahan dekor esensial, AV, dan layanan catering. STAFF-02 memeriksa preferensi client serta dampak terhadap ceremony. Status insiden INC-01 dibuka; kegiatan publik belum dimulai.",
+      "title": "Catatan Handover dan Perubahan Situasi pada Wedding Day",
+      "token_count": 96
+    },
+    {
+      "chunk_id": "WO-DOC-018-C007",
+      "document_id": "WO-DOC-018",
+      "heading": "15.40 izin buka dan 15.45 registrasi",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0026-0026",
+            "line_end": 26,
+            "line_start": 26,
+            "section": "15.40 izin buka dan 15.45 registrasi",
+            "serialized_char_end": 343,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 26,
+        "line_start": 26
+      },
+      "text": "15.40 izin buka dan 15.45 registrasi\n\nSTAFF-01 menerima laporan gabungan dan mengizinkan registrasi dibuka pukul 15.45. STAFF-08 mengakui dan mengarahkan tamu ke area tertutup. MC menerima kalimat pengantar perubahan lokasi melalui floor. Informasi kepada tamu menjelaskan lokasi serta bantuan akses, tanpa menyatakan prediksi cuaca atau jaminan keselamatan yang tidak dimiliki WO.",
+      "title": "Catatan Handover dan Perubahan Situasi pada Wedding Day",
+      "token_count": 96
+    },
+    {
+      "chunk_id": "WO-DOC-030-C001",
+      "document_id": "WO-DOC-030",
+      "heading": "Kartu keputusan untuk keterlambatan",
+      "orphan_candidate": false,
+      "source_format": "TXT",
+      "source_locator": {
+        "blocks": [
+          {
+            "block_id": "l0008-0008",
+            "line_end": 8,
+            "line_start": 8,
+            "section": "Kartu keputusan untuk keterlambatan",
+            "serialized_char_end": 347,
+            "serialized_char_start": 0
+          }
+        ],
+        "line_end": 8,
+        "line_start": 8
+      },
+      "text": "Kartu keputusan untuk keterlambatan\n\nEC STAFF-01 memutuskan perubahan rundown utama. PIC melaporkan posisi kegiatan, prasyarat yang gagal, perkiraan siap, dan dampak. WC STAFF-02 memeriksa persetujuan client bila biaya atau lingkup berubah. Floor tidak memotong urutan utama sendiri, MC tidak mengumumkan jam baru sebelum instruksi, dan runner tidak menyetujui perubahan atas nama EC.",
+      "title": "Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara",
+      "token_count": 96
+    }
+  ],
+  "token_count_method_distribution": {
+    "approx_unicode_chars_div4_v1": 371
+  },
+  "total_chunks": 371
+}

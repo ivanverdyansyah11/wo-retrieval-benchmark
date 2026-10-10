@@ -1,0 +1,35 @@
+{
+  "command": [
+    "git",
+    "-C",
+    "D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate",
+    "check-ignore",
+    "-v",
+    "--no-index",
+    "--stdin"
+  ],
+  "exit_code": 0,
+  "exact_rules": [
+    ".gitignore:1:.venv/\t.venv/a",
+    ".gitignore:2:.venv-ml/\t.venv-ml/a",
+    ".gitignore:9:*.egg-info/\tsrc/pkg.egg-info/a",
+    ".gitignore:7:__pycache__/\tsrc/x/__pycache__/a.pyc",
+    ".gitignore:4:.env\t.env",
+    ".gitignore:5:.env.*\t.env.local",
+    ".gitignore:32:/data.zip\tdata.zip",
+    ".gitignore:25:/models/\tmodels/weights.bin",
+    ".gitignore:24:/model_cache/\tmodel_cache/weights.bin",
+    ".gitignore:27:/tmp/\ttmp/work.zip",
+    ".gitignore:34:/experiments/human_judgments/development_v2/.server.lock\texperiments/human_judgments/development_v2/.server.lock"
+  ],
+  "publication_assets_not_ignored": [
+    "data/versions/v2_ai_corrected/chunks/chunks.jsonl",
+    "experiments/indexes/v2_ai_corrected/R3/vectors.npy",
+    "experiments/human_judgments/development_v2/human_judgment_history.jsonl",
+    "experiments/results/human_development_evaluation/milestone_9a18_20261010/evaluation.json"
+  ],
+  "git_init_performed": false,
+  "primary_git": "NOT INITIALIZED",
+  "intended_branch": "main",
+  "intended_commit_message": "feat: initial implementation of WO retrieval benchmark"
+}

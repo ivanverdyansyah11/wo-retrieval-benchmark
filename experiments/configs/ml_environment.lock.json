@@ -1,0 +1,1086 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-10-08T13:46:32.493Z",
+  "environment_path": "D:\\Project\\wo-retrieval-benchmark\\.venv-ml",
+  "python_version": "3.12.14",
+  "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+  "scope": "Installed ML preparation environment; not a research corpus snapshot or inference result",
+  "constraints": {
+    "immutable_torch": "torch==2.12.1+cu126",
+    "api_stack": [
+      "FlagEmbedding==1.4.2",
+      "transformers==4.57.6",
+      "sentence-transformers==5.2.0",
+      "huggingface-hub==0.36.2",
+      "peft==0.18.1"
+    ],
+    "transitive_policy": "Resolver chooses compatible dependencies; fsspec freeze removed, 2026.7.0 replaced by 2026.6.0"
+  },
+  "packages": {
+    "FlagEmbedding": "1.4.2",
+    "Jinja2": "3.1.6",
+    "MarkupSafe": "3.0.3",
+    "PyYAML": "6.0.3",
+    "accelerate": "1.15.0",
+    "aiohappyeyeballs": "2.7.1",
+    "aiohttp": "3.14.4",
+    "aiosignal": "1.4.0",
+    "anyio": "4.15.1",
+    "attrs": "26.1.0",
+    "certifi": "2026.7.22",
+    "charset-normalizer": "3.5.2",
+    "cloudpickle": "3.1.2",
+    "colorama": "0.4.6",
+    "datasets": "5.0.1",
+    "dill": "0.4.1",
+    "filelock": "3.32.3",
+    "frozenlist": "1.8.0",
+    "fsspec": "2026.6.0",
+    "h11": "0.16.0",
+    "httpcore": "1.0.9",
+    "httpx": "0.28.1",
+    "huggingface_hub": "0.36.2",
+    "idna": "3.20",
+    "ir_datasets": "0.6.3",
+    "joblib": "1.6.0",
+    "lxml": "6.1.3",
+    "lz4": "4.4.5",
+    "mpmath": "1.3.0",
+    "multidict": "6.9.1",
+    "multiprocess": "0.70.19",
+    "narwhals": "2.26.0",
+    "networkx": "3.6.1",
+    "numpy": "2.5.3",
+    "packaging": "26.3",
+    "pandas": "3.0.6",
+    "peft": "0.18.1",
+    "pip": "25.0.1",
+    "propcache": "0.5.4",
+    "protobuf": "7.36.2",
+    "psutil": "7.2.2",
+    "pyarrow": "25.0.1",
+    "python-dateutil": "2.9.0.post0",
+    "regex": "2026.9.29",
+    "requests": "2.34.2",
+    "safetensors": "0.8.0",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "sentence-transformers": "5.2.0",
+    "sentencepiece": "0.2.2",
+    "setuptools": "78.1.0",
+    "six": "1.17.0",
+    "sympy": "1.14.0",
+    "threadpoolctl": "3.7.0",
+    "tokenizers": "0.22.2",
+    "torch": "2.12.1+cu126",
+    "tqdm": "4.70.1",
+    "transformers": "4.57.6",
+    "typing_extensions": "4.16.0",
+    "tzdata": "2026.5",
+    "urllib3": "2.8.0",
+    "xxhash": "4.0.1",
+    "yarl": "1.25.1"
+  },
+  "pip_check": "PASS",
+  "cuda_regression": {
+    "torch": "2.12.1+cu126",
+    "cuda_runtime": "12.6",
+    "available": true,
+    "capability": [
+      6,
+      1
+    ],
+    "architectures": [
+      "sm_50",
+      "sm_60",
+      "sm_61",
+      "sm_70",
+      "sm_75",
+      "sm_80",
+      "sm_86",
+      "sm_90"
+    ],
+    "status": "PASS",
+    "tests": {
+      "allocation": {
+        "device": "cuda:0",
+        "values": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "pass": true
+      },
+      "matmul_fp32": {
+        "result": [
+          [
+            58,
+            64
+          ],
+          [
+            139,
+            154
+          ]
+        ],
+        "expected": [
+          [
+            58,
+            64
+          ],
+          [
+            139,
+            154
+          ]
+        ],
+        "finite": true,
+        "pass": true
+      },
+      "matmul_256_fp32": {
+        "shape": [
+          256,
+          256
+        ],
+        "finite": true,
+        "pass": true
+      },
+      "matmul_fp16_optional": {
+        "result": [
+          [
+            58,
+            64
+          ],
+          [
+            139,
+            154
+          ]
+        ],
+        "finite": true,
+        "pass": true
+      }
+    }
+  },
+  "torch_provenance": {
+    "index": "https://download.pytorch.org/whl/cu126",
+    "wheel": "torch-2.12.1+cu126-cp312-cp312-win_amd64.whl",
+    "published_sha256": "71ee0eca3bde3a4067dfbc28c705b914d0773edd29ac4a634ad5e7a07f336aa1",
+    "reinstalled": false
+  },
+  "resolved_install_plan": [
+    {
+      "name": "FlagEmbedding",
+      "version": "1.4.2",
+      "url": "https://files.pythonhosted.org/packages/6e/4a/eb1a033d744e5a854f0918b2a002fca0d7db72078aa70b5145d5100141c1/flagembedding-1.4.2-py3-none-any.whl",
+      "hashes": {
+        "sha256": "35e33a08e8ed5e299eabbe3bc23518eb66a424dd29ee08fb3802bf9aef9e9bf2"
+      }
+    },
+    {
+      "name": "accelerate",
+      "version": "1.15.0",
+      "url": "https://files.pythonhosted.org/packages/8a/4c/34f0450479d01195027260da68d8a3880683f1640c3ca5adf64acb3185f1/accelerate-1.15.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "97eacca0b73e45cb867dbf8c5d5d4dc32219544300e0c8992c7334dc2ef33cec"
+      }
+    },
+    {
+      "name": "datasets",
+      "version": "5.0.1",
+      "url": "https://files.pythonhosted.org/packages/44/0b/98fc6eb83333508ca5f44c52b3e287ea8137a0ad582714e2cbc67a02154b/datasets-5.0.1-py3-none-any.whl",
+      "hashes": {
+        "sha256": "9fbf73688f8c18f7529b4fe592abd04015f81d1e58001e4bac73ffb2b39d7cc4"
+      }
+    },
+    {
+      "name": "transformers",
+      "version": "4.57.6",
+      "url": "https://files.pythonhosted.org/packages/03/b8/e484ef633af3887baeeb4b6ad12743363af7cce68ae51e938e00aaa0529d/transformers-4.57.6-py3-none-any.whl",
+      "hashes": {
+        "sha256": "4c9e9de11333ddfe5114bc872c9f370509198acf0b87a832a0ab9458e2bd0550"
+      }
+    },
+    {
+      "name": "ir_datasets",
+      "version": "0.6.3",
+      "url": "https://files.pythonhosted.org/packages/1b/8e/1e56e401daf67c1f8acebf3791e9fe1e1a6b4fe605d8e6d1c6579d8fdce1/ir_datasets-0.6.3-py3-none-any.whl",
+      "hashes": {
+        "sha256": "8188ad99408dc042b3be7493fa8a9d76cf04681ca1ea010e97a5f93a0aaf1dbd"
+      }
+    },
+    {
+      "name": "peft",
+      "version": "0.18.1",
+      "url": "https://files.pythonhosted.org/packages/b3/14/b4e3f574acf349ae6f61f9c000a77f97a3b315b4bb6ad03791e79ae4a568/peft-0.18.1-py3-none-any.whl",
+      "hashes": {
+        "sha256": "0bf06847a3551e3019fc58c440cffc9a6b73e6e2962c95b52e224f77bbdb50f1"
+      }
+    },
+    {
+      "name": "protobuf",
+      "version": "7.36.2",
+      "url": "https://files.pythonhosted.org/packages/8a/55/b77bda4e5e5f5971fb51b07663694690e9afdb9402136c16a522bd621cad/protobuf-7.36.2-cp310-abi3-win_amd64.whl",
+      "hashes": {
+        "sha256": "a300819d441e078a5608c0d3c709796bb548136058fda017ae51d425b44fd353"
+      }
+    },
+    {
+      "name": "sentence-transformers",
+      "version": "5.2.0",
+      "url": "https://files.pythonhosted.org/packages/40/d0/3b2897ef6a0c0c801e9fecca26bcc77081648e38e8c772885ebdd8d7d252/sentence_transformers-5.2.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "aa57180f053687d29b08206766ae7db549be5074f61849def7b17bf0b8025ca2"
+      }
+    },
+    {
+      "name": "sentencepiece",
+      "version": "0.2.2",
+      "url": "https://files.pythonhosted.org/packages/8d/11/753fca2e6b109be3ab7867abf357dfe48677fe726ae5a5363d0b54ca9450/sentencepiece-0.2.2-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "7c6e7bf684dc12145bfa685d3060beaea55139134ba848289bee514ed42e7383"
+      }
+    },
+    {
+      "name": "dill",
+      "version": "0.4.1",
+      "url": "https://files.pythonhosted.org/packages/1e/77/dc8c558f7593132cf8fefec57c4f60c83b16941c574ac5f619abb3ae7933/dill-0.4.1-py3-none-any.whl",
+      "hashes": {
+        "sha256": "1e1ce33e978ae97fcfcff5638477032b801c46c7c65cf717f95fbc2248f79a9d"
+      }
+    },
+    {
+      "name": "fsspec",
+      "version": "2026.6.0",
+      "url": "https://files.pythonhosted.org/packages/e5/22/4222d7ddf3da30f363edaa98e329c2bce6c65497c9cb2810931c8b2c0fbc/fsspec-2026.6.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "02e0b71817df9b2169dc30a16832045764def1191b43dcff5bb85bdee212d2a1"
+      }
+    },
+    {
+      "name": "httpx",
+      "version": "0.28.1",
+      "url": "https://files.pythonhosted.org/packages/2a/39/e50c7c3a983047577ee07d2a9e53faf5a69493943ec3f6a384bdc792deb2/httpx-0.28.1-py3-none-any.whl",
+      "hashes": {
+        "sha256": "d909fcccc110f8c7faf814ca82a9a4d816bc5a6dbfea25d6591d6985b8ba59ad"
+      }
+    },
+    {
+      "name": "httpcore",
+      "version": "1.0.9",
+      "url": "https://files.pythonhosted.org/packages/7e/f5/f66802a942d491edb555dd61e3a9961140fd64c90bce1eafd741609d334d/httpcore-1.0.9-py3-none-any.whl",
+      "hashes": {
+        "sha256": "2d400746a40668fc9dec9810239072b40b4484b640a8c38fd654a024c7a1bf55"
+      }
+    },
+    {
+      "name": "huggingface_hub",
+      "version": "0.36.2",
+      "url": "https://files.pythonhosted.org/packages/a8/af/48ac8483240de756d2438c380746e7130d1c6f75802ef22f3c6d49982787/huggingface_hub-0.36.2-py3-none-any.whl",
+      "hashes": {
+        "sha256": "48f0c8eac16145dfce371e9d2d7772854a4f591bcb56c9cf548accf531d54270"
+      }
+    },
+    {
+      "name": "lxml",
+      "version": "6.1.3",
+      "url": "https://files.pythonhosted.org/packages/3a/5b/6ed903e4e6278a020c8a6f0dbbe78030d041840a6b4a64ea441a1e414077/lxml-6.1.3-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "3e9a00d1c2c30936f7add097c41afc5da6556c580909104aafd382cac92a855c"
+      }
+    },
+    {
+      "name": "lz4",
+      "version": "4.4.5",
+      "url": "https://files.pythonhosted.org/packages/a5/0b/a54cd7406995ab097fceb907c7eb13a6ddd49e0b231e448f1a81a50af65c/lz4-4.4.5-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "713a777de88a73425cf08eb11f742cd2c98628e79a8673d6a52e3c5f0c116f33"
+      }
+    },
+    {
+      "name": "multiprocess",
+      "version": "0.70.19",
+      "url": "https://files.pythonhosted.org/packages/71/70/38998b950a97ea279e6bd657575d22d1a2047256caf707d9a10fbce4f065/multiprocess-0.70.19-py312-none-any.whl",
+      "hashes": {
+        "sha256": "3a56c0e85dd5025161bac5ce138dcac1e49174c7d8e74596537e729fd5c53c28"
+      }
+    },
+    {
+      "name": "numpy",
+      "version": "2.5.3",
+      "url": "https://files.pythonhosted.org/packages/3c/a1/accf6d4f0c80c5d9ba9735d6b1550e444180599f34dec69ca01360f717ad/numpy-2.5.3-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "0a59a421a32580a009e8a1751345bf829631b990dc1794b80514ab722b435def"
+      }
+    },
+    {
+      "name": "packaging",
+      "version": "26.3",
+      "url": "https://files.pythonhosted.org/packages/63/34/ba1c580383c9eada3711951fef0795c80b829a078d72188184bcab9dd527/packaging-26.3-py3-none-any.whl",
+      "hashes": {
+        "sha256": "d7193f7c8e4e93f444fde0262bf90af30e16fa0ad0ad44cb553c87339b23cd1c"
+      }
+    },
+    {
+      "name": "pyarrow",
+      "version": "25.0.1",
+      "url": "https://files.pythonhosted.org/packages/65/ee/197cbf47e49f83e6ebeb946a5259a48a638dea27ac774db42fe78022179d/pyarrow-25.0.1-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "8858d7bfc22e3f51529aeaa4077225029724623e4595dc9eff8c793935c34140"
+      }
+    },
+    {
+      "name": "PyYAML",
+      "version": "6.0.3",
+      "url": "https://files.pythonhosted.org/packages/86/bf/899e81e4cce32febab4fb42bb97dcdf66bc135272882d1987881a4b519e9/pyyaml-6.0.3-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "5fcd34e47f6e0b794d17de1b4ff496c00986e1c83f7ab2fb8fcfe9616ff7477b"
+      }
+    },
+    {
+      "name": "regex",
+      "version": "2026.9.29",
+      "url": "https://files.pythonhosted.org/packages/93/19/489bc8db91196381c935752df01ba3f607140daece33b78d88573f028e64/regex-2026.9.29-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "fdd88ed5e20b1bcdd234421e454962c971aa44b653bdb7f1ea9ef683e90fb649"
+      }
+    },
+    {
+      "name": "requests",
+      "version": "2.34.2",
+      "url": "https://files.pythonhosted.org/packages/a0/f4/c67b0b3f1b9245e8d266f0f112c500d50e5b4e83cb6f3b71b6528104182a/requests-2.34.2-py3-none-any.whl",
+      "hashes": {
+        "sha256": "2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0"
+      }
+    },
+    {
+      "name": "safetensors",
+      "version": "0.8.0",
+      "url": "https://files.pythonhosted.org/packages/1b/6d/3fba214c1e5e0f69991677ec3bc17023f0421776975e1de0c682dca475e2/safetensors-0.8.0-cp310-abi3-win_amd64.whl",
+      "hashes": {
+        "sha256": "096ec1a98435df7beb08853bb5aa9081a84f23d0adc67ed1a0a10550f608373f"
+      }
+    },
+    {
+      "name": "tokenizers",
+      "version": "0.22.2",
+      "url": "https://files.pythonhosted.org/packages/65/71/0670843133a43d43070abeb1949abfdef12a86d490bea9cd9e18e37c5ff7/tokenizers-0.22.2-cp39-abi3-win_amd64.whl",
+      "hashes": {
+        "sha256": "c9ea31edff2968b44a88f97d784c2f16dc0729b8b143ed004699ebca91f05c48"
+      }
+    },
+    {
+      "name": "tqdm",
+      "version": "4.70.1",
+      "url": "https://files.pythonhosted.org/packages/a7/03/921a3d3c75785aca9ebfbfcabfbc3a1be12e2ab5265deb026d55a5a3f83e/tqdm-4.70.1-py3-none-any.whl",
+      "hashes": {
+        "sha256": "c293e525e6fef9c20e8728fd4612df02a0aa31bb5fe91ecd93e123b1b7bffa73"
+      }
+    },
+    {
+      "name": "pandas",
+      "version": "3.0.6",
+      "url": "https://files.pythonhosted.org/packages/bd/2a/14b3b17cd75cef4a1ee1af4234eb41cc1afe4103b98c2d80e8916abfd42b/pandas-3.0.6-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "3ef908d28590b3f42d7070e7ad8f9b34b442b260b7f3c1afb57e0040c58cdb1b"
+      }
+    },
+    {
+      "name": "psutil",
+      "version": "7.2.2",
+      "url": "https://files.pythonhosted.org/packages/b4/90/e2159492b5426be0c1fef7acba807a03511f97c5f86b3caeda6ad92351a7/psutil-7.2.2-cp37-abi3-win_amd64.whl",
+      "hashes": {
+        "sha256": "eb7e81434c8d223ec4a219b5fc1c47d0417b12be7ea866e24fb5ad6e84b3d988"
+      }
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.9.1",
+      "url": "https://files.pythonhosted.org/packages/72/8d/27c054166bac671770d1ea0ef7716134fe8119c0df224a58c89fd735a61c/scikit_learn-1.9.1-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "4b59abb30618121cc46b45972d6bf53a7128b4df4cd346c6ca6f4d5f9031e49c"
+      }
+    },
+    {
+      "name": "scipy",
+      "version": "1.18.1",
+      "url": "https://files.pythonhosted.org/packages/39/e7/979fd14e75008623df31ba70d6bb144700f68feadcea042021c06a05bf82/scipy-1.18.1-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "5e4d44984abc0020154ea81b247adeddcc3ac5527b975ff798bd1ba0adc513c2"
+      }
+    },
+    {
+      "name": "xxhash",
+      "version": "4.0.1",
+      "url": "https://files.pythonhosted.org/packages/aa/02/f9413d94fae43cec6d1a74c4f12156c6f4a7f5fd50e1d34defebdee3dec9/xxhash-4.0.1-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "5c2d525a3afabcd8e3549d85fc7e111fde6bc302d06a1893fe73adb79823415e"
+      }
+    },
+    {
+      "name": "aiohttp",
+      "version": "3.14.4",
+      "url": "https://files.pythonhosted.org/packages/b7/bc/8555013f84b53e4fdde423131b641af50e822c6d7d9118b24c52b31f6900/aiohttp-3.14.4-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "69dcb02d33dfe415d5ee342cc63b7d320efcaf4b761701c7bd7bfb91c715481a"
+      }
+    },
+    {
+      "name": "certifi",
+      "version": "2026.7.22",
+      "url": "https://files.pythonhosted.org/packages/0b/a7/71ac2cff56fec219ed242bb11b8efb69fcc4bec75db06fb7bfe35de520e6/certifi-2026.7.22-py3-none-any.whl",
+      "hashes": {
+        "sha256": "62f22742b58a1a33014a2b6b706588a8d7e2a88ae7bd1a6ebe8c992928483775"
+      }
+    },
+    {
+      "name": "charset-normalizer",
+      "version": "3.5.2",
+      "url": "https://files.pythonhosted.org/packages/eb/e6/e6e083884cbcfd49c64865af05027fe7011be7b2d9179524f099a1b611f3/charset_normalizer-3.5.2-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "780fbe7cab297b81dad9fb8dc5eb003c0468ffb0d9e5f65068c53a34661a96bc"
+      }
+    },
+    {
+      "name": "idna",
+      "version": "3.20",
+      "url": "https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl",
+      "hashes": {
+        "sha256": "ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c"
+      }
+    },
+    {
+      "name": "joblib",
+      "version": "1.6.0",
+      "url": "https://files.pythonhosted.org/packages/18/53/84099323c2ec4be98d935f63c033ac4151ee83836ca1050ede3b3aadf155/joblib-1.6.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "3dbbf9f6e4b592a2357b854608e980fe6390d131d7a82f011a377ef2ebef7aba"
+      }
+    },
+    {
+      "name": "narwhals",
+      "version": "2.26.0",
+      "url": "https://files.pythonhosted.org/packages/40/b5/1b84b2c784db76d69442334bc8b8748c840f13ca53be086f4f250ad4a0bc/narwhals-2.26.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "29326d74f107c347fd1009bd58e38d9f7c7c5b51e6de97bc93dbc325d9038b54"
+      }
+    },
+    {
+      "name": "python-dateutil",
+      "version": "2.9.0.post0",
+      "url": "https://files.pythonhosted.org/packages/ec/57/56b9bcc3c9c6a792fcbaf139543cee77261f3651ca9da0c93f5c1221264b/python_dateutil-2.9.0.post0-py2.py3-none-any.whl",
+      "hashes": {
+        "sha256": "a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427"
+      }
+    },
+    {
+      "name": "threadpoolctl",
+      "version": "3.7.0",
+      "url": "https://files.pythonhosted.org/packages/43/3f/f88a53f60a472b46f4023f56d204dd7de33d34c5d2acbfa0d70a674e639e/threadpoolctl-3.7.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "cd8b60b5641b45c67bbf73c64c843235fc2d8a480c87389f52f5dbee893b86be"
+      }
+    },
+    {
+      "name": "urllib3",
+      "version": "2.8.0",
+      "url": "https://files.pythonhosted.org/packages/92/9d/c4e665119135114480843e7ab388fa94d8480650450e6f8e26b70d323a4c/urllib3-2.8.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "0cf3cae568d36aa9576b28dfb35f11328f1cb974ca7647d9475ebb86c75ac6e3"
+      }
+    },
+    {
+      "name": "anyio",
+      "version": "4.15.1",
+      "url": "https://files.pythonhosted.org/packages/12/b8/4bd346e22b28902df4d651910f5242c28d84e4a5c2435ca5c3f797ed7e2e/anyio-4.15.1-py3-none-any.whl",
+      "hashes": {
+        "sha256": "6152fdbbf9a77fdec97731721bebf7c4c44f7c29b424b0065826173efc7ed101"
+      }
+    },
+    {
+      "name": "colorama",
+      "version": "0.4.6",
+      "url": "https://files.pythonhosted.org/packages/d1/d6/3965ed04c63042e047cb6a3e6ed1a63a35087b6a609aa3a15ed8ac56c221/colorama-0.4.6-py2.py3-none-any.whl",
+      "hashes": {
+        "sha256": "4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6"
+      }
+    },
+    {
+      "name": "tzdata",
+      "version": "2026.5",
+      "url": "https://files.pythonhosted.org/packages/94/21/1e5995a1c920cce14e4bffae20c665ec10e7ed03ab25e006cd741092b718/tzdata-2026.5-py2.py3-none-any.whl",
+      "hashes": {
+        "sha256": "b683bd1b6659ddcd810ff02ad09ba821d4bf1065072805063eb35c49617905ac"
+      }
+    },
+    {
+      "name": "aiohappyeyeballs",
+      "version": "2.7.1",
+      "url": "https://files.pythonhosted.org/packages/71/43/1947f06babed6b3f1d7f38b0c767f52df66bfb2bc10b468c4a7de9eceff2/aiohappyeyeballs-2.7.1-py3-none-any.whl",
+      "hashes": {
+        "sha256": "9243213661e29250eb41368e5daa826fc017156c3b8a11440826b2e3ed376472"
+      }
+    },
+    {
+      "name": "aiosignal",
+      "version": "1.4.0",
+      "url": "https://files.pythonhosted.org/packages/fb/76/641ae371508676492379f16e2fa48f4e2c11741bd63c48be4b12a6b09cba/aiosignal-1.4.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "053243f8b92b990551949e63930a839ff0cf0b0ebbe0597b0f3fb19e1a0fe82e"
+      }
+    },
+    {
+      "name": "attrs",
+      "version": "26.1.0",
+      "url": "https://files.pythonhosted.org/packages/64/b4/17d4b0b2a2dc85a6df63d1157e028ed19f90d4cd97c36717afef2bc2f395/attrs-26.1.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "c647aa4a12dfbad9333ca4e71fe62ddc36f4e63b2d260a37a8b83d2f043ac309"
+      }
+    },
+    {
+      "name": "cloudpickle",
+      "version": "3.1.2",
+      "url": "https://files.pythonhosted.org/packages/88/39/799be3f2f0f38cc727ee3b4f1445fe6d5e4133064ec2e4115069418a5bb6/cloudpickle-3.1.2-py3-none-any.whl",
+      "hashes": {
+        "sha256": "9acb47f6afd73f60dc1df93bb801b472f05ff42fa6c84167d25cb206be1fbf4a"
+      }
+    },
+    {
+      "name": "frozenlist",
+      "version": "1.8.0",
+      "url": "https://files.pythonhosted.org/packages/b8/af/38e51a553dd66eb064cdf193841f16f077585d4d28394c2fa6235cb41765/frozenlist-1.8.0-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "34187385b08f866104f0c0617404c8eb08165ab1272e884abc89c112e9c00746"
+      }
+    },
+    {
+      "name": "h11",
+      "version": "0.16.0",
+      "url": "https://files.pythonhosted.org/packages/04/4b/29cac41a4d98d144bf5f6d33995617b185d14b22401f75ca86f384e87ff1/h11-0.16.0-py3-none-any.whl",
+      "hashes": {
+        "sha256": "63cf8bbe7522de3bf65932fda1d9c2772064ffb3dae62d55932da54b31cb6c86"
+      }
+    },
+    {
+      "name": "multidict",
+      "version": "6.9.1",
+      "url": "https://files.pythonhosted.org/packages/d7/2e/8c9c2591df01e5692ad1bf92febb082a17b1c6c3a19aa8b7ff49988fd989/multidict-6.9.1-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "a16a1dc8529f9e734a41c3b856f3eae7ebacdc061dde3f8a844e0c7889c97203"
+      }
+    },
+    {
+      "name": "propcache",
+      "version": "0.5.4",
+      "url": "https://files.pythonhosted.org/packages/58/7b/6e8ef26f6d510a7916064fec68d55fcbfbdf7eb01e377480d66a122152d8/propcache-0.5.4-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "98914de2c4d7f0f9f4a8c6ea4bf05841f4175796941e3ef7d47eb718f22311fb"
+      }
+    },
+    {
+      "name": "six",
+      "version": "1.17.0",
+      "url": "https://files.pythonhosted.org/packages/b7/ce/149a00dd41f10bc29e5921b496af8b574d8413afcd5e30dfa0ed46c2cc5e/six-1.17.0-py2.py3-none-any.whl",
+      "hashes": {
+        "sha256": "4721f391ed90541fddacab5acf947aa0d3dc7d27b2e1e8eda2be8970586c3274"
+      }
+    },
+    {
+      "name": "yarl",
+      "version": "1.25.1",
+      "url": "https://files.pythonhosted.org/packages/bb/cc/51a7b4abf4ac593b8e7eb3794b28e5a35ae26eed8bc04787628d215af82f/yarl-1.25.1-cp312-cp312-win_amd64.whl",
+      "hashes": {
+        "sha256": "7d575b54cb3863ef9bc290ea4b009999d55dc237326131e4853cf33e888fee03"
+      }
+    }
+  ],
+  "cache_environment": {
+    "HF_HOME": "D:\\ModelCache\\huggingface",
+    "HF_HUB_CACHE": "D:\\ModelCache\\huggingface\\hub",
+    "TORCH_HOME": "D:\\ModelCache\\torch",
+    "PIP_CACHE_DIR": "D:\\ModelCache\\pip",
+    "TEMP": "D:\\ModelCache\\tmp",
+    "TMP": "D:\\ModelCache\\tmp"
+  },
+  "model": {
+    "repo_id": "BAAI/bge-m3",
+    "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+    "snapshot_path": "D:\\ModelCache\\huggingface\\hub\\models--BAAI--bge-m3\\snapshots\\5617a9f61b028005a4858fdac845db406aefb181",
+    "files": [
+      {
+        "file": "1_Pooling/config.json",
+        "bytes": 191,
+        "sha256": "e54c164a07274f2eb45bb724f54a79d1efcc90c41573887cd9a29aeee0597352",
+        "lfs_sha256_matches": null,
+        "git_blob_sha1": "9bd85925f325e25246d94c4918dc02ab98f2a1b7",
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "colbert_linear.pt",
+        "bytes": 2100674,
+        "sha256": "19bfbae397c2b7524158c919d0e9b19393c5639d098f0a66932c91ed8f5f9abb",
+        "lfs_sha256_matches": true,
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "config.json",
+        "bytes": 687,
+        "sha256": "26159e7ad065073448460117eb24b7a4572f6f4e78eadff65dc0a11c052449fa",
+        "lfs_sha256_matches": null,
+        "git_blob_sha1": "e6eda1c72da8f9dc30fdd9b69c73d35af3b7a7ad",
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "config_sentence_transformers.json",
+        "bytes": 123,
+        "sha256": "1eef72430e7194a1e59680e635aed81ffa083f05668dbc5bb1c56c04c0999c38",
+        "lfs_sha256_matches": null,
+        "git_blob_sha1": "1fba91c78a6c8e17227058ab6d4d3acb5d8630a9",
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "modules.json",
+        "bytes": 349,
+        "sha256": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+        "lfs_sha256_matches": null,
+        "git_blob_sha1": "952a9b81c0bfd99800fabf352f69c7ccd46c5e43",
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "pytorch_model.bin",
+        "bytes": 2271145830,
+        "sha256": "b5e0ce3470abf5ef3831aa1bd5553b486803e83251590ab7ff35a117cf6aad38",
+        "lfs_sha256_matches": true,
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "sentence_bert_config.json",
+        "bytes": 54,
+        "sha256": "eb9b44b13c0f52a3b3685c3b1cbdea1ba8b04bea123b98f61610048940776eb1",
+        "lfs_sha256_matches": null,
+        "git_blob_sha1": "0140ba1eac83a3c9b857d64baba91969d988624b",
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "sentencepiece.bpe.model",
+        "bytes": 5069051,
+        "sha256": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+        "lfs_sha256_matches": true,
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "sparse_linear.pt",
+        "bytes": 3516,
+        "sha256": "45c93804d2142b8f6d7ec6914ae23a1eee9c6a1d27d83d908a20d2afb3595ad9",
+        "lfs_sha256_matches": true,
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "special_tokens_map.json",
+        "bytes": 964,
+        "sha256": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835",
+        "lfs_sha256_matches": null,
+        "git_blob_sha1": "b1879d702821e753ffe4245048eee415d54a9385",
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "tokenizer.json",
+        "bytes": 17098108,
+        "sha256": "21106b6d7dab2952c1d496fb21d5dc9db75c28ed361a05f5020bbba27810dd08",
+        "lfs_sha256_matches": true,
+        "upstream_hash_verified": true
+      },
+      {
+        "file": "tokenizer_config.json",
+        "bytes": 444,
+        "sha256": "a62b2b6784f990259fddef5f16388693a8043be4f69179e6a5257eeb3f9abac4",
+        "lfs_sha256_matches": null,
+        "git_blob_sha1": "dc69ac559dcba2694012009aaa108c614541789a",
+        "upstream_hash_verified": true
+      }
+    ],
+    "actual_payload_bytes": 2295419991,
+    "status": "PASS",
+    "download_and_verification_seconds": 1186.427935499989
+  },
+  "recreation_note": "Install Python 3.12.14 and torch from the official cu126 index first, then resolve/install these exact remaining versions with torch pinned. Wheel hashes and source URLs are recorded; this JSON is an environment manifest, not a pip-consumable requirements file. No --no-deps or --force-reinstall was used.",
+  "tokenizer_audit": {
+    "status": "PASS",
+    "repo_id": "BAAI/bge-m3",
+    "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+    "tokenizer_class": "XLMRobertaTokenizerFast",
+    "is_fast": true,
+    "tokenizer_model_max_length": 8192,
+    "model_max_position_embeddings": 8194,
+    "sentence_bert_config": {
+      "max_seq_length": 8192,
+      "do_lower_case": false
+    },
+    "special_tokens_per_single_input": 2,
+    "chunk_count": 371,
+    "p95_definition": "nearest rank: sorted_values[ceil(0.95*N)-1]",
+    "A_serialization": "chunk['text'] unchanged",
+    "B_serialization": "Judul: {title}\nHeading: {heading}\nKonteks kategori: {category}\n\n{text}",
+    "stats_A": {
+      "min": 55,
+      "median": 108,
+      "mean": 166.3530997304582,
+      "p95": 468,
+      "max": 544
+    },
+    "stats_B": {
+      "min": 90,
+      "median": 145,
+      "mean": 204.28301886792454,
+      "p95": 514,
+      "max": 588
+    },
+    "context_token_delta": {
+      "min": 28,
+      "median": 37,
+      "mean": 37.92991913746631,
+      "p95": 50,
+      "max": 57
+    },
+    "caps": {
+      "512": {
+        "A_overflow_count": 1,
+        "B_overflow_count": 19,
+        "A_chunk_ids": [
+          "WO-DOC-042-C005"
+        ],
+        "B_chunk_ids": [
+          "WO-DOC-006-C002",
+          "WO-DOC-006-C003",
+          "WO-DOC-006-C004",
+          "WO-DOC-025-C002",
+          "WO-DOC-025-C003",
+          "WO-DOC-025-C004",
+          "WO-DOC-026-C002",
+          "WO-DOC-026-C003",
+          "WO-DOC-026-C004",
+          "WO-DOC-026-C005",
+          "WO-DOC-034-C003",
+          "WO-DOC-038-C004",
+          "WO-DOC-040-C003",
+          "WO-DOC-040-C004",
+          "WO-DOC-042-C002",
+          "WO-DOC-042-C003",
+          "WO-DOC-042-C004",
+          "WO-DOC-042-C005",
+          "WO-DOC-042-C006"
+        ]
+      },
+      "640": {
+        "A_overflow_count": 0,
+        "B_overflow_count": 0,
+        "A_chunk_ids": [],
+        "B_chunk_ids": []
+      },
+      "1024": {
+        "A_overflow_count": 0,
+        "B_overflow_count": 0,
+        "A_chunk_ids": [],
+        "B_chunk_ids": []
+      },
+      "2048": {
+        "A_overflow_count": 0,
+        "B_overflow_count": 0,
+        "A_chunk_ids": [],
+        "B_chunk_ids": []
+      },
+      "8192": {
+        "A_overflow_count": 0,
+        "B_overflow_count": 0,
+        "A_chunk_ids": [],
+        "B_chunk_ids": []
+      }
+    },
+    "longest_A": [
+      "WO-DOC-042-C005"
+    ],
+    "longest_B": [
+      "WO-DOC-042-C005"
+    ],
+    "model_loaded": false,
+    "audit_seconds": 1.9750112000037916,
+    "available_ram_bytes_after": 3811516416,
+    "context_source": "existing chunk.category; diagnostic only"
+  },
+  "inference_performed": false,
+  "final_resource_state": {
+    "captured_at": "2026-10-08T22:06:43.505180+08:00",
+    "available_ram_bytes": 4912472064,
+    "disk_free_bytes": {
+      "C:\\": 15614582784,
+      "D:\\": 908324298752
+    },
+    "gpu": "name, driver_version, memory.total [MiB], memory.used [MiB], memory.free [MiB], compute_cap\nNVIDIA GeForce GTX 1050, 581.80, 4096 MiB, 0 MiB, 4007 MiB, 6.1\n",
+    "packages": [
+      [
+        "FlagEmbedding",
+        "1.4.2"
+      ],
+      [
+        "Jinja2",
+        "3.1.6"
+      ],
+      [
+        "MarkupSafe",
+        "3.0.3"
+      ],
+      [
+        "PyYAML",
+        "6.0.3"
+      ],
+      [
+        "accelerate",
+        "1.15.0"
+      ],
+      [
+        "aiohappyeyeballs",
+        "2.7.1"
+      ],
+      [
+        "aiohttp",
+        "3.14.4"
+      ],
+      [
+        "aiosignal",
+        "1.4.0"
+      ],
+      [
+        "anyio",
+        "4.15.1"
+      ],
+      [
+        "attrs",
+        "26.1.0"
+      ],
+      [
+        "certifi",
+        "2026.7.22"
+      ],
+      [
+        "charset-normalizer",
+        "3.5.2"
+      ],
+      [
+        "cloudpickle",
+        "3.1.2"
+      ],
+      [
+        "colorama",
+        "0.4.6"
+      ],
+      [
+        "datasets",
+        "5.0.1"
+      ],
+      [
+        "dill",
+        "0.4.1"
+      ],
+      [
+        "filelock",
+        "3.32.3"
+      ],
+      [
+        "frozenlist",
+        "1.8.0"
+      ],
+      [
+        "fsspec",
+        "2026.6.0"
+      ],
+      [
+        "h11",
+        "0.16.0"
+      ],
+      [
+        "httpcore",
+        "1.0.9"
+      ],
+      [
+        "httpx",
+        "0.28.1"
+      ],
+      [
+        "huggingface_hub",
+        "0.36.2"
+      ],
+      [
+        "idna",
+        "3.20"
+      ],
+      [
+        "ir_datasets",
+        "0.6.3"
+      ],
+      [
+        "joblib",
+        "1.6.0"
+      ],
+      [
+        "lxml",
+        "6.1.3"
+      ],
+      [
+        "lz4",
+        "4.4.5"
+      ],
+      [
+        "mpmath",
+        "1.3.0"
+      ],
+      [
+        "multidict",
+        "6.9.1"
+      ],
+      [
+        "multiprocess",
+        "0.70.19"
+      ],
+      [
+        "narwhals",
+        "2.26.0"
+      ],
+      [
+        "networkx",
+        "3.6.1"
+      ],
+      [
+        "numpy",
+        "2.5.3"
+      ],
+      [
+        "packaging",
+        "26.3"
+      ],
+      [
+        "pandas",
+        "3.0.6"
+      ],
+      [
+        "peft",
+        "0.18.1"
+      ],
+      [
+        "pip",
+        "25.0.1"
+      ],
+      [
+        "propcache",
+        "0.5.4"
+      ],
+      [
+        "protobuf",
+        "7.36.2"
+      ],
+      [
+        "psutil",
+        "7.2.2"
+      ],
+      [
+        "pyarrow",
+        "25.0.1"
+      ],
+      [
+        "python-dateutil",
+        "2.9.0.post0"
+      ],
+      [
+        "regex",
+        "2026.9.29"
+      ],
+      [
+        "requests",
+        "2.34.2"
+      ],
+      [
+        "safetensors",
+        "0.8.0"
+      ],
+      [
+        "scikit-learn",
+        "1.9.1"
+      ],
+      [
+        "scipy",
+        "1.18.1"
+      ],
+      [
+        "sentence-transformers",
+        "5.2.0"
+      ],
+      [
+        "sentencepiece",
+        "0.2.2"
+      ],
+      [
+        "setuptools",
+        "78.1.0"
+      ],
+      [
+        "six",
+        "1.17.0"
+      ],
+      [
+        "sympy",
+        "1.14.0"
+      ],
+      [
+        "threadpoolctl",
+        "3.7.0"
+      ],
+      [
+        "tokenizers",
+        "0.22.2"
+      ],
+      [
+        "torch",
+        "2.12.1+cu126"
+      ],
+      [
+        "tqdm",
+        "4.70.1"
+      ],
+      [
+        "transformers",
+        "4.57.6"
+      ],
+      [
+        "typing_extensions",
+        "4.16.0"
+      ],
+      [
+        "tzdata",
+        "2026.5"
+      ],
+      [
+        "urllib3",
+        "2.8.0"
+      ],
+      [
+        "xxhash",
+        "4.0.1"
+      ],
+      [
+        "yarl",
+        "1.25.1"
+      ]
+    ],
+    "inference_resource_gate_met": false,
+    "inference_performed": false
+  }
+}

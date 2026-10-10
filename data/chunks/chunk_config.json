@@ -1,0 +1,16 @@
+{
+  "chunking": {
+    "overlap_tokens": 75,
+    "target_tokens": 500,
+    "token_count_method": "approx_unicode_chars_div4_v1"
+  },
+  "chunks_output": "data/chunks/chunks.jsonl",
+  "corpus_version": "v1-draft",
+  "documents_output": "data/processed/documents.jsonl",
+  "expected_documents": 50,
+  "inventory": "data/source_corpus/FILE_INVENTORY.csv",
+  "manifest": "data/source_corpus/corpus_manifest.json",
+  "pipeline_version": "1",
+  "reports_dir": "experiments/reports",
+  "source_documents": "data/source_corpus/documents"
+}

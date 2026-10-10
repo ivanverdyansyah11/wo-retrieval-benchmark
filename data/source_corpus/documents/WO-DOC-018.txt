@@ -1,0 +1,32 @@
+Catatan Handover dan Perubahan Situasi pada Wedding Day
+WO-DOC-018 | Wedding Organizer X | Versi 1.0
+Draft susunan peneliti; belum divalidasi praktisi. Skenario simulasi.
+Konteks: EVT-01
+Dokumen terkait: WO-DOC-012, WO-DOC-027, WO-DOC-030, WO-DOC-047, WO-DOC-050
+
+Catatan lapangan simulasi EVT-01
+Event: EVT-01. Client: CLIENT-01. Venue: VENUE-01 garden villa. Jumlah rencana: sekitar 120 tamu. Waktu: WITA. Catatan ini merupakan kasus simulasi perpindahan dari garden ke area tertutup, bukan arsip kejadian perusahaan. Log disusun STAFF-07 dan diserahkan kepada STAFF-01 untuk pengendalian. Rundown awal versi 1.0 mengikuti briefing WO-DOC-012.
+
+09.00 crew assembly
+Kru internal hadir untuk briefing dan menerima versi 1.0. STAFF-05 menangani vendor arrival, STAFF-06 memastikan akses dari pengelola. Outstanding penunjuk arah alternatif, uji ulang AV bila pindah, dan versi seating diberi pemilik. Belum ada keputusan perubahan lokasi. STAFF-09 menerima tugas penghubung antara storage dan floor tanpa kewenangan mengubah area setup.
+
+14.30 pemeriksaan area
+STAFF-06 melaporkan hujan dan permukaan garden basah; pengelola diminta memeriksa jalur serta fasilitas. STAFF-07 menahan pelepasan garden untuk tamu. STAFF-05 meminta perkiraan pemindahan dekor esensial, AV, dan layanan catering. STAFF-02 memeriksa preferensi client serta dampak terhadap ceremony. Status insiden INC-01 dibuka; kegiatan publik belum dimulai.
+
+14.40 keputusan pemindahan
+Pengelola melalui STAFF-06 mengonfirmasi alternatif tertutup dapat disiapkan dalam layout yang telah dibahas. STAFF-05 memberi rencana kerja pemindahan, dengan pemeriksaan ulang AV oleh teknisi. STAFF-01 memutuskan pindah ke area tertutup. STAFF-02 mencatat persetujuan CLIENT-01 atas perubahan lingkup tampilan dalam rencana alternatif, tanpa tambahan biaya pada simulasi ini. Jika biaya berubah pada implementasi nyata, persetujuan client harus diperoleh terlebih dahulu.
+
+14.45 sampai 15.15 pembaruan penerima
+STAFF-01 menerbitkan rundown versi 1.1, berlaku 14.45. Registrasi berubah dari 15.30 menjadi 15.45; ceremony dari 16.30 menjadi 16.45. STAFF-08 menerima instruksi lokasi dan petunjuk baru, STAFF-04 menerima titik kumpul keluarga, STAFF-03 menerima rute pengantin melalui WC. STAFF-05 mengoordinasikan pemindahan alat; STAFF-06 mengawasi akses bersama pengelola. Penerima membaca ulang waktu dan lokasi, versi 1.0 ditandai diganti.
+
+15.30 pemeriksaan ulang
+Pengelola melalui PIC venue melaporkan jalur alternatif boleh dipakai. Teknisi AV melalui PIC vendor mengonfirmasi perangkat telah diuji pada posisi baru. Floor memeriksa seating untuk dasar 120 tamu, titik standby, dan jalur keluar yang disetujui. Tidak ada kru WO membuka panel atau mengubah instalasi listrik. STAFF-08 menguji arah escort; dua penunjuk lama garden diturunkan agar tamu tidak mengikuti jalur salah.
+
+15.40 izin buka dan 15.45 registrasi
+STAFF-01 menerima laporan gabungan dan mengizinkan registrasi dibuka pukul 15.45. STAFF-08 mengakui dan mengarahkan tamu ke area tertutup. MC menerima kalimat pengantar perubahan lokasi melalui floor. Informasi kepada tamu menjelaskan lokasi serta bantuan akses, tanpa menyatakan prediksi cuaca atau jaminan keselamatan yang tidak dimiliki WO.
+
+16.45 ceremony dan 18.15 resepsi
+Floor menerima kesiapan pengantin, keluarga, pemimpin prosesi, dokumentasi, serta AV. EC mengesahkan cue ceremony pukul 16.45. Resepsi dimulai pukul 18.15 setelah catering siap. Bagian inti tetap dipertahankan; buffer dan transisi disesuaikan dalam versi 1.1. Waktu penutupan publik tetap 21.00 pada simulasi setelah EC dan PIC venue mengonfirmasi rencana layanan dapat mengikuti.
+
+21.10 sampai 22.30 handover penutupan
+INC-01 ditutup secara operasional pukul 21.10 setelah kegiatan publik selesai dan tidak ada hambatan tersisa dari perpindahan. STAFF-05 mengatur checkout vendor, STAFF-06 memeriksa area dengan pengelola. Handover area selesai 22.30 dalam simulasi dengan catatan evaluasi penunjuk arah dan urutan pindah AV. Log diserahkan kepada EC; tindak lanjut proses tetap terbuka untuk debrief meskipun insiden operasional ditutup. WO-DOC-050 memuat laporan penyelesaian yang merujuk kronologi ini.

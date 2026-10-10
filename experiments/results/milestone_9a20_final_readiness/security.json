@@ -1,0 +1,658 @@
+{
+  "scanned_text_members": 2709,
+  "secret_candidates": [],
+  "user_specific_paths": [
+    "data.zip!data/benchmark/development_qrels_ai_silver_manifest.json",
+    "data.zip!experiments/configs/dense_v2_binding.json",
+    "data.zip!experiments/configs/ml_environment.lock.json",
+    "data.zip!experiments/configs/retrieval_protocol_v1.toml",
+    "data.zip!experiments/human_judgments/development_v2/exports/researcher_reviewed_9a18_20261010/human_judgments.jsonl",
+    "data.zip!experiments/human_judgments/development_v2/human_judgment_history.jsonl",
+    "data.zip!experiments/indexes/v2_ai_corrected/dense_completion_plan.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/dense_reuse_eligibility.json",
+    "data.zip!experiments/reports/benchmark_protocol_v1.md",
+    "data.zip!experiments/reports/bge_m3_feasibility.md",
+    "data.zip!experiments/reports/environment_feasibility.md",
+    "data.zip!experiments/reports/milestone_8a_lexical_audit.json",
+    "data.zip!experiments/reports/milestone_8a_lexical_retrieval.md",
+    "data.zip!experiments/reports/milestone_8b_dense_audit.json",
+    "data.zip!experiments/reports/milestone_8b_dense_retrieval.md",
+    "data.zip!experiments/reports/milestone_8c_hybrid_audit.json",
+    "data.zip!experiments/reports/milestone_8c_hybrid_retrieval.md",
+    "data.zip!experiments/reports/milestone_8c_memory_diagnostic.md",
+    "data.zip!experiments/reports/milestone_8d_a_equivalence_audit.json",
+    "data.zip!experiments/reports/milestone_8d_a_equivalence_audit.md",
+    "data.zip!experiments/reports/milestone_8d_b_query_embedding_integration.md",
+    "data.zip!experiments/reports/milestone_9a10b_full_colab_preparation.md",
+    "data.zip!experiments/reports/milestone_9a10_colab_embedding_preparation.md",
+    "data.zip!experiments/reports/milestone_9a11_full_colab_import_r3v2.md",
+    "data.zip!experiments/reports/milestone_9a12_offline_retrieval_development_pilot.md",
+    "data.zip!experiments/reports/milestone_9a13_pooled_relevance_assessment.md",
+    "data.zip!experiments/reports/milestone_9a14_pilot_assessment_audit.md",
+    "data.zip!experiments/reports/milestone_9a15_second_assessor_agreement_audit.md",
+    "data.zip!experiments/reports/milestone_9a17_human_annotation_metric_evaluator_audit.md",
+    "data.zip!experiments/reports/milestone_9a17_human_annotation_usage.md",
+    "data.zip!experiments/reports/milestone_9a2_researcher_validation_plan.md",
+    "data.zip!experiments/reports/milestone_9a4_corpus_reconciliation.md",
+    "data.zip!experiments/reports/milestone_9a4_qrels_readiness.md",
+    "data.zip!experiments/reports/milestone_9a5_corpus_correction.md",
+    "data.zip!experiments/reports/milestone_9a6_v2_corpus_snapshot.md",
+    "data.zip!experiments/reports/milestone_9a8_v2_index_preparation.md",
+    "data.zip!experiments/reports/milestone_9a9_v2_dense_completion.json",
+    "data.zip!experiments/reports/milestone_9a9_v2_dense_completion.md",
+    "data.zip!experiments/reports/milestone_9a_validation_preparation.md",
+    "data.zip!experiments/results/milestone_9a12_development_pilot/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a12_development_pilot/run_manifest.json",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/manifest.json",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a14_pilot_assessment_audit/manifest.json",
+    "data.zip!experiments/results/milestone_9a14_pilot_assessment_audit/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a15_second_assessor_agreement_audit/manifest.json",
+    "data.zip!experiments/results/milestone_9a15_second_assessor_agreement_audit/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a17_human_workflow_audit/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/dry_run_20261010/dry_run.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/idempotence_check_20261010/import_receipt.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/idempotence_dry_run_20261010/dry_run.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/import_20261010/import_receipt.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/import_20261010/post_import_verification.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/protected_integrity.json",
+    "data.zip!scripts/audit_pilot_assessments.py",
+    "data.zip!scripts/build_v2_pilot.py",
+    "data.zip!scripts/prepare_judgment_pool.py",
+    "data.zip!scripts/run_development_pilot.py",
+    "data.zip!src/wo_retrieval/dense/index.py",
+    "data.zip!src/wo_retrieval/dense/model.py",
+    "data.zip!src/wo_retrieval/dense/resources.py",
+    "data.zip!src/wo_retrieval/query_vectors/__main__.py",
+    "data.zip!tests/test_dense_retrieval.py",
+    "data.zip!tests/test_hybrid_retrieval.py",
+    "data.zip!tests/test_query_vectors.py",
+    "data.zip!tests/test_versioned_dense.py",
+    "data.zip!README.md",
+    "data/benchmark/development_qrels_ai_silver_manifest.json",
+    "experiments/configs/dense_v2_binding.json",
+    "experiments/configs/ml_environment.lock.json",
+    "experiments/configs/retrieval_protocol_v1.toml",
+    "experiments/human_judgments/development_v2/human_judgment_history.jsonl",
+    "experiments/human_judgments/development_v2/exports/researcher_reviewed_9a18_20261010/human_judgments.jsonl",
+    "experiments/indexes/v2_ai_corrected/dense_completion_plan.json",
+    "experiments/indexes/v2_ai_corrected/dense_reuse_eligibility.json",
+    "experiments/portable/v2_bge_m3/bge_m3_v2_colab.ipynb",
+    "experiments/portable/v2_bge_m3/bge_m3_v2_full_colab.ipynb",
+    "experiments/reports/benchmark_protocol_v1.md",
+    "experiments/reports/bge_m3_feasibility.md",
+    "experiments/reports/environment_feasibility.md",
+    "experiments/reports/milestone_8a_lexical_audit.json",
+    "experiments/reports/milestone_8a_lexical_retrieval.md",
+    "experiments/reports/milestone_8b_dense_audit.json",
+    "experiments/reports/milestone_8b_dense_retrieval.md",
+    "experiments/reports/milestone_8c_hybrid_audit.json",
+    "experiments/reports/milestone_8c_hybrid_retrieval.md",
+    "experiments/reports/milestone_8c_memory_diagnostic.md",
+    "experiments/reports/milestone_8d_a_equivalence_audit.json",
+    "experiments/reports/milestone_8d_a_equivalence_audit.md",
+    "experiments/reports/milestone_8d_b_query_embedding_integration.md",
+    "experiments/reports/milestone_9a10b_full_colab_preparation.md",
+    "experiments/reports/milestone_9a10_colab_embedding_preparation.md",
+    "experiments/reports/milestone_9a11_full_colab_import_r3v2.md",
+    "experiments/reports/milestone_9a12_offline_retrieval_development_pilot.md",
+    "experiments/reports/milestone_9a13_pooled_relevance_assessment.md",
+    "experiments/reports/milestone_9a14_pilot_assessment_audit.md",
+    "experiments/reports/milestone_9a15_second_assessor_agreement_audit.md",
+    "experiments/reports/milestone_9a17_human_annotation_metric_evaluator_audit.md",
+    "experiments/reports/milestone_9a17_human_annotation_usage.md",
+    "experiments/reports/milestone_9a19_repository_cleanup_github_readiness.md",
+    "experiments/reports/milestone_9a2_researcher_validation_plan.md",
+    "experiments/reports/milestone_9a4_corpus_reconciliation.md",
+    "experiments/reports/milestone_9a4_qrels_readiness.md",
+    "experiments/reports/milestone_9a5_corpus_correction.md",
+    "experiments/reports/milestone_9a6_v2_corpus_snapshot.md",
+    "experiments/reports/milestone_9a8_v2_index_preparation.md",
+    "experiments/reports/milestone_9a9_v2_dense_completion.json",
+    "experiments/reports/milestone_9a9_v2_dense_completion.md",
+    "experiments/reports/milestone_9a_validation_preparation.md",
+    "experiments/results/milestone_9a12_development_pilot/protected_integrity.json",
+    "experiments/results/milestone_9a12_development_pilot/run_manifest.json",
+    "experiments/results/milestone_9a13_judgment_pool/manifest.json",
+    "experiments/results/milestone_9a13_judgment_pool/protected_integrity.json",
+    "experiments/results/milestone_9a14_pilot_assessment_audit/manifest.json",
+    "experiments/results/milestone_9a14_pilot_assessment_audit/protected_integrity.json",
+    "experiments/results/milestone_9a15_second_assessor_agreement_audit/manifest.json",
+    "experiments/results/milestone_9a15_second_assessor_agreement_audit/protected_integrity.json",
+    "experiments/results/milestone_9a17_human_workflow_audit/protected_integrity.json",
+    "experiments/results/milestone_9a18_controlled_import/protected_integrity.json",
+    "experiments/results/milestone_9a18_controlled_import/dry_run_20261010/dry_run.json",
+    "experiments/results/milestone_9a18_controlled_import/idempotence_check_20261010/import_receipt.json",
+    "experiments/results/milestone_9a18_controlled_import/idempotence_dry_run_20261010/dry_run.json",
+    "experiments/results/milestone_9a18_controlled_import/import_20261010/import_receipt.json",
+    "experiments/results/milestone_9a18_controlled_import/import_20261010/post_import_verification.json",
+    "experiments/results/milestone_9a19_repository_readiness/baseline_base.json",
+    "experiments/results/milestone_9a19_repository_readiness/baseline_ml.json",
+    "experiments/results/milestone_9a19_repository_readiness/candidate.json",
+    "experiments/results/milestone_9a19_repository_readiness/candidate_checks.json",
+    "experiments/results/milestone_9a19_repository_readiness/candidate_tests.log",
+    "experiments/results/milestone_9a19_repository_readiness/candidate_verification.json",
+    "experiments/results/milestone_9a19_repository_readiness/final_candidate.json",
+    "experiments/results/milestone_9a19_repository_readiness/post_base.json",
+    "experiments/results/milestone_9a19_repository_readiness/post_ml.json",
+    "experiments/results/milestone_9a19_repository_readiness/post_ml.log",
+    "experiments/results/milestone_9a19_repository_readiness/post_restored_ml.json",
+    "experiments/results/milestone_9a19_repository_readiness/post_restored_ml.log",
+    "experiments/results/milestone_9a19_repository_readiness/protected_integrity.json",
+    "experiments/results/milestone_9a19_repository_readiness/working_verification.json",
+    "scripts/audit_pilot_assessments.py",
+    "scripts/build_v2_pilot.py",
+    "scripts/prepare_judgment_pool.py",
+    "scripts/run_development_pilot.py",
+    "src/wo_retrieval/dense/index.py",
+    "src/wo_retrieval/dense/model.py",
+    "src/wo_retrieval/dense/resources.py",
+    "src/wo_retrieval/query_vectors/__main__.py",
+    "tests/test_dense_retrieval.py",
+    "tests/test_hybrid_retrieval.py",
+    "tests/test_query_vectors.py",
+    "tests/test_versioned_dense.py",
+    "tests/repository_integrity.py",
+    "tests/test_repository_integrity.py"
+  ],
+  "contact_candidates": [
+    "data.zip!data/chunks/chunks.jsonl",
+    "data.zip!data/validation/pilot_snapshot.json",
+    "data.zip!data/versions/v2_ai_corrected/chunks/chunks.jsonl",
+    "data.zip!data/versions/v2_ai_corrected/reports/tokenizer_lengths.json",
+    "data.zip!data/versions/v2_ai_corrected/reports/v1_v2_chunk_mapping.json",
+    "data.zip!data/versions/v2_ai_corrected/validation/pilot_snapshot.json",
+    "data.zip!experiments/human_judgments/development_v2/annotation_input.jsonl",
+    "data.zip!experiments/human_judgments/development_v2/annotation_manifest.json",
+    "data.zip!experiments/human_judgments/development_v2/exports/initial_pending_20261010/human_judgments.jsonl",
+    "data.zip!experiments/human_judgments/development_v2/exports/researcher_reviewed_9a18_20261010/human_judgments.jsonl",
+    "data.zip!experiments/human_judgments/development_v2/human_judgment_history.jsonl",
+    "data.zip!experiments/human_judgments/development_v2/incoming/wo_reviewed_judgments_654_IMPORT_INPUT.jsonl",
+    "data.zip!experiments/indexes/R1/documents.json",
+    "data.zip!experiments/indexes/R1/model.json",
+    "data.zip!experiments/indexes/R2/documents.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/dense_reuse_eligibility.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/R1/documents.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/R1/manifest.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/R1/model.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/R2/documents.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/R2/manifest.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/R3/manifest.json",
+    "data.zip!experiments/indexes/v2_ai_corrected/R3/rows.json",
+    "data.zip!experiments/portable/v2_bge_m3/full_input_package.zip!inputs.json",
+    "data.zip!experiments/reports/chunk_quality_audit.json",
+    "data.zip!experiments/reports/milestone_8a_lexical_audit.json",
+    "data.zip!experiments/reports/milestone_8a_lexical_retrieval.md",
+    "data.zip!experiments/reports/milestone_8b_dense_audit.json",
+    "data.zip!experiments/results/human_development_evaluation/milestone_9a18_20261010/evaluation.json",
+    "data.zip!experiments/results/human_development_evaluation/milestone_9a18_20261010/method_comparisons.csv",
+    "data.zip!experiments/results/human_development_evaluation/milestone_9a18_20261010/per_query.csv",
+    "data.zip!experiments/results/human_development_evaluation/readiness_before_annotations/evaluation.json",
+    "data.zip!experiments/results/milestone_9a12_development_pilot/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a12_development_pilot/rankings.jsonl",
+    "data.zip!experiments/results/milestone_9a12_development_pilot/run_manifest.json",
+    "data.zip!experiments/results/milestone_9a12_development_pilot/top10.csv",
+    "data.zip!experiments/results/milestone_9a12_development_pilot/top10.md",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/blind_assessment_ledger.jsonl",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/blind_pilot_30.jsonl",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/blind_pilot_30_assessments.jsonl",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/manifest.json",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/pool_origin_audit.jsonl",
+    "data.zip!experiments/results/milestone_9a13_judgment_pool/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a14_pilot_assessment_audit/pilot_second_input.jsonl",
+    "data.zip!experiments/results/milestone_9a14_pilot_assessment_audit/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a14_pilot_assessment_audit/second_assessor_package.zip!pilot_second_input.jsonl",
+    "data.zip!experiments/results/milestone_9a15_second_assessor_agreement_audit/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a17_human_workflow_audit/protected_integrity.json",
+    "data.zip!experiments/results/milestone_9a17_human_workflow_audit/source_audit.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/annotation_input.jsonl",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/annotation_manifest.json",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/exports/initial_pending_20261010/human_judgments.jsonl",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/incoming/wo_reviewed_judgments_654_IMPORT_INPUT.jsonl",
+    "data.zip!experiments/results/milestone_9a18_controlled_import/protected_integrity.json",
+    "data.zip!pilot_second_assessments.jsonl",
+    "data.zip!colab_exchange/v2/bge_m3_v2_full_embeddings.zip!manifest.json",
+    "pilot_second_assessments.jsonl",
+    "colab_exchange/v2/bge_m3_v2_full_embeddings.zip!manifest.json",
+    "data/chunks/chunks.jsonl",
+    "data/validation/pilot_snapshot.json",
+    "data/versions/v2_ai_corrected/chunks/chunks.jsonl",
+    "data/versions/v2_ai_corrected/reports/tokenizer_lengths.json",
+    "data/versions/v2_ai_corrected/reports/v1_v2_chunk_mapping.json",
+    "data/versions/v2_ai_corrected/validation/pilot_snapshot.json",
+    "experiments/human_judgments/development_v2/annotation_input.jsonl",
+    "experiments/human_judgments/development_v2/annotation_manifest.json",
+    "experiments/human_judgments/development_v2/human_judgment_history.jsonl",
+    "experiments/human_judgments/development_v2/exports/initial_pending_20261010/human_judgments.jsonl",
+    "experiments/human_judgments/development_v2/exports/researcher_reviewed_9a18_20261010/human_judgments.jsonl",
+    "experiments/human_judgments/development_v2/incoming/wo_reviewed_judgments_654_IMPORT_INPUT.jsonl",
+    "experiments/indexes/R1/documents.json",
+    "experiments/indexes/R1/model.json",
+    "experiments/indexes/R2/documents.json",
+    "experiments/indexes/v2_ai_corrected/dense_reuse_eligibility.json",
+    "experiments/indexes/v2_ai_corrected/R1/documents.json",
+    "experiments/indexes/v2_ai_corrected/R1/manifest.json",
+    "experiments/indexes/v2_ai_corrected/R1/model.json",
+    "experiments/indexes/v2_ai_corrected/R2/documents.json",
+    "experiments/indexes/v2_ai_corrected/R2/manifest.json",
+    "experiments/indexes/v2_ai_corrected/R3/manifest.json",
+    "experiments/indexes/v2_ai_corrected/R3/rows.json",
+    "experiments/portable/v2_bge_m3/full_input_package.zip!inputs.json",
+    "experiments/reports/chunk_quality_audit.json",
+    "experiments/reports/milestone_8a_lexical_audit.json",
+    "experiments/reports/milestone_8a_lexical_retrieval.md",
+    "experiments/reports/milestone_8b_dense_audit.json",
+    "experiments/results/human_development_evaluation/milestone_9a18_20261010/evaluation.json",
+    "experiments/results/human_development_evaluation/milestone_9a18_20261010/method_comparisons.csv",
+    "experiments/results/human_development_evaluation/milestone_9a18_20261010/per_query.csv",
+    "experiments/results/human_development_evaluation/readiness_before_annotations/evaluation.json",
+    "experiments/results/milestone_9a12_development_pilot/protected_integrity.json",
+    "experiments/results/milestone_9a12_development_pilot/rankings.jsonl",
+    "experiments/results/milestone_9a12_development_pilot/run_manifest.json",
+    "experiments/results/milestone_9a12_development_pilot/top10.csv",
+    "experiments/results/milestone_9a12_development_pilot/top10.md",
+    "experiments/results/milestone_9a13_judgment_pool/blind_assessment_ledger.jsonl",
+    "experiments/results/milestone_9a13_judgment_pool/blind_pilot_30.jsonl",
+    "experiments/results/milestone_9a13_judgment_pool/blind_pilot_30_assessments.jsonl",
+    "experiments/results/milestone_9a13_judgment_pool/manifest.json",
+    "experiments/results/milestone_9a13_judgment_pool/pool_origin_audit.jsonl",
+    "experiments/results/milestone_9a13_judgment_pool/protected_integrity.json",
+    "experiments/results/milestone_9a14_pilot_assessment_audit/pilot_second_input.jsonl",
+    "experiments/results/milestone_9a14_pilot_assessment_audit/protected_integrity.json",
+    "experiments/results/milestone_9a14_pilot_assessment_audit/second_assessor_package.zip!pilot_second_input.jsonl",
+    "experiments/results/milestone_9a15_second_assessor_agreement_audit/protected_integrity.json",
+    "experiments/results/milestone_9a17_human_workflow_audit/protected_integrity.json",
+    "experiments/results/milestone_9a17_human_workflow_audit/source_audit.json",
+    "experiments/results/milestone_9a18_controlled_import/protected_integrity.json",
+    "experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/annotation_input.jsonl",
+    "experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/annotation_manifest.json",
+    "experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/exports/initial_pending_20261010/human_judgments.jsonl",
+    "experiments/results/milestone_9a18_controlled_import/import_20261010/workspace_backup/incoming/wo_reviewed_judgments_654_IMPORT_INPUT.jsonl",
+    "experiments/results/milestone_9a19_repository_readiness/baseline.json",
+    "experiments/results/milestone_9a19_repository_readiness/cleanup_inventory.csv",
+    "experiments/results/milestone_9a19_repository_readiness/protected_integrity.json"
+  ],
+  "binary_metadata": [
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-001.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-002.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-003.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-004.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-005.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-007.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-009.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-010.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-013.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-014.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-015.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-016.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-017.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-019.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-020.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-021.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-022.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-023.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-024.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-027.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-028.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-029.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-031.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-032.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-033.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-035.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-036.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-037.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-039.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-043.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-044.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-045.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-047.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-049.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/corpus_candidates/v2_ai_corrected/documents/WO-DOC-050.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/VALIDATION_CHECKLIST.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-001.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-002.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-003.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-004.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-005.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-007.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-009.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-010.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-013.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-014.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-015.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-016.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-017.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-019.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-020.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-021.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-022.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-023.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-024.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-027.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-028.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-029.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-031.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-032.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-033.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-035.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-036.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-037.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-039.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-043.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-044.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-045.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-047.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-049.docx",
+      "has_author": true,
+      "has_last_modifier": true
+    },
+    {
+      "path": "data/source_corpus/documents/WO-DOC-050.pdf",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "experiments/deliverables/supervisor_review/LAPORAN_PROGRES_DAN_UJI_COBA_RETRIEVAL_WO_MUHAMMAD_IVAN_VERDYANSYAH.docx",
+      "has_author": true,
+      "has_last_modifier": false
+    },
+    {
+      "path": "experiments/results/human_development_evaluation/milestone_9a18_20261010/development_metrics_report.docx",
+      "has_author": true,
+      "has_last_modifier": false
+    }
+  ],
+  "notebooks": [
+    {
+      "path": "experiments/portable/v2_bge_m3/bge_m3_v2_colab.ipynb",
+      "cells": 10,
+      "cells_with_outputs": 0,
+      "execution_counts": 0
+    },
+    {
+      "path": "experiments/portable/v2_bge_m3/bge_m3_v2_full_colab.ipynb",
+      "cells": 19,
+      "cells_with_outputs": 0,
+      "execution_counts": 0
+    }
+  ],
+  "license_files": [],
+  "git_history": "UNAVAILABLE: no Git repository"
+}

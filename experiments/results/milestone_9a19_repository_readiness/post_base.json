@@ -1,0 +1,21 @@
+{
+  "command": [
+    "D:\\Project\\wo-retrieval-benchmark\\.venv\\Scripts\\python.exe",
+    "D:\\ModelCache\\tmp\\wo-m9a19\\tests.py",
+    "post",
+    "base"
+  ],
+  "modules": [
+    "test_human_annotation",
+    "test_human_import",
+    "test_pipeline",
+    "test_versioned_pipeline"
+  ],
+  "tests": 64,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "seconds": 18.197,
+  "torch_imported": false,
+  "exit_code": 0
+}

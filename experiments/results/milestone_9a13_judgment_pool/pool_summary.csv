@@ -1,0 +1,19 @@
+﻿query_id,style,category,pooled,existing_judged,unjudged,grade_0,grade_1,grade_2,multiple_methods,R1_candidates,R2_candidates,R3_candidates,R4_candidates
+WO-DEV-001,lexical_oriented,A. Struktur Tim dan Job Description,39,3,36,1,1,1,21,20,20,20,20
+WO-DEV-002,lexical_oriented,B. Persiapan Sebelum Acara,32,6,26,4,1,1,23,20,20,20,20
+WO-DEV-003,lexical_oriented,C. Wedding Day Operation,36,7,29,4,1,2,23,20,20,20,20
+WO-DEV-004,lexical_oriented,D. Vendor Management,30,3,27,0,1,2,25,20,20,20,20
+WO-DEV-005,lexical_oriented,E. Contingency / Problem Handling,29,4,25,2,0,2,22,20,20,20,20
+WO-DEV-006,lexical_oriented,J. Post-event / Evaluation,39,6,33,3,1,2,26,20,20,20,20
+WO-DEV-007,semantic_paraphrase,A. Struktur Tim dan Job Description,36,4,32,2,1,1,23,20,20,20,20
+WO-DEV-008,semantic_paraphrase,B. Persiapan Sebelum Acara,38,4,34,3,1,0,23,20,20,20,20
+WO-DEV-009,semantic_paraphrase,E. Contingency / Problem Handling,43,6,37,3,0,3,23,20,20,20,20
+WO-DEV-010,semantic_paraphrase,F. Venue Operation,37,4,33,2,1,1,24,20,20,20,20
+WO-DEV-011,semantic_paraphrase,G. Guest dan Family Handling,39,6,33,4,0,2,23,20,20,20,20
+WO-DEV-012,semantic_paraphrase,J. Post-event / Evaluation,38,6,32,4,0,2,23,20,20,20,20
+WO-DEV-013,mixed_natural,C. Wedding Day Operation,37,6,31,2,2,2,24,20,20,20,20
+WO-DEV-014,mixed_natural,D. Vendor Management,33,3,30,1,1,1,23,20,20,20,20
+WO-DEV-015,mixed_natural,E. Contingency / Problem Handling,31,4,27,0,2,2,22,20,20,20,20
+WO-DEV-016,mixed_natural,G. Guest dan Family Handling,36,4,32,3,0,1,24,20,20,20,20
+WO-DEV-017,mixed_natural,H. Rundown dan Timeline,37,8,29,5,1,2,26,20,20,20,20
+WO-DEV-018,mixed_natural,I. Internal Communication / Escalation,44,6,38,3,0,3,25,20,20,20,20

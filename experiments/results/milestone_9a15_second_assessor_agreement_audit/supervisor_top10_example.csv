@@ -1,0 +1,11 @@
+query_id,query_text,rank,R1,R2,R3,R4
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",1,WO-DOC-033-C003,WO-DOC-033-C003,WO-DOC-019-C004,WO-DOC-019-C004
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",2,WO-DOC-019-C004,WO-DOC-048-C003,WO-DOC-048-C004,WO-DOC-048-C003
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",3,WO-DOC-048-C003,WO-DOC-019-C004,WO-DOC-048-C006,WO-DOC-048-C004
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",4,WO-DOC-033-C001,WO-DOC-022-C006,WO-DOC-048-C001,WO-DOC-022-C006
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",5,WO-DOC-022-C006,WO-DOC-034-C005,WO-DOC-048-C003,WO-DOC-033-C005
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",6,WO-DOC-033-C005,WO-DOC-043-C016,WO-DOC-048-C005,WO-DOC-033-C003
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",7,WO-DOC-010-C003,WO-DOC-028-C002,WO-DOC-048-C002,WO-DOC-048-C006
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",8,WO-DOC-043-C016,WO-DOC-048-C004,WO-DOC-019-C006,WO-DOC-048-C001
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",9,WO-DOC-014-C002,WO-DOC-010-C003,WO-DOC-033-C005,WO-DOC-004-C005
+WO-DEV-006,"Saat checkout, apa yang perlu dicocokkan pada daftar aset WO sebelum barang diserahterimakan?",10,WO-DOC-028-C002,WO-DOC-047-C006,WO-DOC-011-C002,WO-DOC-011-C002

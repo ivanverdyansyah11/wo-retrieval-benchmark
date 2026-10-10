@@ -1,0 +1,136 @@
+{
+  "total": 654,
+  "resolved": 654,
+  "missing": 0,
+  "unresolved": 0,
+  "resolved_fraction": 1.0,
+  "status": "COMPLETE_RESOLVED",
+  "by_query": [
+    {
+      "query_id": "WO-DEV-001",
+      "total": 39,
+      "resolved": 39,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-002",
+      "total": 32,
+      "resolved": 32,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-003",
+      "total": 36,
+      "resolved": 36,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-004",
+      "total": 30,
+      "resolved": 30,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-005",
+      "total": 29,
+      "resolved": 29,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-006",
+      "total": 39,
+      "resolved": 39,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-007",
+      "total": 36,
+      "resolved": 36,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-008",
+      "total": 38,
+      "resolved": 38,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-009",
+      "total": 43,
+      "resolved": 43,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-010",
+      "total": 37,
+      "resolved": 37,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-011",
+      "total": 39,
+      "resolved": 39,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-012",
+      "total": 38,
+      "resolved": 38,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-013",
+      "total": 37,
+      "resolved": 37,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-014",
+      "total": 33,
+      "resolved": 33,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-015",
+      "total": 31,
+      "resolved": 31,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-016",
+      "total": 36,
+      "resolved": 36,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-017",
+      "total": 37,
+      "resolved": 37,
+      "pending": 0,
+      "unresolved": 0
+    },
+    {
+      "query_id": "WO-DEV-018",
+      "total": 44,
+      "resolved": 44,
+      "pending": 0,
+      "unresolved": 0
+    }
+  ]
+}

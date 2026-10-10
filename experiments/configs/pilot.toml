@@ -1,0 +1,14 @@
+pipeline_version = "1"
+corpus_version = "v1-draft"
+expected_documents = 50
+source_documents = "data/source_corpus/documents"
+manifest = "data/source_corpus/corpus_manifest.json"
+inventory = "data/source_corpus/FILE_INVENTORY.csv"
+documents_output = "data/processed/documents.jsonl"
+chunks_output = "data/chunks/chunks.jsonl"
+reports_dir = "experiments/reports"
+
+[chunking]
+target_tokens = 500
+overlap_tokens = 75
+token_count_method = "approx_unicode_chars_div4_v1"

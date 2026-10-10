@@ -1,0 +1,28 @@
+{
+  "tests": {
+    "tests": 202,
+    "passed": 201,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 1,
+    "skip_reasons": [
+      {
+        "test": "test_full_colab.LocalEncodingEnvironmentTests.test_pinned_local_encoding_provenance",
+        "reason": "Local encoding provenance requires torch metadata; CPU quick start excludes it"
+      }
+    ],
+    "seconds": 57.247,
+    "exit_code": 0,
+    "torch_imported": false,
+    "external_access_attempts": []
+  },
+  "verification": "PASS: all 72 rankings and exact saved metrics",
+  "word": {
+    "status": "PASS",
+    "tables": 22,
+    "macro_cells_exact": true,
+    "visual_rendering": "NOT RUN"
+  },
+  "torch_imported": false,
+  "external_access_attempts": []
+}

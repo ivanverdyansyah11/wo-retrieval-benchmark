@@ -1,0 +1,29 @@
+{
+  "command": [
+    "D:\\Project\\wo-retrieval-benchmark\\.venv-ml\\Scripts\\python.exe",
+    "D:\\ModelCache\\tmp\\wo-m9a19\\tests.py",
+    "post_restored",
+    "ml"
+  ],
+  "modules": [
+    "test_dense_retrieval",
+    "test_development_pilot",
+    "test_full_colab",
+    "test_hybrid_retrieval",
+    "test_judgment_pool",
+    "test_lexical_retrieval",
+    "test_pilot_assessment_audit",
+    "test_portable_embeddings",
+    "test_protocol_config",
+    "test_query_vectors",
+    "test_v2_index_preparation",
+    "test_versioned_dense"
+  ],
+  "tests": 132,
+  "failures": 0,
+  "errors": 3,
+  "skipped": 0,
+  "seconds": 56.003,
+  "torch_imported": false,
+  "exit_code": 1
+}

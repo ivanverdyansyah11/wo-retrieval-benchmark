@@ -1,0 +1,14 @@
+{
+  "files": {
+    "annotation_input.jsonl": "f67790436f726a064e234d6665c0c3a7fdbc93a725dc14fea9face2b40afe960",
+    "annotation_manifest.json": "b23aa48b04a30470edc2d82f254694dd85ba268f2a0a1cc6b581eabe70dd316d",
+    "human_judgment_history.jsonl": "98e4f65320daf8a2361c8ec40bc4abc08511c9e8b7a9d3f29537cacfdc7c9bb7",
+    "storage_manifest.json": "9164fdebee0b9b759d344ae9fbe2153756af7eeb9146d974b8b72705b7d7991e",
+    "incoming\\wo_reviewed_judgments_654_IMPORT_AUDIT.json": "fc4f2de03fe19c851d196008708f3f45c5f9fdda13274be5abcc5bbaf9eba17b",
+    "incoming\\wo_reviewed_judgments_654_IMPORT_INPUT.jsonl": "36a422efe1899e7bc0b3cb321edf3d4764bdcfbf0bd7bf27d0543db43afd5bca",
+    "exports\\initial_pending_20261010\\export_manifest.json": "fa7589c1492e032a3bb2196004b399e3e312d56d43cc7c5221edafc8ed7080c8",
+    "exports\\initial_pending_20261010\\human_judgments.jsonl": "2b676fc3f3cad6ec86010507d58c259b82409f051b4309103ca65459178f2618",
+    "exports\\initial_pending_20261010\\human_resolved_qrels.tsv": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "runtime_locks_excluded": true
+}

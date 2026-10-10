@@ -1,0 +1,129 @@
+diff --git "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\README.md" "b/D:\\Project\\wo-retrieval-benchmark\\README.md"
+index f38103b..cca54c9 100644
+--- "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\README.md"
++++ "b/D:\\Project\\wo-retrieval-benchmark\\README.md"
+@@ -120 +120 @@ Implementasi R1â€“R4, saved development retrieval, annotation workflow, dan pool
+-Disarankan GitHub **private** dengan dosen sebagai collaborator. Inventory dan keterbatasan clean-clone ada di [audit readiness](experiments/reports/milestone_9a19_repository_cleanup_github_readiness.md). Audit ini tidak melakukan commit atau push.
++Disarankan GitHub **private** dengan dosen sebagai collaborator. Inventory historis ada di [audit 9A.19](experiments/reports/milestone_9a19_repository_cleanup_github_readiness.md); hasil regression dan readiness terbaru ada di [audit 9A.20](experiments/reports/milestone_9a20_final_github_readiness.md). Tidak ada Git init, commit, atau push pada milestone ini.
+diff --git "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\docs\\setup.md" "b/D:\\Project\\wo-retrieval-benchmark\\docs\\setup.md"
+index 816d008..24672b8 100644
+--- "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\docs\\setup.md"
++++ "b/D:\\Project\\wo-retrieval-benchmark\\docs\\setup.md"
+@@ -23 +23 @@ Artefak wajib mencakup data, configs, indeks R1/R2/R3 V2 dan 18 query vectors, s
+-Loader `full_colab.load_components`, `versioned_dense.prepare_v2`, Dense/Hybrid CLI, dan sebagian integration tests memerlukan V1 Dense cache, checkpoint hashes, dan official FlagEmbedding installation pada paths Windows eksternal. Driver 9A.12/9A.13 juga merujuk baseline di luar repository. Kode tersebut dipertahankan sebagai provenance dan tidak dijanjikan portable setelah clone.
++Loader `full_colab.load_components`, `versioned_dense.prepare_v2`, dan Dense/Hybrid CLI historis memerlukan V1 Dense cache, checkpoint hashes, dan official FlagEmbedding installation pada paths Windows eksternal. Driver 9A.12/9A.13 juga merujuk baseline di luar repository. Kode tersebut dipertahankan sebagai provenance dan tidak dijanjikan portable setelah clone. Jalur development CPU menggunakan `verify_repository.py`.
+@@ -35 +35 @@ $env:PYTHONIOENCODING = 'utf-8'
+-Perintah menjalankan seluruh existing tests. Sebagian integration tests membutuhkan cache/checkpoint provenance di atas. Clean clone tanpa environment ML historis dapat gagal saat setup kelas. Jangan menyembunyikan errors untuk membuat PASS. Fixture encoder bukan inference nyata.
++Perintah menjalankan seluruh tests. Exchange/import/kontrak Colab diuji dengan frozen V2 artifacts dan synthetic vector fixtures pada CPU. Satu test terpisah, `LocalEncodingEnvironmentTests.test_pinned_local_encoding_provenance`, SKIP jika metadata dependency encoding, historical cache/checkpoint, atau official implementation tidak tersedia. SKIP dicatat terpisah dari PASS. Jika prasyarat tersedia tetapi hash/versi tidak cocok, test gagal; error tidak diubah menjadi SKIP. Fixture encoder bukan inference nyata dan actual cloud execution tidak diklaim diuji ulang.
+@@ -37 +37 @@ Perintah menjalankan seluruh existing tests. Sebagian integration tests membutuh
+-Environment asal terpisah: 64 ingestion/human tests memakai `.venv`; 132 lainnya memakai `.venv-ml`. Environment CPU gabungan dapat mengimpor keduanya, tetapi aset eksternal tetap menjadi syarat beberapa tests. Linux/macOS belum diverifikasi; imported-history validation memakai semantik absolute Windows paths. Hasil actual candidate tests ada di laporan audit.
++Environment asal memiliki dua venv terpisah. Environment CPU gabungan pada README dapat menjalankan seluruh offline suite; prasyarat encoding historis hanya untuk test environment-specific di atas. Historical whole-workspace receipts tetap utuh. Tests me-relokasi paths repository, memeriksa semua scientific data/results/configs dan source lama, serta membedakan dokumentasi, test implementation, generated metadata, dan external cache yang diuji terpisah. Linux/macOS belum diverifikasi; imported-history validation memakai semantik absolute Windows paths. Hasil audit terbaru ada pada [Milestone 9A.20](../experiments/reports/milestone_9a20_final_github_readiness.md).
+diff --git "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_development_pilot.py" "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_development_pilot.py"
+index 3181d2f..a1344cb 100644
+--- "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_development_pilot.py"
++++ "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_development_pilot.py"
+@@ -6,0 +7 @@ import unittest
++from repository_integrity import research_baseline
+@@ -85 +86,3 @@ class PublishedPilotTests(unittest.TestCase):
+-        self.assertEqual(pilot.verify_baseline(integrity['hashes'])['status'],'PASS')
++        scoped=research_baseline(pilot.ROOT,integrity['hashes'])
++        self.assertEqual(pilot.verify_baseline(scoped['hashes'])['status'],'PASS')
++        self.assertEqual(len(scoped['hashes'])+len(scoped['excluded']),len(integrity['hashes']))
+diff --git "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_full_colab.py" "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_full_colab.py"
+index 96cfe19..cfc5c90 100644
+--- "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_full_colab.py"
++++ "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_full_colab.py"
+@@ -18,0 +19,2 @@ from wo_retrieval.versioned_dense import prepare_v2
++from wo_retrieval.versioned_dense import read_binding
++from importlib.metadata import version, PackageNotFoundError
+@@ -32 +34,12 @@ class FullColabTests(unittest.TestCase):
+-        cls.context=prepare_v2(ROOT)
++        # CPU exchange fixtures use the frozen V2 artifacts, not a local encoding installation.
++        binding,preparation=read_binding(ROOT)
++        config,rows,statistics=preparation.bind_v2(ROOT)
++        bm25=preparation.verify_index(ROOT/binding['r2_index'],rows,config,
++                                     preparation.identity(ROOT,config,'R2'),statistics)
++        directory=ROOT/binding['r3_index']
++        manifest=json.loads((directory/'manifest.json').read_text(encoding='utf8'))
++        mapping=json.loads((directory/'rows.json').read_text(encoding='utf8'))
++        load_vectors(directory,manifest['identity'],mapping)
++        cls.context=dict(root=ROOT,binding=binding,config=config,rows=rows,mapping=mapping,
++                         bm25=bm25,identity=manifest['identity'],local=None)
++        full.verify_local(cls.context,cls.package)
+@@ -207,0 +221,17 @@ class FullColabTests(unittest.TestCase):
++class LocalEncodingEnvironmentTests(unittest.TestCase):
++    def test_pinned_local_encoding_provenance(self):
++        for name in ('torch','FlagEmbedding','transformers'):
++            try:version(name)
++            except PackageNotFoundError:self.skipTest('Local encoding provenance requires '+name+' metadata; CPU quick start excludes it')
++        binding=json.loads((ROOT/'experiments/configs/dense_v2_binding.json').read_text(encoding='utf8'))
++        lock=json.loads((ROOT/'experiments/configs/ml_environment.lock.json').read_text(encoding='utf8'))['model']
++        if not Path(binding['v1_dense_index']).is_dir() or not Path(lock['snapshot_path']).is_dir():
++            self.skipTest('Local encoding provenance requires the historical V1 cache and checkpoint files')
++        flag=ROOT/'.venv-ml/Lib/site-packages/FlagEmbedding'
++        if not flag.is_dir():self.skipTest('Historical official FlagEmbedding implementation files unavailable')
++        context=prepare_v2(ROOT)
++        package,_=full.read_input(PACKAGE_PATH)
++        full.verify_local(context,package)
++        self.assertEqual(len(context['rows']),371)
++
++
+diff --git "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_judgment_pool.py" "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_judgment_pool.py"
+index 44a8a39..e184e03 100644
+--- "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_judgment_pool.py"
++++ "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_judgment_pool.py"
+@@ -7,0 +8 @@ import unittest
++from repository_integrity import research_baseline
+@@ -105 +106,3 @@ class PublishedPoolTests(unittest.TestCase):
+-        pool.verify_baseline(integrity['hashes'])
++        scoped=research_baseline(pool.ROOT,integrity['hashes'])
++        self.assertEqual(pool.verify_baseline(scoped['hashes'])['status'],'PASS')
++        self.assertEqual(len(scoped['hashes'])+len(scoped['excluded']),len(integrity['hashes']))
+diff --git "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_pilot_assessment_audit.py" "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_pilot_assessment_audit.py"
+index 2e560ec..63f738b 100644
+--- "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_pilot_assessment_audit.py"
++++ "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_pilot_assessment_audit.py"
+@@ -9,0 +10 @@ import zipfile
++from repository_integrity import research_baseline
+@@ -101 +102,7 @@ class PublishedAuditTests(unittest.TestCase):
+-        pilot,first,_,baseline=audit.preflight()
++        historical=json.loads((audit.OUTPUT/'protected_integrity.json').read_text(encoding='utf8'))['hashes']
++        scoped=research_baseline(audit.ROOT,historical)
++        with tempfile.TemporaryDirectory() as tmp:
++            target=Path(tmp)
++            (target/'protected_integrity.json').write_text(json.dumps({'hashes':scoped['hashes']}),encoding='utf8')
++            with patch.object(audit,'OUTPUT',target):
++                pilot,first,_,baseline=audit.preflight()
+@@ -106 +113,3 @@ class PublishedAuditTests(unittest.TestCase):
+-        self.assertGreaterEqual(len(baseline),728)
++        self.assertGreaterEqual(len(historical),728)
++        self.assertEqual(baseline,scoped['hashes'])
++        self.assertEqual(len(baseline)+len(scoped['excluded']),len(historical))
+diff --git "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_query_vectors.py" "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_query_vectors.py"
+index caec2dd..d87a0bf 100644
+--- "a/D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\tests\\test_query_vectors.py"
++++ "b/D:\\Project\\wo-retrieval-benchmark\\tests\\test_query_vectors.py"
+@@ -215,3 +215,4 @@ class EncoderSafetyTests(unittest.TestCase):
+-        base = Path('D:/ModelCache/wo-retrieval-benchmark/query_vectors')
+-        base.mkdir(parents=True,exist_ok=True)
+-        with tempfile.TemporaryDirectory(dir=base,prefix='synthetic-safety-') as temporary:
++        with tempfile.TemporaryDirectory(prefix='synthetic-safety-') as temporary:
++            base = Path(temporary)
++            def fixture_path(value):
++                return base if str(value)=='D:/ModelCache/wo-retrieval-benchmark/query_vectors' else Path(value)
+@@ -219 +220 @@ class EncoderSafetyTests(unittest.TestCase):
+-                output = Path(temporary)/str(approved)
++                output = base/str(approved)
+@@ -220,0 +222,2 @@ class EncoderSafetyTests(unittest.TestCase):
++                     patch('wo_retrieval.query_vectors.__main__.Path',side_effect=fixture_path), \
++                     patch('wo_retrieval.dense.model.offline_environment'), \
+@@ -237,0 +241,9 @@ class EncoderSafetyTests(unittest.TestCase):
++                    evidence=json.loads(output.with_name(output.name+'.run.json').read_text(encoding='utf8'))
++                    self.assertEqual(evidence['completion_status'],'INCOMPLETE')
++                    self.assertIn('final gate',evidence['error'])
++
++    def test_real_cache_boundary_rejects_unapproved_path_before_loading(self):
++        with tempfile.TemporaryDirectory() as tmp,patch('wo_retrieval.dense.model.BGEEncoder') as encoder:
++            with self.assertRaisesRegex(ValueError,'approved D: query cache'):
++                encode(Path('.'),None,Path(tmp)/'outside','SYNTHETIC',QUERY,False,'unit-test approval only')
++            encoder.assert_not_called()

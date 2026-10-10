@@ -1,0 +1,40 @@
+test_graded_ndcg_mathematically_verified (test_human_annotation.CalculationTests.test_graded_ndcg_mathematically_verified) ... ok
+test_missing_unresolved_bool_and_invalid_grades (test_human_annotation.CalculationTests.test_missing_unresolved_bool_and_invalid_grades) ... ok
+test_precision_expected_values_and_short_windows (test_human_annotation.CalculationTests.test_precision_expected_values_and_short_windows) ... ok
+test_reciprocal_rank_and_no_hit (test_human_annotation.CalculationTests.test_reciprocal_rank_and_no_hit) ... ok
+test_zero_ideal_is_blocked (test_human_annotation.CalculationTests.test_zero_ideal_is_blocked) ... ok
+test_actual_package_is_blinded_and_bound_to_all_654_pairs (test_human_annotation.PublishedPackageTests.test_actual_package_is_blinded_and_bound_to_all_654_pairs) ... ok
+test_family_and_text_separation_and_semantic_review (test_human_annotation.SplitTests.test_family_and_text_separation_and_semantic_review) ... ok
+test_atomic_save_failure_preserves_history (test_human_annotation.WorkflowTests.test_atomic_save_failure_preserves_history) ... ok
+test_binary_threshold_frozen_and_ai_provenance_rejected (test_human_annotation.WorkflowTests.test_binary_threshold_frozen_and_ai_provenance_rejected) ... ok
+test_duplicate_candidates_and_altered_document_binding (test_human_annotation.WorkflowTests.test_duplicate_candidates_and_altered_document_binding) ... ok
+test_duplicate_pairs_and_records_rejected (test_human_annotation.WorkflowTests.test_duplicate_pairs_and_records_rejected) ... ok
+test_export_preserves_unknown_status_and_provenance (test_human_annotation.WorkflowTests.test_export_preserves_unknown_status_and_provenance) ... ok
+test_gates_for_missing_and_unresolved (test_human_annotation.WorkflowTests.test_gates_for_missing_and_unresolved) ... ok
+test_history_hash_tamper_rejected (test_human_annotation.WorkflowTests.test_history_hash_tamper_rejected) ... ok
+test_http_blinding_autosave_and_local_access (test_human_annotation.WorkflowTests.test_http_blinding_autosave_and_local_access) ... ok
+test_initial_storage_has_no_prefilled_grades (test_human_annotation.WorkflowTests.test_initial_storage_has_no_prefilled_grades) ... ok
+test_invalid_schema_and_fabricated_evidence (test_human_annotation.WorkflowTests.test_invalid_schema_and_fabricated_evidence) ... ok
+test_main_scope_is_not_development (test_human_annotation.WorkflowTests.test_main_scope_is_not_development) ... ok
+test_metric_values_macro_styles_and_descriptive_comparisons (test_human_annotation.WorkflowTests.test_metric_values_macro_styles_and_descriptive_comparisons) ... ok
+test_nonzero_method_comparisons (test_human_annotation.WorkflowTests.test_nonzero_method_comparisons) ... ok
+test_persistence_resume_and_revision_history (test_human_annotation.WorkflowTests.test_persistence_resume_and_revision_history) ... ok
+test_report_nulls_and_word_completion_gate (test_human_annotation.WorkflowTests.test_report_nulls_and_word_completion_gate) ... ok
+test_short_returned_list_is_not_missing_judgment (test_human_annotation.WorkflowTests.test_short_returned_list_is_not_missing_judgment) ... ok
+test_snapshot_source_and_input_integrity (test_human_annotation.WorkflowTests.test_snapshot_source_and_input_integrity) ... ok
+test_stale_revision_rejected (test_human_annotation.WorkflowTests.test_stale_revision_rejected) ... ok
+test_tie_order_and_duplicate_rank_candidates (test_human_annotation.WorkflowTests.test_tie_order_and_duplicate_rank_candidates) ... ok
+test_word_format_editable_and_fixture_is_labeled (test_human_annotation.WorkflowTests.test_word_format_editable_and_fixture_is_labeled) ... ok
+test_zero_relevant_pool_blocks_no_answer_inference (test_human_annotation.WorkflowTests.test_zero_relevant_pool_blocks_no_answer_inference) ... ok
+test_atomic_failure_and_postpublication_rollback (test_human_import.ImportTests.test_atomic_failure_and_postpublication_rollback) ... ok
+test_dry_run_readonly_import_preserves_history_and_idempotence (test_human_import.ImportTests.test_dry_run_readonly_import_preserves_history_and_idempotence) ... ok
+test_each_conflicting_field_blocks_without_overwrite (test_human_import.ImportTests.test_each_conflicting_field_blocks_without_overwrite) ... ok
+test_import_provenance_cannot_fake_original_time (test_human_import.ImportTests.test_import_provenance_cannot_fake_original_time) ... ok
+test_server_lock_blocks (test_human_import.ImportTests.test_server_lock_blocks) ... ok
+test_source_checksums_duplicates_binding_evidence_and_counts (test_human_import.ImportTests.test_source_checksums_duplicates_binding_evidence_and_counts) ... ok
+test_stale_plan_blocks (test_human_import.ImportTests.test_stale_plan_blocks) ... ok
+
+----------------------------------------------------------------------
+Ran 35 tests in 8.709s
+
+OK

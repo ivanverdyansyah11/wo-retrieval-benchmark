@@ -1,0 +1,8 @@
+# Milestone 8A CPU lexical dependencies; Python 3.12.14, Windows x64.
+# Separate optional extra; does not replace the ingestion requirements.lock.
+scikit-learn==1.9.1
+rank-bm25==0.2.2
+numpy==2.5.3
+scipy==1.18.1
+joblib==1.6.0
+threadpoolctl==3.7.0

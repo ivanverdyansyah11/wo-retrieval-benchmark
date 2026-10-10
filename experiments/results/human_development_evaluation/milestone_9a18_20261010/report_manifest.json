@@ -1,0 +1,17 @@
+{
+  "status": "VALID_COMPLETED_DEVELOPMENT_POOLED",
+  "scope": "development pooled evaluation",
+  "human_records_sha256": "689c53793f7983b78bbbdbee052bceb8634eaffb487fd02de0cce628778a6c9e",
+  "ranking_records_sha256": "04e0aad22e97c0b229ace28e4ef819ae167af7f44b0e8df6b45430dbdb517e8a",
+  "protocol_sha256": "aa161d98569636970c4551cfd336e11268ed7f278b134abad5441acfbdac9278",
+  "outputs": {
+    "by_style.csv": "62f0e8b2d9f03b484c4ff4093c34928364edd3e0ffb0b134e212305c5f331f28",
+    "evaluation.json": "d5ca0a3df23ee37ebc0ec0d4324a1ebe3640d9cb957d10d8f0b75a8aeb3710ab",
+    "macro.csv": "1c6b5c36a3f5aace4f338abe8dcd7373f07dbe161bad07abee3001751da4291f",
+    "method_comparisons.csv": "47afe537d50599f9901e82e374f5f3f1f10b2a92e3460b2e531e6bf9439f8084",
+    "per_query.csv": "260ab79bc7643270653c8d9a208cd862f9014d1d1694ca4268c803ccfb5f1ba1",
+    "summary.md": "e79d7c5d9acfe3c9c95c1a7acdc77e2e77df0486ec919ec6da7369aec82da3b3",
+    "window_coverage.csv": "2bee1eb2337887cd189a72da5229ab4bb258f813d20299ab3f69582d8a9f322d",
+    "development_metrics_report.docx": "cccfcfbde0c94177cd6bde3793afd48d5cabf69b220c175d8abb7a50786fe966"
+  }
+}

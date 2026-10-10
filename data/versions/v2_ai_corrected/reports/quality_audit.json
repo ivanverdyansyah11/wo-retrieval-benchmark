@@ -1,0 +1,11 @@
+{
+  "covered_blocks": 768,
+  "duplicate_content_hashes": 0,
+  "empty_chunks": 0,
+  "errors": [],
+  "missing_documents": [],
+  "operational_blocks": 768,
+  "orphan_candidates": [],
+  "orphan_policy": "Deterministic limited fragment heuristics; short chunks not automatically bad; not semantic validation",
+  "status": "PASS"
+}

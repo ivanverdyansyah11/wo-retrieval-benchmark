@@ -1,0 +1,5 @@
+﻿method,style,requested_queries,evaluated_queries,status,Precision@5,Precision@10,MRR@10,nDCG@5 (pooled),nDCG@10 (pooled)
+R1,all,18,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R2,all,18,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R3,all,18,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R4,all,18,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,

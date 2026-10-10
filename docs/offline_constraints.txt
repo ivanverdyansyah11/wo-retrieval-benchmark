@@ -1,0 +1,5 @@
+# Additional CPU transitive dependencies observed in the 9A.19 clean install.
+# Original research locks are unchanged.
+narwhals==2.27.1
+cloudpickle==3.1.2
+psutil==7.2.2

@@ -1,0 +1,35 @@
+.venv/
+.venv-ml/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Local caches/downloads only; frozen experiment artifacts remain visible.
+/.cache/
+/model_cache/
+/models/
+/downloads/
+/tmp/
+/local_logs/
+*.part
+*.crdownload
+# Legacy transfer archive; retained locally, not required by the read-only runtime.
+/data.zip
+# Transient annotation locks must never be shared as live locks.
+/experiments/human_judgments/development_v2/.server.lock
+/experiments/human_judgments/development_v2/.write.lock

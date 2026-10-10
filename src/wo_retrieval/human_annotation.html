@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="id"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Penilaian Relevansi Manusia — Development</title>
+<style>
+body{font:16px/1.55 system-ui,sans-serif;color:#17222e;background:#f5f6f8;margin:0}main{max-width:1100px;margin:auto;padding:24px}
+h1{font-size:25px;margin:0}h2{font-size:18px}p{margin:8px 0}.panel{background:white;border:1px solid #dce1e6;border-radius:8px;padding:20px;margin:18px 0}
+pre{font:inherit;white-space:pre-wrap;overflow-wrap:anywhere;margin:12px 0}.meta{color:#465362;font-size:14px}label{display:block;margin-top:16px;font-weight:600}
+select,textarea,button{font:inherit;border:1px solid #9aa6b2;border-radius:5px;padding:10px;box-sizing:border-box}select,textarea{width:100%;background:white}textarea{min-height:90px;resize:vertical}
+button{background:#173b60;color:white;cursor:pointer}button:disabled{opacity:.5;cursor:wait}.nav{display:flex;gap:10px;flex-wrap:wrap;align-items:center}.nav input{width:75px;font:inherit;padding:8px}progress{width:100%;height:18px}
+#saveStatus{min-height:26px}a{color:#173b60}.error{color:#a51c27}button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:3px solid #ca7c09;outline-offset:2px}
+</style></head><body><main>
+<h1>Penilaian Relevansi Manusia</h1>
+<p>Development pilot — 18 pertanyaan. <strong>Researcher-annotated relevance judgments</strong>.</p>
+<p class="meta">Nilai kebutuhan informasi query terhadap isi chunk ini. Kecocokan topik saja belum cukup. Grade yang Anda masukkan disimpan terpisah dari penilaian sebelumnya.</p>
+<section class="panel" aria-label="Progres penilaian"><div id="progressText" aria-live="polite">Memuat data…</div><progress id="progress" max="654" value="0"></progress>
+<div class="nav"><button id="previous" type="button">Sebelumnya</button><button id="next" type="button">Berikutnya</button>
+<label for="position" style="margin:0">Posisi</label><input id="position" type="number" min="1"><button id="go" type="button">Buka</button>
+<button id="pending" type="button">Belum dinilai</button><button id="unresolved" type="button">Tinjau UNRESOLVED</button></div></section>
+<section class="panel"><h2>Pertanyaan</h2><div id="queryId" class="meta"></div><pre id="queryText"></pre>
+<h2>Isi chunk lengkap</h2><div id="source" class="meta"></div><pre id="chunkText"></pre></section>
+<section class="panel"><h2>Keputusan Anda</h2>
+<label for="grade">Grade relevansi</label><select id="grade"><option value="PENDING">Belum dinilai</option><option value="0">Grade 0 — Tidak relevan</option><option value="1">Grade 1 — Relevan sebagian</option><option value="2">Grade 2 — Sangat relevan</option><option value="UNRESOLVED">UNRESOLVED — Belum dapat diputuskan</option></select>
+<p class="meta">0: tidak memberi dukungan berguna. 1: memberi dukungan substantif sebagian. 2: langsung menjawab kebutuhan utama. UNRESOLVED tetap tanpa grade; gunakan bila bukti/konteks belum cukup. Nilai chunk secara individual; jangan memindahkan jawaban dari dokumen lain.</p>
+<label for="notes">Catatan / alasan (opsional)</label><textarea id="notes" maxlength="10000"></textarea>
+<label for="evidence">Kutipan evidence persis dari chunk (opsional)</label><textarea id="evidence" maxlength="10000"></textarea>
+<p id="saveStatus" role="status" aria-live="polite"></p><button id="save" type="button">Simpan sekarang</button>
+<p class="meta">Penyimpanan otomatis berjalan setelah perubahan. Tunggu “Tersimpan” sebelum menutup tab. Navigasi menunggu penyimpanan berhasil. Semua revisi lama dipertahankan.</p>
+</section><p><a id="download" href="/api/export">Unduh human judgments JSONL</a></p>
+<p class="meta">Tidak ada hasil efektivitas di aplikasi ini. Metrik development baru boleh dihitung setelah seluruh pool selesai dan RESOLVED. Penilaian peneliti tunggal belum merupakan validasi pakar atau penilaian independen.</p>
+</main><script>
+const token=__TOKEN__;
+const $=id=>document.getElementById(id);
+let state=null,dirty=false,timer=null,saving=null,loading=false;
+function message(text,error=false){$('saveStatus').textContent=text;$('saveStatus').className=error?'error':'';}
+async function request(url,options){const r=await fetch(url,options);const value=await r.json();if(!r.ok)throw Error(value.error||'Permintaan gagal');return value;}
+function progress(value){$('progress').max=value.total;$('progress').value=value.resolved;$('progressText').textContent=`${value.resolved} / ${value.total} RESOLVED; ${value.missing} belum dinilai; ${value.unresolved} UNRESOLVED.`;}
+async function load(index=null,filter=null){
+ if(loading)return;loading=true;for(const id of ['grade','notes','evidence','previous','next','go','pending','unresolved','position'])$(id).disabled=true;
+ try{await flush();let url='/api/state';const qs=new URLSearchParams();if(index!==null)qs.set('index',index);if(filter)qs.set('filter',filter);if(qs.size)url+='?'+qs;
+ state=await request(url);const p=state.pair;progress(state.progress);$('position').value=state.index+1;$('position').max=state.progress.total;
+ $('queryId').textContent=p.query_id;$('queryText').textContent=p.query_text;$('chunkText').textContent=p.chunk_text;
+ $('source').textContent=`${p.document_id} / ${p.chunk_id} — ${p.title} — ${p.heading}\nLocator: ${JSON.stringify(p.source_locator)}`;
+ $('grade').value=state.judgment.status==='RESOLVED'?String(state.judgment.grade):state.judgment.status;
+ $('notes').value=state.judgment.notes;$('evidence').value=state.judgment.evidence;
+ $('previous').disabled=state.index===0;$('next').disabled=state.index===state.progress.total-1;
+ message(state.judgment.revision?'Tersimpan. Revisi '+state.judgment.revision:'Belum ada keputusan tersimpan untuk pasangan ini.');
+ }catch(error){message(error.message,true);}finally{loading=false;for(const id of ['grade','notes','evidence','go','pending','unresolved','position'])$(id).disabled=false;if(state){$('previous').disabled=state.index===0;$('next').disabled=state.index===state.progress.total-1;}}
+}
+async function flush(){clearTimeout(timer);if(saving){await saving;if(dirty)return flush();return;}if(!dirty||!state)return;
+ saving=(async()=>{while(dirty){dirty=false;const choice=$('grade').value;message('Menyimpan…');
+ const payload={token,assessment_id:state.pair.assessment_id,expected_revision:state.judgment.revision,
+ status:['PENDING','UNRESOLVED'].includes(choice)?choice:'RESOLVED',grade:['PENDING','UNRESOLVED'].includes(choice)?null:Number(choice),notes:$('notes').value,evidence:$('evidence').value};
+ try{const result=await request('/api/save',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});state.judgment=result.judgment;progress(result.progress);message('Tersimpan. Revisi '+state.judgment.revision);}
+ catch(error){dirty=true;message('Belum tersimpan: '+error.message,true);throw error;}}})();
+ try{await saving;}finally{saving=null;}
+}
+function changed(){dirty=true;message('Perubahan belum tersimpan…');clearTimeout(timer);timer=setTimeout(()=>flush().catch(()=>{}),450);}
+for(const id of ['grade','notes','evidence'])$(id).addEventListener(id==='grade'?'change':'input',changed);
+$('save').onclick=()=>flush().catch(()=>{});$('previous').onclick=()=>load(state.index-1);$('next').onclick=()=>load(state.index+1);
+$('go').onclick=()=>load(Number($('position').value)-1);$('pending').onclick=()=>load(null,'PENDING');$('unresolved').onclick=()=>load(null,'UNRESOLVED');
+$('download').onclick=async e=>{e.preventDefault();try{await flush();const r=await fetch('/api/export');if(!r.ok)throw Error('Ekspor gagal');const blob=await r.blob();const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='human_judgments_development.jsonl';a.click();URL.revokeObjectURL(url);}catch(error){message(error.message,true);}};
+window.addEventListener('beforeunload',e=>{if(dirty||saving){e.preventDefault();e.returnValue='';}});
+load();
+</script></body></html>

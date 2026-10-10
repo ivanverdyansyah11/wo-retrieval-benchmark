@@ -1,0 +1,62 @@
+{
+  "completion_status": "MILESTONE 9A.15 — INTER-ASSESSOR PILOT AUDITED, READY FOR SUPERVISOR REVIEW",
+  "created_at_utc": "2026-10-09T13:49:29.985547+00:00",
+  "research_status": "AI SILVER — PROVISIONAL; NOT HUMAN/EXPERT VALIDATED; NOT FINAL EVALUATION",
+  "commands": [
+    ".venv/Scripts/python.exe -B scripts/audit_pilot_assessments.py --help",
+    ".venv/Scripts/python.exe -B scripts/audit_pilot_assessments.py compare --second D:/Project/wo-retrieval-benchmark/pilot_second_assessments.jsonl --out experiments/results/milestone_9a15_second_assessor_agreement_audit",
+    ".venv/Scripts/python.exe -B scripts/audit_second_assessor_agreement.py",
+    ".venv/Scripts/python.exe -B -m unittest discover -s tests -p test_pilot_assessment_audit.py -v"
+  ],
+  "environment": {
+    "PYTHONPATH": "src",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONUTF8": "1"
+  },
+  "validation": {
+    "existing_cli_compare": "PASS",
+    "supplemental_QC": "PASS",
+    "targeted_unittest_count": 8,
+    "targeted_unittest_result": "OK",
+    "targeted_unittest_seconds": 3.145,
+    "arithmetic_self_checks": 4,
+    "final_artifact_QC": "PASS",
+    "protected_files": 740,
+    "protected_integrity": "PASS",
+    "torch_imported_by_supplemental": false
+  },
+  "pending": [
+    "supervisor approval",
+    "human/expert validation",
+    "adjudication",
+    "main query development and freeze",
+    "effectiveness evaluation"
+  ],
+  "not_run": [
+    "retrieval scoring",
+    "final evaluation metrics",
+    "GPU inference",
+    "tuning",
+    "qrels merge",
+    "commit",
+    "push",
+    "deploy"
+  ],
+  "outputs": {
+    "adjudication_candidates.jsonl": "fa68891c37b32014f7c6f910c2c08011bfb3e4a4b15d9d0e9617aa75ff58d3ca",
+    "agreement_statistics.json": "da08ce950fe8960250eadd0192cdb05a4d79641c4cbf983261391ed02a9d40a4",
+    "all_pair_comparisons.jsonl": "9a74bd4cb2442e6689adb7ab86b0bfda300f045a69da40833e12ad9b3670fff9",
+    "comparison.json": "38afdc4832105f32de9237834ed71e1211c24edd0f28b5b748519ce2179a981c",
+    "disagreement_ledger.jsonl": "65798db639a6467731823ba581c35f10766dfab32632b80b0c8e7ec5e2f65fd5",
+    "protected_integrity.json": "10cb1fc5f46ec1f65502ebbd8595df1a382b56c8d837edbfd96998c9e6043a35",
+    "second_input_qc.json": "7f2472b3a591ff0582c0a0f325f52cc7f62eb59f5569ed77fac65f1374ae122d",
+    "supervisor_top10_example.csv": "d9805a93be86f8ff83259e08755e1c7758612fefab3af1c5d4b2ebd28936adea"
+  },
+  "report_sha256": "59fada6e278a8fa096c26c2fa7ddfb7dc6e4a39edfbc5e5129db4b89c5dbeda4",
+  "supervisor_summary_sha256": "b058eccf2c14a24cf9f4525f818fbe0d3689793d5acd0490ae07e2ec91853295",
+  "code_sha256": {
+    "scripts\\audit_pilot_assessments.py": "7c9c60c32ce557742263ee80a82b82d2b484a08102631c36ade7ae6236d6e415",
+    "scripts\\audit_second_assessor_agreement.py": "b70a362a0d923e9e5ca3fa5d1a5d6c816d05cc3b10bc2f7a420d4ca81aaa61f1",
+    "tests\\test_pilot_assessment_audit.py": "f53f66d6115fe72dd8ca15cad33b677fa87fcdc0f9c5ba8a25f6a5200eee07b7"
+  }
+}

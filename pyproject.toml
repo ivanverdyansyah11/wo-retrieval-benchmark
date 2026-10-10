@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wo-retrieval-benchmark"
+version = "0.1.0"
+description = "Reproducible operational document ingestion and pilot chunking"
+requires-python = ">=3.12,<3.13"
+dependencies = ["python-docx==1.2.0", "pypdf==6.10.0", "openpyxl==3.1.5"]
+
+[project.optional-dependencies]
+lexical = ["scikit-learn==1.9.1", "rank-bm25==0.2.2"]
+
+[project.scripts]
+wo-corpus = "wo_retrieval.cli:main"
+wo-retrieve = "wo_retrieval.retrieval.cli:main"
+wo-dense = "wo_retrieval.dense.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

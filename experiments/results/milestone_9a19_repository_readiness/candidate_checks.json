@@ -1,0 +1,68 @@
+{
+  "pip_check": {
+    "command": [
+      "D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\.venv\\Scripts\\python.exe",
+      "-m",
+      "pip",
+      "check"
+    ],
+    "exit_code": 0
+  },
+  "imports": {
+    "command": [
+      "D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\.venv\\Scripts\\python.exe",
+      "-c",
+      "import sys,docx,pypdf,openpyxl,numpy,scipy,sklearn,rank_bm25; print(sys.version)"
+    ],
+    "exit_code": 0
+  },
+  "verification": {
+    "command": [
+      "D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\.venv\\Scripts\\python.exe",
+      "scripts/verify_repository.py",
+      "--query-id",
+      "WO-DEV-001"
+    ],
+    "exit_code": 0
+  },
+  "human_status": {
+    "command": [
+      "D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\.venv\\Scripts\\python.exe",
+      "scripts/human_annotation.py",
+      "status"
+    ],
+    "exit_code": 0
+  },
+  "tests": {
+    "command": [
+      "D:\\ModelCache\\tmp\\wo-m9a19\\publication_candidate\\.venv\\Scripts\\python.exe",
+      "-m",
+      "unittest",
+      "discover",
+      "-s",
+      "tests",
+      "-v"
+    ],
+    "harness": "equivalent discover with structured summary",
+    "tests": 188,
+    "failures": 0,
+    "errors": 4,
+    "skipped": 0,
+    "exit_code": 1,
+    "seconds": 62.704,
+    "error_cases": [
+      "test_development_pilot.PublishedPilotTests.test_outputs_and_version_isolation",
+      "setUpClass (test_full_colab.FullColabTests)",
+      "test_judgment_pool.PublishedPoolTests.test_previous_outputs_and_protected_artifacts",
+      "test_pilot_assessment_audit.PublishedAuditTests.test_actual_preflight_and_flags"
+    ],
+    "torch_imported": false
+  },
+  "word": {
+    "status": "PASS",
+    "tables": 22,
+    "path": "D:\\ModelCache\\tmp\\wo-m9a19\\candidate_generated_development_report.docx",
+    "macro_table_exact_formatted": true,
+    "rendering": "not rerendered; generator and document structure validated"
+  }
+}

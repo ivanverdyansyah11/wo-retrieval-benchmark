@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "current_records": 654,
+  "resolved": 654,
+  "pending": 0,
+  "unresolved": 0,
+  "grade_counts": {
+    "0": 429,
+    "1": 152,
+    "2": 73
+  },
+  "old_events_preserved": 66,
+  "events": 695,
+  "independent_metric_recalculation": "PASS for all 72 runs, four macros and 12 style rows; tolerance 1e-12",
+  "protected_files": 779,
+  "frozen_source_hashes": 194,
+  "protocol_sha256": "aa161d98569636970c4551cfd336e11268ed7f278b134abad5441acfbdac9278",
+  "word_tables": 22,
+  "word_contains_internal_paths": false,
+  "source_import": "36a422efe1899e7bc0b3cb321edf3d4764bdcfbf0bd7bf27d0543db43afd5bca",
+  "source_csv_and_original_jsonl": "Unavailable locally; their historical checksums are claims in supplied audit, not independently revalidated",
+  "word_numeric_cells_verified": 440,
+  "word_pages": 9,
+  "word_visual_review": "PASS: native Word PDF/A rendered by Poppler; all nine pages inspected including zoom of dense tables"
+}

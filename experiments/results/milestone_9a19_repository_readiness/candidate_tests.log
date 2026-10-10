@@ -1,0 +1,263 @@
+test_duplicate_row_mapping_and_failed_final_integrity_gate (test_dense_retrieval.DenseCacheTests.test_duplicate_row_mapping_and_failed_final_integrity_gate) ... ok
+test_full_build_roundtrip_shape_mapping_and_no_pickle (test_dense_retrieval.DenseCacheTests.test_full_build_roundtrip_shape_mapping_and_no_pickle) ... ok
+test_incomplete_mismatched_or_corrupted_complete_rejected (test_dense_retrieval.DenseCacheTests.test_incomplete_mismatched_or_corrupted_complete_rejected) ... ok
+test_incomplete_not_published_no_retry_explicit_resume (test_dense_retrieval.DenseCacheTests.test_incomplete_not_published_no_retry_explicit_resume) ... ok
+test_rebuild_vector_and_mapping_payload_identity (test_dense_retrieval.DenseCacheTests.test_rebuild_vector_and_mapping_payload_identity) ... ok
+test_resume_corruption_or_changed_identity_rejected (test_dense_retrieval.DenseCacheTests.test_resume_corruption_or_changed_identity_rejected) ... ok
+test_cli_dispatch_without_loading_neural_model (test_dense_retrieval.DenseIntegrationTests.test_cli_dispatch_without_loading_neural_model) ... ok
+test_resource_gate_and_critical_thresholds (test_dense_retrieval.DenseIntegrationTests.test_resource_gate_and_critical_thresholds) ... ok
+test_snapshot_and_all_371_shared_serialized_inputs (test_dense_retrieval.DenseIntegrationTests.test_snapshot_and_all_371_shared_serialized_inputs) ... ok
+test_actual_encoder_token_contract_without_model (test_dense_retrieval.DenseMathTests.test_actual_encoder_token_contract_without_model) ... ok
+test_exact_cosine_all_finite_candidates_and_ties (test_dense_retrieval.DenseMathTests.test_exact_cosine_all_finite_candidates_and_ties) ... ok
+test_invalid_and_empty_query_without_model_calls (test_dense_retrieval.DenseMathTests.test_invalid_and_empty_query_without_model_calls) ... ok
+test_model_config_mismatch (test_dense_retrieval.DenseMathTests.test_model_config_mismatch) ... ok
+test_normalization_dimensions_finite_zero (test_dense_retrieval.DenseMathTests.test_normalization_dimensions_finite_zero) ... ok
+test_query_normalization_no_instruction_and_no_cache (test_dense_retrieval.DenseMathTests.test_query_normalization_no_instruction_and_no_cache) ... ok
+test_token_overflow_stops_before_embedding (test_dense_retrieval.DenseMathTests.test_token_overflow_stops_before_embedding) ... ok
+test_empty_window_denominator (test_development_pilot.DevelopmentPilotTests.test_empty_window_denominator) ... ok
+test_independent_rrf_absent_and_positive (test_development_pilot.DevelopmentPilotTests.test_independent_rrf_absent_and_positive) ... ok
+test_macro_and_micro_differ (test_development_pilot.DevelopmentPilotTests.test_macro_and_micro_differ) ... ok
+test_rank_validation_rejects_bad_data (test_development_pilot.DevelopmentPilotTests.test_rank_validation_rejects_bad_data) ... ok
+test_unknown_is_not_zero (test_development_pilot.DevelopmentPilotTests.test_unknown_is_not_zero) ... ok
+test_coverage_independent_accounting (test_development_pilot.PublishedPilotTests.test_coverage_independent_accounting) ... ok
+test_outputs_and_version_isolation (test_development_pilot.PublishedPilotTests.test_outputs_and_version_isolation) ... ERROR
+test_shared_input_and_cached_rrf (test_development_pilot.PublishedPilotTests.test_shared_input_and_cached_rrf) ... ok
+setUpClass (test_full_colab.FullColabTests) ... ERROR
+test_graded_ndcg_mathematically_verified (test_human_annotation.CalculationTests.test_graded_ndcg_mathematically_verified) ... ok
+test_missing_unresolved_bool_and_invalid_grades (test_human_annotation.CalculationTests.test_missing_unresolved_bool_and_invalid_grades) ... ok
+test_precision_expected_values_and_short_windows (test_human_annotation.CalculationTests.test_precision_expected_values_and_short_windows) ... ok
+test_reciprocal_rank_and_no_hit (test_human_annotation.CalculationTests.test_reciprocal_rank_and_no_hit) ... ok
+test_zero_ideal_is_blocked (test_human_annotation.CalculationTests.test_zero_ideal_is_blocked) ... ok
+test_actual_package_is_blinded_and_bound_to_all_654_pairs (test_human_annotation.PublishedPackageTests.test_actual_package_is_blinded_and_bound_to_all_654_pairs) ... ok
+test_family_and_text_separation_and_semantic_review (test_human_annotation.SplitTests.test_family_and_text_separation_and_semantic_review) ... ok
+test_atomic_save_failure_preserves_history (test_human_annotation.WorkflowTests.test_atomic_save_failure_preserves_history) ... ok
+test_binary_threshold_frozen_and_ai_provenance_rejected (test_human_annotation.WorkflowTests.test_binary_threshold_frozen_and_ai_provenance_rejected) ... ok
+test_duplicate_candidates_and_altered_document_binding (test_human_annotation.WorkflowTests.test_duplicate_candidates_and_altered_document_binding) ... ok
+test_duplicate_pairs_and_records_rejected (test_human_annotation.WorkflowTests.test_duplicate_pairs_and_records_rejected) ... ok
+test_export_preserves_unknown_status_and_provenance (test_human_annotation.WorkflowTests.test_export_preserves_unknown_status_and_provenance) ... ok
+test_gates_for_missing_and_unresolved (test_human_annotation.WorkflowTests.test_gates_for_missing_and_unresolved) ... ok
+test_history_hash_tamper_rejected (test_human_annotation.WorkflowTests.test_history_hash_tamper_rejected) ... ok
+test_http_blinding_autosave_and_local_access (test_human_annotation.WorkflowTests.test_http_blinding_autosave_and_local_access) ... ok
+test_initial_storage_has_no_prefilled_grades (test_human_annotation.WorkflowTests.test_initial_storage_has_no_prefilled_grades) ... ok
+test_invalid_schema_and_fabricated_evidence (test_human_annotation.WorkflowTests.test_invalid_schema_and_fabricated_evidence) ... ok
+test_main_scope_is_not_development (test_human_annotation.WorkflowTests.test_main_scope_is_not_development) ... ok
+test_metric_values_macro_styles_and_descriptive_comparisons (test_human_annotation.WorkflowTests.test_metric_values_macro_styles_and_descriptive_comparisons) ... ok
+test_nonzero_method_comparisons (test_human_annotation.WorkflowTests.test_nonzero_method_comparisons) ... ok
+test_persistence_resume_and_revision_history (test_human_annotation.WorkflowTests.test_persistence_resume_and_revision_history) ... ok
+test_report_nulls_and_word_completion_gate (test_human_annotation.WorkflowTests.test_report_nulls_and_word_completion_gate) ... ok
+test_short_returned_list_is_not_missing_judgment (test_human_annotation.WorkflowTests.test_short_returned_list_is_not_missing_judgment) ... ok
+test_snapshot_source_and_input_integrity (test_human_annotation.WorkflowTests.test_snapshot_source_and_input_integrity) ... ok
+test_stale_revision_rejected (test_human_annotation.WorkflowTests.test_stale_revision_rejected) ... ok
+test_tie_order_and_duplicate_rank_candidates (test_human_annotation.WorkflowTests.test_tie_order_and_duplicate_rank_candidates) ... ok
+test_word_format_editable_and_fixture_is_labeled (test_human_annotation.WorkflowTests.test_word_format_editable_and_fixture_is_labeled) ... ok
+test_zero_relevant_pool_blocks_no_answer_inference (test_human_annotation.WorkflowTests.test_zero_relevant_pool_blocks_no_answer_inference) ... ok
+test_atomic_failure_and_postpublication_rollback (test_human_import.ImportTests.test_atomic_failure_and_postpublication_rollback) ... ok
+test_dry_run_readonly_import_preserves_history_and_idempotence (test_human_import.ImportTests.test_dry_run_readonly_import_preserves_history_and_idempotence) ... ok
+test_each_conflicting_field_blocks_without_overwrite (test_human_import.ImportTests.test_each_conflicting_field_blocks_without_overwrite) ... ok
+test_import_provenance_cannot_fake_original_time (test_human_import.ImportTests.test_import_provenance_cannot_fake_original_time) ... ok
+test_server_lock_blocks (test_human_import.ImportTests.test_server_lock_blocks) ... ok
+test_source_checksums_duplicates_binding_evidence_and_counts (test_human_import.ImportTests.test_source_checksums_duplicates_binding_evidence_and_counts) ... ok
+test_stale_plan_blocks (test_human_import.ImportTests.test_stale_plan_blocks) ... ok
+test_dense_full_371_no_top100_cutoff (test_hybrid_retrieval.FusionTests.test_dense_full_371_no_top100_cutoff) ... ok
+test_formula_different_rankings_dense_only_negative_cosine (test_hybrid_retrieval.FusionTests.test_formula_different_rankings_dense_only_negative_cosine) ... ok
+test_missing_duplicate_nonfinite_bad_rank_metadata_order (test_hybrid_retrieval.FusionTests.test_missing_duplicate_nonfinite_bad_rank_metadata_order) ... ok
+test_ties_id_order_and_no_iteration_order_dependency (test_hybrid_retrieval.FusionTests.test_ties_id_order_and_no_iteration_order_dependency) ... ok
+test_topk_invalid (test_hybrid_retrieval.FusionTests.test_topk_invalid) ... ok
+test_zero_negative_bm25_excluded_no_pseudo_rank (test_hybrid_retrieval.FusionTests.test_zero_negative_bm25_excluded_no_pseudo_rank) ... ok
+test_cli_parser_and_empty_query (test_hybrid_retrieval.HybridTests.test_cli_parser_and_empty_query) ... ok
+test_cli_resource_stop_prevents_loading_no_retry (test_hybrid_retrieval.HybridTests.test_cli_resource_stop_prevents_loading_no_retry) ... ok
+test_default_six_and_approved_five_gib_gate_and_evidence (test_hybrid_retrieval.HybridTests.test_default_six_and_approved_five_gib_gate_and_evidence) ... ok
+test_empty_invalid_no_component_calls (test_hybrid_retrieval.HybridTests.test_empty_invalid_no_component_calls) ... ok
+test_existing_corruption_loader_error_propagates_no_build (test_hybrid_retrieval.HybridTests.test_existing_corruption_loader_error_propagates_no_build) ... ok
+test_existing_dense_incomplete_error_propagates_no_build (test_hybrid_retrieval.HybridTests.test_existing_dense_incomplete_error_propagates_no_build) ... ok
+test_fingerprint_inputs_universe_incomplete_rejection (test_hybrid_retrieval.HybridTests.test_fingerprint_inputs_universe_incomplete_rejection) ... ok
+test_low_memory_cli_requires_and_forwards_approval (test_hybrid_retrieval.HybridTests.test_low_memory_cli_requires_and_forwards_approval) ... ok
+test_policy_conflict_rejected (test_hybrid_retrieval.HybridTests.test_policy_conflict_rejected) ... ok
+test_same_query_full_depth_and_common_interface (test_hybrid_retrieval.HybridTests.test_same_query_full_depth_and_common_interface) ... ok
+test_dedup_sources_and_duplicate_rejection (test_judgment_pool.JudgmentPoolTests.test_dedup_sources_and_duplicate_rejection) ... ok
+test_deterministic_shuffle_and_pilot_strata (test_judgment_pool.JudgmentPoolTests.test_deterministic_shuffle_and_pilot_strata) ... ok
+test_exact_bindings_and_pending_not_grade_zero (test_judgment_pool.JudgmentPoolTests.test_exact_bindings_and_pending_not_grade_zero) ... ok
+test_grade_schema_and_unresolved_preservation (test_judgment_pool.JudgmentPoolTests.test_grade_schema_and_unresolved_preservation) ... ok
+test_hidden_fields_are_rejected (test_judgment_pool.JudgmentPoolTests.test_hidden_fields_are_rejected) ... ok
+test_tampered_text_is_rejected (test_judgment_pool.JudgmentPoolTests.test_tampered_text_is_rejected) ... ok
+test_pool_exact_pair_bindings (test_judgment_pool.PublishedPoolTests.test_pool_exact_pair_bindings) ... ok
+test_previous_outputs_and_protected_artifacts (test_judgment_pool.PublishedPoolTests.test_previous_outputs_and_protected_artifacts) ... ERROR
+test_cli_build_retrieve_inspect_audit_and_errors (test_lexical_retrieval.IndexTests.test_cli_build_retrieve_inspect_audit_and_errors) ... ok
+test_protected_changes_and_output_path_rejected (test_lexical_retrieval.IndexTests.test_protected_changes_and_output_path_rejected) ... ok
+test_real_corpus_snapshot_and_serialization (test_lexical_retrieval.IndexTests.test_real_corpus_snapshot_and_serialization) ... ok
+test_roundtrip_repeat_shared_universe_and_tamper (test_lexical_retrieval.IndexTests.test_roundtrip_repeat_shared_universe_and_tamper) ... ok
+test_stale_protocol_or_incomplete_index_rejected (test_lexical_retrieval.IndexTests.test_stale_protocol_or_incomplete_index_rejected) ... ok
+test_bm25_mathematical_formula_and_repeated_query (test_lexical_retrieval.ScoringTests.test_bm25_mathematical_formula_and_repeated_query) ... ok
+test_bm25_negative_idf_floor (test_lexical_retrieval.ScoringTests.test_bm25_negative_idf_floor) ... ok
+test_empty_oov_topk_duplicates_and_metadata (test_lexical_retrieval.ScoringTests.test_empty_oov_topk_duplicates_and_metadata) ... ok
+test_rank_ties_positive_eligibility_nonfinite (test_lexical_retrieval.ScoringTests.test_rank_ties_positive_eligibility_nonfinite) ... ok
+test_tfidf_mathematical_cosine_and_corpus_only_idf (test_lexical_retrieval.ScoringTests.test_tfidf_mathematical_cosine_and_corpus_only_idf) ... ok
+test_normalization_and_unicode_tokens (test_lexical_retrieval.TextTests.test_normalization_and_unicode_tokens) ... ok
+test_required_fields (test_lexical_retrieval.TextTests.test_required_fields) ... ok
+test_selection_order_and_word_boundaries (test_lexical_retrieval.TextTests.test_selection_order_and_word_boundaries) ... ok
+test_serialize_all_formats_allowlist_body_and_dedup (test_lexical_retrieval.TextTests.test_serialize_all_formats_allowlist_body_and_dedup) ... ok
+test_alias_roundtrip_and_determinism (test_pilot_assessment_audit.PilotAssessmentAuditTests.test_alias_roundtrip_and_determinism) ... ok
+test_comparison_cli_synthetic_only (test_pilot_assessment_audit.PilotAssessmentAuditTests.test_comparison_cli_synthetic_only) ... ok
+test_confusion_distance_and_common_resolved_denominator (test_pilot_assessment_audit.PilotAssessmentAuditTests.test_confusion_distance_and_common_resolved_denominator) ... ok
+test_hand_calculated_linear_kappa (test_pilot_assessment_audit.PilotAssessmentAuditTests.test_hand_calculated_linear_kappa) ... ok
+test_schema_ids_and_evidence_validation (test_pilot_assessment_audit.PilotAssessmentAuditTests.test_schema_ids_and_evidence_validation) ... ok
+test_unresolved_never_zero (test_pilot_assessment_audit.PilotAssessmentAuditTests.test_unresolved_never_zero) ... ok
+test_actual_preflight_and_flags (test_pilot_assessment_audit.PublishedAuditTests.test_actual_preflight_and_flags) ... ERROR
+test_package_allowlist_and_exact_text (test_pilot_assessment_audit.PublishedAuditTests.test_package_allowlist_and_exact_text) ... ok
+test_boilerplate_exact_match_retains_operational_prose (test_pipeline.CleaningChunkTests.test_boilerplate_exact_match_retains_operational_prose) ... ok
+test_character_fallback_no_loss_and_stable_ids_hash (test_pipeline.CleaningChunkTests.test_character_fallback_no_loss_and_stable_ids_hash) ... ok
+test_invalid_chunk_config_rejected (test_pipeline.CleaningChunkTests.test_invalid_chunk_config_rejected) ... ok
+test_markdown_report_stable_after_json_roundtrip (test_pipeline.CleaningChunkTests.test_markdown_report_stable_after_json_roundtrip) ... ok
+test_recursive_fallback_and_overlap_bound (test_pipeline.CleaningChunkTests.test_recursive_fallback_and_overlap_bound) ... ok
+test_small_sections_do_not_merge_or_overlap (test_pipeline.CleaningChunkTests.test_small_sections_do_not_merge_or_overlap) ... ok
+test_unicode_whitespace_safe (test_pipeline.CleaningChunkTests.test_unicode_whitespace_safe) ... ok
+test_50_document_discovery_manifest_alignment (test_pipeline.CorpusIntegrationTests.test_50_document_discovery_manifest_alignment) ... ok
+test_all_formats_parse_and_source_locators_preserved (test_pipeline.CorpusIntegrationTests.test_all_formats_parse_and_source_locators_preserved) ... ok
+test_all_operational_block_text_covered_by_chunks (test_pipeline.CorpusIntegrationTests.test_all_operational_block_text_covered_by_chunks) ... ok
+test_canonical_serialization_roundtrip (test_pipeline.CorpusIntegrationTests.test_canonical_serialization_roundtrip) ... ok
+test_deterministic_documents_and_pipeline_repeatability (test_pipeline.CorpusIntegrationTests.test_deterministic_documents_and_pipeline_repeatability) ... ok
+test_manifest_hash_mismatch_rejected_in_disposable_copy (test_pipeline.CorpusIntegrationTests.test_manifest_hash_mismatch_rejected_in_disposable_copy) ... ok
+test_no_administrative_status_in_retrievable_text (test_pipeline.CorpusIntegrationTests.test_no_administrative_status_in_retrievable_text) ... ok
+test_no_source_mutation (test_pipeline.CorpusIntegrationTests.test_no_source_mutation) ... ok
+test_source_output_paths_rejected (test_pipeline.CorpusIntegrationTests.test_source_output_paths_rejected) ... ok
+test_xlsx_overlap_preserves_whole_rows (test_pipeline.CorpusIntegrationTests.test_xlsx_overlap_preserves_whole_rows) ... ok
+test_docx_structure_and_order (test_pipeline.ParserTests.test_docx_structure_and_order) ... ok
+test_empty_files_and_unsupported_formats (test_pipeline.ParserTests.test_empty_files_and_unsupported_formats) ... ok
+test_missing_formula_cache_fails (test_pipeline.ParserTests.test_missing_formula_cache_fails) ... ok
+test_pdf_text_and_page_blocks (test_pipeline.ParserTests.test_pdf_text_and_page_blocks) ... ok
+test_pdf_without_text_fails_no_ocr (test_pipeline.ParserTests.test_pdf_without_text_fails_no_ocr) ... ok
+test_txt_lines_heading_paragraph_breaks_list (test_pipeline.ParserTests.test_txt_lines_heading_paragraph_breaks_list) ... ok
+test_xlsx_header_row_and_sheet_context (test_pipeline.ParserTests.test_xlsx_header_row_and_sheet_context) ... ok
+test_xlsx_multiple_tables_and_merged_context (test_pipeline.ParserTests.test_xlsx_multiple_tables_and_merged_context) ... ok
+test_369_plus_two_import_atomic_isolation (test_portable_embeddings.ExchangeTests.test_369_plus_two_import_atomic_isolation) ... ok
+test_incomplete_duplicate_mapping_rejected (test_portable_embeddings.ExchangeTests.test_incomplete_duplicate_mapping_rejected) ... ok
+test_input_corruption_and_duplicates_rejected (test_portable_embeddings.ExchangeTests.test_input_corruption_and_duplicates_rejected) ... ok
+test_input_exact_hashes_and_runtime (test_portable_embeddings.ExchangeTests.test_input_exact_hashes_and_runtime) ... ok
+test_invalid_dimensions_dtype_finite_normalization (test_portable_embeddings.ExchangeTests.test_invalid_dimensions_dtype_finite_normalization) ... ok
+test_missing_corrupt_extra_archive_rejected (test_portable_embeddings.ExchangeTests.test_missing_corrupt_extra_archive_rejected) ... ok
+test_notebook_json_code_cells_unexecuted (test_portable_embeddings.ExchangeTests.test_notebook_json_code_cells_unexecuted) ... ok
+test_snapshot_model_config_hash_mismatch (test_portable_embeddings.ExchangeTests.test_snapshot_model_config_hash_mismatch) ... ok
+test_valid_synthetic_readback_and_production_rejection (test_portable_embeddings.ExchangeTests.test_valid_synthetic_readback_and_production_rejection) ... ok
+test_documented_regex_examples_without_retrieval (test_protocol_config.ProtocolConfigTests.test_documented_regex_examples_without_retrieval) ... ok
+test_existing_drafts_use_allowed_pending_status (test_protocol_config.ProtocolConfigTests.test_existing_drafts_use_allowed_pending_status) ... ok
+test_intended_lexical_character_policy (test_protocol_config.ProtocolConfigTests.test_intended_lexical_character_policy) ... ok
+test_markdown_config_binding (test_protocol_config.ProtocolConfigTests.test_markdown_config_binding) ... ok
+test_pending_status_is_explicitly_unvalidated (test_protocol_config.ProtocolConfigTests.test_pending_status_is_explicitly_unvalidated) ... ok
+test_default_and_approved_final_gates_preserved_no_loading_on_failure (test_query_vectors.EncoderSafetyTests.test_default_and_approved_final_gates_preserved_no_loading_on_failure) ... ok
+test_explicit_approval_required_before_model_initialization (test_query_vectors.EncoderSafetyTests.test_explicit_approval_required_before_model_initialization) ... ok
+test_cached_adapter_rejects_other_input (test_query_vectors.QueryArtifactsTests.test_cached_adapter_rejects_other_input) ... ok
+test_complete_roundtrip_verbatim_readonly_and_no_overwrite (test_query_vectors.QueryArtifactsTests.test_complete_roundtrip_verbatim_readonly_and_no_overwrite) ... ok
+test_corruption_and_missing_payload (test_query_vectors.QueryArtifactsTests.test_corruption_and_missing_payload) ... ok
+test_exact_query_hash_including_outer_whitespace_and_id (test_query_vectors.QueryArtifactsTests.test_exact_query_hash_including_outer_whitespace_and_id) ... ok
+test_full_371_shared_dense_ranking_and_tail_eligibility (test_query_vectors.QueryArtifactsTests.test_full_371_shared_dense_ranking_and_tail_eligibility) ... ok
+test_incomplete_and_effective_input_mismatch (test_query_vectors.QueryArtifactsTests.test_incomplete_and_effective_input_mismatch) ... ok
+test_invalid_vectors_even_with_updated_checksum (test_query_vectors.QueryArtifactsTests.test_invalid_vectors_even_with_updated_checksum) ... ok
+test_malformed_manifest_rejected (test_query_vectors.QueryArtifactsTests.test_malformed_manifest_rejected) ... ok
+test_model_config_snapshot_index_and_serializer_mismatches (test_query_vectors.QueryArtifactsTests.test_model_config_snapshot_index_and_serializer_mismatches) ... ok
+test_normalization_parity_empty_invalid_and_topk (test_query_vectors.QueryArtifactsTests.test_normalization_parity_empty_invalid_and_topk) ... ok
+test_provenance_truncation_timestamp_and_payload_set (test_query_vectors.QueryArtifactsTests.test_provenance_truncation_timestamp_and_payload_set) ... ok
+test_score_cli_synthetic_shared_artifact_no_encoder_loading (test_query_vectors.QueryArtifactsTests.test_score_cli_synthetic_shared_artifact_no_encoder_loading) ... ok
+test_shared_r3_r4_exact_ranking_scores_and_independent_rrf (test_query_vectors.QueryArtifactsTests.test_shared_r3_r4_exact_ranking_scores_and_independent_rrf) ... ok
+test_bad_vectors_cannot_be_reused (test_v2_index_preparation.V2PreparationTests.test_bad_vectors_cannot_be_reused) ... ok
+test_exact_serialization_parity_all_chunks (test_v2_index_preparation.V2PreparationTests.test_exact_serialization_parity_all_chunks) ... ok
+test_reuse_requires_exact_inputs_contract_and_mapping (test_v2_index_preparation.V2PreparationTests.test_reuse_requires_exact_inputs_contract_and_mapping) ... ok
+test_roundtrip_both_indexes_and_version_isolation (test_v2_index_preparation.V2PreparationTests.test_roundtrip_both_indexes_and_version_isolation) ... ok
+test_serialization_excludes_audit_metadata (test_v2_index_preparation.V2PreparationTests.test_serialization_excludes_audit_metadata) ... ok
+test_snapshot_overlay_preserves_parameters_and_protocol (test_v2_index_preparation.V2PreparationTests.test_snapshot_overlay_preserves_parameters_and_protocol) ... ok
+test_atomic_complete_readback_no_overwrite (test_versioned_dense.IncrementalTests.test_atomic_complete_readback_no_overwrite) ... ok
+test_bad_new_vectors_rejected (test_versioned_dense.IncrementalTests.test_bad_new_vectors_rejected) ... ok
+test_exact_search_fixture_finite_ties_correct_snapshot (test_versioned_dense.IncrementalTests.test_exact_search_fixture_finite_ties_correct_snapshot) ... ok
+test_failed_final_verification_leaves_incomplete_unpublished (test_versioned_dense.IncrementalTests.test_failed_final_verification_leaves_incomplete_unpublished) ... ok
+test_input_hash_mismatch_rejected (test_versioned_dense.IncrementalTests.test_input_hash_mismatch_rejected) ... ok
+test_merge_preserves_reused_bytes_and_new_order (test_versioned_dense.IncrementalTests.test_merge_preserves_reused_bytes_and_new_order) ... ok
+test_missing_duplicate_unordered_mapping_rejected (test_versioned_dense.IncrementalTests.test_missing_duplicate_unordered_mapping_rejected) ... ok
+test_missing_extra_new_vector_rejected (test_versioned_dense.IncrementalTests.test_missing_extra_new_vector_rejected) ... ok
+test_new_model_revision_precision_config_mismatch_rejected (test_versioned_dense.IncrementalTests.test_new_model_revision_precision_config_mismatch_rejected) ... ok
+test_reuse_source_and_hash_mismatch_rejected (test_versioned_dense.IncrementalTests.test_reuse_source_and_hash_mismatch_rejected) ... ok
+test_truncation_and_token_mismatch_rejected (test_versioned_dense.IncrementalTests.test_truncation_and_token_mismatch_rejected) ... ok
+test_default_6_and_approved_5_gate_unchanged (test_versioned_dense.VersionSafetyTests.test_default_6_and_approved_5_gate_unchanged) ... ok
+test_default_v1_delegates_unchanged (test_versioned_dense.VersionSafetyTests.test_default_v1_delegates_unchanged) ... ok
+test_final_post_import_gate_prevents_weights_loading (test_versioned_dense.VersionSafetyTests.test_final_post_import_gate_prevents_weights_loading) ... ok
+test_gate_fail_prevents_encoder_and_retry (test_versioned_dense.VersionSafetyTests.test_gate_fail_prevents_encoder_and_retry) ... ok
+test_invalid_version_or_v2_v1_path_rejected (test_versioned_dense.VersionSafetyTests.test_invalid_version_or_v2_v1_path_rejected) ... ok
+test_missing_approval_rejected (test_versioned_dense.VersionSafetyTests.test_missing_approval_rejected) ... ok
+test_missing_v2_never_falls_back (test_versioned_dense.VersionSafetyTests.test_missing_v2_never_falls_back) ... ok
+test_wrong_snapshot_binding_and_protocol_hash_rejected (test_versioned_dense.VersionSafetyTests.test_wrong_snapshot_binding_and_protocol_hash_rejected) ... ok
+test_mapping_uses_content_and_locator_not_chunk_id (test_versioned_pipeline.CrossVersionMappingTests.test_mapping_uses_content_and_locator_not_chunk_id) ... ok
+test_v2_inventory_escape_and_status_rejected (test_versioned_pipeline.VersionedPipelineTests.test_v2_inventory_escape_and_status_rejected) ... ok
+test_v2_paths_cannot_target_v1_or_candidate (test_versioned_pipeline.VersionedPipelineTests.test_v2_paths_cannot_target_v1_or_candidate) ... ok
+test_v2_pipeline_repeatability_and_isolated_writes (test_versioned_pipeline.VersionedPipelineTests.test_v2_pipeline_repeatability_and_isolated_writes) ... ok
+
+======================================================================
+ERROR: test_outputs_and_version_isolation (test_development_pilot.PublishedPilotTests.test_outputs_and_version_isolation)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\tests\test_development_pilot.py", line 85, in test_outputs_and_version_isolation
+    self.assertEqual(pilot.verify_baseline(integrity['hashes'])['status'],'PASS')
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\scripts\run_development_pilot.py", line 101, in verify_baseline
+    raise ValueError(f'Protected artifact mutation: {failures}')
+ValueError: Protected artifact mutation: ['D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval_benchmark.egg-info\\entry_points.txt', 'D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval_benchmark.egg-info\\PKG-INFO', 'D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval_benchmark.egg-info\\requires.txt', 'D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval_benchmark.egg-info\\SOURCES.txt', 'D:\\Project\\wo-retrieval-benchmark\\README.md', 'D:\\Project\\wo-retrieval-benchmark\\.gitignore']
+
+======================================================================
+ERROR: setUpClass (test_full_colab.FullColabTests)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\ivanv\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\importlib\metadata\__init__.py", line 397, in from_name
+    return next(cls.discover(name=name))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\tests\test_full_colab.py", line 32, in setUpClass
+    cls.context=prepare_v2(ROOT)
+                ^^^^^^^^^^^^^^^^
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\src\wo_retrieval\versioned_dense.py", line 84, in prepare_v2
+    old_bm25, vectors, manifest, _, local = load_v1_components(root, source)
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\src\wo_retrieval\query_vectors\offline.py", line 35, in load_components
+    identity = cache_identity(root, config, bm25.manifest["serialization_statistics"], hashes, mapping)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\src\wo_retrieval\dense\index.py", line 52, in cache_identity
+    validate_config(config)
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\src\wo_retrieval\dense\model.py", line 58, in validate_config
+    if version(package) != cfg[key]:
+       ^^^^^^^^^^^^^^^^
+  File "C:\Users\ivanv\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\importlib\metadata\__init__.py", line 889, in version
+    return distribution(distribution_name).version
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ivanv\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\importlib\metadata\__init__.py", line 862, in distribution
+    return Distribution.from_name(distribution_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ivanv\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\importlib\metadata\__init__.py", line 399, in from_name
+    raise PackageNotFoundError(name)
+importlib.metadata.PackageNotFoundError: No package metadata was found for torch
+
+======================================================================
+ERROR: test_previous_outputs_and_protected_artifacts (test_judgment_pool.PublishedPoolTests.test_previous_outputs_and_protected_artifacts)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\tests\test_judgment_pool.py", line 105, in test_previous_outputs_and_protected_artifacts
+    pool.verify_baseline(integrity['hashes'])
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\scripts\run_development_pilot.py", line 101, in verify_baseline
+    raise ValueError(f'Protected artifact mutation: {failures}')
+ValueError: Protected artifact mutation: ['D:\\Project\\wo-retrieval-benchmark\\README.md', 'D:\\Project\\wo-retrieval-benchmark\\.gitignore']
+
+======================================================================
+ERROR: test_actual_preflight_and_flags (test_pilot_assessment_audit.PublishedAuditTests.test_actual_preflight_and_flags)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\tests\test_pilot_assessment_audit.py", line 101, in test_actual_preflight_and_flags
+    pilot,first,_,baseline=audit.preflight()
+                           ^^^^^^^^^^^^^^^^^
+  File "D:\ModelCache\tmp\wo-m9a19\publication_candidate\scripts\audit_pilot_assessments.py", line 123, in preflight
+    if not Path(path).is_file() or file_hash(path)!=h:raise ValueError(f'Protected input changed: {path}')
+                                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Protected input changed: D:\Project\wo-retrieval-benchmark\README.md
+
+----------------------------------------------------------------------
+Ran 188 tests in 59.447s
+
+FAILED (errors=4)

@@ -1,0 +1,51 @@
+{
+  "completion_status": "SECOND_PACKAGE_READY_ASSESSMENT_NOT_RUN",
+  "created_at": "2026-10-09T12:05:43.148793+00:00",
+  "seed": 14042,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "shuffle": "random.Random(14042).shuffle after original assessment_id sorting; aliases assigned before shuffle",
+  "rubric_sha256": "ba4e92fa877f5695fde256141135ef16fac7717306ac6457d40b51c6e5fa4726",
+  "first_assessments_sha256": "398031a6e92eccf26a582038851cfa05d4f7e43021a7589256e6d25cd0f259a6",
+  "private_mapping": "alias_mapping_private.jsonl; do not give to assessor",
+  "outputs": {
+    "alias_mapping_private.jsonl": "8c36ba5feb4e36031152db763090fddb4b7b26ef23cd1159f5cc5a9c89fd1589",
+    "first_pass_audit.json": "a0ea78583238439bac6f2078390d737d7ec7b8b3543a726929326d2ae212ab2e",
+    "old_silver_comparison_private.jsonl": "29a51b2fceb41bb0d6591794316488d32a21b659fe94b9a9b781deb95a3c99ac",
+    "pilot_second_input.jsonl": "e7fc424f7e2ec0759ab61b9b349d0774827ec6f73f1fea81f9db3e067818ff4e",
+    "protected_integrity.json": "86a8a8cc02772a9fa2c90d3609192eb4e01321ecbef50a122bbbe56f91073006",
+    "second_assessor_package.zip": "91a35d8766d641a5edc28cbc433b0ab7ffcf60cfc858551e451a82dcc287d1c7",
+    "second_assessor_prompt.md": "4c5c1cbcedf017087df63eb40e130a0dac70805bb9b41ea6ed69382ed00683dd"
+  },
+  "source_hashes": {
+    "D:\\Project\\wo-retrieval-benchmark\\experiments\\results\\milestone_9a13_judgment_pool\\blind_pilot_30.jsonl": "1e48ff74a12218746094357e298ceb65afdad40d608f408ed51eba7ab6c2f546",
+    "D:\\Project\\wo-retrieval-benchmark\\experiments\\results\\milestone_9a13_judgment_pool\\rubric_workflow.md": "ba4e92fa877f5695fde256141135ef16fac7717306ac6457d40b51c6e5fa4726"
+  },
+  "driver_sha256": "7c9c60c32ce557742263ee80a82b82d2b484a08102631c36ade7ae6236d6e415",
+  "protected_files": 728,
+  "test_sha256": "f53f66d6115fe72dd8ca15cad33b677fa87fcdc0f9c5ba8a25f6a5200eee07b7",
+  "report": {
+    "path": "experiments\\reports\\milestone_9a14_pilot_assessment_audit.md",
+    "sha256": "a38576c84cda867289ccf8b6d06ec4b7f5084491665dee915e6094015dacb259"
+  },
+  "tests": {
+    "status": "PASS",
+    "distinct_total": 161,
+    "retrieval_offline": {
+      "count": 132,
+      "seconds": 57.729,
+      "torch_imported": false
+    },
+    "ingestion": {
+      "count": 29,
+      "seconds": 11.216
+    },
+    "final_targeted_recheck": {
+      "count": 8,
+      "seconds": 0.579
+    }
+  },
+  "test_log_sha256": {
+    "D:\\ModelCache\\tmp\\wo-m9a14\\tests-retrieval.txt": "ad560808b9055bc8f01e7bcf51ce1203739ab167d002678e6dfb022983350efc",
+    "D:\\ModelCache\\tmp\\wo-m9a14\\tests-ingestion.txt": "fe978696ff3b6b58c344adeba7548bf4a6b7627a0bef6c538f7bddfb9413fdd1"
+  }
+}

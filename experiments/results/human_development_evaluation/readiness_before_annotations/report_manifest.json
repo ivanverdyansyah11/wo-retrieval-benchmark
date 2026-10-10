@@ -1,0 +1,15 @@
+{
+  "status": "BLOCKED_INCOMPLETE_ASSESSMENTS",
+  "scope": "development pooled evaluation",
+  "human_records_sha256": "e49b883bdc418a629ac6884e4282a19610dcbfb4822f48bd66b6a7064ed1a012",
+  "ranking_records_sha256": "04e0aad22e97c0b229ace28e4ef819ae167af7f44b0e8df6b45430dbdb517e8a",
+  "protocol_sha256": "aa161d98569636970c4551cfd336e11268ed7f278b134abad5441acfbdac9278",
+  "outputs": {
+    "by_style.csv": "efb4ac1d4a21ce02ddf80aa08ce4118d3ceb510be2c524d9da7c844217f24029",
+    "evaluation.json": "21d1b6a71c6bc50cbaa46c4cb5ff9b053b17cfe1cbd46881c70b7e75ecf741be",
+    "macro.csv": "f77c3cfece580a629b4a341e64ae6fd9879a6eef4d188e3086de89469e128a0c",
+    "per_query.csv": "73fda1ab4c44c013cd863d64bdccc49c7e25d2b22f0ee0f99d8fa768a0fdaf40",
+    "summary.md": "abdf1eb76beeb68eee9e34806981bab2610da90e27398f755a73f5139dbb3e04",
+    "window_coverage.csv": "a5a2f2959ec11fccbf4820d75c3bdb31da7ddf29126c317b96b707730969920f"
+  }
+}

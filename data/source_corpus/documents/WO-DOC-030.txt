@@ -1,0 +1,26 @@
+Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara
+WO-DOC-030 | Wedding Organizer X | Versi 1.0
+Draft susunan peneliti; belum divalidasi praktisi. Skenario simulasi.
+Konteks: EVT-01, EVT-02
+Dokumen terkait: WO-DOC-002, WO-DOC-017, WO-DOC-018, WO-DOC-029, WO-DOC-042, WO-DOC-046
+
+Kartu keputusan untuk keterlambatan
+EC STAFF-01 memutuskan perubahan rundown utama. PIC melaporkan posisi kegiatan, prasyarat yang gagal, perkiraan siap, dan dampak. WC STAFF-02 memeriksa persetujuan client bila biaya atau lingkup berubah. Floor tidak memotong urutan utama sendiri, MC tidak mengumumkan jam baru sebelum instruksi, dan runner tidak menyetujui perubahan atas nama EC.
+
+Sebelum memilih tindakan
+Periksa apakah keterlambatan benar-benar terjadi terhadap versi berlaku, bukan jadwal lama. Bedakan kegiatan belum mulai dari kegiatan berlangsung lebih lama. Tanyakan kepada PIC sumber apakah perkiraan siap sudah dikonfirmasi. Identifikasi batas venue, kesiapan banquet, posisi pengantin, kebutuhan keluarga, serta bagian ritual yang harus diperiksa pihak berwenang. Jangan mengurangi durasi ritual dari asumsi kru.
+
+Pilihan berurutan
+Gunakan buffer yang memang dialokasikan jika prasyarat berikutnya tetap terpenuhi. Bila tidak cukup, periksa apakah dua kegiatan dapat ditukar tanpa menimbulkan ketergantungan baru. Pilihan pengurangan sesi tambahan atau perubahan lingkup dijelaskan WC kepada client. Jika fasilitas tidak layak atau penyedia belum siap, tahan kegiatan terdampak. Menjaga angka jam di rundown tidak lebih penting daripada memenuhi prasyarat kegiatan.
+
+Contoh EVT-02
+Sambutan rencana 17.40 sampai 17.55 berlanjut melewati batas. Floor melapor waktu aktual kepada EC; PIC vendor meminta status banquet untuk dinner 18.00. EC dapat memakai buffer 17.55 sampai 18.00 jika kegiatan segera selesai dan banquet siap. Jika sambutan terus berlanjut, EC menetapkan waktu baru setelah masukan WC dan banquet. MC menerima satu instruksi terakhir, bukan dua pesan dari keluarga dan vendor.
+
+Contoh EVT-01
+Pada simulasi hujan, versi 1.1 berlaku 14.45 WITA mengganti registrasi 15.30 menjadi 15.45 serta ceremony 16.30 menjadi 16.45. Resepsi mulai 18.15 dan penutupan publik tetap 21.00 setelah dependensi diperiksa. Perubahan ini terdokumentasi dalam WO-DOC-018 dan tidak boleh diterapkan otomatis pada acara outdoor lain. Pemindahan lokasi memerlukan pemeriksaan ulang, bukan sekadar menambah lima belas menit.
+
+Pesan keputusan
+Sebut event, nomor versi, waktu berlaku, kegiatan yang berubah, waktu baru, pembatasan, dan penerima. Minta PIC mengulang bagian waktunya. Tulis cue lama dibatalkan bila pesan terlambat dapat membingungkan. Guest desk menerima perubahan arah dan waktu pembukaan; client menerima penjelasan melalui WC; vendor menerima dampak pekerjaan melalui PIC vendor. Alasan personal tidak disiarkan melalui radio umum.
+
+Catatan yang ditinggalkan
+Log memuat waktu rencana, waktu aktual, pemicu, opsi yang diperiksa, pengesah, penerima, serta akibat pada kegiatan berikutnya. Tindakan belum selesai memiliki pemilik. Setelah perubahan berjalan, floor melaporkan apakah prasyarat berikutnya sudah terpenuhi. Debrief mengevaluasi ketepatan perkiraan dan penggunaan buffer, tanpa menganggap seluruh keterlambatan berasal dari vendor.

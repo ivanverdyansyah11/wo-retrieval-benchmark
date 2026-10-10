@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "package_id": "wo-human-development-v2-17042",
+  "input_sha256": "f67790436f726a064e234d6665c0c3a7fdbc93a725dc14fea9face2b40afe960",
+  "annotation_manifest_sha256": "b23aa48b04a30470edc2d82f254694dd85ba268f2a0a1cc6b581eabe70dd316d",
+  "label": "Researcher-annotated relevance judgments",
+  "assessor_id": "Muhammad Ivan Verdyansyah",
+  "scope": "development",
+  "expert_validated": false,
+  "independently_validated": false,
+  "storage": "atomic versioned JSONL history; latest revision is current judgment",
+  "initialized_at_utc": "2026-10-09T16:23:43.378893+00:00"
+}

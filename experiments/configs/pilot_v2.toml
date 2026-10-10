@@ -1,0 +1,15 @@
+pipeline_version = "1"
+corpus_version = "v2-ai-corrected"
+expected_documents = 50
+source_documents = "data/corpus_candidates/v2_ai_corrected/documents"
+manifest = "data/versions/v2_ai_corrected/source_manifest.json"
+inventory = "data/versions/v2_ai_corrected/FILE_INVENTORY.csv"
+documents_output = "data/versions/v2_ai_corrected/processed/documents.jsonl"
+chunks_output = "data/versions/v2_ai_corrected/chunks/chunks.jsonl"
+reports_dir = "data/versions/v2_ai_corrected/reports"
+source_integrity_output = "data/versions/v2_ai_corrected/validation/source_integrity.json"
+
+[chunking]
+target_tokens = 500
+overlap_tokens = 75
+token_count_method = "approx_unicode_chars_div4_v1"

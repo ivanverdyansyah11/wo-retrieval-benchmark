@@ -1,0 +1,41 @@
+{
+  "commands": [
+    {
+      "command": "audit",
+      "exit_code": 0
+    },
+    {
+      "command": "ingest",
+      "exit_code": 0
+    },
+    {
+      "command": "chunk",
+      "exit_code": 0
+    },
+    {
+      "command": "run",
+      "exit_code": 0
+    },
+    {
+      "command": "run",
+      "exit_code": 0
+    }
+  ],
+  "identical_derived_files": 10,
+  "independent_ingest_chunk_matches_full_run": true,
+  "output_sha256": {
+    "data/chunks/chunk_config.json": "3ce4e9bea3adb0abd8e21c9b352295dcb4c686198f94192baed6a33b9f4ac3a5",
+    "data/chunks/chunks.jsonl": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0",
+    "data/processed/documents.jsonl": "314a1e44a769aad9b6e64c1fb2ef42bc04a722b38e8e87589de7e3fb3a046e01",
+    "data/processed/ingestion_config.json": "3ce4e9bea3adb0abd8e21c9b352295dcb4c686198f94192baed6a33b9f4ac3a5",
+    "experiments/reports/boilerplate_audit.json": "f2692ae48d4c8bcb25ff4536497b5345b35a4ba77ea15dcf19de5dd7ecb107ff",
+    "experiments/reports/chunk_audit.md": "65c2f868fb8870c886944f6eda673e3df5c6fde1246bd3a19135b3693dda92f4",
+    "experiments/reports/chunk_report.json": "55fa5da6a13cd9ffbbda1fb2494257d6b896ab1da2c2bf56aeac4ed1fe761397",
+    "experiments/reports/ingestion_report.json": "8c107ea503b9affa5a6ffebf9e277a20fd56c48eafab5d1a9f84c4c4f7dd7bf4",
+    "experiments/reports/sample_chunks.json": "180190adc1a49b2e65d7b7b37fe4c11af0d14f85833db7101978e5be7623267a",
+    "experiments/reports/source_audit.json": "00d287e8c5b8c5a72e96ec4737244daced49717ba108b8bef7b3598abbd21c11"
+  },
+  "source_files_checked": 57,
+  "source_unchanged": true,
+  "two_full_runs_byte_identical": true
+}

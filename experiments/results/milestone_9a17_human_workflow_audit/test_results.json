@@ -1,0 +1,48 @@
+{
+  "status": "PASS",
+  "unique_tests": 189,
+  "new_human_tests": {
+    "tests": 28,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "latest_targeted_rerun": "PASS after final Word formatting change"
+  },
+  "offline_existing": {
+    "tests": 132,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "seconds": 63.631,
+    "torch_imported": false
+  },
+  "pipeline_and_human": {
+    "tests": 57,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0,
+    "seconds": 19.408,
+    "torch_imported": false
+  },
+  "browser_fixture": {
+    "status": "PASS",
+    "save_grade": true,
+    "save_notes": true,
+    "navigation": true,
+    "unresolved": true,
+    "reload_resume": true,
+    "real_human_storage_touched": false
+  },
+  "word_fixture": {
+    "status": "PASS",
+    "synthetic_only": true,
+    "render": "Microsoft Word native XPS / WPF",
+    "pages": 3,
+    "all_pages_visually_inspected": true,
+    "actual_research_word_generated": false
+  },
+  "environment_notes": [
+    "Existing offline ML tests use installed .venv-ml dependencies; no torch imported, no GPU/model inference.",
+    "Initial harness runs had PYTHONPATH/Windows encoding/base-environment dependency errors; corrected harness environment, no original code edits."
+  ]
+}

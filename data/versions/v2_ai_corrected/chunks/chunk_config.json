@@ -1,0 +1,17 @@
+{
+  "chunking": {
+    "overlap_tokens": 75,
+    "target_tokens": 500,
+    "token_count_method": "approx_unicode_chars_div4_v1"
+  },
+  "chunks_output": "data/versions/v2_ai_corrected/chunks/chunks.jsonl",
+  "corpus_version": "v2-ai-corrected",
+  "documents_output": "data/versions/v2_ai_corrected/processed/documents.jsonl",
+  "expected_documents": 50,
+  "inventory": "data/versions/v2_ai_corrected/FILE_INVENTORY.csv",
+  "manifest": "data/versions/v2_ai_corrected/source_manifest.json",
+  "pipeline_version": "1",
+  "reports_dir": "data/versions/v2_ai_corrected/reports",
+  "source_documents": "data/corpus_candidates/v2_ai_corrected/documents",
+  "source_integrity_output": "data/versions/v2_ai_corrected/validation/source_integrity.json"
+}

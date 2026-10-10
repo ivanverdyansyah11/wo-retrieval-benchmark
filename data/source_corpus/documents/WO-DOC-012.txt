@@ -1,0 +1,28 @@
+Catatan Briefing Kru Menjelang Wedding Day
+WO-DOC-012 | Wedding Organizer X | Versi 1.0
+Draft susunan peneliti; belum divalidasi praktisi. Skenario simulasi.
+Konteks: EVT-01
+Dokumen terkait: WO-DOC-008, WO-DOC-018, WO-DOC-027, WO-DOC-045
+
+Briefing simulasi H-1 pukul 17.00 WITA
+Event EVT-01, CLIENT-01, VENUE-01 garden villa, sekitar 120 tamu. Ceremony sore dan resepsi malam menggunakan rundown versi 1.0. Catatan ini adalah briefing terisi untuk simulasi; seluruh status di bawah merupakan asumsi latihan. STAFF-01 memimpin kendali acara dan STAFF-02 memegang komunikasi client. Jangan memakai catatan ini sebagai bukti kesiapan fasilitas pada acara nyata.
+
+Informasi kritis untuk seluruh kru
+Area tertutup tetap menjadi alternatif cuaca. Pengelola perlu mengonfirmasi kondisi jalur dan kesiapan fasilitas sebelum EC memutuskan pemindahan. STAFF-06 memegang koordinasi pengelola, STAFF-05 menghitung pekerjaan vendor yang harus dipindah. Tidak ada kru yang boleh menyatakan garden aman hanya dari pengamatan langit. Laporan kondisi menyebut permukaan, akses, aktivitas vendor, dan arahan pengelola.
+
+Crew assembly besok pukul 09.00 di titik kerja yang ditetapkan pengelola, terpisah dari drop-off tamu. STAFF-05 menerima kedatangan vendor; STAFF-09 membawa perlengkapan dari storage hanya setelah rute dilepas. Registrasi tamu direncanakan mulai 15.30, ceremony 16.30. EC meninjau kesiapan area pukul 14.30 dan mengecek lagi sebelum registrasi dibuka. Waktu ini merupakan jadwal EVT-01, bukan aturan semua wedding.
+
+Penugasan dan pengganti
+STAFF-03 mendampingi pengantin bersama VEN-MUA-01. Laporan siap masuk melalui WC. STAFF-04 menyiapkan keluarga inti pada titik tunggu, tanpa memanggil berdiri sebelum floor menerima cue. STAFF-07 menjaga jalur entrance; STAFF-08 mengatur guest desk dan escort. STAFF-10 menghubungkan drop-off dengan guest desk bila tamu memerlukan bantuan. Runner tetap melapor ketika tugas selesai, meskipun pemberi tugas sedang menerima tamu.
+
+Outstanding yang harus ditutup
+Penempatan petunjuk arah alternatif tertutup diperiksa STAFF-06 sebelum pembukaan registrasi. STAFF-05 memeriksa perpindahan AV bersama teknisi yang berkompeten, tanpa mengizinkan kru umum menyambung instalasi. STAFF-08 memeriksa versi seating dan titik escort sebelum tamu pertama datang. Ketiga isu belum dinyatakan selesai dalam briefing ini; penerima tugas mengirim bukti dan waktu pemeriksaan kepada EC.
+
+Instruksi komunikasi
+Awali pesan dengan EVT-01 dan area. Sampaikan fakta, dampak, dan bantuan yang dibutuhkan. Penerima mengulang instruksi waktu serta tujuan. Tidak ada jawaban berarti pesan belum selesai; gunakan jalur cadangan yang disepakati melalui PIC atau runner. Masalah pribadi pasangan dan data tamu tidak dibacakan di radio. Perubahan rundown utama hanya diterbitkan EC, sedangkan perubahan biaya atau lingkup dibawa WC kepada client.
+
+Skenario yang dilatih saat briefing
+Jika hujan mulai sebelum ceremony, floor menahan pembukaan area terdampak dan PIC venue meminta penilaian pengelola. PIC vendor mengirim urutan pemindahan, WC menjelaskan pilihan kepada client, dan EC menerbitkan lokasi serta waktu berlaku. Guest desk menunggu pesan lokasi yang sudah disahkan sebelum mengarahkan tamu. Setelah perpindahan, lakukan pemeriksaan ulang jalur, seating, perangkat, dan cue; pengumuman saja tidak membuat area siap.
+
+Penutup briefing
+Setiap PIC membaca ulang tugas paling kritis serta siapa penerima handover. Kru yang belum menerima rundown versi 1.0 mengambil salinan terkendali sebelum meninggalkan briefing. STAFF-01 mengumpulkan pertanyaan yang belum terjawab dalam daftar outstanding. Briefing selesai setelah pemilik dan tenggat setiap isu diketahui, bukan setelah semua orang menyatakan paham secara bersamaan.

@@ -1,0 +1,44 @@
+FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu
+WO-DOC-041 | Wedding Organizer X | Versi 1.0
+Draft susunan peneliti; belum divalidasi praktisi. Skenario simulasi.
+Konteks: EVT-02, EVT-03
+Dokumen terkait: WO-DOC-005, WO-DOC-016, WO-DOC-025, WO-DOC-032, WO-DOC-033, WO-DOC-039
+
+FAQ kerja guest desk
+FAQ ini dipakai STAFF-08 dan escort pada EVT-02 di VENUE-02 untuk sekitar 280 tamu, serta EVT-03 di VENUE-03 untuk sekitar 45 tamu. Jawaban harus disesuaikan dengan versi daftar dan fasilitas yang telah dikonfirmasi. Bila informasi belum tersedia, sampaikan sedang dikonfirmasi dan beri penerima tindak lanjut; jangan menebak.
+
+Kode undangan tidak ada pada daftar
+Arahkan tamu ke sisi meja, catat kode kelompok serta jumlah orang, dan minta PIC keluarga memverifikasi. Layanan reguler tetap berjalan. Jangan mengatakan tamu tidak diundang di depan antrean. WC membantu konfirmasi bila hubungan undangan belum jelas. Kursi baru diberikan setelah alokasi dan kondisi area diperiksa.
+
+Satu kelompok datang lebih banyak dari rencana
+Hitung orang tambahan tanpa menghitung ulang anggota yang sudah tercatat. PIC keluarga memverifikasi, floor memeriksa seating, PIC vendor menanyakan layanan banquet, dan PIC venue meminta pengelola menilai kapasitas. EC menetapkan solusi operasional. WC mengurus persetujuan client untuk tambahan biaya atau lingkup. Guest desk tidak menjanjikan kursi atau makanan sebelum jawaban tersedia.
+
+Kursi yang dituju sudah ditempati
+Minta escort menjaga tamu tetap nyaman sementara floor memeriksa versi seating serta kelompok penghuni. Jangan memindahkan orang secara paksa atau menukar kursi keluarga berdasarkan dugaan. Perubahan dicatat dengan kelompok asal, tujuan, jumlah, alasan, serta pengesah. Guest desk dan escort menerima pembaruan yang sama.
+
+Tamu menanyakan toilet atau ruang ibadah
+Berikan arah hanya ke fasilitas yang dikonfirmasi PIC venue. Jika belum diketahui, panggil penghubung venue dan jangan mengarahkan tamu ke pintu acak. Tawarkan escort apabila diperlukan. Tidak semua venue memiliki fasilitas yang sama; jangan membawa jawaban ballroom ke chapel atau garden tanpa pemeriksaan.
+
+Tamu membutuhkan bantuan bergerak
+Tanyakan jenis bantuan yang diinginkan, lalu hubungi escort dan PIC venue untuk jalur yang tersedia. Minta izin sebelum menyentuh orang atau alat bantu. Jangan mengangkat tamu atau menggunakan jalur yang belum diperiksa. Kebutuhan pertolongan kesehatan diarahkan kepada petugas berwenang melalui PIC venue.
+
+Tamu meminta makanan tertentu
+Sampaikan kode kebutuhan kepada PIC vendor agar catering atau banquet mengonfirmasi. Jangan menjamin bebas bahan tertentu dari nama menu saja. Jika penyedia belum memberi jawaban, sampaikan keterbatasan informasi dan hubungkan tamu dengan personel layanan. Hindari menyebarkan informasi kesehatan melalui radio umum.
+
+Apakah seseorang sudah hadir
+Informasi kedatangan tidak diberikan kepada siapa pun yang bertanya. Arahkan kebutuhan yang sah kepada PIC keluarga. Salinan daftar tidak difoto, diteruskan ke vendor, atau ditempel pada area terbuka. Gunakan kode kelompok dalam komunikasi internal yang dapat terdengar tamu.
+
+Tamu datang saat ceremony berjalan
+Floor menentukan titik tunggu serta jeda masuk yang sesuai dengan arahan pemimpin prosesi. Escort menjaga pintu tetap dapat digunakan dan tidak memotong prosesi. Jangan mempersilakan masuk hanya karena kursi terlihat kosong. Guest desk tetap mencatat kedatangan dan memberi waktu pembaruan yang realistis.
+
+Transport dinner EVT-03 belum datang
+Hubungi LO STAFF-10 untuk posisi kendaraan dan perkiraan yang dikonfirmasi penyedia. Kelompok menunggu di titik yang diizinkan PIC venue. Jangan meminta driver melanggar pembatasan akses atau menjanjikan waktu tiba tanpa sumber. LO mencatat jumlah naik serta tiba dan menyerahkan kelompok kepada penerima dinner.
+
+Tamu melaporkan barang hilang
+Catat ciri umum, lokasi terakhir, waktu, dan kode pelapor. Hubungkan dengan PIC yang menangani lost and found. Jangan membuka tas atau menyebarkan foto dokumen pribadi. Jika barang ditemukan, kepemilikan diverifikasi melalui ciri pembeda serta prosedur pengelola sebelum diserahkan.
+
+Lokasi acara berubah karena kondisi cuaca
+Tunggu instruksi EC yang menyebut tujuan dan waktu berlaku. Ganti penunjuk arah dan tempatkan escort di simpang. PIC venue memastikan tujuan boleh dipakai; PIC vendor memeriksa kesiapan layanan. Informasikan tindakan praktis kepada tamu tanpa prediksi cuaca atau jaminan yang belum ada.
+
+Jawaban antarstaf berbeda
+Hentikan penyebaran jawaban yang belum jelas, periksa versi dokumen, lalu minta STAFF-08 menyatukan informasi melalui PIC terkait. Setelah keputusan diterima, ulangi kepada staf meja dan escort. Catat pertanyaan serta koreksi untuk debrief agar FAQ berikutnya diperbarui berdasarkan temuan aktual.

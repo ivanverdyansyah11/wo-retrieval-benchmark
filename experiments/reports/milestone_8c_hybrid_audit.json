@@ -1,0 +1,899 @@
+{
+  "status": "MILESTONE_8C_2_FINAL_CONTROLLED_ATTEMPT_STOPPED_AT_5_GIB_GATE",
+  "milestone_8c_complete": false,
+  "milestone_8d_ready": false,
+  "updated_at_utc": "2026-10-08T22:40:08.450299+00:00",
+  "files_created": [],
+  "files_changed": [
+    "experiments/reports/milestone_8c_hybrid_retrieval.md",
+    "experiments/reports/milestone_8c_hybrid_audit.json"
+  ],
+  "authorization": "User explicit approval 2026-10-09 Asia/Singapore MILESTONE 8C.2: ONE new final controlled R4 GPU smoke WO-DEV-001/007/013 only if final RAM >=5 GiB; immediate RAM stop below2GiB; no retry or fallback",
+  "readiness": {
+    "authorization": "user attachment abf1b34f-b257-4797-ac6d-f13ee1cd8a0f; pilot development only",
+    "chunks": 371,
+    "effectiveness_evaluation": "NOT RUN",
+    "fingerprint": "8b156b009525821d78516e765a788fb1064a33790a3bca088b07e740a475fb31",
+    "identity": {
+      "bm25_index_fingerprint": "6311e3dde68c96f4f84a1601a894946af5abe655d5656d1ed93ceffbf2874120",
+      "bm25_index_path": "D:\\Project\\wo-retrieval-benchmark\\experiments\\indexes\\R2",
+      "candidate_policy": "full dense ranking plus every strictly positive BM25 candidate",
+      "code_file_hashes": {
+        "__init__.py": "e299a1da371a1a0bf5658d6881b3c97defa4d2e38db7ddad743196e159929734",
+        "cli.py": "c6eb1761f160ee9363a00ce72ad5bc5e3370c86a7bed70f5db274acf9b23ccb4",
+        "retrieval.py": "80efd918ac413eb95c6e9fad60f98d9943f620788325806424b9fb7ad79f4542"
+      },
+      "config_fingerprint": "960f5906c753422b1efcd1edd64ac53ba39e48ade7c707c073a666fc5fed19e1",
+      "dense_code_file_hashes": {
+        "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+        "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+        "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+        "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+        "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+      },
+      "dense_index_fingerprint": "465cf54c7fa3aadaccbb3090279762bd27f24817360c749ede4315f1f34abc72",
+      "dense_index_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+      "dependency_versions": {
+        "FlagEmbedding": "1.4.2",
+        "huggingface-hub": "0.36.2",
+        "joblib": "1.6.0",
+        "numpy": "2.5.3",
+        "psutil": "7.2.2",
+        "rank-bm25": "0.2.2",
+        "safetensors": "0.8.0",
+        "scikit-learn": "1.9.1",
+        "scipy": "1.18.1",
+        "sentencepiece": "0.2.2",
+        "threadpoolctl": "3.7.0",
+        "tokenizers": "0.22.2",
+        "torch": "2.12.1+cu126",
+        "transformers": "4.57.6"
+      },
+      "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+      "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+      "rrf_k": 60,
+      "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+      "shared_code_file_hashes": {
+        "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+        "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+        "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+        "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+      },
+      "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+      "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+      "tie_breaking": [
+        "score_descending_unrounded",
+        "chunk_id_ascending_unicode_codepoint"
+      ],
+      "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+      "zero_negative_bm25": "excluded before eligible ranks; no contribution or pseudo-rank"
+    },
+    "index_rebuild": false,
+    "method_id": "R4",
+    "protocol_status": "PROPOSED_REQUIRES_REVIEW",
+    "status": "READY_WEIGHTS_NOT_LOADED",
+    "timestamp_utc": "2026-10-08T22:38:54.389626+00:00",
+    "tokenizer_audit": {
+      "chunks": 371,
+      "max": 573,
+      "max_length": 640,
+      "mean": 194.33962264150944,
+      "median": 136,
+      "min": 83,
+      "p95_nearest_rank": 497,
+      "special_tokens_included": true,
+      "truncation": false,
+      "truncation_count": 0
+    }
+  },
+  "earlier_readiness_evidence": "D:\\ModelCache\\wo-retrieval-benchmark\\runs\\20261008T174711865618Z-R4\\run.json",
+  "smoke": {
+    "approval_note": "User explicit approval 2026-10-09 Asia/Singapore MILESTONE 8C.2: ONE new final controlled R4 GPU smoke WO-DEV-001/007/013 only if final RAM >=5 GiB; immediate RAM stop below2GiB; no retry or fallback",
+    "approved_low_memory": true,
+    "command": "smoke",
+    "effective_resource_policy": {
+      "cache_and_temp_drive": "D:",
+      "cloud_policy": "separate declared environment/run; same protocol/snapshot hashes; no mixing local/cloud latency",
+      "cpu": "Intel Core i7-7700HQ",
+      "cpu_fallback": "separate RAM reassessment/approval and FP32 validation; never silently mix device/precision within one run",
+      "gpu": "NVIDIA GTX 1050 4GB, capability6.1",
+      "gpu_monitor_interval_seconds": 2.0,
+      "monitor_interval_seconds": 0.2,
+      "oom_policy": "stop own test/run; log full error and affected ID; release GPU; mark partial cache incomplete; no automatic retry",
+      "ram_gate": "dynamic preflight required; lower-margin run needs recorded explicit approval, not automatic override",
+      "ram_gib_nominal": 16,
+      "recommended_available_ram_gib": 6,
+      "single_model_process": true,
+      "stop_available_ram_mib": 2048,
+      "stop_commit_headroom_gib": 1,
+      "stop_memory_load_percent": 97,
+      "stop_sustained_seconds": 0,
+      "threads": 4
+    },
+    "effectiveness_evaluation": "NOT RUN",
+    "error": {
+      "message": "Available RAM below 5 GiB model-loading gate; no model loaded",
+      "traceback": "Traceback (most recent call last):\n  File \"D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval\\hybrid\\cli.py\", line 63, in run\n    gate(report['pre_model_loading'], report['gpu_pre_model_loading'], policy, approved_low_memory)\n  File \"D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval\\dense\\resources.py\", line 50, in gate\n    raise RuntimeError(f\"Available RAM below {minimum} GiB model-loading gate; no model loaded\")\nRuntimeError: Available RAM below 5 GiB model-loading gate; no model loaded\n",
+      "type": "RuntimeError"
+    },
+    "evidence_path": "D:\\ModelCache\\wo-retrieval-benchmark\\runs\\20261008T223835960781Z-R4\\run.json",
+    "gpu_pre_model_loading": {
+      "driver": "581.80",
+      "free_mib": 4007,
+      "name": "NVIDIA GeForce GTX 1050",
+      "total_mib": 4096,
+      "used_mib": 0
+    },
+    "gpu_preflight": {
+      "driver": "581.80",
+      "free_mib": 4007,
+      "name": "NVIDIA GeForce GTX 1050",
+      "total_mib": 4096,
+      "used_mib": 0
+    },
+    "loading": "NOT RUN",
+    "method_id": "R4",
+    "model_loading_gate_gib": 5,
+    "pre_model_loading": {
+      "available_ram_bytes": 4678381568,
+      "commit_headroom_bytes": 13612933120,
+      "disk_free_bytes": {
+        "C:/": 13861367808,
+        "D:/": 909382197248
+      },
+      "memory_load_percent": 72,
+      "process_peak_working_set_bytes": 1051377664,
+      "process_rss_bytes": 991879168
+    },
+    "preflight": {
+      "available_ram_bytes": 5509734400,
+      "commit_headroom_bytes": 14765289472,
+      "disk_free_bytes": {
+        "C:/": 13861597184,
+        "D:/": 909382197248
+      },
+      "memory_load_percent": 67,
+      "process_peak_working_set_bytes": 149745664,
+      "process_rss_bytes": 149745664
+    },
+    "readiness": {
+      "authorization": "user attachment abf1b34f-b257-4797-ac6d-f13ee1cd8a0f; pilot development only",
+      "chunks": 371,
+      "effectiveness_evaluation": "NOT RUN",
+      "fingerprint": "8b156b009525821d78516e765a788fb1064a33790a3bca088b07e740a475fb31",
+      "identity": {
+        "bm25_index_fingerprint": "6311e3dde68c96f4f84a1601a894946af5abe655d5656d1ed93ceffbf2874120",
+        "bm25_index_path": "D:\\Project\\wo-retrieval-benchmark\\experiments\\indexes\\R2",
+        "candidate_policy": "full dense ranking plus every strictly positive BM25 candidate",
+        "code_file_hashes": {
+          "__init__.py": "e299a1da371a1a0bf5658d6881b3c97defa4d2e38db7ddad743196e159929734",
+          "cli.py": "c6eb1761f160ee9363a00ce72ad5bc5e3370c86a7bed70f5db274acf9b23ccb4",
+          "retrieval.py": "80efd918ac413eb95c6e9fad60f98d9943f620788325806424b9fb7ad79f4542"
+        },
+        "config_fingerprint": "960f5906c753422b1efcd1edd64ac53ba39e48ade7c707c073a666fc5fed19e1",
+        "dense_code_file_hashes": {
+          "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+          "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+          "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+          "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+          "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+        },
+        "dense_index_fingerprint": "465cf54c7fa3aadaccbb3090279762bd27f24817360c749ede4315f1f34abc72",
+        "dense_index_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+        "dependency_versions": {
+          "FlagEmbedding": "1.4.2",
+          "huggingface-hub": "0.36.2",
+          "joblib": "1.6.0",
+          "numpy": "2.5.3",
+          "psutil": "7.2.2",
+          "rank-bm25": "0.2.2",
+          "safetensors": "0.8.0",
+          "scikit-learn": "1.9.1",
+          "scipy": "1.18.1",
+          "sentencepiece": "0.2.2",
+          "threadpoolctl": "3.7.0",
+          "tokenizers": "0.22.2",
+          "torch": "2.12.1+cu126",
+          "transformers": "4.57.6"
+        },
+        "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+        "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+        "rrf_k": 60,
+        "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+        "shared_code_file_hashes": {
+          "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+          "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+          "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+          "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+        },
+        "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+        "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+        "tie_breaking": [
+          "score_descending_unrounded",
+          "chunk_id_ascending_unicode_codepoint"
+        ],
+        "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+        "zero_negative_bm25": "excluded before eligible ranks; no contribution or pseudo-rank"
+      },
+      "index_rebuild": false,
+      "method_id": "R4",
+      "protocol_status": "PROPOSED_REQUIRES_REVIEW",
+      "status": "READY_WEIGHTS_NOT_LOADED",
+      "timestamp_utc": "2026-10-08T22:38:54.389626+00:00",
+      "tokenizer_audit": {
+        "chunks": 371,
+        "max": 573,
+        "max_length": 640,
+        "mean": 194.33962264150944,
+        "median": 136,
+        "min": 83,
+        "p95_nearest_rank": 497,
+        "special_tokens_included": true,
+        "truncation": false,
+        "truncation_count": 0
+      }
+    },
+    "resource_after_cleanup": {
+      "available_ram_bytes": 4691165184,
+      "commit_headroom_bytes": 13631664128,
+      "disk_free_bytes": {
+        "C:/": 13861367808,
+        "D:/": 909382189056
+      },
+      "memory_load_percent": 72,
+      "process_peak_working_set_bytes": 1051377664,
+      "process_rss_bytes": 991858688
+    },
+    "resource_monitor": {
+      "min_available_ram_bytes": 4671922176,
+      "min_commit_headroom_bytes": 13591601152,
+      "peak_device_used_mib": 0,
+      "peak_rss_bytes": 1034276864,
+      "peak_working_set_bytes": 1051377664,
+      "samples": 66
+    },
+    "selection": "first existing query per style; independent of ranking",
+    "smoke": "NOT RUN",
+    "status": "STOPPED"
+  },
+  "tests": {
+    "status": "PASS",
+    "current_total_unique": 21,
+    "current_results": {
+      "test_hybrid_retrieval.py": {
+        "tests": 16,
+        "PASS": true
+      },
+      "test_protocol_config.py": {
+        "tests": 5,
+        "PASS": true
+      }
+    },
+    "previous_full_relevant_suite": {
+      "tests": 51,
+      "status": "PASS_in_8C_1_not_rerun_in_full_no_code_changes"
+    }
+  },
+  "integrity": {
+    "status": "PASS",
+    "baseline_files": 139,
+    "source_documents_unchanged": 50,
+    "protected_artifact_sha256": {
+      "data/source_corpus/corpus_manifest.json": "3bc162662521b44e2d8abd06d75729a5e19abba535eb6e2c8bcbb3c5f80cd44f",
+      "data/processed/documents.jsonl": "314a1e44a769aad9b6e64c1fb2ef42bc04a722b38e8e87589de7e3fb3a046e01",
+      "data/chunks/chunks.jsonl": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0",
+      "experiments/configs/pilot.toml": "958508999a7285dc7e0caf65a6b3b55106bdcc4d8791e6e665529f0f84812a26"
+    },
+    "snapshot_sha256": "279157bab95e3c899091ea7576e6388829823635f1bb158a5ff2a1e72ebd9a4e",
+    "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+    "R1_R2_indices_unchanged": true,
+    "R3_indices_unchanged": true,
+    "R3_file_sha256": {
+      "manifest.json": "bc96099725d17dca4e45c0b10ec3204fd56bb91f5f7349843f6a61275f1a5e1b",
+      "rows.json": "a2841c513395e16c053427fdad8a3d3fa2438bcd041a7c1461ad4a167ffaee16",
+      "vectors.npy": "6774becce519fcaa822807ddf20b334197a8a0c41f30c3d7de8f29fe3baeb5e5"
+    },
+    "protocol_unchanged": true,
+    "all_code_tests_configs_README_unchanged": true,
+    "query_provenance_workbook_unchanged": true,
+    "allowed_changes": [
+      "experiments/reports/milestone_8c_hybrid_retrieval.md",
+      "experiments/reports/milestone_8c_hybrid_audit.json"
+    ]
+  },
+  "planned_smoke_queries": [
+    {
+      "query_id": "WO-DEV-001",
+      "text": "Untuk pengelolaan daftar registrasi, bagaimana pembagian peran A dan R dalam matriks RACI tim?",
+      "style": "lexical_oriented",
+      "status": "draft_pending_expert_review",
+      "inference": "NOT RUN"
+    },
+    {
+      "query_id": "WO-DEV-007",
+      "text": "Dua atasan memberi arahan yang saling bertentangan kepada kru yang sama. Apa yang sebaiknya dilakukan kru?",
+      "style": "semantic_paraphrase",
+      "status": "draft_pending_expert_review",
+      "inference": "NOT RUN"
+    },
+    {
+      "query_id": "WO-DEV-013",
+      "text": "Menjelang prosesi, makeup sudah selesai tetapi pengantin belum tiba di titik standby. Apa yang harus dicek sebelum menyatakan pasangan siap?",
+      "style": "mixed_natural",
+      "status": "draft_pending_expert_review",
+      "inference": "NOT RUN"
+    }
+  ],
+  "limitations": [
+    "Controlled GPU run stopped at 5 GiB pre-model gate; no weights loaded or query inference",
+    "No top5/contribution outputs for real queries; only mathematical fixtures validated",
+    "No effectiveness evaluation, indexing, query/qrels generation, dependency changes, CPU fallback or retries",
+    "Corpus pending practitioner validation; queries remain drafts"
+  ],
+  "historical_attempts": [
+    {
+      "approval": "previous default 6 GiB gate, no override",
+      "smoke": {
+        "command": "smoke",
+        "effectiveness_evaluation": "NOT RUN",
+        "error": {
+          "message": "Available RAM below 6 GiB model-loading gate; no model loaded",
+          "traceback": "Traceback (most recent call last):\n  File \"D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval\\hybrid\\cli.py\", line 53, in run\n    gate(report['pre_model_loading'], report['gpu_pre_model_loading'], config['hardware'], False)\n  File \"D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval\\dense\\resources.py\", line 50, in gate\n    raise RuntimeError(f\"Available RAM below {minimum} GiB model-loading gate; no model loaded\")\nRuntimeError: Available RAM below 6 GiB model-loading gate; no model loaded\n",
+          "type": "RuntimeError"
+        },
+        "evidence_path": "D:\\ModelCache\\wo-retrieval-benchmark\\runs\\20261008T174829182051Z-R4\\run.json",
+        "gpu_pre_model_loading": {
+          "driver": "581.80",
+          "free_mib": 4007,
+          "name": "NVIDIA GeForce GTX 1050",
+          "total_mib": 4096,
+          "used_mib": 0
+        },
+        "gpu_preflight": {
+          "driver": "581.80",
+          "free_mib": 4007,
+          "name": "NVIDIA GeForce GTX 1050",
+          "total_mib": 4096,
+          "used_mib": 0
+        },
+        "loading": "NOT RUN",
+        "method_id": "R4",
+        "pre_model_loading": {
+          "available_ram_bytes": 5938028544,
+          "commit_headroom_bytes": 12037795840,
+          "disk_free_bytes": {
+            "C:/": 13920874496,
+            "D:/": 909385056256
+          },
+          "memory_load_percent": 65,
+          "process_peak_working_set_bytes": 1049526272,
+          "process_rss_bytes": 991727616
+        },
+        "preflight": {
+          "available_ram_bytes": 6796492800,
+          "commit_headroom_bytes": 13145542656,
+          "disk_free_bytes": {
+            "C:/": 13921267712,
+            "D:/": 909385056256
+          },
+          "memory_load_percent": 60,
+          "process_peak_working_set_bytes": 150102016,
+          "process_rss_bytes": 150102016
+        },
+        "readiness": {
+          "authorization": "user attachment abf1b34f-b257-4797-ac6d-f13ee1cd8a0f; pilot development only",
+          "chunks": 371,
+          "effectiveness_evaluation": "NOT RUN",
+          "fingerprint": "90392ff66849c0f66702eed7266a89f60194d7ee8c60594bd523fdcb2d49ba60",
+          "identity": {
+            "bm25_index_fingerprint": "6311e3dde68c96f4f84a1601a894946af5abe655d5656d1ed93ceffbf2874120",
+            "bm25_index_path": "D:\\Project\\wo-retrieval-benchmark\\experiments\\indexes\\R2",
+            "candidate_policy": "full dense ranking plus every strictly positive BM25 candidate",
+            "code_file_hashes": {
+              "__init__.py": "e299a1da371a1a0bf5658d6881b3c97defa4d2e38db7ddad743196e159929734",
+              "cli.py": "77bde3787faf0a8f89157960fabe470e9b6eaa44c66640d0b1fc6662486cc1d2",
+              "retrieval.py": "80efd918ac413eb95c6e9fad60f98d9943f620788325806424b9fb7ad79f4542"
+            },
+            "config_fingerprint": "960f5906c753422b1efcd1edd64ac53ba39e48ade7c707c073a666fc5fed19e1",
+            "dense_code_file_hashes": {
+              "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+              "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+              "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+              "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+              "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+            },
+            "dense_index_fingerprint": "465cf54c7fa3aadaccbb3090279762bd27f24817360c749ede4315f1f34abc72",
+            "dense_index_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+            "dependency_versions": {
+              "FlagEmbedding": "1.4.2",
+              "huggingface-hub": "0.36.2",
+              "joblib": "1.6.0",
+              "numpy": "2.5.3",
+              "psutil": "7.2.2",
+              "rank-bm25": "0.2.2",
+              "safetensors": "0.8.0",
+              "scikit-learn": "1.9.1",
+              "scipy": "1.18.1",
+              "sentencepiece": "0.2.2",
+              "threadpoolctl": "3.7.0",
+              "tokenizers": "0.22.2",
+              "torch": "2.12.1+cu126",
+              "transformers": "4.57.6"
+            },
+            "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+            "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+            "rrf_k": 60,
+            "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+            "shared_code_file_hashes": {
+              "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+              "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+              "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+              "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+            },
+            "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "tie_breaking": [
+              "score_descending_unrounded",
+              "chunk_id_ascending_unicode_codepoint"
+            ],
+            "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+            "zero_negative_bm25": "excluded before eligible ranks; no contribution or pseudo-rank"
+          },
+          "index_rebuild": false,
+          "method_id": "R4",
+          "protocol_status": "PROPOSED_REQUIRES_REVIEW",
+          "status": "READY_WEIGHTS_NOT_LOADED",
+          "timestamp_utc": "2026-10-08T17:48:46.610904+00:00",
+          "tokenizer_audit": {
+            "chunks": 371,
+            "max": 573,
+            "max_length": 640,
+            "mean": 194.33962264150944,
+            "median": 136,
+            "min": 83,
+            "p95_nearest_rank": 497,
+            "special_tokens_included": true,
+            "truncation": false,
+            "truncation_count": 0
+          }
+        },
+        "resource_after_cleanup": {
+          "available_ram_bytes": 5938200576,
+          "commit_headroom_bytes": 12034310144,
+          "disk_free_bytes": {
+            "C:/": 13920874496,
+            "D:/": 909385052160
+          },
+          "memory_load_percent": 65,
+          "process_peak_working_set_bytes": 1049526272,
+          "process_rss_bytes": 991862784
+        },
+        "resource_monitor": {
+          "min_available_ram_bytes": 5915447296,
+          "min_commit_headroom_bytes": 12015554560,
+          "peak_device_used_mib": 0,
+          "peak_rss_bytes": 991891456,
+          "peak_working_set_bytes": 1049526272,
+          "samples": 62
+        },
+        "selection": "first existing query per style; independent of ranking",
+        "smoke": "NOT RUN",
+        "status": "STOPPED"
+      },
+      "readiness": {
+        "authorization": "user attachment abf1b34f-b257-4797-ac6d-f13ee1cd8a0f; pilot development only",
+        "chunks": 371,
+        "effectiveness_evaluation": "NOT RUN",
+        "fingerprint": "90392ff66849c0f66702eed7266a89f60194d7ee8c60594bd523fdcb2d49ba60",
+        "identity": {
+          "bm25_index_fingerprint": "6311e3dde68c96f4f84a1601a894946af5abe655d5656d1ed93ceffbf2874120",
+          "bm25_index_path": "D:\\Project\\wo-retrieval-benchmark\\experiments\\indexes\\R2",
+          "candidate_policy": "full dense ranking plus every strictly positive BM25 candidate",
+          "code_file_hashes": {
+            "__init__.py": "e299a1da371a1a0bf5658d6881b3c97defa4d2e38db7ddad743196e159929734",
+            "cli.py": "77bde3787faf0a8f89157960fabe470e9b6eaa44c66640d0b1fc6662486cc1d2",
+            "retrieval.py": "80efd918ac413eb95c6e9fad60f98d9943f620788325806424b9fb7ad79f4542"
+          },
+          "config_fingerprint": "960f5906c753422b1efcd1edd64ac53ba39e48ade7c707c073a666fc5fed19e1",
+          "dense_code_file_hashes": {
+            "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+            "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+            "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+            "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+            "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+          },
+          "dense_index_fingerprint": "465cf54c7fa3aadaccbb3090279762bd27f24817360c749ede4315f1f34abc72",
+          "dense_index_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+          "dependency_versions": {
+            "FlagEmbedding": "1.4.2",
+            "huggingface-hub": "0.36.2",
+            "joblib": "1.6.0",
+            "numpy": "2.5.3",
+            "psutil": "7.2.2",
+            "rank-bm25": "0.2.2",
+            "safetensors": "0.8.0",
+            "scikit-learn": "1.9.1",
+            "scipy": "1.18.1",
+            "sentencepiece": "0.2.2",
+            "threadpoolctl": "3.7.0",
+            "tokenizers": "0.22.2",
+            "torch": "2.12.1+cu126",
+            "transformers": "4.57.6"
+          },
+          "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+          "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+          "rrf_k": 60,
+          "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+          "shared_code_file_hashes": {
+            "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+            "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+            "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+            "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+          },
+          "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+          "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+          "tie_breaking": [
+            "score_descending_unrounded",
+            "chunk_id_ascending_unicode_codepoint"
+          ],
+          "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+          "zero_negative_bm25": "excluded before eligible ranks; no contribution or pseudo-rank"
+        },
+        "index_rebuild": false,
+        "method_id": "R4",
+        "protocol_status": "PROPOSED_REQUIRES_REVIEW",
+        "status": "READY_WEIGHTS_NOT_LOADED",
+        "timestamp_utc": "2026-10-08T17:48:46.610904+00:00",
+        "tokenizer_audit": {
+          "chunks": 371,
+          "max": 573,
+          "max_length": 640,
+          "mean": 194.33962264150944,
+          "median": 136,
+          "min": 83,
+          "p95_nearest_rank": 497,
+          "special_tokens_included": true,
+          "truncation": false,
+          "truncation_count": 0
+        }
+      }
+    },
+    {
+      "milestone": "8C earlier controlled low-memory attempt",
+      "smoke": {
+        "approval_note": "User explicit approval 2026-10-09 Asia/Singapore: one controlled R4 smoke WO-DEV-001/007/013 only; 5 GiB loading gate; stop below 2 GiB; no retry",
+        "approved_low_memory": true,
+        "command": "smoke",
+        "effective_resource_policy": {
+          "cache_and_temp_drive": "D:",
+          "cloud_policy": "separate declared environment/run; same protocol/snapshot hashes; no mixing local/cloud latency",
+          "cpu": "Intel Core i7-7700HQ",
+          "cpu_fallback": "separate RAM reassessment/approval and FP32 validation; never silently mix device/precision within one run",
+          "gpu": "NVIDIA GTX 1050 4GB, capability6.1",
+          "gpu_monitor_interval_seconds": 2.0,
+          "monitor_interval_seconds": 0.2,
+          "oom_policy": "stop own test/run; log full error and affected ID; release GPU; mark partial cache incomplete; no automatic retry",
+          "ram_gate": "dynamic preflight required; lower-margin run needs recorded explicit approval, not automatic override",
+          "ram_gib_nominal": 16,
+          "recommended_available_ram_gib": 6,
+          "single_model_process": true,
+          "stop_available_ram_mib": 2048,
+          "stop_commit_headroom_gib": 1,
+          "stop_memory_load_percent": 97,
+          "stop_sustained_seconds": 0,
+          "threads": 4
+        },
+        "effectiveness_evaluation": "NOT RUN",
+        "error": {
+          "message": "Available RAM below 5 GiB model-loading gate; no model loaded",
+          "traceback": "Traceback (most recent call last):\n  File \"D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval\\hybrid\\cli.py\", line 63, in run\n    gate(report['pre_model_loading'], report['gpu_pre_model_loading'], policy, approved_low_memory)\n  File \"D:\\Project\\wo-retrieval-benchmark\\src\\wo_retrieval\\dense\\resources.py\", line 50, in gate\n    raise RuntimeError(f\"Available RAM below {minimum} GiB model-loading gate; no model loaded\")\nRuntimeError: Available RAM below 5 GiB model-loading gate; no model loaded\n",
+          "type": "RuntimeError"
+        },
+        "evidence_path": "D:\\ModelCache\\wo-retrieval-benchmark\\runs\\20261008T222455491047Z-R4\\run.json",
+        "gpu_pre_model_loading": {
+          "driver": "581.80",
+          "free_mib": 4007,
+          "name": "NVIDIA GeForce GTX 1050",
+          "total_mib": 4096,
+          "used_mib": 0
+        },
+        "gpu_preflight": {
+          "driver": "581.80",
+          "free_mib": 4007,
+          "name": "NVIDIA GeForce GTX 1050",
+          "total_mib": 4096,
+          "used_mib": 0
+        },
+        "loading": "NOT RUN",
+        "method_id": "R4",
+        "model_loading_gate_gib": 5,
+        "pre_model_loading": {
+          "available_ram_bytes": 4736684032,
+          "commit_headroom_bytes": 13998387200,
+          "disk_free_bytes": {
+            "C:/": 13871665152,
+            "D:/": 909382352896
+          },
+          "memory_load_percent": 72,
+          "process_peak_working_set_bytes": 1049223168,
+          "process_rss_bytes": 990130176
+        },
+        "preflight": {
+          "available_ram_bytes": 5511438336,
+          "commit_headroom_bytes": 15136321536,
+          "disk_free_bytes": {
+            "C:/": 13876396032,
+            "D:/": 909382352896
+          },
+          "memory_load_percent": 67,
+          "process_peak_working_set_bytes": 150085632,
+          "process_rss_bytes": 150085632
+        },
+        "readiness": {
+          "authorization": "user attachment abf1b34f-b257-4797-ac6d-f13ee1cd8a0f; pilot development only",
+          "chunks": 371,
+          "effectiveness_evaluation": "NOT RUN",
+          "fingerprint": "8b156b009525821d78516e765a788fb1064a33790a3bca088b07e740a475fb31",
+          "identity": {
+            "bm25_index_fingerprint": "6311e3dde68c96f4f84a1601a894946af5abe655d5656d1ed93ceffbf2874120",
+            "bm25_index_path": "D:\\Project\\wo-retrieval-benchmark\\experiments\\indexes\\R2",
+            "candidate_policy": "full dense ranking plus every strictly positive BM25 candidate",
+            "code_file_hashes": {
+              "__init__.py": "e299a1da371a1a0bf5658d6881b3c97defa4d2e38db7ddad743196e159929734",
+              "cli.py": "c6eb1761f160ee9363a00ce72ad5bc5e3370c86a7bed70f5db274acf9b23ccb4",
+              "retrieval.py": "80efd918ac413eb95c6e9fad60f98d9943f620788325806424b9fb7ad79f4542"
+            },
+            "config_fingerprint": "960f5906c753422b1efcd1edd64ac53ba39e48ade7c707c073a666fc5fed19e1",
+            "dense_code_file_hashes": {
+              "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+              "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+              "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+              "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+              "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+            },
+            "dense_index_fingerprint": "465cf54c7fa3aadaccbb3090279762bd27f24817360c749ede4315f1f34abc72",
+            "dense_index_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+            "dependency_versions": {
+              "FlagEmbedding": "1.4.2",
+              "huggingface-hub": "0.36.2",
+              "joblib": "1.6.0",
+              "numpy": "2.5.3",
+              "psutil": "7.2.2",
+              "rank-bm25": "0.2.2",
+              "safetensors": "0.8.0",
+              "scikit-learn": "1.9.1",
+              "scipy": "1.18.1",
+              "sentencepiece": "0.2.2",
+              "threadpoolctl": "3.7.0",
+              "tokenizers": "0.22.2",
+              "torch": "2.12.1+cu126",
+              "transformers": "4.57.6"
+            },
+            "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+            "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+            "rrf_k": 60,
+            "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+            "shared_code_file_hashes": {
+              "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+              "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+              "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+              "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+            },
+            "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "tie_breaking": [
+              "score_descending_unrounded",
+              "chunk_id_ascending_unicode_codepoint"
+            ],
+            "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+            "zero_negative_bm25": "excluded before eligible ranks; no contribution or pseudo-rank"
+          },
+          "index_rebuild": false,
+          "method_id": "R4",
+          "protocol_status": "PROPOSED_REQUIRES_REVIEW",
+          "status": "READY_WEIGHTS_NOT_LOADED",
+          "timestamp_utc": "2026-10-08T22:25:50.243401+00:00",
+          "tokenizer_audit": {
+            "chunks": 371,
+            "max": 573,
+            "max_length": 640,
+            "mean": 194.33962264150944,
+            "median": 136,
+            "min": 83,
+            "p95_nearest_rank": 497,
+            "special_tokens_included": true,
+            "truncation": false,
+            "truncation_count": 0
+          }
+        },
+        "resource_after_cleanup": {
+          "available_ram_bytes": 4736303104,
+          "commit_headroom_bytes": 13997371392,
+          "disk_free_bytes": {
+            "C:/": 13871665152,
+            "D:/": 909382344704
+          },
+          "memory_load_percent": 72,
+          "process_peak_working_set_bytes": 1049223168,
+          "process_rss_bytes": 990134272
+        },
+        "resource_monitor": {
+          "min_available_ram_bytes": 4714184704,
+          "min_commit_headroom_bytes": 13976834048,
+          "peak_device_used_mib": 0,
+          "peak_rss_bytes": 990183424,
+          "peak_working_set_bytes": 1049223168,
+          "samples": 192
+        },
+        "selection": "first existing query per style; independent of ranking",
+        "smoke": "NOT RUN",
+        "status": "STOPPED"
+      },
+      "readiness": {
+        "authorization": "user attachment abf1b34f-b257-4797-ac6d-f13ee1cd8a0f; pilot development only",
+        "chunks": 371,
+        "effectiveness_evaluation": "NOT RUN",
+        "fingerprint": "8b156b009525821d78516e765a788fb1064a33790a3bca088b07e740a475fb31",
+        "identity": {
+          "bm25_index_fingerprint": "6311e3dde68c96f4f84a1601a894946af5abe655d5656d1ed93ceffbf2874120",
+          "bm25_index_path": "D:\\Project\\wo-retrieval-benchmark\\experiments\\indexes\\R2",
+          "candidate_policy": "full dense ranking plus every strictly positive BM25 candidate",
+          "code_file_hashes": {
+            "__init__.py": "e299a1da371a1a0bf5658d6881b3c97defa4d2e38db7ddad743196e159929734",
+            "cli.py": "c6eb1761f160ee9363a00ce72ad5bc5e3370c86a7bed70f5db274acf9b23ccb4",
+            "retrieval.py": "80efd918ac413eb95c6e9fad60f98d9943f620788325806424b9fb7ad79f4542"
+          },
+          "config_fingerprint": "960f5906c753422b1efcd1edd64ac53ba39e48ade7c707c073a666fc5fed19e1",
+          "dense_code_file_hashes": {
+            "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+            "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+            "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+            "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+            "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+          },
+          "dense_index_fingerprint": "465cf54c7fa3aadaccbb3090279762bd27f24817360c749ede4315f1f34abc72",
+          "dense_index_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+          "dependency_versions": {
+            "FlagEmbedding": "1.4.2",
+            "huggingface-hub": "0.36.2",
+            "joblib": "1.6.0",
+            "numpy": "2.5.3",
+            "psutil": "7.2.2",
+            "rank-bm25": "0.2.2",
+            "safetensors": "0.8.0",
+            "scikit-learn": "1.9.1",
+            "scipy": "1.18.1",
+            "sentencepiece": "0.2.2",
+            "threadpoolctl": "3.7.0",
+            "tokenizers": "0.22.2",
+            "torch": "2.12.1+cu126",
+            "transformers": "4.57.6"
+          },
+          "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+          "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+          "rrf_k": 60,
+          "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+          "shared_code_file_hashes": {
+            "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+            "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+            "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+            "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+          },
+          "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+          "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+          "tie_breaking": [
+            "score_descending_unrounded",
+            "chunk_id_ascending_unicode_codepoint"
+          ],
+          "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+          "zero_negative_bm25": "excluded before eligible ranks; no contribution or pseudo-rank"
+        },
+        "index_rebuild": false,
+        "method_id": "R4",
+        "protocol_status": "PROPOSED_REQUIRES_REVIEW",
+        "status": "READY_WEIGHTS_NOT_LOADED",
+        "timestamp_utc": "2026-10-08T22:25:50.243401+00:00",
+        "tokenizer_audit": {
+          "chunks": 371,
+          "max": 573,
+          "max_length": 640,
+          "mean": 194.33962264150944,
+          "median": 136,
+          "min": 83,
+          "p95_nearest_rank": 497,
+          "special_tokens_included": true,
+          "truncation": false,
+          "truncation_count": 0
+        }
+      },
+      "tests": {
+        "status": "PASS",
+        "post_attempt_total_unique": 51,
+        "post_attempt_results": {
+          "test_hybrid_retrieval.py": {
+            "tests": 16,
+            "PASS": true
+          },
+          "test_lexical_retrieval.py": {
+            "tests": 14,
+            "PASS": true
+          },
+          "test_dense_retrieval.py": {
+            "tests": 16,
+            "PASS": true
+          },
+          "test_protocol_config.py": {
+            "tests": 5,
+            "PASS": true
+          }
+        },
+        "previous_full_suite": {
+          "tests": 74,
+          "status": "PASS_previous_turn_not_rerun_in_full"
+        },
+        "pre_attempt_R4": 16
+      }
+    }
+  ],
+  "controlled_run": {
+    "milestone": "8C.2",
+    "attempts_under_current_authorization": 1,
+    "automatic_retry": false,
+    "before_startup": {
+      "resource": {
+        "available_ram_bytes": 5659721728,
+        "commit_headroom_bytes": 15070425088,
+        "memory_load_percent": 66,
+        "process_rss_bytes": 20164608,
+        "process_peak_working_set_bytes": 21647360,
+        "disk_free_bytes": {
+          "C:/": 13862281216,
+          "D:/": 909382197248
+        }
+      },
+      "gpu": {
+        "name": "NVIDIA GeForce GTX 1050",
+        "driver": "581.80",
+        "total_mib": 4096,
+        "used_mib": 0,
+        "free_mib": 4007
+      },
+      "baseline_files": 139
+    },
+    "model_loading": "NOT RUN",
+    "GPU_inference": "NOT RUN",
+    "query_ids": [
+      "WO-DEV-001",
+      "WO-DEV-007",
+      "WO-DEV-013"
+    ],
+    "top5_and_contributions": "NOT AVAILABLE; final RAM gate prevented model loading",
+    "model_loading_seconds": null,
+    "query_latency_seconds": null,
+    "gpu_peak_allocated_bytes": null,
+    "gpu_peak_reserved_bytes": null,
+    "after_attempt_resource": {
+      "available_ram_bytes": 5621080064,
+      "commit_headroom_bytes": 14536634368,
+      "memory_load_percent": 67,
+      "process_rss_bytes": 152276992,
+      "process_peak_working_set_bytes": 153772032,
+      "disk_free_bytes": {
+        "C:/": 13861236736,
+        "D:/": 909382180864
+      }
+    },
+    "gpu_after_attempt": {
+      "name": "NVIDIA GeForce GTX 1050",
+      "driver": "581.80",
+      "total_mib": 4096,
+      "used_mib": 0,
+      "free_mib": 4007
+    }
+  },
+  "R4_code_change": {
+    "file": "src/wo_retrieval/hybrid/cli.py",
+    "before_sha256": "77bde3787faf0a8f89157960fabe470e9b6eaa44c66640d0b1fc6662486cc1d2",
+    "after_sha256": "c6eb1761f160ee9363a00ce72ad5bc5e3370c86a7bed70f5db274acf9b23ccb4"
+  }
+}

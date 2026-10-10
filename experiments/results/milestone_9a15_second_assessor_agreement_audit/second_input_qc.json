@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "records": 30,
+  "binding_and_hashes": "PASS",
+  "zip_and_rubric_bytes": "PASS",
+  "unique_alias_roundtrip": "PASS",
+  "evidence_exact_substrings": "PASS",
+  "provenance_schema_and_disclosure": "PASS",
+  "model_revision_session_independently_verified": false,
+  "semantic_validity": "NOT ESTABLISHED",
+  "first_isolation": "NOT_FULLY_BLIND_PRIOR_CONTEXT_EXPOSED",
+  "second_isolation": "NOT_FULLY_ISOLATED_WORKSPACE_ACCESS_AND_CONTEXT",
+  "first_provenance": {
+    "label": "AI SILVER — PROVISIONAL",
+    "assessor": "Codex assistant in current conversation",
+    "model_id": "not_exposed",
+    "model_revision": "not_exposed",
+    "session_id": "not_exposed",
+    "recorded_at_utc": "2026-10-09T11:52:54.587955+00:00",
+    "rubric_version": "wo_pooled_silver_rubric_v1",
+    "human_validated": false,
+    "blindness_status": "NOT_FULLY_BLIND_PRIOR_CONTEXT_EXPOSED",
+    "retrieval_metadata_opened_during_this_assessment": false,
+    "additional_source_context_opened": false,
+    "second_assessor_review": "NOT RUN",
+    "quality_control": "Same-assessor rubric/evidence consistency review only",
+    "pilot_input_sha256": "1e48ff74a12218746094357e298ceb65afdad40d608f408ed51eba7ab6c2f546",
+    "rubric_sha256": "ba4e92fa877f5695fde256141135ef16fac7717306ac6457d40b51c6e5fa4726"
+  },
+  "second_provenance": {
+    "model_id": "not_exposed",
+    "model_revision": "not_exposed",
+    "session_id": "not_exposed",
+    "assessed_at": "2026-10-09T12:32:44Z",
+    "rubric_version": "wo_pooled_silver_rubric_v1",
+    "label": "AI SILVER — PROVISIONAL",
+    "human_validated": false,
+    "context_limitations": [
+      "Exact provider model identifier, model revision, session identifier, and sampling configuration are not exposed to the assessor.",
+      "This session has workspace access and received generic workspace context; it is not a repository-isolated fresh session. Only the two package files were read for relevance assessment; no retrieval rankings, scores, previous labels, or external substantive sources were opened or used.",
+      "Judgments concern the supplied query and serialized chunk only; missing procedures, role assignments, and operational facts were not inferred. No human or expert validation was performed."
+    ]
+  },
+  "input_hashes": {
+    "pilot_second_assessments.jsonl": "9f19cd6033258dc290337ece685a0f4fd7d3025cb0052b4a31bf907e11abf66d",
+    "experiments\\results\\milestone_9a13_judgment_pool\\blind_pilot_30.jsonl": "1e48ff74a12218746094357e298ceb65afdad40d608f408ed51eba7ab6c2f546",
+    "experiments\\results\\milestone_9a13_judgment_pool\\blind_pilot_30_assessments.jsonl": "398031a6e92eccf26a582038851cfa05d4f7e43021a7589256e6d25cd0f259a6",
+    "experiments\\results\\milestone_9a14_pilot_assessment_audit\\pilot_second_input.jsonl": "e7fc424f7e2ec0759ab61b9b349d0774827ec6f73f1fea81f9db3e067818ff4e",
+    "experiments\\results\\milestone_9a14_pilot_assessment_audit\\alias_mapping_private.jsonl": "8c36ba5feb4e36031152db763090fddb4b7b26ef23cd1159f5cc5a9c89fd1589",
+    "experiments\\results\\milestone_9a14_pilot_assessment_audit\\second_assessor_prompt.md": "4c5c1cbcedf017087df63eb40e130a0dac70805bb9b41ea6ed69382ed00683dd",
+    "experiments\\results\\milestone_9a14_pilot_assessment_audit\\second_assessor_package.zip": "91a35d8766d641a5edc28cbc433b0ab7ffcf60cfc858551e451a82dcc287d1c7"
+  }
+}

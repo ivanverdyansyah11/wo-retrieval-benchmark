@@ -1,0 +1,90 @@
+{
+  "overall": {
+    "pairs": 30,
+    "common_resolved": 29,
+    "exact_resolved_count": 26,
+    "exact_agreement_all_pairs": 0.8666666666666667,
+    "exact_agreement_common_resolved": 0.896551724137931,
+    "observed_agreement_fraction": "26/29",
+    "expected_agreement_fraction": "309/841",
+    "unweighted_cohens_kappa": 0.8364661654135338,
+    "unweighted_cohens_kappa_exact_fraction": "445/532",
+    "kappa_denominator": 29,
+    "scope": "DESCRIPTIVE ONLY; common-resolved purposive AI pairs, clustered queries, no human validation"
+  },
+  "by_query_style": {
+    "lexical_oriented": {
+      "pairs": 10,
+      "common_resolved": 9,
+      "exact_resolved_count": 8,
+      "exact_agreement_all_pairs": 0.8,
+      "exact_agreement_common_resolved": 0.8888888888888888,
+      "observed_agreement_fraction": "8/9",
+      "expected_agreement_fraction": "40/81",
+      "unweighted_cohens_kappa": 0.7804878048780488,
+      "unweighted_cohens_kappa_exact_fraction": "32/41",
+      "kappa_denominator": 9,
+      "scope": "DESCRIPTIVE ONLY; common-resolved purposive AI pairs, clustered queries, no human validation"
+    },
+    "mixed_natural": {
+      "pairs": 10,
+      "common_resolved": 10,
+      "exact_resolved_count": 10,
+      "exact_agreement_all_pairs": 1.0,
+      "exact_agreement_common_resolved": 1.0,
+      "observed_agreement_fraction": "1",
+      "expected_agreement_fraction": "19/50",
+      "unweighted_cohens_kappa": 1.0,
+      "unweighted_cohens_kappa_exact_fraction": "1",
+      "kappa_denominator": 10,
+      "scope": "DESCRIPTIVE ONLY; common-resolved purposive AI pairs, clustered queries, no human validation"
+    },
+    "semantic_paraphrase": {
+      "pairs": 10,
+      "common_resolved": 10,
+      "exact_resolved_count": 8,
+      "exact_agreement_all_pairs": 0.8,
+      "exact_agreement_common_resolved": 0.8,
+      "observed_agreement_fraction": "4/5",
+      "expected_agreement_fraction": "9/25",
+      "unweighted_cohens_kappa": 0.6875,
+      "unweighted_cohens_kappa_exact_fraction": "11/16",
+      "kappa_denominator": 10,
+      "scope": "DESCRIPTIVE ONLY; common-resolved purposive AI pairs, clustered queries, no human validation"
+    }
+  },
+  "linear_weighted_cohens_kappa": 0.865533230293663,
+  "grade_disagreements": 3,
+  "status_disagreements": 1,
+  "retrieval_readback": {
+    "rankings": 72,
+    "queries": 18,
+    "top10_rows": 720,
+    "top10_coverage": {
+      "R1": {
+        "returned": 180,
+        "judged": 39,
+        "unjudged": 141
+      },
+      "R2": {
+        "returned": 180,
+        "judged": 31,
+        "unjudged": 149
+      },
+      "R3": {
+        "returned": 180,
+        "judged": 44,
+        "unjudged": 136
+      },
+      "R4": {
+        "returned": 180,
+        "judged": 41,
+        "unjudged": 139
+      }
+    },
+    "pool20_unique": 654,
+    "pool20_existing_judged": 90
+  },
+  "assessed_label": "AI SILVER — PROVISIONAL",
+  "human_validated": false
+}

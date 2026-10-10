@@ -1,0 +1,71 @@
+{
+  "first_distribution": {
+    "1": 11,
+    "2": 5,
+    "0": 13,
+    "UNRESOLVED": 1
+  },
+  "pilot_pairs": 30,
+  "previously_judged": 3,
+  "previously_unjudged": 27,
+  "old_vs_first": {
+    "pairs": 3,
+    "common_resolved": 3,
+    "exact_grade_agreement_count": 2,
+    "exact_grade_agreement_fraction": 0.6666666666666666,
+    "confusion_matrix_rows_left_columns_right": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "grade_distance": {
+      "1": 1,
+      "0": 2
+    },
+    "grade_0_vs_1": 0,
+    "grade_1_vs_2": 1,
+    "left_unresolved": 0,
+    "right_unresolved": 0,
+    "both_unresolved": 0,
+    "unresolved_on_one_side": 0,
+    "left_distribution": {
+      "1": 2,
+      "0": 1
+    },
+    "right_distribution": {
+      "2": 1,
+      "1": 1,
+      "0": 1
+    },
+    "mean_right_minus_left_grade_common_resolved": 0.3333333333333333,
+    "linear_weighted_cohens_kappa": null,
+    "kappa_denominator": 3,
+    "kappa_scope": "NOT REPORTED: only three old-silver overlapping pairs, non-independent prior-context exposure; counts only"
+  },
+  "conflicts": [
+    {
+      "assessment_id": "WO-POOL-V2-0514",
+      "query_id": "WO-DEV-015",
+      "chunk_id": "WO-DOC-016-C004",
+      "query_style": "mixed_natural",
+      "previously_judged": true,
+      "left_grade": 1,
+      "right_grade": 2,
+      "comparison_status": "GRADE_CONFLICT"
+    }
+  ],
+  "semantic_validity": "NOT ESTABLISHED; four flagged cases retained, no regrading",
+  "independence": "First pass explicitly not fully blind; second assessment NOT RUN"
+}

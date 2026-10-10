@@ -1,0 +1,23 @@
+{
+  "classification_counts": {
+    "RESEARCH EVIDENCE": 288,
+    "ARCHIVE / OPTIONAL": 2,
+    "REPRODUCIBILITY": 36,
+    "DOCUMENTATION": 58,
+    "SENSITIVE / REVIEW REQUIRED": 6,
+    "ESSENTIAL": 38,
+    "GENERATED / TEMPORARY": 4
+  },
+  "all_seven_present": true,
+  "removed": [],
+  "moved": [],
+  "ignored_local": [
+    ".venv/",
+    ".venv-ml/",
+    "src/wo_retrieval_benchmark.egg-info/",
+    "__pycache__/",
+    "data.zip"
+  ],
+  "research_runtime_exclusions": [],
+  "all_archives_backups_retained": true
+}

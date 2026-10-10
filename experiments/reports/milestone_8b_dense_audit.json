@@ -1,0 +1,2481 @@
+{
+  "controlled_run_driver": {
+    "path": "D:\\ModelCache\\tmp\\wo-m8b-controlled\\run.py",
+    "sha256": "070a58bb92a5be9a45786e17e55a929d3c9f4793b1860422fea22c2f535b8da3"
+  },
+  "environment_stat_verification": {
+    ".venv": {
+      "files_unchanged_by_path_size_mtime": 1038,
+      "new_files": 0
+    },
+    ".venv-ml": {
+      "files_unchanged_by_path_size_mtime": 26682,
+      "new_files": 0
+    }
+  },
+  "files_changed_this_continuation": [
+    "README.md",
+    "experiments/reports/milestone_8b_dense_retrieval.md",
+    "experiments/reports/milestone_8b_dense_audit.json"
+  ],
+  "gpu_after_model_process_exit": {
+    "free_mib": 4007,
+    "scope": "nvidia-smi observed after controlled process completed",
+    "used_mib": 0
+  },
+  "gpu_run": {
+    "authorization": "Explicit attachment 4ec92dbb-f84d-41c8-95b6-08df9e3450f6; one controlled low-margin canary+full-corpus run; no automatic retry",
+    "benchmark_protocol_modified": false,
+    "cache_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+    "canary": "PASS",
+    "canary_results": [
+      {
+        "chunk_id": "WO-DOC-023-C006",
+        "document_id": "WO-DOC-023",
+        "finite": true,
+        "format": "DOCX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1148495360,
+          "peak_gpu_reserved_bytes": 1166016512
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4528775168,
+          "commit_headroom_bytes": 9541513216,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390348288
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251141120
+        },
+        "seconds": 3.3796103000004223,
+        "serialized_text_sha256": "8a1c499338a943b16c1006efb0a95eb2270ec4561bb0e4d6a9a782d1f672e290",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 99
+      },
+      {
+        "chunk_id": "WO-DOC-045-C008",
+        "document_id": "WO-DOC-045",
+        "finite": true,
+        "format": "DOCX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1149013504,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4528111616,
+          "commit_headroom_bytes": 9540042752,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390344192
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251276288
+        },
+        "seconds": 0.06731260000015027,
+        "serialized_text_sha256": "a9339975ebd547bbcf84c3f975e00be64624277b2b81a4144e874323fe22f968",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 122
+      },
+      {
+        "chunk_id": "WO-DOC-002-C006",
+        "document_id": "WO-DOC-002",
+        "finite": true,
+        "format": "DOCX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1150992896,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 0.9999999403953552,
+        "resource": {
+          "available_ram_bytes": 4527452160,
+          "commit_headroom_bytes": 9540964352,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390344192
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251427840
+        },
+        "seconds": 0.0895834000002651,
+        "serialized_text_sha256": "a09b6a21a33eddea678516d2ff15e935d59b448e3b3f7a3cfb12506bea918bfd",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 136
+      },
+      {
+        "chunk_id": "WO-DOC-028-C006",
+        "document_id": "WO-DOC-028",
+        "finite": true,
+        "format": "DOCX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1151393280,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 0.9999999403953552,
+        "resource": {
+          "available_ram_bytes": 4527263744,
+          "commit_headroom_bytes": 9540964352,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390344192
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251534336
+        },
+        "seconds": 0.1183192999997118,
+        "serialized_text_sha256": "431ad43987f35e6afd7d2e6f0caf424403b586cecc9498853d423f190f7d9df6",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 201
+      },
+      {
+        "chunk_id": "WO-DOC-001-C002",
+        "document_id": "WO-DOC-001",
+        "finite": true,
+        "format": "DOCX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4527263744,
+          "commit_headroom_bytes": 9539907584,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390344192
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251554816
+        },
+        "seconds": 0.14542029999938677,
+        "serialized_text_sha256": "29647ee171d28401e91c4e60f67c0d1dada36e0ceb597187f12ae3011168e19a",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 281
+      },
+      {
+        "chunk_id": "WO-DOC-044-C015",
+        "document_id": "WO-DOC-044",
+        "finite": true,
+        "format": "PDF",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4527022080,
+          "commit_headroom_bytes": 9539907584,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390344192
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251567104
+        },
+        "seconds": 0.07089410000116914,
+        "serialized_text_sha256": "06d9f4a740bda64b476f01cd57d64ab90fb486e80620b910610bbf45815fd494",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 95
+      },
+      {
+        "chunk_id": "WO-DOC-021-C007",
+        "document_id": "WO-DOC-021",
+        "finite": true,
+        "format": "PDF",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0000001192092896,
+        "resource": {
+          "available_ram_bytes": 4526358528,
+          "commit_headroom_bytes": 9539862528,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390344192
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251575296
+        },
+        "seconds": 0.0734850999997434,
+        "serialized_text_sha256": "bd6435e01c11f450e0bde548c68ce1c6c0a911eb997d9fece94c622063f9f1e0",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 116
+      },
+      {
+        "chunk_id": "WO-DOC-017-C002",
+        "document_id": "WO-DOC-017",
+        "finite": true,
+        "format": "PDF",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525981696,
+          "commit_headroom_bytes": 9539862528,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390340096
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251575296
+        },
+        "seconds": 0.0664610999992874,
+        "serialized_text_sha256": "7e692d9c46a05df5d7413380559deaf9949b6e0ebb052a8b2213648fe8f427da",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 124
+      },
+      {
+        "chunk_id": "WO-DOC-021-C002",
+        "document_id": "WO-DOC-021",
+        "finite": true,
+        "format": "PDF",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525981696,
+          "commit_headroom_bytes": 9539862528,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390340096
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251616256
+        },
+        "seconds": 0.0913289000000077,
+        "serialized_text_sha256": "6882b37704a7e4b5d4ec690aa2e8c5c90805d8f7b8fc4c953cf859206167e495",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 171
+      },
+      {
+        "chunk_id": "WO-DOC-050-C009",
+        "document_id": "WO-DOC-050",
+        "finite": true,
+        "format": "PDF",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525981696,
+          "commit_headroom_bytes": 9539862528,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390340096
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251661312
+        },
+        "seconds": 0.12159090000022843,
+        "serialized_text_sha256": "9a6eb2be96a590e18b8536890661c7e9314ab6bd01142e63c206452c582416fe",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 241
+      },
+      {
+        "chunk_id": "WO-DOC-041-C008",
+        "document_id": "WO-DOC-041",
+        "finite": true,
+        "format": "TXT",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525780992,
+          "commit_headroom_bytes": 9539862528,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390340096
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251661312
+        },
+        "seconds": 0.06908179999845743,
+        "serialized_text_sha256": "ab315c6d1c687e0ff96a1e7e34e79926f48dc5f32de0c28d3784ecd6020b0235",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 83
+      },
+      {
+        "chunk_id": "WO-DOC-041-C005",
+        "document_id": "WO-DOC-041",
+        "finite": true,
+        "format": "TXT",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525637632,
+          "commit_headroom_bytes": 9539862528,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390340096
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251689984
+        },
+        "seconds": 0.06710019999991346,
+        "serialized_text_sha256": "efe92c3563e6a3883ea699169617757bbc4fc94b3d46c23eb32688fb809ab3a1",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 98
+      },
+      {
+        "chunk_id": "WO-DOC-041-C003",
+        "document_id": "WO-DOC-041",
+        "finite": true,
+        "format": "TXT",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525473792,
+          "commit_headroom_bytes": 9541824512,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390340096
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251702272
+        },
+        "seconds": 0.06802729999981239,
+        "serialized_text_sha256": "ae811c3abdd4bf23229f5fcd1c6ad3702db74a39d07879aafa77f60441217a55",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 110
+      },
+      {
+        "chunk_id": "WO-DOC-012-C003",
+        "document_id": "WO-DOC-012",
+        "finite": true,
+        "format": "TXT",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525473792,
+          "commit_headroom_bytes": 9541824512,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390336000
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251710464
+        },
+        "seconds": 0.06613479999941774,
+        "serialized_text_sha256": "6bb7994ff57d860b18050f0bc572284e813e26666edbeaf88bb21f48389ccfe4",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 121
+      },
+      {
+        "chunk_id": "WO-DOC-012-C002",
+        "document_id": "WO-DOC-012",
+        "finite": true,
+        "format": "TXT",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525465600,
+          "commit_headroom_bytes": 9540771840,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909390336000
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251771904
+        },
+        "seconds": 0.12165430000095512,
+        "serialized_text_sha256": "5b60e075aa09077cfb797f3abf4fb0c9ee3cbe2a349708f2912ff3d338f9024c",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 202
+      },
+      {
+        "chunk_id": "WO-DOC-008-C006",
+        "document_id": "WO-DOC-008",
+        "finite": true,
+        "format": "XLSX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1152598528,
+          "peak_gpu_reserved_bytes": 1168113664
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525527040,
+          "commit_headroom_bytes": 9540780032,
+          "disk_free_bytes": {
+            "C:/": 13923069952,
+            "D:/": 909390336000
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251771904
+        },
+        "seconds": 0.12824780000119063,
+        "serialized_text_sha256": "b6f814a22f7c8bb603783fc38c36081d4aa1cdefb9f3820c2fc4a6b49ecf4a27",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 209
+      },
+      {
+        "chunk_id": "WO-DOC-040-C006",
+        "document_id": "WO-DOC-040",
+        "finite": true,
+        "format": "XLSX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1155394048,
+          "peak_gpu_reserved_bytes": 1170210816
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4525481984,
+          "commit_headroom_bytes": 9540595712,
+          "disk_free_bytes": {
+            "C:/": 13923069952,
+            "D:/": 909390336000
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2251788288
+        },
+        "seconds": 0.20962479999980133,
+        "serialized_text_sha256": "ebdeefda792c2c68bfb039074cda5a69a35ad3e5fd6fdabfafd8db64a421be09",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 405
+      },
+      {
+        "chunk_id": "WO-DOC-048-C002",
+        "document_id": "WO-DOC-048",
+        "finite": true,
+        "format": "XLSX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1156791808,
+          "peak_gpu_reserved_bytes": 1170210816
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4513943552,
+          "commit_headroom_bytes": 9540706304,
+          "disk_free_bytes": {
+            "C:/": 13923069952,
+            "D:/": 909390336000
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2252070912
+        },
+        "seconds": 0.266399400001319,
+        "serialized_text_sha256": "7d38f905c9b889348c81c5b941b40f06f9a807572e2b910dd1706f981ba0f74d",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 467
+      },
+      {
+        "chunk_id": "WO-DOC-026-C002",
+        "document_id": "WO-DOC-026",
+        "finite": true,
+        "format": "XLSX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1157490176,
+          "peak_gpu_reserved_bytes": 1170210816
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4514488320,
+          "commit_headroom_bytes": 9541885952,
+          "disk_free_bytes": {
+            "C:/": 13923069952,
+            "D:/": 909389811712
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2252070912
+        },
+        "seconds": 0.26875440000003437,
+        "serialized_text_sha256": "81567a7b1ea5a265734bd81b67f43d78b11dee94ce0850cfc8809ed6da903002",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 498
+      },
+      {
+        "chunk_id": "WO-DOC-042-C005",
+        "document_id": "WO-DOC-042",
+        "finite": true,
+        "format": "XLSX",
+        "model_metrics": {
+          "cuda_runtime": "12.6",
+          "gpu_capability": [
+            6,
+            1
+          ],
+          "gpu_name": "NVIDIA GeForce GTX 1050",
+          "model_loading_seconds": 4.474976899999092,
+          "peak_gpu_allocated_bytes": 1160100352,
+          "peak_gpu_reserved_bytes": 1191182336
+        },
+        "norm": 1.0,
+        "resource": {
+          "available_ram_bytes": 4514664448,
+          "commit_headroom_bytes": 9518936064,
+          "disk_free_bytes": {
+            "C:/": 13923004416,
+            "D:/": 909389807616
+          },
+          "memory_load_percent": 73,
+          "process_peak_working_set_bytes": 4725547008,
+          "process_rss_bytes": 2252185600
+        },
+        "seconds": 0.28109609999955865,
+        "serialized_text_sha256": "a9922ca553ea1e67577021de7b567cf1961e15c30deee0f62bfaf14cf76b3f55",
+        "shape": [
+          1,
+          1024
+        ],
+        "token_length": 573
+      }
+    ],
+    "canary_seconds": 5.923867800000153,
+    "canary_selection": {
+      "policy": "per-format ascending (actual token length,chunk_id), positions round(q*(N-1)) for q=0,.25,.5,.75,1; DOCX/PDF/TXT/XLSX",
+      "selected": [
+        {
+          "chunk_id": "WO-DOC-023-C006",
+          "document_id": "WO-DOC-023",
+          "format": "DOCX",
+          "serialized_text_sha256": "8a1c499338a943b16c1006efb0a95eb2270ec4561bb0e4d6a9a782d1f672e290",
+          "token_length": 99
+        },
+        {
+          "chunk_id": "WO-DOC-045-C008",
+          "document_id": "WO-DOC-045",
+          "format": "DOCX",
+          "serialized_text_sha256": "a9339975ebd547bbcf84c3f975e00be64624277b2b81a4144e874323fe22f968",
+          "token_length": 122
+        },
+        {
+          "chunk_id": "WO-DOC-002-C006",
+          "document_id": "WO-DOC-002",
+          "format": "DOCX",
+          "serialized_text_sha256": "a09b6a21a33eddea678516d2ff15e935d59b448e3b3f7a3cfb12506bea918bfd",
+          "token_length": 136
+        },
+        {
+          "chunk_id": "WO-DOC-028-C006",
+          "document_id": "WO-DOC-028",
+          "format": "DOCX",
+          "serialized_text_sha256": "431ad43987f35e6afd7d2e6f0caf424403b586cecc9498853d423f190f7d9df6",
+          "token_length": 201
+        },
+        {
+          "chunk_id": "WO-DOC-001-C002",
+          "document_id": "WO-DOC-001",
+          "format": "DOCX",
+          "serialized_text_sha256": "29647ee171d28401e91c4e60f67c0d1dada36e0ceb597187f12ae3011168e19a",
+          "token_length": 281
+        },
+        {
+          "chunk_id": "WO-DOC-044-C015",
+          "document_id": "WO-DOC-044",
+          "format": "PDF",
+          "serialized_text_sha256": "06d9f4a740bda64b476f01cd57d64ab90fb486e80620b910610bbf45815fd494",
+          "token_length": 95
+        },
+        {
+          "chunk_id": "WO-DOC-021-C007",
+          "document_id": "WO-DOC-021",
+          "format": "PDF",
+          "serialized_text_sha256": "bd6435e01c11f450e0bde548c68ce1c6c0a911eb997d9fece94c622063f9f1e0",
+          "token_length": 116
+        },
+        {
+          "chunk_id": "WO-DOC-017-C002",
+          "document_id": "WO-DOC-017",
+          "format": "PDF",
+          "serialized_text_sha256": "7e692d9c46a05df5d7413380559deaf9949b6e0ebb052a8b2213648fe8f427da",
+          "token_length": 124
+        },
+        {
+          "chunk_id": "WO-DOC-021-C002",
+          "document_id": "WO-DOC-021",
+          "format": "PDF",
+          "serialized_text_sha256": "6882b37704a7e4b5d4ec690aa2e8c5c90805d8f7b8fc4c953cf859206167e495",
+          "token_length": 171
+        },
+        {
+          "chunk_id": "WO-DOC-050-C009",
+          "document_id": "WO-DOC-050",
+          "format": "PDF",
+          "serialized_text_sha256": "9a6eb2be96a590e18b8536890661c7e9314ab6bd01142e63c206452c582416fe",
+          "token_length": 241
+        },
+        {
+          "chunk_id": "WO-DOC-041-C008",
+          "document_id": "WO-DOC-041",
+          "format": "TXT",
+          "serialized_text_sha256": "ab315c6d1c687e0ff96a1e7e34e79926f48dc5f32de0c28d3784ecd6020b0235",
+          "token_length": 83
+        },
+        {
+          "chunk_id": "WO-DOC-041-C005",
+          "document_id": "WO-DOC-041",
+          "format": "TXT",
+          "serialized_text_sha256": "efe92c3563e6a3883ea699169617757bbc4fc94b3d46c23eb32688fb809ab3a1",
+          "token_length": 98
+        },
+        {
+          "chunk_id": "WO-DOC-041-C003",
+          "document_id": "WO-DOC-041",
+          "format": "TXT",
+          "serialized_text_sha256": "ae811c3abdd4bf23229f5fcd1c6ad3702db74a39d07879aafa77f60441217a55",
+          "token_length": 110
+        },
+        {
+          "chunk_id": "WO-DOC-012-C003",
+          "document_id": "WO-DOC-012",
+          "format": "TXT",
+          "serialized_text_sha256": "6bb7994ff57d860b18050f0bc572284e813e26666edbeaf88bb21f48389ccfe4",
+          "token_length": 121
+        },
+        {
+          "chunk_id": "WO-DOC-012-C002",
+          "document_id": "WO-DOC-012",
+          "format": "TXT",
+          "serialized_text_sha256": "5b60e075aa09077cfb797f3abf4fb0c9ee3cbe2a349708f2912ff3d338f9024c",
+          "token_length": 202
+        },
+        {
+          "chunk_id": "WO-DOC-008-C006",
+          "document_id": "WO-DOC-008",
+          "format": "XLSX",
+          "serialized_text_sha256": "b6f814a22f7c8bb603783fc38c36081d4aa1cdefb9f3820c2fc4a6b49ecf4a27",
+          "token_length": 209
+        },
+        {
+          "chunk_id": "WO-DOC-040-C006",
+          "document_id": "WO-DOC-040",
+          "format": "XLSX",
+          "serialized_text_sha256": "ebdeefda792c2c68bfb039074cda5a69a35ad3e5fd6fdabfafd8db64a421be09",
+          "token_length": 405
+        },
+        {
+          "chunk_id": "WO-DOC-048-C002",
+          "document_id": "WO-DOC-048",
+          "format": "XLSX",
+          "serialized_text_sha256": "7d38f905c9b889348c81c5b941b40f06f9a807572e2b910dd1706f981ba0f74d",
+          "token_length": 467
+        },
+        {
+          "chunk_id": "WO-DOC-026-C002",
+          "document_id": "WO-DOC-026",
+          "format": "XLSX",
+          "serialized_text_sha256": "81567a7b1ea5a265734bd81b67f43d78b11dee94ce0850cfc8809ed6da903002",
+          "token_length": 498
+        },
+        {
+          "chunk_id": "WO-DOC-042-C005",
+          "document_id": "WO-DOC-042",
+          "format": "XLSX",
+          "serialized_text_sha256": "a9922ca553ea1e67577021de7b567cf1961e15c30deee0f62bfaf14cf76b3f55",
+          "token_length": 573
+        }
+      ]
+    },
+    "cpu_fallback": "NOT RUN",
+    "cuda_preflight": {
+      "architectures": [
+        "sm_50",
+        "sm_60",
+        "sm_61",
+        "sm_70",
+        "sm_75",
+        "sm_80",
+        "sm_86",
+        "sm_90"
+      ],
+      "available": true,
+      "capability": [
+        6,
+        1
+      ],
+      "cuda_runtime": "12.6",
+      "torch": "2.12.1+cu126"
+    },
+    "finished_at_utc": "2026-10-08T17:33:11.852480+00:00",
+    "full_indexing_seconds": 46.23816110000007,
+    "gpu_after_canary": {
+      "driver": "581.80",
+      "free_mib": 2813,
+      "name": "NVIDIA GeForce GTX 1050",
+      "total_mib": 4096,
+      "used_mib": 1195
+    },
+    "gpu_after_cleanup": {
+      "driver": "581.80",
+      "free_mib": 3929,
+      "name": "NVIDIA GeForce GTX 1050",
+      "total_mib": 4096,
+      "used_mib": 79
+    },
+    "gpu_after_smoke": {
+      "driver": "581.80",
+      "free_mib": 2813,
+      "name": "NVIDIA GeForce GTX 1050",
+      "total_mib": 4096,
+      "used_mib": 1195
+    },
+    "gpu_pre_model_loading": {
+      "driver": "581.80",
+      "free_mib": 4007,
+      "name": "NVIDIA GeForce GTX 1050",
+      "total_mib": 4096,
+      "used_mib": 0
+    },
+    "gpu_preflight": {
+      "driver": "581.80",
+      "free_mib": 4007,
+      "name": "NVIDIA GeForce GTX 1050",
+      "total_mib": 4096,
+      "used_mib": 0
+    },
+    "identity": {
+      "batch_size": 1,
+      "chunks_sha256": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0",
+      "config_fingerprint": "ca078b51197a3961c3b46e4afad18ae9aaff8f78e6b4f7f881ed6f59b2f31482",
+      "dense_code_file_hashes": {
+        "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+        "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+        "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+        "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+        "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+      },
+      "dependency_versions": {
+        "FlagEmbedding": "1.4.2",
+        "huggingface-hub": "0.36.2",
+        "numpy": "2.5.3",
+        "psutil": "7.2.2",
+        "safetensors": "0.8.0",
+        "sentencepiece": "0.2.2",
+        "tokenizers": "0.22.2",
+        "torch": "2.12.1+cu126",
+        "transformers": "4.57.6"
+      },
+      "device": "cuda:0",
+      "dimension": 1024,
+      "max_length": 640,
+      "method_id": "R3",
+      "ml_environment_manifest_sha256": "31fab809333eeeefd99395bc9b7fa33f9c6617290783a8c34f1bf6d720eaca95",
+      "model_file_hashes": {
+        "1_Pooling/config.json": "e54c164a07274f2eb45bb724f54a79d1efcc90c41573887cd9a29aeee0597352",
+        "colbert_linear.pt": "19bfbae397c2b7524158c919d0e9b19393c5639d098f0a66932c91ed8f5f9abb",
+        "config.json": "26159e7ad065073448460117eb24b7a4572f6f4e78eadff65dc0a11c052449fa",
+        "config_sentence_transformers.json": "1eef72430e7194a1e59680e635aed81ffa083f05668dbc5bb1c56c04c0999c38",
+        "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+        "pytorch_model.bin": "b5e0ce3470abf5ef3831aa1bd5553b486803e83251590ab7ff35a117cf6aad38",
+        "sentence_bert_config.json": "eb9b44b13c0f52a3b3685c3b1cbdea1ba8b04bea123b98f61610048940776eb1",
+        "sentencepiece.bpe.model": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+        "sparse_linear.pt": "45c93804d2142b8f6d7ec6914ae23a1eee9c6a1d27d83d908a20d2afb3595ad9",
+        "special_tokens_map.json": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835",
+        "tokenizer.json": "21106b6d7dab2952c1d496fb21d5dc9db75c28ed361a05f5020bbba27810dd08",
+        "tokenizer_config.json": "a62b2b6784f990259fddef5f16388693a8043be4f69179e6a5257eeb3f9abac4"
+      },
+      "model_id": "BAAI/bge-m3",
+      "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+      "normalization": "official L2; convert output to float32 and L2-normalize again before score/storage",
+      "official_inference_file_hashes": {
+        "finetune/embedder/encoder_only/m3/modeling.py": "ef9f37f511cf9b7ceaf89a2bd569276ca0058cc8dc401545b9b4b688c9801f4f",
+        "finetune/embedder/encoder_only/m3/runner.py": "a2e683bb671610d8809748554e4b35115df601eb418728d5da1bdda761a601f1",
+        "inference/embedder/encoder_only/m3.py": "e795219b34d96340c7adaf4902f771aaca9246448f9d1dd334b1757cb0c1f978"
+      },
+      "precision": "float16",
+      "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+      "row_mapping_hash": "ca15eda84aa77d875b8e0698199ec2ab7234de3d74f20e89ef04a18b5fabb651",
+      "serialization_policy_hash": "f2dd30f88ed1745c1a9fb9fea850651dbf89cfeed304c8aa1a7c1910afc9d53f",
+      "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+      "serializer_version": "wo_operational_context_dedup_v1",
+      "shared_code_file_hashes": {
+        "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+        "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+        "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+        "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+      },
+      "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+      "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+      "snapshot_sha256": "279157bab95e3c899091ea7576e6388829823635f1bb158a5ff2a1e72ebd9a4e",
+      "storage_dtype": "float32",
+      "tokenizer": "XLMRobertaTokenizerFast; local_files_only; no truncation; special tokens included",
+      "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+      "vector_search": "NumPy CPU float32 normalized inner product, exhaustive"
+    },
+    "index": {
+      "artifact_sha256": {
+        "rows.json": "a2841c513395e16c053427fdad8a3d3fa2438bcd041a7c1461ad4a167ffaee16",
+        "vectors.npy": "6774becce519fcaa822807ddf20b334197a8a0c41f30c3d7de8f29fe3baeb5e5"
+      },
+      "completion_status": "COMPLETE",
+      "duplicate_chunk_ids": 0,
+      "embedding_checkpoint_finalize_seconds": 46.1546113000004,
+      "embedding_computation_seconds": 41.02715430000899,
+      "finite": true,
+      "identity": {
+        "batch_size": 1,
+        "chunks_sha256": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0",
+        "config_fingerprint": "ca078b51197a3961c3b46e4afad18ae9aaff8f78e6b4f7f881ed6f59b2f31482",
+        "dense_code_file_hashes": {
+          "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+          "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+          "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+          "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+          "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+        },
+        "dependency_versions": {
+          "FlagEmbedding": "1.4.2",
+          "huggingface-hub": "0.36.2",
+          "numpy": "2.5.3",
+          "psutil": "7.2.2",
+          "safetensors": "0.8.0",
+          "sentencepiece": "0.2.2",
+          "tokenizers": "0.22.2",
+          "torch": "2.12.1+cu126",
+          "transformers": "4.57.6"
+        },
+        "device": "cuda:0",
+        "dimension": 1024,
+        "max_length": 640,
+        "method_id": "R3",
+        "ml_environment_manifest_sha256": "31fab809333eeeefd99395bc9b7fa33f9c6617290783a8c34f1bf6d720eaca95",
+        "model_file_hashes": {
+          "1_Pooling/config.json": "e54c164a07274f2eb45bb724f54a79d1efcc90c41573887cd9a29aeee0597352",
+          "colbert_linear.pt": "19bfbae397c2b7524158c919d0e9b19393c5639d098f0a66932c91ed8f5f9abb",
+          "config.json": "26159e7ad065073448460117eb24b7a4572f6f4e78eadff65dc0a11c052449fa",
+          "config_sentence_transformers.json": "1eef72430e7194a1e59680e635aed81ffa083f05668dbc5bb1c56c04c0999c38",
+          "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+          "pytorch_model.bin": "b5e0ce3470abf5ef3831aa1bd5553b486803e83251590ab7ff35a117cf6aad38",
+          "sentence_bert_config.json": "eb9b44b13c0f52a3b3685c3b1cbdea1ba8b04bea123b98f61610048940776eb1",
+          "sentencepiece.bpe.model": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+          "sparse_linear.pt": "45c93804d2142b8f6d7ec6914ae23a1eee9c6a1d27d83d908a20d2afb3595ad9",
+          "special_tokens_map.json": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835",
+          "tokenizer.json": "21106b6d7dab2952c1d496fb21d5dc9db75c28ed361a05f5020bbba27810dd08",
+          "tokenizer_config.json": "a62b2b6784f990259fddef5f16388693a8043be4f69179e6a5257eeb3f9abac4"
+        },
+        "model_id": "BAAI/bge-m3",
+        "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+        "normalization": "official L2; convert output to float32 and L2-normalize again before score/storage",
+        "official_inference_file_hashes": {
+          "finetune/embedder/encoder_only/m3/modeling.py": "ef9f37f511cf9b7ceaf89a2bd569276ca0058cc8dc401545b9b4b688c9801f4f",
+          "finetune/embedder/encoder_only/m3/runner.py": "a2e683bb671610d8809748554e4b35115df601eb418728d5da1bdda761a601f1",
+          "inference/embedder/encoder_only/m3.py": "e795219b34d96340c7adaf4902f771aaca9246448f9d1dd334b1757cb0c1f978"
+        },
+        "precision": "float16",
+        "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+        "row_mapping_hash": "ca15eda84aa77d875b8e0698199ec2ab7234de3d74f20e89ef04a18b5fabb651",
+        "serialization_policy_hash": "f2dd30f88ed1745c1a9fb9fea850651dbf89cfeed304c8aa1a7c1910afc9d53f",
+        "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+        "serializer_version": "wo_operational_context_dedup_v1",
+        "shared_code_file_hashes": {
+          "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+          "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+          "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+          "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+        },
+        "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+        "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+        "snapshot_sha256": "279157bab95e3c899091ea7576e6388829823635f1bb158a5ff2a1e72ebd9a4e",
+        "storage_dtype": "float32",
+        "tokenizer": "XLMRobertaTokenizerFast; local_files_only; no truncation; special tokens included",
+        "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+        "vector_search": "NumPy CPU float32 normalized inner product, exhaustive"
+      },
+      "indexed_chunks": 371,
+      "missing_chunks": 0,
+      "resumed_verified_rows": 0,
+      "shape": [
+        371,
+        1024
+      ],
+      "timestamp_utc": "2026-10-08T17:33:10.644677+00:00"
+    },
+    "indexing": "PASS",
+    "loading": "PASS",
+    "model_files_verified": 12,
+    "model_metrics_after_indexing": {
+      "cuda_runtime": "12.6",
+      "gpu_capability": [
+        6,
+        1
+      ],
+      "gpu_name": "NVIDIA GeForce GTX 1050",
+      "model_loading_seconds": 4.474976899999092,
+      "peak_gpu_allocated_bytes": 1160100352,
+      "peak_gpu_reserved_bytes": 1191182336
+    },
+    "model_metrics_after_loading": {
+      "cuda_runtime": "12.6",
+      "gpu_capability": [
+        6,
+        1
+      ],
+      "gpu_name": "NVIDIA GeForce GTX 1050",
+      "model_loading_seconds": 4.474976899999092,
+      "peak_gpu_allocated_bytes": 1137743360,
+      "peak_gpu_reserved_bytes": 1142947840
+    },
+    "model_metrics_final": {
+      "cuda_runtime": "12.6",
+      "gpu_capability": [
+        6,
+        1
+      ],
+      "gpu_name": "NVIDIA GeForce GTX 1050",
+      "model_loading_seconds": 4.474976899999092,
+      "peak_gpu_allocated_bytes": 1160100352,
+      "peak_gpu_reserved_bytes": 1191182336
+    },
+    "paging_monitor": {
+      "max_page_reads_per_second": 669.6638197803923,
+      "max_pages_input_per_second": 2667.943125289311,
+      "samples": 77,
+      "status": "AVAILABLE"
+    },
+    "partial_cache_path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f.incomplete",
+    "pre_model_loading": {
+      "available_ram_bytes": 5757943808,
+      "commit_headroom_bytes": 12162551808,
+      "disk_free_bytes": {
+        "C:/": 13922865152,
+        "D:/": 909390364672
+      },
+      "memory_load_percent": 66,
+      "process_peak_working_set_bytes": 1052950528,
+      "process_rss_bytes": 1004437504
+    },
+    "preflight": {
+      "available_ram_bytes": 6571085824,
+      "commit_headroom_bytes": 13276631040,
+      "disk_free_bytes": {
+        "C:/": 13922942976,
+        "D:/": 909390372864
+      },
+      "memory_load_percent": 61,
+      "process_peak_working_set_bytes": 150286336,
+      "process_rss_bytes": 150286336
+    },
+    "resource_after_canary": {
+      "available_ram_bytes": 4514738176,
+      "commit_headroom_bytes": 9518936064,
+      "disk_free_bytes": {
+        "C:/": 13923004416,
+        "D:/": 909389807616
+      },
+      "memory_load_percent": 73,
+      "process_peak_working_set_bytes": 4725547008,
+      "process_rss_bytes": 2252185600
+    },
+    "resource_after_cleanup": {
+      "available_ram_bytes": 4667203584,
+      "commit_headroom_bytes": 10521153536,
+      "disk_free_bytes": {
+        "C:/": 13922959360,
+        "D:/": 909385433088
+      },
+      "memory_load_percent": 72,
+      "process_peak_working_set_bytes": 4725547008,
+      "process_rss_bytes": 2045370368
+    },
+    "resource_after_loading": {
+      "available_ram_bytes": 4764135424,
+      "commit_headroom_bytes": 9826459648,
+      "disk_free_bytes": {
+        "C:/": 13923000320,
+        "D:/": 909390352384
+      },
+      "memory_load_percent": 72,
+      "process_peak_working_set_bytes": 4725547008,
+      "process_rss_bytes": 1984909312
+    },
+    "resource_after_smoke": {
+      "available_ram_bytes": 4450340864,
+      "commit_headroom_bytes": 9410134016,
+      "disk_free_bytes": {
+        "C:/": 13922500608,
+        "D:/": 909385433088
+      },
+      "memory_load_percent": 73,
+      "process_peak_working_set_bytes": 4725547008,
+      "process_rss_bytes": 2257162240
+    },
+    "resource_monitor": {
+      "min_available_ram_bytes": 2754572288,
+      "min_commit_headroom_bytes": 8559222784,
+      "peak_device_used_mib": 1195,
+      "peak_rss_bytes": 4026515456,
+      "peak_working_set_bytes": 4725547008,
+      "samples": 342
+    },
+    "run_dir": "D:\\ModelCache\\wo-retrieval-benchmark\\runs\\20261008T173150591129Z-controlled",
+    "runtime_safety_policy": {
+      "cache_and_temp_drive": "D:",
+      "cloud_policy": "separate declared environment/run; same protocol/snapshot hashes; no mixing local/cloud latency",
+      "cpu": "Intel Core i7-7700HQ",
+      "cpu_fallback": "separate RAM reassessment/approval and FP32 validation; never silently mix device/precision within one run",
+      "gpu": "NVIDIA GTX 1050 4GB, capability6.1",
+      "gpu_monitor_interval_seconds": 2.0,
+      "monitor_interval_seconds": 0.2,
+      "oom_policy": "stop own test/run; log full error and affected ID; release GPU; mark partial cache incomplete; no automatic retry",
+      "ram_gate": "dynamic preflight required; lower-margin run needs recorded explicit approval, not automatic override",
+      "ram_gib_nominal": 16,
+      "recommended_available_ram_gib": 6,
+      "single_model_process": true,
+      "stop_available_ram_mib": 1024,
+      "stop_commit_headroom_gib": 1,
+      "stop_memory_load_percent": 97,
+      "stop_sustained_seconds": 1,
+      "threads": 4
+    },
+    "serialization_statistics": {
+      "chunks": 371,
+      "duplicate_serialized_documents": 0,
+      "emitted_fields": {
+        "category": 371,
+        "heading": 63,
+        "title": 318
+      },
+      "empty_documents": 0,
+      "format_distribution": {
+        "DOCX": 187,
+        "PDF": 79,
+        "TXT": 42,
+        "XLSX": 63
+      },
+      "lexical_tokens_max": 310,
+      "lexical_tokens_min": 58,
+      "lexical_tokens_total": 43979,
+      "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+      "tokenized_inputs_hash": "b270da468f4510d0a7b11b7803bef5050bf2d8ea02b517c0b799e53d86dddecc",
+      "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+      "xlsx_with_guide_context": 53
+    },
+    "shape": [
+      371,
+      1024
+    ],
+    "smoke": "PASS",
+    "smoke_results": [
+      {
+        "actual_tokens": 23,
+        "query_id": "WO-DEV-001",
+        "results": [
+          {
+            "chunk_id": "WO-DOC-006-C002",
+            "document_id": "WO-DOC-006",
+            "method_id": "R3",
+            "rank": 1,
+            "score": 0.5793802738189697,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-006.xlsx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "s1-r0013",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 13,
+                  "row_start": 13,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 176,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0014",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 14,
+                  "row_start": 14,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 198,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0015",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 15,
+                  "row_start": 15,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 191,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0016",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 16,
+                  "row_start": 16,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 185,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0017",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 17,
+                  "row_start": 17,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 164,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0018",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 18,
+                  "row_start": 18,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 196,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0019",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 19,
+                  "row_start": 19,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 176,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "header_row": 5,
+              "overlap_blocks": [
+                {
+                  "block_id": "s1-r0012",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 12,
+                  "row_start": 12,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 191,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "row_end": 19,
+              "row_start": 13,
+              "sheet": "Operasional",
+              "table": "Operasional:table-1"
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-006-C001",
+            "document_id": "WO-DOC-006",
+            "method_id": "R3",
+            "rank": 2,
+            "score": 0.5721279382705688,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-006.xlsx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "s1-r0006",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 6,
+                  "row_start": 6,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 172,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0007",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 7,
+                  "row_start": 7,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 178,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0008",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 8,
+                  "row_start": 8,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 195,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0009",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 9,
+                  "row_start": 9,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 176,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0010",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 10,
+                  "row_start": 10,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 177,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0011",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 11,
+                  "row_start": 11,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 183,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0012",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 12,
+                  "row_start": 12,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 191,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "header_row": 5,
+              "row_end": 12,
+              "row_start": 6,
+              "sheet": "Operasional",
+              "table": "Operasional:table-1"
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-006-C003",
+            "document_id": "WO-DOC-006",
+            "method_id": "R3",
+            "rank": 3,
+            "score": 0.5637656450271606,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-006.xlsx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "s1-r0020",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 20,
+                  "row_start": 20,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 177,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0021",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 21,
+                  "row_start": 21,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 195,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0022",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 22,
+                  "row_start": 22,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 208,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0023",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 23,
+                  "row_start": 23,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 193,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0024",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 24,
+                  "row_start": 24,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 185,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0025",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 25,
+                  "row_start": 25,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 194,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0026",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 26,
+                  "row_start": 26,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 213,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "header_row": 5,
+              "overlap_blocks": [
+                {
+                  "block_id": "s1-r0019",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 19,
+                  "row_start": 19,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 176,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "row_end": 26,
+              "row_start": 20,
+              "sheet": "Operasional",
+              "table": "Operasional:table-1"
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-006-C004",
+            "document_id": "WO-DOC-006",
+            "method_id": "R3",
+            "rank": 4,
+            "score": 0.559484601020813,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-006.xlsx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "s1-r0027",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 27,
+                  "row_start": 27,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 175,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0028",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 28,
+                  "row_start": 28,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 187,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0029",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 29,
+                  "row_start": 29,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 196,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0030",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 30,
+                  "row_start": 30,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 190,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0031",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 31,
+                  "row_start": 31,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 185,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0032",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 32,
+                  "row_start": 32,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 183,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0033",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 33,
+                  "row_start": 33,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 192,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "header_row": 5,
+              "overlap_blocks": [
+                {
+                  "block_id": "s1-r0026",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 26,
+                  "row_start": 26,
+                  "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+                  "serialized_char_end": 213,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "row_end": 33,
+              "row_start": 27,
+              "sheet": "Operasional",
+              "table": "Operasional:table-1"
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-034-C005",
+            "document_id": "WO-DOC-034",
+            "method_id": "R3",
+            "rank": 5,
+            "score": 0.5377029180526733,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-034.xlsx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "s1-r0026",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 26,
+                  "row_start": 26,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 282,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0027",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 27,
+                  "row_start": 27,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 294,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0028",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 28,
+                  "row_start": 28,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 276,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0029",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 29,
+                  "row_start": 29,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 273,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0030",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 30,
+                  "row_start": 30,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 311,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "header_row": 5,
+              "overlap_blocks": [
+                {
+                  "block_id": "s1-r0025",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 25,
+                  "row_start": 25,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 255,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "row_end": 30,
+              "row_start": 26,
+              "sheet": "Operasional",
+              "table": "Operasional:table-1"
+            }
+          }
+        ],
+        "seconds": 0.03395979999913834,
+        "text": "Untuk pengelolaan daftar registrasi, bagaimana pembagian peran A dan R dalam matriks RACI tim?",
+        "validation_status": "draft_pending_expert_review"
+      },
+      {
+        "actual_tokens": 22,
+        "query_id": "WO-DEV-007",
+        "results": [
+          {
+            "chunk_id": "WO-DOC-001-C006",
+            "document_id": "WO-DOC-001",
+            "method_id": "R3",
+            "rank": 1,
+            "score": 0.5676634311676025,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-001.docx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "b0020",
+                  "body_position": 20,
+                  "heading": "Ketika perintah bertentangan",
+                  "heading_path": [
+                    "Ketika perintah bertentangan"
+                  ],
+                  "paragraph_position": 20,
+                  "serialized_char_end": 584,
+                  "serialized_char_start": 0
+                }
+              ]
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-046-C003",
+            "document_id": "WO-DOC-046",
+            "method_id": "R3",
+            "rank": 2,
+            "score": 0.5367847084999084,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-046.txt",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "l0014-0014",
+                  "line_end": 14,
+                  "line_start": 14,
+                  "section": "Bila ada dugaan bahaya",
+                  "serialized_char_end": 409,
+                  "serialized_char_start": 0
+                }
+              ],
+              "line_end": 14,
+              "line_start": 14
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-005-C001",
+            "document_id": "WO-DOC-005",
+            "method_id": "R3",
+            "rank": 3,
+            "score": 0.49857890605926514,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-005.pdf",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "p001-b007",
+                  "heading": "Pegangan cepat kru pendukung",
+                  "page_block": 7,
+                  "page_end": 1,
+                  "page_start": 1,
+                  "serialized_char_end": 510,
+                  "serialized_char_start": 0
+                }
+              ],
+              "page_end": 1,
+              "page_start": 1
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-005-C006",
+            "document_id": "WO-DOC-005",
+            "method_id": "R3",
+            "rank": 4,
+            "score": 0.49821266531944275,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-005.pdf",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "p002-b008",
+                  "heading": "Bila terjadi gangguan dan saat shift berakhir",
+                  "page_block": 8,
+                  "page_end": 2,
+                  "page_start": 2,
+                  "serialized_char_end": 560,
+                  "serialized_char_start": 0
+                }
+              ],
+              "page_end": 2,
+              "page_start": 2
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-034-C001",
+            "document_id": "WO-DOC-034",
+            "method_id": "R3",
+            "rank": 5,
+            "score": 0.4779721200466156,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-034.xlsx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "s1-r0006",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 6,
+                  "row_start": 6,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 306,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0007",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 7,
+                  "row_start": 7,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 298,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0008",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 8,
+                  "row_start": 8,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 288,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0009",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 9,
+                  "row_start": 9,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 270,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                },
+                {
+                  "block_id": "s1-r0010",
+                  "column_end": "F",
+                  "column_start": "A",
+                  "header_row": 5,
+                  "merged_ranges": [],
+                  "row_end": 10,
+                  "row_start": 10,
+                  "section": "Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi",
+                  "serialized_char_end": 291,
+                  "serialized_char_start": 0,
+                  "sheet": "Operasional",
+                  "table": "Operasional:table-1"
+                }
+              ],
+              "header_row": 5,
+              "row_end": 10,
+              "row_start": 6,
+              "sheet": "Operasional",
+              "table": "Operasional:table-1"
+            }
+          }
+        ],
+        "seconds": 0.03231499999856169,
+        "text": "Dua atasan memberi arahan yang saling bertentangan kepada kru yang sama. Apa yang sebaiknya dilakukan kru?",
+        "validation_status": "draft_pending_expert_review"
+      },
+      {
+        "actual_tokens": 30,
+        "query_id": "WO-DEV-013",
+        "results": [
+          {
+            "chunk_id": "WO-DOC-024-C006",
+            "document_id": "WO-DOC-024",
+            "method_id": "R3",
+            "rank": 1,
+            "score": 0.6658114790916443,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-024.docx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "b0020",
+                  "body_position": 20,
+                  "heading": "Touch-up dan akhir layanan",
+                  "heading_path": [
+                    "Touch-up dan akhir layanan"
+                  ],
+                  "paragraph_position": 20,
+                  "serialized_char_end": 457,
+                  "serialized_char_start": 0
+                }
+              ]
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-024-C003",
+            "document_id": "WO-DOC-024",
+            "method_id": "R3",
+            "rank": 2,
+            "score": 0.6520378589630127,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-024.docx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "b0011",
+                  "body_position": 11,
+                  "heading": "Urutan simulasi pagi EVT-02",
+                  "heading_path": [
+                    "Urutan simulasi pagi EVT-02"
+                  ],
+                  "paragraph_position": 11,
+                  "serialized_char_end": 409,
+                  "serialized_char_start": 0
+                },
+                {
+                  "block_id": "b0012",
+                  "body_position": 12,
+                  "heading": "Urutan simulasi pagi EVT-02",
+                  "heading_path": [
+                    "Urutan simulasi pagi EVT-02"
+                  ],
+                  "paragraph_position": 12,
+                  "serialized_char_end": 349,
+                  "serialized_char_start": 0
+                }
+              ]
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-014-C004",
+            "document_id": "WO-DOC-014",
+            "method_id": "R3",
+            "rank": 3,
+            "score": 0.6436029076576233,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-014.docx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "b0014",
+                  "body_position": 14,
+                  "heading": "Pemeriksaan siap dan handover ke floor",
+                  "heading_path": [
+                    "Pemeriksaan siap dan handover ke floor"
+                  ],
+                  "paragraph_position": 14,
+                  "serialized_char_end": 416,
+                  "serialized_char_start": 0
+                },
+                {
+                  "block_id": "b0015",
+                  "body_position": 15,
+                  "heading": "Pemeriksaan siap dan handover ke floor",
+                  "heading_path": [
+                    "Pemeriksaan siap dan handover ke floor"
+                  ],
+                  "paragraph_position": 15,
+                  "serialized_char_end": 431,
+                  "serialized_char_start": 0
+                }
+              ]
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-014-C002",
+            "document_id": "WO-DOC-014",
+            "method_id": "R3",
+            "rank": 4,
+            "score": 0.6400895118713379,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-014.docx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "b0008",
+                  "body_position": 8,
+                  "heading": "Memeriksa rencana sebelum layanan dimulai",
+                  "heading_path": [
+                    "Memeriksa rencana sebelum layanan dimulai"
+                  ],
+                  "paragraph_position": 8,
+                  "serialized_char_end": 427,
+                  "serialized_char_start": 0
+                },
+                {
+                  "block_id": "b0009",
+                  "body_position": 9,
+                  "heading": "Memeriksa rencana sebelum layanan dimulai",
+                  "heading_path": [
+                    "Memeriksa rencana sebelum layanan dimulai"
+                  ],
+                  "paragraph_position": 9,
+                  "serialized_char_end": 459,
+                  "serialized_char_start": 0
+                }
+              ]
+            }
+          },
+          {
+            "chunk_id": "WO-DOC-014-C003",
+            "document_id": "WO-DOC-014",
+            "method_id": "R3",
+            "rank": 5,
+            "score": 0.6396970748901367,
+            "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+            "source_file": "data/source_corpus/documents/WO-DOC-014.docx",
+            "source_locator": {
+              "blocks": [
+                {
+                  "block_id": "b0011",
+                  "body_position": 11,
+                  "heading": "Saat makeup dan dressing berjalan",
+                  "heading_path": [
+                    "Saat makeup dan dressing berjalan"
+                  ],
+                  "paragraph_position": 11,
+                  "serialized_char_end": 414,
+                  "serialized_char_start": 0
+                },
+                {
+                  "block_id": "b0012",
+                  "body_position": 12,
+                  "heading": "Saat makeup dan dressing berjalan",
+                  "heading_path": [
+                    "Saat makeup dan dressing berjalan"
+                  ],
+                  "paragraph_position": 12,
+                  "serialized_char_end": 413,
+                  "serialized_char_start": 0
+                }
+              ]
+            }
+          }
+        ],
+        "seconds": 0.03474389999973937,
+        "text": "Menjelang prosesi, makeup sudah selesai tetapi pengantin belum tiba di titik standby. Apa yang harus dicek sebelum menyatakan pasangan siap?",
+        "validation_status": "draft_pending_expert_review"
+      }
+    ],
+    "started_at_utc": "2026-10-08T17:31:51.547090+00:00",
+    "status": "PASS",
+    "successfully_embedded_chunks": 371,
+    "tokenizer_audit": {
+      "chunks": 371,
+      "max": 573,
+      "max_length": 640,
+      "mean": 194.33962264150944,
+      "median": 136,
+      "min": 83,
+      "p95_nearest_rank": 497,
+      "special_tokens_included": true,
+      "truncation": false,
+      "truncation_count": 0
+    },
+    "total_wall_seconds_including_loading_canary_indexing_smoke": 81.24724140000035
+  },
+  "historical_pre_execution": {
+    "reason": "No model loaded under previous default6GiB gate; superseded by this explicitly approved one-off run",
+    "resource_gate_available_ram_gib": 5.321056365966797,
+    "status": "IMPLEMENTED_TESTED_TOKENIZER_PASS_GPU_INDEXING_NOT_RUN_RESOURCE_GATE"
+  },
+  "index": {
+    "allocated_bytes": 1597440,
+    "files": {
+      "manifest.json": {
+        "allocated_bytes": 8192,
+        "logical_bytes": 4433,
+        "sha256": "bc96099725d17dca4e45c0b10ec3204fd56bb91f5f7349843f6a61275f1a5e1b"
+      },
+      "rows.json": {
+        "allocated_bytes": 65536,
+        "logical_bytes": 62686,
+        "sha256": "a2841c513395e16c053427fdad8a3d3fa2438bcd041a7c1461ad4a167ffaee16"
+      },
+      "vectors.npy": {
+        "allocated_bytes": 1523712,
+        "logical_bytes": 1519744,
+        "sha256": "6774becce519fcaa822807ddf20b334197a8a0c41f30c3d7de8f29fe3baeb5e5"
+      }
+    },
+    "logical_bytes": 1586863,
+    "manifest": {
+      "artifact_sha256": {
+        "rows.json": "a2841c513395e16c053427fdad8a3d3fa2438bcd041a7c1461ad4a167ffaee16",
+        "vectors.npy": "6774becce519fcaa822807ddf20b334197a8a0c41f30c3d7de8f29fe3baeb5e5"
+      },
+      "completion_status": "COMPLETE",
+      "duplicate_chunk_ids": 0,
+      "embedding_checkpoint_finalize_seconds": 46.1546113000004,
+      "embedding_computation_seconds": 41.02715430000899,
+      "finite": true,
+      "identity": {
+        "batch_size": 1,
+        "chunks_sha256": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0",
+        "config_fingerprint": "ca078b51197a3961c3b46e4afad18ae9aaff8f78e6b4f7f881ed6f59b2f31482",
+        "dense_code_file_hashes": {
+          "__init__.py": "1f41815728b6c23a450461c4e0dcf154566d02e280be49b90f56aeaa9d5036dc",
+          "cli.py": "92811179c5dd88732b58be3736cc168e89a249ced0e46413e3b6bf195a873a94",
+          "index.py": "a7478bcaa6b1bdb6d1a94609167bcfa9f75800cca47d38cc47f2bcf09652c84b",
+          "model.py": "fa84e06e8ced02ee934111077bf0594cb7f67d7c51d4143618eb68779a7dc5d1",
+          "resources.py": "890f19a3aa4dee1ea334356f0c608d003d5e0e63aa1134efca36f59418c3dd69"
+        },
+        "dependency_versions": {
+          "FlagEmbedding": "1.4.2",
+          "huggingface-hub": "0.36.2",
+          "numpy": "2.5.3",
+          "psutil": "7.2.2",
+          "safetensors": "0.8.0",
+          "sentencepiece": "0.2.2",
+          "tokenizers": "0.22.2",
+          "torch": "2.12.1+cu126",
+          "transformers": "4.57.6"
+        },
+        "device": "cuda:0",
+        "dimension": 1024,
+        "max_length": 640,
+        "method_id": "R3",
+        "ml_environment_manifest_sha256": "31fab809333eeeefd99395bc9b7fa33f9c6617290783a8c34f1bf6d720eaca95",
+        "model_file_hashes": {
+          "1_Pooling/config.json": "e54c164a07274f2eb45bb724f54a79d1efcc90c41573887cd9a29aeee0597352",
+          "colbert_linear.pt": "19bfbae397c2b7524158c919d0e9b19393c5639d098f0a66932c91ed8f5f9abb",
+          "config.json": "26159e7ad065073448460117eb24b7a4572f6f4e78eadff65dc0a11c052449fa",
+          "config_sentence_transformers.json": "1eef72430e7194a1e59680e635aed81ffa083f05668dbc5bb1c56c04c0999c38",
+          "modules.json": "84e40c8e006c9b1d6c122e02cba9b02458120b5fb0c87b746c41e0207cf642cf",
+          "pytorch_model.bin": "b5e0ce3470abf5ef3831aa1bd5553b486803e83251590ab7ff35a117cf6aad38",
+          "sentence_bert_config.json": "eb9b44b13c0f52a3b3685c3b1cbdea1ba8b04bea123b98f61610048940776eb1",
+          "sentencepiece.bpe.model": "cfc8146abe2a0488e9e2a0c56de7952f7c11ab059eca145a0a727afce0db2865",
+          "sparse_linear.pt": "45c93804d2142b8f6d7ec6914ae23a1eee9c6a1d27d83d908a20d2afb3595ad9",
+          "special_tokens_map.json": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835",
+          "tokenizer.json": "21106b6d7dab2952c1d496fb21d5dc9db75c28ed361a05f5020bbba27810dd08",
+          "tokenizer_config.json": "a62b2b6784f990259fddef5f16388693a8043be4f69179e6a5257eeb3f9abac4"
+        },
+        "model_id": "BAAI/bge-m3",
+        "model_revision": "5617a9f61b028005a4858fdac845db406aefb181",
+        "normalization": "official L2; convert output to float32 and L2-normalize again before score/storage",
+        "official_inference_file_hashes": {
+          "finetune/embedder/encoder_only/m3/modeling.py": "ef9f37f511cf9b7ceaf89a2bd569276ca0058cc8dc401545b9b4b688c9801f4f",
+          "finetune/embedder/encoder_only/m3/runner.py": "a2e683bb671610d8809748554e4b35115df601eb418728d5da1bdda761a601f1",
+          "inference/embedder/encoder_only/m3.py": "e795219b34d96340c7adaf4902f771aaca9246448f9d1dd334b1757cb0c1f978"
+        },
+        "precision": "float16",
+        "protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+        "row_mapping_hash": "ca15eda84aa77d875b8e0698199ec2ab7234de3d74f20e89ef04a18b5fabb651",
+        "serialization_policy_hash": "f2dd30f88ed1745c1a9fb9fea850651dbf89cfeed304c8aa1a7c1910afc9d53f",
+        "serialized_inputs_hash": "dfad6b5237f3a0d2538b3c4da8e86cbc73fb392f0a9602c661fe93d9f8e4961c",
+        "serializer_version": "wo_operational_context_dedup_v1",
+        "shared_code_file_hashes": {
+          "__init__.py": "b714bb334a9d6c57b5a4322cc1b4ecc670d254b7a003b8b98c1b0be938ef22e4",
+          "cli.py": "497a16fa74f602714ff077a5a274e467533a3edf3bea299deeafb28a334342e3",
+          "lexical.py": "db43310a9e9f7865a69cebb854b47351b25ffc04ac49bfb62d9b444b55b2e76f",
+          "text.py": "e77d36c36aba3e5b38c4e8d67a1878ceb9286534bf9c44f2a8765b434799592d"
+        },
+        "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+        "snapshot_id": "WO-CORPUS-V1-DRAFT-PILOT-001",
+        "snapshot_sha256": "279157bab95e3c899091ea7576e6388829823635f1bb158a5ff2a1e72ebd9a4e",
+        "storage_dtype": "float32",
+        "tokenizer": "XLMRobertaTokenizerFast; local_files_only; no truncation; special tokens included",
+        "universe_hash": "6bc63ce997da6e80df7b954a476dc46f959bf339986e8c28d389aa8f28f8d6c3",
+        "vector_search": "NumPy CPU float32 normalized inner product, exhaustive"
+      },
+      "indexed_chunks": 371,
+      "missing_chunks": 0,
+      "resumed_verified_rows": 0,
+      "shape": [
+        371,
+        1024
+      ],
+      "timestamp_utc": "2026-10-08T17:33:10.644677+00:00"
+    },
+    "partial_checkpoint_logical_bytes": 1673623,
+    "path": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+    "read_only_cli_audit": "PASS; no neural model loaded",
+    "vector_norm_max": 1.0000001192092896,
+    "vector_norm_min": 0.9999998807907104
+  },
+  "integrity": {
+    "baseline_existing_files": 136,
+    "model_files_verified_unchanged": 12,
+    "permitted_updated_files": [
+      "README.md",
+      "experiments/reports/milestone_8b_dense_audit.json",
+      "experiments/reports/milestone_8b_dense_retrieval.md"
+    ],
+    "protected_artifact_sha256": {
+      "data/chunks/chunks.jsonl": "2663e23db9e2c9bd15aa75be1bd7931bb0482079cdd6183c2e1065011b10a6a0",
+      "data/processed/documents.jsonl": "314a1e44a769aad9b6e64c1fb2ef42bc04a722b38e8e87589de7e3fb3a046e01",
+      "data/source_corpus/corpus_manifest.json": "3bc162662521b44e2d8abd06d75729a5e19abba535eb6e2c8bcbb3c5f80cd44f",
+      "experiments/configs/pilot.toml": "958508999a7285dc7e0caf65a6b3b55106bdcc4d8791e6e665529f0f84812a26"
+    },
+    "snapshot_fingerprint": "7a7a832fe52e8fae87f1d5697c359437b3b28347ba8decd8c6f1bd141990dc40",
+    "snapshot_sha256": "279157bab95e3c899091ea7576e6388829823635f1bb158a5ff2a1e72ebd9a4e",
+    "source_code_protocol_queries_workbooks_r1_r2_unchanged": true,
+    "source_corpus_files_unchanged": 57,
+    "source_document_hashes_verified": 50,
+    "status": "PASS"
+  },
+  "milestone_8b_status": "COMPLETE_TECHNICAL_PILOT_PENDING_PRACTITIONER_VALIDATION",
+  "pip_check": {
+    "ingestion": "PASS",
+    "ml": "PASS (without source PYTHONPATH)"
+  },
+  "r4_authorized": false,
+  "r4_hybrid": "NOT IMPLEMENTED",
+  "retrieval_effectiveness_evaluation": "NOT RUN",
+  "serialization_fingerprint": "2f4e59835ad4cf81e84f60a5177b6b721c821ddc23970b484de01dd23613ef37",
+  "status": "PASS_R3_COMPLETE_CONTROLLED_RUN",
+  "tests": {
+    "accepted_8b_suite": {
+      "dense": {
+        "passed": 16,
+        "seconds": 0.935
+      },
+      "ingestion": {
+        "passed": 25,
+        "seconds": 5.566
+      },
+      "lexical": {
+        "passed": 14,
+        "seconds": 32.526
+      },
+      "protocol": {
+        "passed": 5,
+        "seconds": 0.008
+      }
+    },
+    "accepted_unique_tests_passed": 60,
+    "post_run_reruns": {
+      "dense": {
+        "passed": 16,
+        "seconds": 1.053
+      },
+      "protocol": {
+        "passed": 5,
+        "seconds": 0.007
+      }
+    }
+  },
+  "tokenizer_audit": {
+    "chunks": 371,
+    "max": 573,
+    "max_length": 640,
+    "mean": 194.33962264150944,
+    "median": 136,
+    "min": 83,
+    "p95_nearest_rank": 497,
+    "special_tokens_included": true,
+    "truncation": false,
+    "truncation_count": 0
+  },
+  "updated_at_utc": "2026-10-08T17:38:15.558319+00:00"
+}

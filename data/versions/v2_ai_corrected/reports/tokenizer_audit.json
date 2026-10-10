@@ -1,0 +1,24 @@
+{
+  "chunks": 371,
+  "max_length": 640,
+  "method": "Local tokenizers.Tokenizer.from_file; no truncation/padding; special tokens BOS0/EOS2 included; no neural model/torch/transformers import",
+  "model_id": "BAAI/bge-m3",
+  "revision": "5617a9f61b028005a4858fdac845db406aefb181",
+  "serialized": {
+    "max": 573,
+    "mean": 194.51752021563343,
+    "median": 137,
+    "min": 83,
+    "overflow_at_640": 0,
+    "p95_nearest_rank": 497
+  },
+  "text_only": {
+    "max": 544,
+    "mean": 166.5309973045822,
+    "median": 108,
+    "min": 55,
+    "overflow_at_640": 0,
+    "p95_nearest_rank": 468
+  },
+  "tokenizer_file_sha256": "21106b6d7dab2952c1d496fb21d5dc9db75c28ed361a05f5020bbba27810dd08"
+}

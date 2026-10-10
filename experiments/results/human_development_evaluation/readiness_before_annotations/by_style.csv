@@ -1,0 +1,13 @@
+﻿method,style,requested_queries,evaluated_queries,status,Precision@5,Precision@10,MRR@10,nDCG@5 (pooled),nDCG@10 (pooled)
+R1,lexical_oriented,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R1,mixed_natural,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R1,semantic_paraphrase,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R2,lexical_oriented,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R2,mixed_natural,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R2,semantic_paraphrase,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R3,lexical_oriented,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R3,mixed_natural,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R3,semantic_paraphrase,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R4,lexical_oriented,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R4,mixed_natural,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,
+R4,semantic_paraphrase,6,0,BLOCKED_INCOMPLETE_ASSESSMENTS,,,,,

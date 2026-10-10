@@ -1,0 +1,10 @@
+{
+  "restored": [
+    "src/wo_retrieval_benchmark.egg-info/entry_points.txt",
+    "src/wo_retrieval_benchmark.egg-info/PKG-INFO",
+    "src/wo_retrieval_benchmark.egg-info/requires.txt",
+    "src/wo_retrieval_benchmark.egg-info/SOURCES.txt"
+  ],
+  "source": "data.zip",
+  "validated_against_frozen_historical_hashes": true
+}

@@ -1,0 +1,4800 @@
+{
+  "counts": {
+    "CHANGED_CONTENT_REQUIRES_REJUDGMENT": 18,
+    "EXACT_CONTENT_MATCH_CANDIDATE": 666
+  },
+  "rows": [
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-001",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-002",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-003",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-004",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-005",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-006",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-007",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-008",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-009",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-010",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-011",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-012",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-013",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-014",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-015",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-016",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-017",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-001-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-001-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-001-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-001-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-006-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-006-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-006-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-008-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-008-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-008-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-009-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-009-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-009-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-014-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-014-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-014-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-016-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-016-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-017-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-017-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-017-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-019-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-019-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-024-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-024-C003",
+      "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-024-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-027-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-027-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-027-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-027-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-030-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-030-C004",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-030-C004"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C005",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-031-C005"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-031-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-031-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-032-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-032-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-032-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-037-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-037-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-041-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-041-C007"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C008",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-041-C008"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-041-C013",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-041-C013"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C009",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-043-C009"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-043-C010",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-043-C010"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C002",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-047-C002"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-047-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-047-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-048-C003",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-048-C003"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C006",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-049-C006"
+    },
+    {
+      "automatic_transfer": false,
+      "candidate_v2_chunk_id": "WO-DOC-049-C007",
+      "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+      "query_id": "WO-DEV-018",
+      "v1_chunk_id": "WO-DOC-049-C007"
+    }
+  ],
+  "status": "AUDIT_ONLY_NO_V2_QRELS_OR_GRADES",
+  "v2_accepted_judgments": 0,
+  "v2_query_chunk_pairs": 6678,
+  "v2_unjudged_pairs": 6678
+}

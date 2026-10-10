@@ -1,0 +1,863 @@
+{
+  "rows": [
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "s1-r0016",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-006-C002",
+              "v2_chunk_id": "WO-DOC-006-C002"
+            }
+          ],
+          "document_id": "WO-DOC-006",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "b50b7a31a3d54f99c57311d24d8900923b2a0b60bf022199e4fd95fda5b4b213",
+          "v2_block_text_sha256": "b50b7a31a3d54f99c57311d24d8900923b2a0b60bf022199e4fd95fda5b4b213"
+        },
+        {
+          "block_id": "s2-r0011",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-006-C005",
+              "v2_chunk_id": "WO-DOC-006-C005"
+            }
+          ],
+          "document_id": "WO-DOC-006",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "b6210cf9dfb1074db03c66f182ad42f8e851a12d3029e365590f1deda71cb28c",
+          "v2_block_text_sha256": "b6210cf9dfb1074db03c66f182ad42f8e851a12d3029e365590f1deda71cb28c"
+        }
+      ],
+      "query_id": "WO-DEV-001",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "b0014",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-009-C004",
+              "v2_chunk_id": "WO-DOC-009-C004"
+            }
+          ],
+          "document_id": "WO-DOC-009",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "4e692f1ec18a37b69959913a06665583d6bfa8535273596c53534b2bf9a7307c",
+          "v2_block_text_sha256": "4e692f1ec18a37b69959913a06665583d6bfa8535273596c53534b2bf9a7307c"
+        },
+        {
+          "block_id": "b0019",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-009-C006",
+              "v2_chunk_id": "WO-DOC-009-C006"
+            }
+          ],
+          "document_id": "WO-DOC-009",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "45912efcfc9c44e28e9afd927e10acc2333d5c940448afac2776d89548ea5006",
+          "v2_block_text_sha256": "45912efcfc9c44e28e9afd927e10acc2333d5c940448afac2776d89548ea5006"
+        }
+      ],
+      "query_id": "WO-DEV-002",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "p001-b011",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-017-C003",
+              "v2_chunk_id": "WO-DOC-017-C003"
+            }
+          ],
+          "document_id": "WO-DOC-017",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "dc1335fb8f30bbc1beba03fa8d252664d4c3a9965213ff44b1368071ea785ffe",
+          "v2_block_text_sha256": "dc1335fb8f30bbc1beba03fa8d252664d4c3a9965213ff44b1368071ea785ffe"
+        },
+        {
+          "block_id": "p001-b013",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-017-C004",
+              "v2_chunk_id": "WO-DOC-017-C004"
+            }
+          ],
+          "document_id": "WO-DOC-017",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "d4d18f65e03a4fd118341b7d78d7ec4edeb1f500259825817772dfac3ec3f135",
+          "v2_block_text_sha256": "d4d18f65e03a4fd118341b7d78d7ec4edeb1f500259825817772dfac3ec3f135"
+        }
+      ],
+      "query_id": "WO-DEV-003",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "REVIEW_CHANGED_EVIDENCE",
+      "evidence": [
+        {
+          "block_id": "b0008",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-024-C002",
+              "v2_chunk_id": "WO-DOC-024-C002"
+            }
+          ],
+          "document_id": "WO-DOC-024",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": false,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "7587f62cb1fdad1977be2c7247ae80b6d16861827a6ad326b201696dd142e870",
+          "v2_block_text_sha256": "7587f62cb1fdad1977be2c7247ae80b6d16861827a6ad326b201696dd142e870"
+        },
+        {
+          "block_id": "b0011",
+          "containing_chunk_mapping": [
+            {
+              "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+              "v1_chunk_id": "WO-DOC-024-C003",
+              "v2_chunk_id": "WO-DOC-024-C003"
+            }
+          ],
+          "document_id": "WO-DOC-024",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": false,
+          "text_unchanged": false,
+          "v1_block_text_sha256": "2c6a614ce919be928d4a1e518d91c4abd4f81f01ff30d74a3c69e0a1ea9211e3",
+          "v2_block_text_sha256": "e10373ca761c75bf474db7a7a4fd43295d57123e938b7395eb89b6c778ae50b9"
+        }
+      ],
+      "query_id": "WO-DEV-004",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "p002-b003",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-031-C005",
+              "v2_chunk_id": "WO-DOC-031-C005"
+            }
+          ],
+          "document_id": "WO-DOC-031",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "d5ed2acf67137a4c8573513fa439612481bf2af4bda19a5872f107e5a5cd62b8",
+          "v2_block_text_sha256": "d5ed2acf67137a4c8573513fa439612481bf2af4bda19a5872f107e5a5cd62b8"
+        },
+        {
+          "block_id": "p002-b011",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-031-C009",
+              "v2_chunk_id": "WO-DOC-031-C009"
+            }
+          ],
+          "document_id": "WO-DOC-031",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "b628b420d15332774bdbd823ed7107b7274db57855a05278312fed8d365155e9",
+          "v2_block_text_sha256": "b628b420d15332774bdbd823ed7107b7274db57855a05278312fed8d365155e9"
+        }
+      ],
+      "query_id": "WO-DEV-005",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "s1-r0022",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-048-C003",
+              "v2_chunk_id": "WO-DOC-048-C003"
+            }
+          ],
+          "document_id": "WO-DOC-048",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "139eeadda822e06d3ada1e6ed2e05e9b18ad2e4f8b532bd3c87e3671c391f866",
+          "v2_block_text_sha256": "139eeadda822e06d3ada1e6ed2e05e9b18ad2e4f8b532bd3c87e3671c391f866"
+        },
+        {
+          "block_id": "b0013",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-019-C004",
+              "v2_chunk_id": "WO-DOC-019-C004"
+            }
+          ],
+          "document_id": "WO-DOC-019",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "794a10d27a6742a628212cf4532fca12ccb790b21f4c8b15fd02f439976e8ff9",
+          "v2_block_text_sha256": "794a10d27a6742a628212cf4532fca12ccb790b21f4c8b15fd02f439976e8ff9"
+        }
+      ],
+      "query_id": "WO-DEV-006",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "b0020",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-001-C006",
+              "v2_chunk_id": "WO-DOC-001-C006"
+            }
+          ],
+          "document_id": "WO-DOC-001",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "607f4ff4ed1f48a75f6dcf382008aa238f6015290aeff7d92c77e75b1c73a250",
+          "v2_block_text_sha256": "607f4ff4ed1f48a75f6dcf382008aa238f6015290aeff7d92c77e75b1c73a250"
+        }
+      ],
+      "query_id": "WO-DEV-007",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "s1-r0033",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-008-C005",
+              "v2_chunk_id": "WO-DOC-008-C005"
+            }
+          ],
+          "document_id": "WO-DOC-008",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "0a2872d9f0e43e7642a4617d4aa6374c2b38fa282a20cb9075621689a394c95e",
+          "v2_block_text_sha256": "0a2872d9f0e43e7642a4617d4aa6374c2b38fa282a20cb9075621689a394c95e"
+        },
+        {
+          "block_id": "s2-r0012",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-008-C006",
+              "v2_chunk_id": "WO-DOC-008-C006"
+            }
+          ],
+          "document_id": "WO-DOC-008",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "67b1d0902670d35bd6f8c3637a6a5fe332397b4b7a007bd55750e365fadab4e5",
+          "v2_block_text_sha256": "67b1d0902670d35bd6f8c3637a6a5fe332397b4b7a007bd55750e365fadab4e5"
+        },
+        {
+          "block_id": "b0016",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-010-C005",
+              "v2_chunk_id": "WO-DOC-010-C005"
+            }
+          ],
+          "document_id": "WO-DOC-010",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "9be6b14e9caad8a5c461dfb10827ec2e26f4523f0eefdcdbd35b652cee19be6f",
+          "v2_block_text_sha256": "9be6b14e9caad8a5c461dfb10827ec2e26f4523f0eefdcdbd35b652cee19be6f"
+        }
+      ],
+      "query_id": "WO-DEV-008",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "b0013",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-027-C004",
+              "v2_chunk_id": "WO-DOC-027-C004"
+            }
+          ],
+          "document_id": "WO-DOC-027",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": false,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "7ae613c0edce80de0753527b3b62dff810f565fd12e6f40344f7f4cd94dd1291",
+          "v2_block_text_sha256": "7ae613c0edce80de0753527b3b62dff810f565fd12e6f40344f7f4cd94dd1291"
+        },
+        {
+          "block_id": "b0016",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-027-C005",
+              "v2_chunk_id": "WO-DOC-027-C005"
+            }
+          ],
+          "document_id": "WO-DOC-027",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": false,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "a364cd38d8c71bc263de0dd0a80c2e6e87ed4157ca0d60f1a3245aea44441011",
+          "v2_block_text_sha256": "a364cd38d8c71bc263de0dd0a80c2e6e87ed4157ca0d60f1a3245aea44441011"
+        },
+        {
+          "block_id": "b0022",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-027-C007",
+              "v2_chunk_id": "WO-DOC-027-C007"
+            }
+          ],
+          "document_id": "WO-DOC-027",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": false,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "a320b00cb67dd7b4be16c46b835c203fa2f644860db8cb08b446275ab72f0dfd",
+          "v2_block_text_sha256": "a320b00cb67dd7b4be16c46b835c203fa2f644860db8cb08b446275ab72f0dfd"
+        }
+      ],
+      "query_id": "WO-DEV-009",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "p001-b009",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-037-C002",
+              "v2_chunk_id": "WO-DOC-037-C002"
+            }
+          ],
+          "document_id": "WO-DOC-037",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "437e3d11c85a4049263051c0c79d1b03617fe5e24f81c6acefd20d32e8df5841",
+          "v2_block_text_sha256": "437e3d11c85a4049263051c0c79d1b03617fe5e24f81c6acefd20d32e8df5841"
+        },
+        {
+          "block_id": "p001-b012",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-037-C003",
+              "v2_chunk_id": "WO-DOC-037-C003"
+            }
+          ],
+          "document_id": "WO-DOC-037",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "2bbfc1235f468edc31451dd41a806c7c6f9587c834db5d781ab6cf9278b11d31",
+          "v2_block_text_sha256": "2bbfc1235f468edc31451dd41a806c7c6f9587c834db5d781ab6cf9278b11d31"
+        }
+      ],
+      "query_id": "WO-DEV-010",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "l0029-0029",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-041-C008",
+              "v2_chunk_id": "WO-DOC-041-C008"
+            }
+          ],
+          "document_id": "WO-DOC-041",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "992fa6c527f2a388503f4561c01e50f853e5ac31b210e286b1dd12efd8bdc828",
+          "v2_block_text_sha256": "992fa6c527f2a388503f4561c01e50f853e5ac31b210e286b1dd12efd8bdc828"
+        },
+        {
+          "block_id": "b0018",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-045-C006",
+              "v2_chunk_id": "WO-DOC-045-C006"
+            }
+          ],
+          "document_id": "WO-DOC-045",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "455832ae4daa2bf7a2632df43a49a07c1a66ddd9c0dd1a110e40cc859e9bca4e",
+          "v2_block_text_sha256": "455832ae4daa2bf7a2632df43a49a07c1a66ddd9c0dd1a110e40cc859e9bca4e"
+        }
+      ],
+      "query_id": "WO-DEV-011",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "b0018",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-049-C006",
+              "v2_chunk_id": "WO-DOC-049-C006"
+            }
+          ],
+          "document_id": "WO-DOC-049",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "269ae3684b1cdc6939d859c5f4dc2ae101b5bef69adfe2a3052ffeed29937ff7",
+          "v2_block_text_sha256": "269ae3684b1cdc6939d859c5f4dc2ae101b5bef69adfe2a3052ffeed29937ff7"
+        },
+        {
+          "block_id": "b0020",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-049-C007",
+              "v2_chunk_id": "WO-DOC-049-C007"
+            }
+          ],
+          "document_id": "WO-DOC-049",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "6c7423e04f4a9c3b59281ce83e01799f0797cc6028a0a10c84f9673d2481c117",
+          "v2_block_text_sha256": "6c7423e04f4a9c3b59281ce83e01799f0797cc6028a0a10c84f9673d2481c117"
+        }
+      ],
+      "query_id": "WO-DEV-012",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "b0014",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-014-C004",
+              "v2_chunk_id": "WO-DOC-014-C004"
+            }
+          ],
+          "document_id": "WO-DOC-014",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "9162cdbf8e9e66698f7f4d1a8587d5175e88f07bed5bd09368a36be76ead9d9d",
+          "v2_block_text_sha256": "9162cdbf8e9e66698f7f4d1a8587d5175e88f07bed5bd09368a36be76ead9d9d"
+        },
+        {
+          "block_id": "b0015",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-014-C004",
+              "v2_chunk_id": "WO-DOC-014-C004"
+            }
+          ],
+          "document_id": "WO-DOC-014",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "3282664b5ec89e906820bef723d54ae8003b5790a76e1c849cdea6076e96cba2",
+          "v2_block_text_sha256": "3282664b5ec89e906820bef723d54ae8003b5790a76e1c849cdea6076e96cba2"
+        },
+        {
+          "block_id": "b0012",
+          "containing_chunk_mapping": [
+            {
+              "classification": "CHANGED_CONTENT_REQUIRES_REJUDGMENT",
+              "v1_chunk_id": "WO-DOC-024-C003",
+              "v2_chunk_id": "WO-DOC-024-C003"
+            }
+          ],
+          "document_id": "WO-DOC-024",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": false,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "3223d33622e97aae3a7cf2beb0eb23b7b0743a31a1b4e53597026b82b3e9eba4",
+          "v2_block_text_sha256": "3223d33622e97aae3a7cf2beb0eb23b7b0743a31a1b4e53597026b82b3e9eba4"
+        }
+      ],
+      "query_id": "WO-DEV-013",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "s1-r0018",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-025-C003",
+              "v2_chunk_id": "WO-DOC-025-C003"
+            }
+          ],
+          "document_id": "WO-DOC-025",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "0620a89130a910227a2fcbac56a32772bc310998686f93cb193580f3a66a99be",
+          "v2_block_text_sha256": "0620a89130a910227a2fcbac56a32772bc310998686f93cb193580f3a66a99be"
+        },
+        {
+          "block_id": "s1-r0025",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-025-C004",
+              "v2_chunk_id": "WO-DOC-025-C004"
+            }
+          ],
+          "document_id": "WO-DOC-025",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "ad59a96112c675cc21ffac48584918fe4702922e3cf4adf7bb15c794f4c25177",
+          "v2_block_text_sha256": "ad59a96112c675cc21ffac48584918fe4702922e3cf4adf7bb15c794f4c25177"
+        },
+        {
+          "block_id": "s1-r0026",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-025-C004",
+              "v2_chunk_id": "WO-DOC-025-C004"
+            }
+          ],
+          "document_id": "WO-DOC-025",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "a92cf30f4181a105b9ddecc74580f2c175e791e0c0a3d5e597b5162e072f89ea",
+          "v2_block_text_sha256": "a92cf30f4181a105b9ddecc74580f2c175e791e0c0a3d5e597b5162e072f89ea"
+        },
+        {
+          "block_id": "b0024",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-043-C010",
+              "v2_chunk_id": "WO-DOC-043-C010"
+            }
+          ],
+          "document_id": "WO-DOC-043",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "3157ff16a88a8ad876c8763bf92df69e21637c9f774fd3c890024a5a6af480e0",
+          "v2_block_text_sha256": "3157ff16a88a8ad876c8763bf92df69e21637c9f774fd3c890024a5a6af480e0"
+        }
+      ],
+      "query_id": "WO-DEV-014",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "b0010",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-032-C003",
+              "v2_chunk_id": "WO-DOC-032-C003"
+            }
+          ],
+          "document_id": "WO-DOC-032",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "b060ddbe22b332d6c77883222e3b2f79c30c504d2117022713121859e0815628",
+          "v2_block_text_sha256": "b060ddbe22b332d6c77883222e3b2f79c30c504d2117022713121859e0815628"
+        },
+        {
+          "block_id": "b0014",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-032-C005",
+              "v2_chunk_id": "WO-DOC-032-C005"
+            }
+          ],
+          "document_id": "WO-DOC-032",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "31ed246eefe07df44224c96e9384547c7c8d6d9cc3d0263807321fa38d0842a2",
+          "v2_block_text_sha256": "31ed246eefe07df44224c96e9384547c7c8d6d9cc3d0263807321fa38d0842a2"
+        },
+        {
+          "block_id": "b0017",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-032-C006",
+              "v2_chunk_id": "WO-DOC-032-C006"
+            }
+          ],
+          "document_id": "WO-DOC-032",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "439605e3526e741d39a4863e0ce07ab4d442440b9c5143920daf1bedb267c191",
+          "v2_block_text_sha256": "439605e3526e741d39a4863e0ce07ab4d442440b9c5143920daf1bedb267c191"
+        }
+      ],
+      "query_id": "WO-DEV-015",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "l0026-0026",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-041-C007",
+              "v2_chunk_id": "WO-DOC-041-C007"
+            }
+          ],
+          "document_id": "WO-DOC-041",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "9d5e53e759d2ba190ae3467507ecf97f9489438fdaa67a6f54d3f3fc99e3d441",
+          "v2_block_text_sha256": "9d5e53e759d2ba190ae3467507ecf97f9489438fdaa67a6f54d3f3fc99e3d441"
+        },
+        {
+          "block_id": "p001-b010",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-021-C002",
+              "v2_chunk_id": "WO-DOC-021-C002"
+            }
+          ],
+          "document_id": "WO-DOC-021",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "445724d58851d26534ca5a2d50f7c9f29ab8434a6e8ae7ccbf631b628fea61b7",
+          "v2_block_text_sha256": "445724d58851d26534ca5a2d50f7c9f29ab8434a6e8ae7ccbf631b628fea61b7"
+        }
+      ],
+      "query_id": "WO-DEV-016",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "l0011-0011",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-030-C002",
+              "v2_chunk_id": "WO-DOC-030-C002"
+            }
+          ],
+          "document_id": "WO-DOC-030",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "01910f6f9458816c5314054e1237b34dd1bbf1d5e014506ebac3b392b31dabb3",
+          "v2_block_text_sha256": "01910f6f9458816c5314054e1237b34dd1bbf1d5e014506ebac3b392b31dabb3"
+        },
+        {
+          "block_id": "l0014-0014",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-030-C003",
+              "v2_chunk_id": "WO-DOC-030-C003"
+            }
+          ],
+          "document_id": "WO-DOC-030",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "7ff47c66a8bd6f69075b2f4d84c31bc12933acef87720d14c18ca2365248ac40",
+          "v2_block_text_sha256": "7ff47c66a8bd6f69075b2f4d84c31bc12933acef87720d14c18ca2365248ac40"
+        },
+        {
+          "block_id": "l0017-0017",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-030-C004",
+              "v2_chunk_id": "WO-DOC-030-C004"
+            }
+          ],
+          "document_id": "WO-DOC-030",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "3999a1629095d113196a052bf0103bc2acb9985e0e07e1002734292bda79fff3",
+          "v2_block_text_sha256": "3999a1629095d113196a052bf0103bc2acb9985e0e07e1002734292bda79fff3"
+        }
+      ],
+      "query_id": "WO-DEV-017",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    },
+    {
+      "answerability_status": "NO_DIRECT_EVIDENCE_TEXT_CHANGE_DETECTED_NOT_REVALIDATED",
+      "evidence": [
+        {
+          "block_id": "b0008",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-047-C002",
+              "v2_chunk_id": "WO-DOC-047-C002"
+            }
+          ],
+          "document_id": "WO-DOC-047",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "d3dfbe305aba7d0eff0d294d29b113728d98da2a910ae0fd3cf38b430f69a3a9",
+          "v2_block_text_sha256": "d3dfbe305aba7d0eff0d294d29b113728d98da2a910ae0fd3cf38b430f69a3a9"
+        },
+        {
+          "block_id": "b0010",
+          "containing_chunk_mapping": [
+            {
+              "classification": "EXACT_CONTENT_MATCH_CANDIDATE",
+              "v1_chunk_id": "WO-DOC-047-C003",
+              "v2_chunk_id": "WO-DOC-047-C003"
+            }
+          ],
+          "document_id": "WO-DOC-047",
+          "heading_valid": true,
+          "locator_valid": true,
+          "source_hash_unchanged": true,
+          "text_unchanged": true,
+          "v1_block_text_sha256": "e1899f85233eca06048a0d95ffde89004974f737518020027b94e31612d8b6a2",
+          "v2_block_text_sha256": "e1899f85233eca06048a0d95ffde89004974f737518020027b94e31612d8b6a2"
+        }
+      ],
+      "query_id": "WO-DEV-018",
+      "query_text_unchanged": true,
+      "required_action": "Rebind all pointers to V2 source paths/snapshot only in a separately approved query-version task; no query or provenance edited"
+    }
+  ],
+  "status": "AUDIT_ONLY_NOT_QUERY_VALIDATION"
+}

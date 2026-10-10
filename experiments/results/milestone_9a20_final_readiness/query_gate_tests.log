@@ -1,0 +1,21 @@
+test_default_and_approved_final_gates_preserved_no_loading_on_failure (test_query_vectors.EncoderSafetyTests.test_default_and_approved_final_gates_preserved_no_loading_on_failure) ... ok
+test_explicit_approval_required_before_model_initialization (test_query_vectors.EncoderSafetyTests.test_explicit_approval_required_before_model_initialization) ... ok
+test_real_cache_boundary_rejects_unapproved_path_before_loading (test_query_vectors.EncoderSafetyTests.test_real_cache_boundary_rejects_unapproved_path_before_loading) ... ok
+test_cached_adapter_rejects_other_input (test_query_vectors.QueryArtifactsTests.test_cached_adapter_rejects_other_input) ... ok
+test_complete_roundtrip_verbatim_readonly_and_no_overwrite (test_query_vectors.QueryArtifactsTests.test_complete_roundtrip_verbatim_readonly_and_no_overwrite) ... ok
+test_corruption_and_missing_payload (test_query_vectors.QueryArtifactsTests.test_corruption_and_missing_payload) ... ok
+test_exact_query_hash_including_outer_whitespace_and_id (test_query_vectors.QueryArtifactsTests.test_exact_query_hash_including_outer_whitespace_and_id) ... ok
+test_full_371_shared_dense_ranking_and_tail_eligibility (test_query_vectors.QueryArtifactsTests.test_full_371_shared_dense_ranking_and_tail_eligibility) ... ok
+test_incomplete_and_effective_input_mismatch (test_query_vectors.QueryArtifactsTests.test_incomplete_and_effective_input_mismatch) ... ok
+test_invalid_vectors_even_with_updated_checksum (test_query_vectors.QueryArtifactsTests.test_invalid_vectors_even_with_updated_checksum) ... ok
+test_malformed_manifest_rejected (test_query_vectors.QueryArtifactsTests.test_malformed_manifest_rejected) ... ok
+test_model_config_snapshot_index_and_serializer_mismatches (test_query_vectors.QueryArtifactsTests.test_model_config_snapshot_index_and_serializer_mismatches) ... ok
+test_normalization_parity_empty_invalid_and_topk (test_query_vectors.QueryArtifactsTests.test_normalization_parity_empty_invalid_and_topk) ... ok
+test_provenance_truncation_timestamp_and_payload_set (test_query_vectors.QueryArtifactsTests.test_provenance_truncation_timestamp_and_payload_set) ... ok
+test_score_cli_synthetic_shared_artifact_no_encoder_loading (test_query_vectors.QueryArtifactsTests.test_score_cli_synthetic_shared_artifact_no_encoder_loading) ... ok
+test_shared_r3_r4_exact_ranking_scores_and_independent_rrf (test_query_vectors.QueryArtifactsTests.test_shared_r3_r4_exact_ranking_scores_and_independent_rrf) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.482s
+
+OK

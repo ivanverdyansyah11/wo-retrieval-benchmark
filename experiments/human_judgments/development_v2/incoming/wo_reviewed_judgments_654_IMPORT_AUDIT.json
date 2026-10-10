@@ -1,0 +1,30 @@
+{
+  "purpose": "Input for a NEW controlled importer, NOT native event history; do not directly overwrite human_judgment_history.jsonl",
+  "dataset": "Development V2 pooled review",
+  "status": "OFFLINE_INPUT_VALIDATED_NOT_IMPORTED",
+  "expected_package_id": "wo-human-development-v2-17042",
+  "expected_input_sha256": "f67790436f726a064e234d6665c0c3a7fdbc93a725dc14fea9face2b40afe960",
+  "snapshot_id": "WO-CORPUS-V2-AI-CORRECTED-PILOT-001",
+  "snapshot_fingerprint": "78cd4e407bb9bbad1766d0ec3827931381a469695b995a1acb8bbad1444addc6",
+  "source_jsonl_sha256": "149947100cb7bda82486d4798cd141c0daa09e88630970d234cd2928e77112d8",
+  "source_csv_sha256": "715224a0965c59962d6c6a09f48aac836b84c66acd16f396d1fb153f1423dbd6",
+  "input_jsonl_sha256": "36a422efe1899e7bc0b3cb321edf3d4764bdcfbf0bd7bf27d0543db43afd5bca",
+  "input_record_count": 654,
+  "status_counts": {
+    "RESOLVED": 654
+  },
+  "grade_counts": {
+    "0": 429,
+    "1": 152,
+    "2": 73
+  },
+  "evidence_quote_count": 225,
+  "notes_count": 654,
+  "binding_and_evidence_verified": true,
+  "csv_and_jsonl_agree": true,
+  "zip_snapshot_existing_unique_decisions": 25,
+  "zip_snapshot_events": 66,
+  "existing_decisions_all_match_supplied_grades": true,
+  "provenance_notice": "External fields original_status/revision/provenance do not establish native app history for absent events; importer must timestamp append events now, record external reviewer file as provenance, and never fake original timestamps.",
+  "scope_notice": "Development pooled evaluation only; not final thesis effectiveness evaluation."
+}

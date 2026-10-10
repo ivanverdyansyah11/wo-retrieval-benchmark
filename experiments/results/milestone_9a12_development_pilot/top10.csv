@@ -1,0 +1,721 @@
+﻿query_id,method,rank,chunk_id,document_id,score,silver_grade,title,heading
+WO-DEV-001,R1,1,WO-DOC-006-C002,WO-DOC-006,0.3158204177083589,2,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R1,2,WO-DOC-006-C001,WO-DOC-006,0.3065313338100864,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R1,3,WO-DOC-006-C004,WO-DOC-006,0.30116202151910054,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R1,4,WO-DOC-006-C003,WO-DOC-006,0.2970021675550573,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R1,5,WO-DOC-006-C005,WO-DOC-006,0.1461828985871994,1,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Panduan / Panduan
+WO-DEV-001,R1,6,WO-DOC-004-C003,WO-DOC-004,0.12605597317552114,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC venue pada perencanaan
+WO-DEV-001,R1,7,WO-DOC-001-C001,WO-DOC-001,0.11975273465473117,UNJUDGED,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Cara menggunakan struktur lapangan
+WO-DEV-001,R1,8,WO-DOC-016-C001,WO-DOC-016,0.10773789471323954,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Pembukaan guest reception
+WO-DEV-001,R1,9,WO-DOC-045-C002,WO-DOC-045,0.10168509347295916,UNJUDGED,"SOP Komunikasi Internal, Radio, dan Grup Koordinasi Wedding Day",Sebelum kanal digunakan
+WO-DEV-001,R1,10,WO-DOC-004-C002,WO-DOC-004,0.09663319058930875,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC vendor pada perencanaan
+WO-DEV-001,R2,1,WO-DOC-006-C002,WO-DOC-006,24.804947998620722,2,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R2,2,WO-DOC-006-C001,WO-DOC-006,22.878678799746762,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R2,3,WO-DOC-006-C004,WO-DOC-006,22.328274713458086,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R2,4,WO-DOC-006-C003,WO-DOC-006,22.16186306034472,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R2,5,WO-DOC-006-C005,WO-DOC-006,16.752996894210945,1,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Panduan / Panduan
+WO-DEV-001,R2,6,WO-DOC-001-C001,WO-DOC-001,12.952284441945487,UNJUDGED,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Cara menggunakan struktur lapangan
+WO-DEV-001,R2,7,WO-DOC-004-C003,WO-DOC-004,12.4880797203896,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC venue pada perencanaan
+WO-DEV-001,R2,8,WO-DOC-004-C002,WO-DOC-004,11.584018738686543,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC vendor pada perencanaan
+WO-DEV-001,R2,9,WO-DOC-045-C002,WO-DOC-045,10.725939965300723,UNJUDGED,"SOP Komunikasi Internal, Radio, dan Grup Koordinasi Wedding Day",Sebelum kanal digunakan
+WO-DEV-001,R2,10,WO-DOC-005-C005,WO-DOC-005,10.683005410085297,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Pesan yang bisa langsung dipakai
+WO-DEV-001,R3,1,WO-DOC-006-C002,WO-DOC-006,0.5793296694755554,2,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R3,2,WO-DOC-006-C001,WO-DOC-006,0.5722002983093262,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R3,3,WO-DOC-006-C003,WO-DOC-006,0.5636239051818848,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R3,4,WO-DOC-006-C004,WO-DOC-006,0.5594992637634277,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R3,5,WO-DOC-034-C005,WO-DOC-034,0.537718653678894,UNJUDGED,"Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi","Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi / Operasional"
+WO-DEV-001,R3,6,WO-DOC-040-C001,WO-DOC-040,0.5369732975959778,UNJUDGED,Matriks Seating Allocation dan Penugasan Guest Escort,Matriks Seating Allocation dan Penugasan Guest Escort / Operasional
+WO-DEV-001,R3,7,WO-DOC-040-C002,WO-DOC-040,0.5339946150779724,UNJUDGED,Matriks Seating Allocation dan Penugasan Guest Escort,Matriks Seating Allocation dan Penugasan Guest Escort / Operasional
+WO-DEV-001,R3,8,WO-DOC-006-C005,WO-DOC-006,0.5332273840904236,1,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Panduan / Panduan
+WO-DEV-001,R3,9,WO-DOC-040-C003,WO-DOC-040,0.5326050519943237,UNJUDGED,Matriks Seating Allocation dan Penugasan Guest Escort,Matriks Seating Allocation dan Penugasan Guest Escort / Operasional
+WO-DEV-001,R3,10,WO-DOC-034-C004,WO-DOC-034,0.528976559638977,UNJUDGED,"Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi","Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi / Operasional"
+WO-DEV-001,R4,1,WO-DOC-006-C002,WO-DOC-006,0.03278688524590164,2,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R4,2,WO-DOC-006-C001,WO-DOC-006,0.03225806451612903,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R4,3,WO-DOC-006-C003,WO-DOC-006,0.03149801587301587,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R4,4,WO-DOC-006-C004,WO-DOC-006,0.03149801587301587,UNJUDGED,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional
+WO-DEV-001,R4,5,WO-DOC-006-C005,WO-DOC-006,0.030090497737556562,1,Matriks Pembagian Tanggung Jawab Tim Wedding Day,Panduan / Panduan
+WO-DEV-001,R4,6,WO-DOC-040-C002,WO-DOC-040,0.028083267871170464,UNJUDGED,Matriks Seating Allocation dan Penugasan Guest Escort,Matriks Seating Allocation dan Penugasan Guest Escort / Operasional
+WO-DEV-001,R4,7,WO-DOC-040-C001,WO-DOC-040,0.026779422128259338,UNJUDGED,Matriks Seating Allocation dan Penugasan Guest Escort,Matriks Seating Allocation dan Penugasan Guest Escort / Operasional
+WO-DEV-001,R4,8,WO-DOC-001-C001,WO-DOC-001,0.025904203323558164,UNJUDGED,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Cara menggunakan struktur lapangan
+WO-DEV-001,R4,9,WO-DOC-016-C004,WO-DOC-016,0.02581612258494337,0,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Data tidak cocok dan kunjungan tanpa konfirmasi
+WO-DEV-001,R4,10,WO-DOC-016-C001,WO-DOC-016,0.02519288301054952,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Pembukaan guest reception
+WO-DEV-002,R1,1,WO-DOC-009-C001,WO-DOC-009,0.2976089619463768,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-002,R1,2,WO-DOC-009-C006,WO-DOC-009,0.25115176011699136,1,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Pemeriksaan ulang H-1 dan hari acara
+WO-DEV-002,R1,3,WO-DOC-010-C003,WO-DOC-010,0.22988233371330957,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-002,R1,4,WO-DOC-029-C001,WO-DOC-029,0.21648150475764766,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Membedakan terlambat dan belum terkonfirmasi
+WO-DEV-002,R1,5,WO-DOC-009-C007,WO-DOC-009,0.21184320769794132,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Penutupan rekonsiliasi
+WO-DEV-002,R1,6,WO-DOC-009-C004,WO-DOC-009,0.19151160679267779,2,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-002,R1,7,WO-DOC-009-C005,WO-DOC-009,0.17366132281872948,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Mengirim hasil kepada tim
+WO-DEV-002,R1,8,WO-DOC-035-C002,WO-DOC-035,0.17223945693192214,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Akses vendor dan pembagian zona
+WO-DEV-002,R1,9,WO-DOC-008-C005,WO-DOC-008,0.16161855713112905,0,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R1,10,WO-DOC-002-C002,WO-DOC-002,0.15963344213697464,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan EC sebelum acara
+WO-DEV-002,R2,1,WO-DOC-009-C001,WO-DOC-009,22.097467327136034,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-002,R2,2,WO-DOC-010-C003,WO-DOC-010,19.767309904042254,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-002,R2,3,WO-DOC-029-C001,WO-DOC-029,19.712265315235204,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Membedakan terlambat dan belum terkonfirmasi
+WO-DEV-002,R2,4,WO-DOC-009-C004,WO-DOC-009,19.40050620073725,2,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-002,R2,5,WO-DOC-009-C006,WO-DOC-009,18.338387577075494,1,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Pemeriksaan ulang H-1 dan hari acara
+WO-DEV-002,R2,6,WO-DOC-002-C002,WO-DOC-002,17.704650133922065,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan EC sebelum acara
+WO-DEV-002,R2,7,WO-DOC-035-C002,WO-DOC-035,16.955347195651566,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Akses vendor dan pembagian zona
+WO-DEV-002,R2,8,WO-DOC-008-C003,WO-DOC-008,15.788223531673218,UNJUDGED,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R2,9,WO-DOC-009-C007,WO-DOC-009,15.672375473395746,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Penutupan rekonsiliasi
+WO-DEV-002,R2,10,WO-DOC-004-C002,WO-DOC-004,15.089495937221471,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC vendor pada perencanaan
+WO-DEV-002,R3,1,WO-DOC-035-C002,WO-DOC-035,0.6461529731750488,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Akses vendor dan pembagian zona
+WO-DEV-002,R3,2,WO-DOC-009-C006,WO-DOC-009,0.6452813148498535,1,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Pemeriksaan ulang H-1 dan hari acara
+WO-DEV-002,R3,3,WO-DOC-009-C001,WO-DOC-009,0.6261217594146729,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-002,R3,4,WO-DOC-009-C003,WO-DOC-009,0.6252968311309814,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Urutan konfirmasi per pemasok
+WO-DEV-002,R3,5,WO-DOC-009-C002,WO-DOC-009,0.6240242123603821,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menyiapkan sumber pemeriksaan
+WO-DEV-002,R3,6,WO-DOC-020-C002,WO-DOC-020,0.6121795177459717,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Sebelum loading dimulai
+WO-DEV-002,R3,7,WO-DOC-009-C004,WO-DOC-009,0.6097153425216675,2,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-002,R3,8,WO-DOC-008-C001,WO-DOC-008,0.6090103387832642,UNJUDGED,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R3,9,WO-DOC-008-C005,WO-DOC-008,0.608177125453949,0,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R3,10,WO-DOC-008-C002,WO-DOC-008,0.6066819429397583,UNJUDGED,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R4,1,WO-DOC-009-C001,WO-DOC-009,0.032266458495966696,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-002,R4,2,WO-DOC-009-C006,WO-DOC-009,0.0315136476426799,1,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Pemeriksaan ulang H-1 dan hari acara
+WO-DEV-002,R4,3,WO-DOC-035-C002,WO-DOC-035,0.03131881575727918,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Akses vendor dan pembagian zona
+WO-DEV-002,R4,4,WO-DOC-009-C004,WO-DOC-009,0.03055037313432836,2,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-002,R4,5,WO-DOC-008-C003,WO-DOC-008,0.028594771241830064,UNJUDGED,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R4,6,WO-DOC-009-C002,WO-DOC-009,0.02804284323271665,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menyiapkan sumber pemeriksaan
+WO-DEV-002,R4,7,WO-DOC-008-C005,WO-DOC-008,0.028006267136701922,0,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R4,8,WO-DOC-008-C001,WO-DOC-008,0.02786377708978328,UNJUDGED,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-002,R4,9,WO-DOC-009-C003,WO-DOC-009,0.02738970588235294,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Urutan konfirmasi per pemasok
+WO-DEV-002,R4,10,WO-DOC-008-C002,WO-DOC-008,0.027272727272727275,UNJUDGED,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-003,R1,1,WO-DOC-023-C003,WO-DOC-023,0.3098047418193945,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Sound check dan rehearsal singkat
+WO-DEV-003,R1,2,WO-DOC-015-C003,WO-DOC-015,0.2691388817424929,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Siklus standby lalu jalan
+WO-DEV-003,R1,3,WO-DOC-017-C004,WO-DOC-017,0.2448066662585194,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C03 entrance pukul 17.30
+WO-DEV-003,R1,4,WO-DOC-010-C003,WO-DOC-010,0.1834809439712408,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-003,R1,5,WO-DOC-015-C001,WO-DOC-015,0.16013564424207669,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Pengendalian floor
+WO-DEV-003,R1,6,WO-DOC-017-C003,WO-DOC-017,0.15542407843755168,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C02 standby entrance pukul 17.20
+WO-DEV-003,R1,7,WO-DOC-042-C005,WO-DOC-042,0.14626151836439905,UNJUDGED,Rundown Operasional Akad dan Resepsi Hotel Ballroom,Rundown Operasional Akad dan Resepsi Hotel Ballroom / Operasional
+WO-DEV-003,R1,8,WO-DOC-017-C001,WO-DOC-017,0.13129668947718187,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",Konteks cue resepsi
+WO-DEV-003,R1,9,WO-DOC-043-C010,WO-DOC-043,0.12592936037044988,0,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-003,R1,10,WO-DOC-012-C006,WO-DOC-012,0.12413696896897958,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Skenario yang dilatih saat briefing
+WO-DEV-003,R2,1,WO-DOC-023-C003,WO-DOC-023,17.764384806207172,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Sound check dan rehearsal singkat
+WO-DEV-003,R2,2,WO-DOC-017-C004,WO-DOC-017,15.145856331241339,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C03 entrance pukul 17.30
+WO-DEV-003,R2,3,WO-DOC-042-C005,WO-DOC-042,14.865053404211642,UNJUDGED,Rundown Operasional Akad dan Resepsi Hotel Ballroom,Rundown Operasional Akad dan Resepsi Hotel Ballroom / Operasional
+WO-DEV-003,R2,4,WO-DOC-015-C003,WO-DOC-015,14.740983291199633,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Siklus standby lalu jalan
+WO-DEV-003,R2,5,WO-DOC-010-C003,WO-DOC-010,13.226342477832793,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-003,R2,6,WO-DOC-017-C003,WO-DOC-017,10.392390217122859,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C02 standby entrance pukul 17.20
+WO-DEV-003,R2,7,WO-DOC-043-C010,WO-DOC-043,9.705298618689982,0,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-003,R2,8,WO-DOC-015-C001,WO-DOC-015,8.788429840062056,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Pengendalian floor
+WO-DEV-003,R2,9,WO-DOC-017-C001,WO-DOC-017,7.849194752723071,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",Konteks cue resepsi
+WO-DEV-003,R2,10,WO-DOC-011-C005,WO-DOC-011,7.373447303989269,UNJUDGED,"Checklist Site Inspection, Venue Readiness, dan Sound Check","Checklist Site Inspection, Venue Readiness, dan Sound Check / Operasional"
+WO-DEV-003,R3,1,WO-DOC-017-C004,WO-DOC-017,0.6275922656059265,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C03 entrance pukul 17.30
+WO-DEV-003,R3,2,WO-DOC-023-C003,WO-DOC-023,0.6144124269485474,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Sound check dan rehearsal singkat
+WO-DEV-003,R3,3,WO-DOC-015-C003,WO-DOC-015,0.5652199983596802,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Siklus standby lalu jalan
+WO-DEV-003,R3,4,WO-DOC-017-C003,WO-DOC-017,0.5568197965621948,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C02 standby entrance pukul 17.20
+WO-DEV-003,R3,5,WO-DOC-023-C004,WO-DOC-023,0.5531994700431824,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Pelaksanaan resepsi
+WO-DEV-003,R3,6,WO-DOC-031-C006,WO-DOC-031,0.5499110221862793,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Track salah atau terlambat
+WO-DEV-003,R3,7,WO-DOC-015-C005,WO-DOC-015,0.5458083152770996,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Menangani perubahan kondisi
+WO-DEV-003,R3,8,WO-DOC-017-C002,WO-DOC-017,0.5436041355133057,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C01 pembukaan tamu pukul 16.30
+WO-DEV-003,R3,9,WO-DOC-031-C002,WO-DOC-031,0.5280805230140686,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Antisipasi pada sound check
+WO-DEV-003,R3,10,WO-DOC-031-C005,WO-DOC-031,0.5277094841003418,0,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Mikrofon gagal saat sambutan
+WO-DEV-003,R4,1,WO-DOC-017-C004,WO-DOC-017,0.03252247488101534,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C03 entrance pukul 17.30
+WO-DEV-003,R4,2,WO-DOC-023-C003,WO-DOC-023,0.03252247488101534,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Sound check dan rehearsal singkat
+WO-DEV-003,R4,3,WO-DOC-015-C003,WO-DOC-015,0.03149801587301587,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Siklus standby lalu jalan
+WO-DEV-003,R4,4,WO-DOC-017-C003,WO-DOC-017,0.030776515151515152,2,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C02 standby entrance pukul 17.20
+WO-DEV-003,R4,5,WO-DOC-031-C002,WO-DOC-031,0.02819138376017471,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Antisipasi pada sound check
+WO-DEV-003,R4,6,WO-DOC-010-C003,WO-DOC-010,0.027884615384615386,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-003,R4,7,WO-DOC-023-C004,WO-DOC-023,0.027884615384615386,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Pelaksanaan resepsi
+WO-DEV-003,R4,8,WO-DOC-011-C005,WO-DOC-011,0.027106227106227107,UNJUDGED,"Checklist Site Inspection, Venue Readiness, dan Sound Check","Checklist Site Inspection, Venue Readiness, dan Sound Check / Operasional"
+WO-DEV-003,R4,9,WO-DOC-015-C001,WO-DOC-015,0.027051561365286855,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Pengendalian floor
+WO-DEV-003,R4,10,WO-DOC-017-C002,WO-DOC-017,0.026754075124025514,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C01 pembukaan tamu pukul 16.30
+WO-DEV-004,R1,1,WO-DOC-024-C001,WO-DOC-024,0.29849176134579536,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-004,R1,2,WO-DOC-024-C004,WO-DOC-024,0.292187633416289,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Saat vendor datang terlambat
+WO-DEV-004,R1,3,WO-DOC-024-C003,WO-DOC-024,0.26961148667825996,1,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-004,R1,4,WO-DOC-044-C004,WO-DOC-044,0.190573066671734,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,12.00 sampai 13.00 pemeriksaan layanan dan jeda kru 60 menit
+WO-DEV-004,R1,5,WO-DOC-002-C003,WO-DOC-002,0.18885285606055552,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan WC sebelum acara
+WO-DEV-004,R1,6,WO-DOC-024-C002,WO-DOC-024,0.18672680140601902,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Data yang dikonfirmasi sebelum H-1
+WO-DEV-004,R1,7,WO-DOC-024-C006,WO-DOC-024,0.1791672014462175,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Touch-up dan akhir layanan
+WO-DEV-004,R1,8,WO-DOC-029-C003,WO-DOC-029,0.15946719251269145,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Mengidentifikasi pekerjaan kritis
+WO-DEV-004,R1,9,WO-DOC-029-C004,WO-DOC-029,0.1491895387954207,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Tindakan yang boleh dilakukan kru
+WO-DEV-004,R1,10,WO-DOC-014-C003,WO-DOC-014,0.14897933846531317,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Saat makeup dan dressing berjalan
+WO-DEV-004,R2,1,WO-DOC-024-C004,WO-DOC-024,23.844843549231832,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Saat vendor datang terlambat
+WO-DEV-004,R2,2,WO-DOC-024-C003,WO-DOC-024,23.809098540714082,1,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-004,R2,3,WO-DOC-024-C001,WO-DOC-024,23.062741621133377,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-004,R2,4,WO-DOC-002-C003,WO-DOC-002,19.332911978544697,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan WC sebelum acara
+WO-DEV-004,R2,5,WO-DOC-044-C004,WO-DOC-044,18.321259820244723,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,12.00 sampai 13.00 pemeriksaan layanan dan jeda kru 60 menit
+WO-DEV-004,R2,6,WO-DOC-024-C006,WO-DOC-024,18.231451700839234,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Touch-up dan akhir layanan
+WO-DEV-004,R2,7,WO-DOC-024-C002,WO-DOC-024,18.02046362943029,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Data yang dikonfirmasi sebelum H-1
+WO-DEV-004,R2,8,WO-DOC-029-C003,WO-DOC-029,15.457579252462573,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Mengidentifikasi pekerjaan kritis
+WO-DEV-004,R2,9,WO-DOC-024-C005,WO-DOC-024,15.441669329591935,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Permintaan mendadak dan kenyamanan
+WO-DEV-004,R2,10,WO-DOC-029-C004,WO-DOC-029,14.340669700981564,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Tindakan yang boleh dilakukan kru
+WO-DEV-004,R3,1,WO-DOC-024-C004,WO-DOC-024,0.6377893686294556,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Saat vendor datang terlambat
+WO-DEV-004,R3,2,WO-DOC-024-C006,WO-DOC-024,0.6322553753852844,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Touch-up dan akhir layanan
+WO-DEV-004,R3,3,WO-DOC-024-C001,WO-DOC-024,0.6184796094894409,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-004,R3,4,WO-DOC-024-C003,WO-DOC-024,0.6034286022186279,1,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-004,R3,5,WO-DOC-014-C003,WO-DOC-014,0.5863070487976074,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Saat makeup dan dressing berjalan
+WO-DEV-004,R3,6,WO-DOC-024-C002,WO-DOC-024,0.5820661187171936,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Data yang dikonfirmasi sebelum H-1
+WO-DEV-004,R3,7,WO-DOC-024-C005,WO-DOC-024,0.5699235796928406,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Permintaan mendadak dan kenyamanan
+WO-DEV-004,R3,8,WO-DOC-014-C005,WO-DOC-014,0.5686006546020508,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Keterlambatan dan perubahan permintaan
+WO-DEV-004,R3,9,WO-DOC-007-C004,WO-DOC-007,0.5446884632110596,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,H-20 sampai H-17 membangun rencana kerja
+WO-DEV-004,R3,10,WO-DOC-007-C006,WO-DOC-007,0.5416761636734009,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,Mengendalikan perubahan setelah dasar disepakati
+WO-DEV-004,R4,1,WO-DOC-024-C004,WO-DOC-024,0.03278688524590164,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Saat vendor datang terlambat
+WO-DEV-004,R4,2,WO-DOC-024-C003,WO-DOC-024,0.031754032258064516,1,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-004,R4,3,WO-DOC-024-C001,WO-DOC-024,0.031746031746031744,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-004,R4,4,WO-DOC-024-C006,WO-DOC-024,0.03128054740957967,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Touch-up dan akhir layanan
+WO-DEV-004,R4,5,WO-DOC-024-C002,WO-DOC-024,0.03007688828584351,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Data yang dikonfirmasi sebelum H-1
+WO-DEV-004,R4,6,WO-DOC-014-C003,WO-DOC-014,0.02946912242686891,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Saat makeup dan dressing berjalan
+WO-DEV-004,R4,7,WO-DOC-024-C005,WO-DOC-024,0.029418126757516764,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Permintaan mendadak dan kenyamanan
+WO-DEV-004,R4,8,WO-DOC-029-C003,WO-DOC-029,0.02803921568627451,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Mengidentifikasi pekerjaan kritis
+WO-DEV-004,R4,9,WO-DOC-007-C004,WO-DOC-007,0.028006267136701922,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,H-20 sampai H-17 membangun rencana kerja
+WO-DEV-004,R4,10,WO-DOC-044-C004,WO-DOC-044,0.027884615384615386,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,12.00 sampai 13.00 pemeriksaan layanan dan jeda kru 60 menit
+WO-DEV-005,R1,1,WO-DOC-031-C005,WO-DOC-031,0.3074080330142639,2,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Mikrofon gagal saat sambutan
+WO-DEV-005,R1,2,WO-DOC-031-C001,WO-DOC-031,0.19667208442654566,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Memahami jenis gangguan
+WO-DEV-005,R1,3,WO-DOC-031-C004,WO-DOC-031,0.1847208714410281,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-005,R1,4,WO-DOC-023-C005,WO-DOC-023,0.17770643568750655,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Ketika audio atau waktu bermasalah
+WO-DEV-005,R1,5,WO-DOC-031-C008,WO-DOC-031,0.1596832681679709,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Menyampaikan perubahan
+WO-DEV-005,R1,6,WO-DOC-031-C003,WO-DOC-031,0.14468024436925567,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Pemicu dan laporan awal
+WO-DEV-005,R1,7,WO-DOC-031-C006,WO-DOC-031,0.14436600067149186,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Track salah atau terlambat
+WO-DEV-005,R1,8,WO-DOC-017-C005,WO-DOC-017,0.13182333282814374,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C04 sambutan pukul 17.40
+WO-DEV-005,R1,9,WO-DOC-028-C002,WO-DOC-028,0.13088576054989096,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-005,R1,10,WO-DOC-036-C005,WO-DOC-036,0.13071619506032883,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,Readiness garden
+WO-DEV-005,R2,1,WO-DOC-031-C005,WO-DOC-031,23.23995821557856,2,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Mikrofon gagal saat sambutan
+WO-DEV-005,R2,2,WO-DOC-023-C005,WO-DOC-023,16.120888828735893,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Ketika audio atau waktu bermasalah
+WO-DEV-005,R2,3,WO-DOC-031-C001,WO-DOC-031,15.28826042036153,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Memahami jenis gangguan
+WO-DEV-005,R2,4,WO-DOC-031-C004,WO-DOC-031,15.031939719922184,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-005,R2,5,WO-DOC-031-C008,WO-DOC-031,14.305276802676374,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Menyampaikan perubahan
+WO-DEV-005,R2,6,WO-DOC-028-C006,WO-DOC-028,14.194859722703251,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Opsi kelanjutan acara
+WO-DEV-005,R2,7,WO-DOC-028-C002,WO-DOC-028,13.08500931023606,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-005,R2,8,WO-DOC-031-C003,WO-DOC-031,12.87001331335038,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Pemicu dan laporan awal
+WO-DEV-005,R2,9,WO-DOC-031-C006,WO-DOC-031,12.278714414980398,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Track salah atau terlambat
+WO-DEV-005,R2,10,WO-DOC-023-C003,WO-DOC-023,11.458600046941047,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Sound check dan rehearsal singkat
+WO-DEV-005,R3,1,WO-DOC-031-C005,WO-DOC-031,0.6850566864013672,2,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Mikrofon gagal saat sambutan
+WO-DEV-005,R3,2,WO-DOC-031-C009,WO-DOC-031,0.6402598023414612,2,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Pemulihan dan penutupan insiden
+WO-DEV-005,R3,3,WO-DOC-031-C002,WO-DOC-031,0.6401435136795044,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Antisipasi pada sound check
+WO-DEV-005,R3,4,WO-DOC-031-C001,WO-DOC-031,0.6334476470947266,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Memahami jenis gangguan
+WO-DEV-005,R3,5,WO-DOC-031-C004,WO-DOC-031,0.6244256496429443,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-005,R3,6,WO-DOC-023-C005,WO-DOC-023,0.6183287501335144,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Ketika audio atau waktu bermasalah
+WO-DEV-005,R3,7,WO-DOC-031-C008,WO-DOC-031,0.6160198450088501,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Menyampaikan perubahan
+WO-DEV-005,R3,8,WO-DOC-031-C006,WO-DOC-031,0.6140503883361816,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Track salah atau terlambat
+WO-DEV-005,R3,9,WO-DOC-031-C003,WO-DOC-031,0.6057112216949463,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Pemicu dan laporan awal
+WO-DEV-005,R3,10,WO-DOC-023-C003,WO-DOC-023,0.6045733690261841,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Sound check dan rehearsal singkat
+WO-DEV-005,R4,1,WO-DOC-031-C005,WO-DOC-031,0.03278688524590164,2,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Mikrofon gagal saat sambutan
+WO-DEV-005,R4,2,WO-DOC-031-C001,WO-DOC-031,0.03149801587301587,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Memahami jenis gangguan
+WO-DEV-005,R4,3,WO-DOC-023-C005,WO-DOC-023,0.03128054740957967,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Ketika audio atau waktu bermasalah
+WO-DEV-005,R4,4,WO-DOC-031-C004,WO-DOC-031,0.031009615384615385,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-005,R4,5,WO-DOC-031-C008,WO-DOC-031,0.030309988518943745,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Menyampaikan perubahan
+WO-DEV-005,R4,6,WO-DOC-031-C002,WO-DOC-031,0.029957522915269395,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Antisipasi pada sound check
+WO-DEV-005,R4,7,WO-DOC-031-C009,WO-DOC-031,0.02928692699490662,2,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Pemulihan dan penutupan insiden
+WO-DEV-005,R4,8,WO-DOC-031-C003,WO-DOC-031,0.02919863597612958,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Pemicu dan laporan awal
+WO-DEV-005,R4,9,WO-DOC-031-C006,WO-DOC-031,0.02919863597612958,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Track salah atau terlambat
+WO-DEV-005,R4,10,WO-DOC-028-C006,WO-DOC-028,0.028850145288501453,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Opsi kelanjutan acara
+WO-DEV-006,R1,1,WO-DOC-033-C003,WO-DOC-033,0.2227127037589683,UNJUDGED,"Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",Pemeriksaan awal yang diperbolehkan
+WO-DEV-006,R1,2,WO-DOC-019-C004,WO-DOC-019,0.21946947028676023,2,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Mengembalikan barang dan aset
+WO-DEV-006,R1,3,WO-DOC-048-C003,WO-DOC-048,0.16205151786063968,2,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R1,4,WO-DOC-033-C001,WO-DOC-033,0.1576042082771045,UNJUDGED,"Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",Lingkup dan perlindungan barang
+WO-DEV-006,R1,5,WO-DOC-022-C006,WO-DOC-022,0.14773864909431914,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Penutupan dan serah terima
+WO-DEV-006,R1,6,WO-DOC-033-C005,WO-DOC-033,0.14229083938326806,UNJUDGED,"Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",Verifikasi klaim dan serah terima
+WO-DEV-006,R1,7,WO-DOC-010-C003,WO-DOC-010,0.14057800711117463,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-006,R1,8,WO-DOC-043-C016,WO-DOC-043,0.1337283712584673,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-006,R1,9,WO-DOC-014-C002,WO-DOC-014,0.12974362946431733,0,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-006,R1,10,WO-DOC-028-C002,WO-DOC-028,0.11990350338362331,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-006,R2,1,WO-DOC-033-C003,WO-DOC-033,16.588025901843103,UNJUDGED,"Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",Pemeriksaan awal yang diperbolehkan
+WO-DEV-006,R2,2,WO-DOC-048-C003,WO-DOC-048,16.428521443865485,2,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R2,3,WO-DOC-019-C004,WO-DOC-019,15.871107384337893,2,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Mengembalikan barang dan aset
+WO-DEV-006,R2,4,WO-DOC-022-C006,WO-DOC-022,12.603356772266324,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Penutupan dan serah terima
+WO-DEV-006,R2,5,WO-DOC-034-C005,WO-DOC-034,11.293473297980409,UNJUDGED,"Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi","Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi / Operasional"
+WO-DEV-006,R2,6,WO-DOC-043-C016,WO-DOC-043,11.203516095413866,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-006,R2,7,WO-DOC-028-C002,WO-DOC-028,11.153943436335476,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-006,R2,8,WO-DOC-048-C004,WO-DOC-048,10.83835865074852,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R2,9,WO-DOC-010-C003,WO-DOC-010,10.590149003142932,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-006,R2,10,WO-DOC-047-C006,WO-DOC-047,10.415704996664632,UNJUDGED,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Handover menuju penutupan
+WO-DEV-006,R3,1,WO-DOC-019-C004,WO-DOC-019,0.6320555806159973,2,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Mengembalikan barang dan aset
+WO-DEV-006,R3,2,WO-DOC-048-C004,WO-DOC-048,0.6251994967460632,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R3,3,WO-DOC-048-C006,WO-DOC-048,0.6237139701843262,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R3,4,WO-DOC-048-C001,WO-DOC-048,0.6208930015563965,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R3,5,WO-DOC-048-C003,WO-DOC-048,0.619557797908783,2,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R3,6,WO-DOC-048-C005,WO-DOC-048,0.6188254356384277,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R3,7,WO-DOC-048-C002,WO-DOC-048,0.6186428070068359,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R3,8,WO-DOC-019-C006,WO-DOC-019,0.6162129640579224,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Mengelola outstanding
+WO-DEV-006,R3,9,WO-DOC-033-C005,WO-DOC-033,0.6002914905548096,UNJUDGED,"Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",Verifikasi klaim dan serah terima
+WO-DEV-006,R3,10,WO-DOC-011-C002,WO-DOC-011,0.5866537094116211,UNJUDGED,"Checklist Site Inspection, Venue Readiness, dan Sound Check","Checklist Site Inspection, Venue Readiness, dan Sound Check / Operasional"
+WO-DEV-006,R4,1,WO-DOC-019-C004,WO-DOC-019,0.032266458495966696,2,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Mengembalikan barang dan aset
+WO-DEV-006,R4,2,WO-DOC-048-C003,WO-DOC-048,0.0315136476426799,2,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R4,3,WO-DOC-048-C004,WO-DOC-048,0.030834914611005692,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R4,4,WO-DOC-022-C006,WO-DOC-022,0.0293236301369863,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Penutupan dan serah terima
+WO-DEV-006,R4,5,WO-DOC-033-C005,WO-DOC-033,0.028381642512077296,UNJUDGED,"Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",Verifikasi klaim dan serah terima
+WO-DEV-006,R4,6,WO-DOC-033-C003,WO-DOC-033,0.028298204527712725,UNJUDGED,"Prosedur Penanganan Barang Hilang, Vendor Property, dan Lost and Found",Pemeriksaan awal yang diperbolehkan
+WO-DEV-006,R4,7,WO-DOC-048-C006,WO-DOC-048,0.027500922849760058,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R4,8,WO-DOC-048-C001,WO-DOC-048,0.026263297872340427,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-006,R4,9,WO-DOC-004-C005,WO-DOC-004,0.02548701298701299,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Serah terima area dan pengecualian
+WO-DEV-006,R4,10,WO-DOC-011-C002,WO-DOC-011,0.025274725274725275,UNJUDGED,"Checklist Site Inspection, Venue Readiness, dan Sound Check","Checklist Site Inspection, Venue Readiness, dan Sound Check / Operasional"
+WO-DEV-007,R1,1,WO-DOC-001-C006,WO-DOC-001,0.17173190427811322,2,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Ketika perintah bertentangan
+WO-DEV-007,R1,2,WO-DOC-013-C002,WO-DOC-013,0.16469939938016284,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Sebelum kru memasuki area kerja
+WO-DEV-007,R1,3,WO-DOC-013-C003,WO-DOC-013,0.15176962910441355,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Check-in pukul 09.00 WITA
+WO-DEV-007,R1,4,WO-DOC-050-C005,WO-DOC-050,0.14775994666096415,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Pemindahan dan pemeriksaan ulang
+WO-DEV-007,R1,5,WO-DOC-029-C004,WO-DOC-029,0.14577575171186308,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Tindakan yang boleh dilakukan kru
+WO-DEV-007,R1,6,WO-DOC-023-C005,WO-DOC-023,0.1431187825566723,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Ketika audio atau waktu bermasalah
+WO-DEV-007,R1,7,WO-DOC-031-C004,WO-DOC-031,0.14298570280747433,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-007,R1,8,WO-DOC-028-C004,WO-DOC-028,0.1344954933805381,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Respons awal kru
+WO-DEV-007,R1,9,WO-DOC-013-C004,WO-DOC-013,0.1323792522594113,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Briefing dan pembagian area
+WO-DEV-007,R1,10,WO-DOC-010-C003,WO-DOC-010,0.12633735996642978,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-007,R2,1,WO-DOC-001-C006,WO-DOC-001,17.661623266268318,2,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Ketika perintah bertentangan
+WO-DEV-007,R2,2,WO-DOC-023-C005,WO-DOC-023,15.274003614691601,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Ketika audio atau waktu bermasalah
+WO-DEV-007,R2,3,WO-DOC-028-C004,WO-DOC-028,14.53183571081033,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Respons awal kru
+WO-DEV-007,R2,4,WO-DOC-050-C005,WO-DOC-050,14.522653252164876,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Pemindahan dan pemeriksaan ulang
+WO-DEV-007,R2,5,WO-DOC-013-C003,WO-DOC-013,13.99449291797305,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Check-in pukul 09.00 WITA
+WO-DEV-007,R2,6,WO-DOC-013-C004,WO-DOC-013,13.873752635720335,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Briefing dan pembagian area
+WO-DEV-007,R2,7,WO-DOC-031-C004,WO-DOC-031,13.781444335575632,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-007,R2,8,WO-DOC-029-C004,WO-DOC-029,13.649296418762987,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Tindakan yang boleh dilakukan kru
+WO-DEV-007,R2,9,WO-DOC-028-C001,WO-DOC-028,13.263970646596963,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Tujuan dan batas tindakan
+WO-DEV-007,R2,10,WO-DOC-027-C004,WO-DOC-027,13.061728588479772,0,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Pemeriksaan awal dan pembatasan area
+WO-DEV-007,R3,1,WO-DOC-001-C006,WO-DOC-001,0.5676432251930237,2,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Ketika perintah bertentangan
+WO-DEV-007,R3,2,WO-DOC-046-C003,WO-DOC-046,0.536859929561615,UNJUDGED,Panduan Singkat Jalur Eskalasi dan Hak Pengambilan Keputusan,Bila ada dugaan bahaya
+WO-DEV-007,R3,3,WO-DOC-005-C001,WO-DOC-005,0.4985862374305725,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Pegangan cepat kru pendukung
+WO-DEV-007,R3,4,WO-DOC-005-C006,WO-DOC-005,0.49827951192855835,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Bila terjadi gangguan dan saat shift berakhir
+WO-DEV-007,R3,5,WO-DOC-034-C001,WO-DOC-034,0.4780212938785553,UNJUDGED,"Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi","Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi / Operasional"
+WO-DEV-007,R3,6,WO-DOC-013-C006,WO-DOC-013,0.4773750901222229,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Pergantian tugas dan istirahat
+WO-DEV-007,R3,7,WO-DOC-028-C004,WO-DOC-028,0.4753079414367676,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Respons awal kru
+WO-DEV-007,R3,8,WO-DOC-034-C002,WO-DOC-034,0.47255775332450867,UNJUDGED,"Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi","Matriks Kategori Insiden, Prioritas Respons, dan Eskalasi / Operasional"
+WO-DEV-007,R3,9,WO-DOC-031-C004,WO-DOC-031,0.47129911184310913,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-007,R3,10,WO-DOC-012-C002,WO-DOC-012,0.47127074003219604,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-007,R4,1,WO-DOC-001-C006,WO-DOC-001,0.03278688524590164,2,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Ketika perintah bertentangan
+WO-DEV-007,R4,2,WO-DOC-028-C004,WO-DOC-028,0.030798389007344232,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Respons awal kru
+WO-DEV-007,R4,3,WO-DOC-031-C004,WO-DOC-031,0.029418126757516764,UNJUDGED,"Panduan Penanganan Masalah Sound System, Mikrofon, dan Audio Cue",Tindakan kru yang diperbolehkan
+WO-DEV-007,R4,4,WO-DOC-005-C006,WO-DOC-005,0.0293236301369863,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Bila terjadi gangguan dan saat shift berakhir
+WO-DEV-007,R4,5,WO-DOC-005-C001,WO-DOC-005,0.029030910609857977,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Pegangan cepat kru pendukung
+WO-DEV-007,R4,6,WO-DOC-029-C004,WO-DOC-029,0.028790389395194696,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Tindakan yang boleh dilakukan kru
+WO-DEV-007,R4,7,WO-DOC-050-C005,WO-DOC-050,0.028283227848101264,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Pemindahan dan pemeriksaan ulang
+WO-DEV-007,R4,8,WO-DOC-013-C003,WO-DOC-013,0.027730294396961064,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Check-in pukul 09.00 WITA
+WO-DEV-007,R4,9,WO-DOC-023-C005,WO-DOC-023,0.026881720430107527,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Ketika audio atau waktu bermasalah
+WO-DEV-007,R4,10,WO-DOC-012-C002,WO-DOC-012,0.0264808362369338,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-008,R1,1,WO-DOC-023-C006,WO-DOC-023,0.15760736350695126,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Setelah slot selesai
+WO-DEV-008,R1,2,WO-DOC-043-C016,WO-DOC-043,0.11566839910661926,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-008,R1,3,WO-DOC-010-C008,WO-DOC-010,0.11484214631520709,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Ketika keputusan rapat tidak dapat dijalankan
+WO-DEV-008,R1,4,WO-DOC-002-C004,WO-DOC-002,0.09636669734279849,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pembagian kerja pada hari acara
+WO-DEV-008,R1,5,WO-DOC-019-C006,WO-DOC-019,0.09528353806028429,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Mengelola outstanding
+WO-DEV-008,R1,6,WO-DOC-004-C005,WO-DOC-004,0.0859894421844587,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Serah terima area dan pengecualian
+WO-DEV-008,R1,7,WO-DOC-009-C006,WO-DOC-009,0.0844732996958248,0,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Pemeriksaan ulang H-1 dan hari acara
+WO-DEV-008,R1,8,WO-DOC-010-C003,WO-DOC-010,0.08333850305196498,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-008,R1,9,WO-DOC-028-C008,WO-DOC-028,0.0819091288732949,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Catatan insiden dan penutupan
+WO-DEV-008,R1,10,WO-DOC-009-C004,WO-DOC-009,0.08093163652746993,0,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-008,R2,1,WO-DOC-023-C006,WO-DOC-023,14.634002890011764,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Setelah slot selesai
+WO-DEV-008,R2,2,WO-DOC-043-C016,WO-DOC-043,11.17414463937872,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-008,R2,3,WO-DOC-010-C008,WO-DOC-010,10.56786353202585,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Ketika keputusan rapat tidak dapat dijalankan
+WO-DEV-008,R2,4,WO-DOC-002-C004,WO-DOC-002,10.033141231538787,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pembagian kerja pada hari acara
+WO-DEV-008,R2,5,WO-DOC-028-C008,WO-DOC-028,9.20890938574501,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Catatan insiden dan penutupan
+WO-DEV-008,R2,6,WO-DOC-010-C003,WO-DOC-010,8.945707969402594,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-008,R2,7,WO-DOC-012-C002,WO-DOC-012,8.841034103118345,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-008,R2,8,WO-DOC-004-C005,WO-DOC-004,8.499463559170666,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Serah terima area dan pengecualian
+WO-DEV-008,R2,9,WO-DOC-022-C002,WO-DOC-022,8.421564011918909,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Prioritas liputan
+WO-DEV-008,R2,10,WO-DOC-007-C002,WO-DOC-007,8.186475010761107,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,H-30 sampai H-25 menyamakan kebutuhan
+WO-DEV-008,R3,1,WO-DOC-012-C007,WO-DOC-012,0.6091748476028442,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Penutup briefing
+WO-DEV-008,R3,2,WO-DOC-050-C009,WO-DOC-050,0.6065484285354614,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Tindakan perbaikan yang diusulkan
+WO-DEV-008,R3,3,WO-DOC-049-C002,WO-DOC-049,0.6058191061019897,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Mengumpulkan bukti sebelum rapat
+WO-DEV-008,R3,4,WO-DOC-007-C007,WO-DOC-007,0.5974836945533752,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,Paket handover ke final preparation
+WO-DEV-008,R3,5,WO-DOC-030-C002,WO-DOC-030,0.5966300964355469,0,Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara,Sebelum memilih tindakan
+WO-DEV-008,R3,6,WO-DOC-007-C005,WO-DOC-007,0.5960527658462524,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,H-16 sampai H-14 melakukan pemeriksaan silang
+WO-DEV-008,R3,7,WO-DOC-008-C001,WO-DOC-008,0.5929635763168335,UNJUDGED,Checklist Final Preparation H-7 hingga H-1,Checklist Final Preparation H-7 hingga H-1 / Operasional
+WO-DEV-008,R3,8,WO-DOC-002-C002,WO-DOC-002,0.5902823209762573,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan EC sebelum acara
+WO-DEV-008,R3,9,WO-DOC-009-C002,WO-DOC-009,0.5878223776817322,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menyiapkan sumber pemeriksaan
+WO-DEV-008,R3,10,WO-DOC-012-C002,WO-DOC-012,0.5877864360809326,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-008,R4,1,WO-DOC-012-C007,WO-DOC-012,0.029726775956284153,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Penutup briefing
+WO-DEV-008,R4,2,WO-DOC-012-C002,WO-DOC-012,0.029211087420042643,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-008,R4,3,WO-DOC-010-C008,WO-DOC-010,0.028693528693528692,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Ketika keputusan rapat tidak dapat dijalankan
+WO-DEV-008,R4,4,WO-DOC-009-C002,WO-DOC-009,0.028577260665441927,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menyiapkan sumber pemeriksaan
+WO-DEV-008,R4,5,WO-DOC-007-C002,WO-DOC-007,0.027443609022556388,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,H-30 sampai H-25 menyamakan kebutuhan
+WO-DEV-008,R4,6,WO-DOC-010-C003,WO-DOC-010,0.026779422128259338,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-008,R4,7,WO-DOC-007-C007,WO-DOC-007,0.026736111111111113,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,Paket handover ke final preparation
+WO-DEV-008,R4,8,WO-DOC-007-C005,WO-DOC-007,0.02664576802507837,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,H-16 sampai H-14 melakukan pemeriksaan silang
+WO-DEV-008,R4,9,WO-DOC-012-C004,WO-DOC-012,0.02651914295749912,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Outstanding yang harus ditutup
+WO-DEV-008,R4,10,WO-DOC-019-C006,WO-DOC-019,0.026356857985087564,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Mengelola outstanding
+WO-DEV-009,R1,1,WO-DOC-003-C001,WO-DOC-003,0.1685947181517119,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Dua pendamping dengan fokus berbeda
+WO-DEV-009,R1,2,WO-DOC-041-C005,WO-DOC-041,0.13646408251517556,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu menanyakan toilet atau ruang ibadah
+WO-DEV-009,R1,3,WO-DOC-029-C003,WO-DOC-029,0.12076218071703892,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Mengidentifikasi pekerjaan kritis
+WO-DEV-009,R1,4,WO-DOC-010-C003,WO-DOC-010,0.11424530630584519,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-009,R1,5,WO-DOC-037-C003,WO-DOC-037,0.11226977229513588,0,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Akses orang dan barang
+WO-DEV-009,R1,6,WO-DOC-012-C006,WO-DOC-012,0.11212566162842999,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Skenario yang dilatih saat briefing
+WO-DEV-009,R1,7,WO-DOC-012-C004,WO-DOC-012,0.10820525512409093,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Outstanding yang harus ditutup
+WO-DEV-009,R1,8,WO-DOC-012-C003,WO-DOC-012,0.09959896903287752,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Penugasan dan pengganti
+WO-DEV-009,R1,9,WO-DOC-004-C003,WO-DOC-004,0.09767396523644468,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC venue pada perencanaan
+WO-DEV-009,R1,10,WO-DOC-036-C001,WO-DOC-036,0.09655090393258428,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,Rencana garden EVT-01
+WO-DEV-009,R2,1,WO-DOC-029-C003,WO-DOC-029,15.33713570477817,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Mengidentifikasi pekerjaan kritis
+WO-DEV-009,R2,2,WO-DOC-003-C001,WO-DOC-003,14.73887228681454,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Dua pendamping dengan fokus berbeda
+WO-DEV-009,R2,3,WO-DOC-037-C003,WO-DOC-037,13.730588468186085,0,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Akses orang dan barang
+WO-DEV-009,R2,4,WO-DOC-010-C003,WO-DOC-010,12.88282869079768,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-009,R2,5,WO-DOC-020-C002,WO-DOC-020,12.22873766977817,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Sebelum loading dimulai
+WO-DEV-009,R2,6,WO-DOC-004-C003,WO-DOC-004,12.153616769761957,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC venue pada perencanaan
+WO-DEV-009,R2,7,WO-DOC-041-C005,WO-DOC-041,11.730857795356576,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu menanyakan toilet atau ruang ibadah
+WO-DEV-009,R2,8,WO-DOC-012-C002,WO-DOC-012,11.6202433387946,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-009,R2,9,WO-DOC-012-C004,WO-DOC-012,11.317639888391929,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Outstanding yang harus ditutup
+WO-DEV-009,R2,10,WO-DOC-012-C006,WO-DOC-012,11.263519972985327,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Skenario yang dilatih saat briefing
+WO-DEV-009,R3,1,WO-DOC-050-C003,WO-DOC-050,0.6438765525817871,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Pemicu dan pemeriksaan 14.30
+WO-DEV-009,R3,2,WO-DOC-027-C008,WO-DOC-027,0.6192589998245239,UNJUDGED,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Contoh simulasi EVT-01
+WO-DEV-009,R3,3,WO-DOC-036-C001,WO-DOC-036,0.6107466816902161,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,Rencana garden EVT-01
+WO-DEV-009,R3,4,WO-DOC-027-C004,WO-DOC-027,0.6099714040756226,2,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Pemeriksaan awal dan pembatasan area
+WO-DEV-009,R3,5,WO-DOC-027-C001,WO-DOC-027,0.609618067741394,UNJUDGED,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Ruang lingkup dan prinsip keputusan
+WO-DEV-009,R3,6,WO-DOC-027-C002,WO-DOC-027,0.607216477394104,2,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Menyiapkan pilihan sebelum hari acara
+WO-DEV-009,R3,7,WO-DOC-018-C003,WO-DOC-018,0.6060784459114075,UNJUDGED,Catatan Handover dan Perubahan Situasi pada Wedding Day,14.30 pemeriksaan area
+WO-DEV-009,R3,8,WO-DOC-027-C005,WO-DOC-027,0.5992848873138428,UNJUDGED,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Kewenangan dan pilihan tindakan
+WO-DEV-009,R3,9,WO-DOC-012-C002,WO-DOC-012,0.5977904796600342,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-009,R3,10,WO-DOC-027-C007,WO-DOC-027,0.5949195623397827,2,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Pemeriksaan ulang sebelum kegiatan dibuka
+WO-DEV-009,R4,1,WO-DOC-036-C001,WO-DOC-036,0.02976190476190476,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,Rencana garden EVT-01
+WO-DEV-009,R4,2,WO-DOC-012-C002,WO-DOC-012,0.02919863597612958,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-009,R4,3,WO-DOC-027-C004,WO-DOC-027,0.028958333333333336,2,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Pemeriksaan awal dan pembatasan area
+WO-DEV-009,R4,4,WO-DOC-027-C001,WO-DOC-027,0.028371628371628373,UNJUDGED,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Ruang lingkup dan prinsip keputusan
+WO-DEV-009,R4,5,WO-DOC-012-C006,WO-DOC-012,0.02817460317460317,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Skenario yang dilatih saat briefing
+WO-DEV-009,R4,6,WO-DOC-037-C003,WO-DOC-037,0.026625704045058884,0,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Akses orang dan barang
+WO-DEV-009,R4,7,WO-DOC-020-C002,WO-DOC-020,0.0264957264957265,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Sebelum loading dimulai
+WO-DEV-009,R4,8,WO-DOC-027-C002,WO-DOC-027,0.025568181818181816,2,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Menyiapkan pilihan sebelum hari acara
+WO-DEV-009,R4,9,WO-DOC-004-C003,WO-DOC-004,0.025252525252525256,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Tugas PIC venue pada perencanaan
+WO-DEV-009,R4,10,WO-DOC-015-C005,WO-DOC-015,0.024827586206896554,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Menangani perubahan kondisi
+WO-DEV-010,R1,1,WO-DOC-037-C003,WO-DOC-037,0.22537944653704078,2,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Akses orang dan barang
+WO-DEV-010,R1,2,WO-DOC-036-C007,WO-DOC-036,0.1532593902374506,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,"Tamu, keluarga, dan penutupan"
+WO-DEV-010,R1,3,WO-DOC-010-C003,WO-DOC-010,0.13788080042836645,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-010,R1,4,WO-DOC-028-C002,WO-DOC-028,0.13014930426083093,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-010,R1,5,WO-DOC-012-C002,WO-DOC-012,0.12807327962056222,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-010,R1,6,WO-DOC-037-C001,WO-DOC-037,0.12782195423700413,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Konteks dan asumsi lokasi
+WO-DEV-010,R1,7,WO-DOC-019-C005,WO-DOC-019,0.1229594036597012,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Memeriksa kondisi venue
+WO-DEV-010,R1,8,WO-DOC-013-C004,WO-DOC-013,0.11799796316068184,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Briefing dan pembagian area
+WO-DEV-010,R1,9,WO-DOC-036-C006,WO-DOC-036,0.10928122041438536,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,Rain plan yang bisa dilaksanakan
+WO-DEV-010,R1,10,WO-DOC-009-C001,WO-DOC-009,0.10710619767058342,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-010,R2,1,WO-DOC-037-C003,WO-DOC-037,23.778813075522493,2,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Akses orang dan barang
+WO-DEV-010,R2,2,WO-DOC-036-C007,WO-DOC-036,17.06200556289951,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,"Tamu, keluarga, dan penutupan"
+WO-DEV-010,R2,3,WO-DOC-028-C002,WO-DOC-028,16.340779985809625,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-010,R2,4,WO-DOC-012-C002,WO-DOC-012,16.322265261339332,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-010,R2,5,WO-DOC-010-C003,WO-DOC-010,15.089899812833654,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-010,R2,6,WO-DOC-038-C005,WO-DOC-038,13.762327149744928,UNJUDGED,"Matriks Site Survey, Kelayakan Venue, dan Kebutuhan Fasilitas","Matriks Site Survey, Kelayakan Venue, dan Kebutuhan Fasilitas / Operasional"
+WO-DEV-010,R2,7,WO-DOC-019-C005,WO-DOC-019,13.589496586769934,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Memeriksa kondisi venue
+WO-DEV-010,R2,8,WO-DOC-036-C006,WO-DOC-036,13.473910723123748,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,Rain plan yang bisa dilaksanakan
+WO-DEV-010,R2,9,WO-DOC-009-C001,WO-DOC-009,13.089457038690634,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-010,R2,10,WO-DOC-038-C006,WO-DOC-038,12.975540999908308,UNJUDGED,"Matriks Site Survey, Kelayakan Venue, dan Kebutuhan Fasilitas",Panduan / Panduan
+WO-DEV-010,R3,1,WO-DOC-037-C003,WO-DOC-037,0.6951109170913696,2,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Akses orang dan barang
+WO-DEV-010,R3,2,WO-DOC-037-C002,WO-DOC-037,0.6605291366577148,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Verifikasi sebelum komitmen layout
+WO-DEV-010,R3,3,WO-DOC-037-C004,WO-DOC-037,0.6406452059745789,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Setup dan fasilitas
+WO-DEV-010,R3,4,WO-DOC-037-C005,WO-DOC-037,0.6229088306427002,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Pemeriksaan kondisi dan keputusan
+WO-DEV-010,R3,5,WO-DOC-037-C001,WO-DOC-037,0.619814395904541,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Konteks dan asumsi lokasi
+WO-DEV-010,R3,6,WO-DOC-027-C002,WO-DOC-027,0.6117678880691528,1,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Menyiapkan pilihan sebelum hari acara
+WO-DEV-010,R3,7,WO-DOC-037-C007,WO-DOC-037,0.6096387505531311,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Penutupan dan evaluasi lokasi
+WO-DEV-010,R3,8,WO-DOC-027-C004,WO-DOC-027,0.6090928316116333,0,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Pemeriksaan awal dan pembatasan area
+WO-DEV-010,R3,9,WO-DOC-036-C002,WO-DOC-036,0.6049880981445312,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,Survei jalur sebelum menentukan layout
+WO-DEV-010,R3,10,WO-DOC-011-C003,WO-DOC-011,0.604529619216919,UNJUDGED,"Checklist Site Inspection, Venue Readiness, dan Sound Check","Checklist Site Inspection, Venue Readiness, dan Sound Check / Operasional"
+WO-DEV-010,R4,1,WO-DOC-037-C003,WO-DOC-037,0.03278688524590164,2,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Akses orang dan barang
+WO-DEV-010,R4,2,WO-DOC-037-C001,WO-DOC-037,0.0288981288981289,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Konteks dan asumsi lokasi
+WO-DEV-010,R4,3,WO-DOC-027-C002,WO-DOC-027,0.028850145288501453,1,Prosedur Antisipasi dan Respons Hujan pada Outdoor Wedding,Menyiapkan pilihan sebelum hari acara
+WO-DEV-010,R4,4,WO-DOC-012-C002,WO-DOC-012,0.027529761904761904,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Informasi kritis untuk seluruh kru
+WO-DEV-010,R4,5,WO-DOC-036-C007,WO-DOC-036,0.02749266862170088,UNJUDGED,Panduan Setup dan Koordinasi Operasional Garden Villa Wedding,"Tamu, keluarga, dan penutupan"
+WO-DEV-010,R4,6,WO-DOC-038-C006,WO-DOC-038,0.027272727272727275,UNJUDGED,"Matriks Site Survey, Kelayakan Venue, dan Kebutuhan Fasilitas",Panduan / Panduan
+WO-DEV-010,R4,7,WO-DOC-010-C003,WO-DOC-010,0.02701252236135957,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-010,R4,8,WO-DOC-037-C004,WO-DOC-037,0.026399331662489554,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Setup dan fasilitas
+WO-DEV-010,R4,9,WO-DOC-037-C007,WO-DOC-037,0.02603648424543947,UNJUDGED,Panduan Operasional Beach Wedding dan Mitigasi Kondisi Lokasi,Penutupan dan evaluasi lokasi
+WO-DEV-010,R4,10,WO-DOC-024-C006,WO-DOC-024,0.025478740668614087,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Touch-up dan akhir layanan
+WO-DEV-011,R1,1,WO-DOC-009-C001,WO-DOC-009,0.18278528666540725,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-011,R1,2,WO-DOC-041-C003,WO-DOC-041,0.16601883330305994,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-011,R1,3,WO-DOC-045-C006,WO-DOC-045,0.14826748475813017,UNJUDGED,"SOP Komunikasi Internal, Radio, dan Grup Koordinasi Wedding Day",Privasi pada kanal lapangan
+WO-DEV-011,R1,4,WO-DOC-016-C004,WO-DOC-016,0.14243289179530505,2,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Data tidak cocok dan kunjungan tanpa konfirmasi
+WO-DEV-011,R1,5,WO-DOC-010-C003,WO-DOC-010,0.14162892011252065,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-011,R1,6,WO-DOC-028-C002,WO-DOC-028,0.13531794446237627,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-011,R1,7,WO-DOC-041-C008,WO-DOC-041,0.1313933178635728,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Apakah seseorang sudah hadir
+WO-DEV-011,R1,8,WO-DOC-039-C004,WO-DOC-039,0.1279519102782125,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Pendampingan prosesi dan foto
+WO-DEV-011,R1,9,WO-DOC-049-C004,WO-DOC-049,0.12359765862465052,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Pertanyaan per fungsi
+WO-DEV-011,R1,10,WO-DOC-016-C006,WO-DOC-016,0.12308628014146811,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Pelaporan dan penutupan meja
+WO-DEV-011,R2,1,WO-DOC-009-C001,WO-DOC-009,19.52474873564391,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-011,R2,2,WO-DOC-016-C004,WO-DOC-016,18.142541871677356,2,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Data tidak cocok dan kunjungan tanpa konfirmasi
+WO-DEV-011,R2,3,WO-DOC-041-C003,WO-DOC-041,17.371097980307518,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-011,R2,4,WO-DOC-045-C006,WO-DOC-045,16.41333128447793,UNJUDGED,"SOP Komunikasi Internal, Radio, dan Grup Koordinasi Wedding Day",Privasi pada kanal lapangan
+WO-DEV-011,R2,5,WO-DOC-028-C002,WO-DOC-028,15.435035386117809,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-011,R2,6,WO-DOC-041-C008,WO-DOC-041,15.32770128012504,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Apakah seseorang sudah hadir
+WO-DEV-011,R2,7,WO-DOC-021-C002,WO-DOC-021,15.198010991670353,UNJUDGED,Panduan Sinkronisasi Catering dan Banquet Service,Menetapkan dasar layanan
+WO-DEV-011,R2,8,WO-DOC-039-C004,WO-DOC-039,14.900114360816096,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Pendampingan prosesi dan foto
+WO-DEV-011,R2,9,WO-DOC-016-C006,WO-DOC-016,14.888880563695272,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Pelaporan dan penutupan meja
+WO-DEV-011,R2,10,WO-DOC-010-C003,WO-DOC-010,14.859313792964867,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-011,R3,1,WO-DOC-016-C003,WO-DOC-016,0.6958944797515869,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Menyambut dan memverifikasi
+WO-DEV-011,R3,2,WO-DOC-041-C008,WO-DOC-041,0.6955720782279968,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Apakah seseorang sudah hadir
+WO-DEV-011,R3,3,WO-DOC-041-C010,WO-DOC-041,0.6841894388198853,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Transport dinner EVT-03 belum datang
+WO-DEV-011,R3,4,WO-DOC-041-C009,WO-DOC-041,0.6801640391349792,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu datang saat ceremony berjalan
+WO-DEV-011,R3,5,WO-DOC-039-C003,WO-DOC-039,0.6690824031829834,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-011,R3,6,WO-DOC-041-C007,WO-DOC-041,0.6640169024467468,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu meminta makanan tertentu
+WO-DEV-011,R3,7,WO-DOC-016-C002,WO-DOC-016,0.663446307182312,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Persiapan meja dan jalur
+WO-DEV-011,R3,8,WO-DOC-041-C002,WO-DOC-041,0.6603156924247742,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Kode undangan tidak ada pada daftar
+WO-DEV-011,R3,9,WO-DOC-041-C006,WO-DOC-041,0.6573032140731812,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu membutuhkan bantuan bergerak
+WO-DEV-011,R3,10,WO-DOC-044-C008,WO-DOC-044,0.654667854309082,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,15.00 sampai 15.30 persiapan guest reception 30 menit
+WO-DEV-011,R4,1,WO-DOC-041-C008,WO-DOC-041,0.03128054740957967,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Apakah seseorang sudah hadir
+WO-DEV-011,R4,2,WO-DOC-016-C003,WO-DOC-016,0.029726775956284153,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Menyambut dan memverifikasi
+WO-DEV-011,R4,3,WO-DOC-039-C003,WO-DOC-039,0.02946912242686891,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-011,R4,4,WO-DOC-041-C003,WO-DOC-041,0.028531243721117136,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-011,R4,5,WO-DOC-016-C004,WO-DOC-016,0.028474711270410194,2,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Data tidak cocok dan kunjungan tanpa konfirmasi
+WO-DEV-011,R4,6,WO-DOC-016-C006,WO-DOC-016,0.028381642512077296,UNJUDGED,"Panduan Guest Reception, Registrasi, dan Pengarahan Tamu",Pelaporan dan penutupan meja
+WO-DEV-011,R4,7,WO-DOC-041-C005,WO-DOC-041,0.02581612258494337,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu menanyakan toilet atau ruang ibadah
+WO-DEV-011,R4,8,WO-DOC-041-C006,WO-DOC-041,0.02513105149552883,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu membutuhkan bantuan bergerak
+WO-DEV-011,R4,9,WO-DOC-041-C010,WO-DOC-041,0.025047327799621377,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Transport dinner EVT-03 belum datang
+WO-DEV-011,R4,10,WO-DOC-041-C009,WO-DOC-041,0.02471590909090909,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu datang saat ceremony berjalan
+WO-DEV-012,R1,1,WO-DOC-010-C003,WO-DOC-010,0.19759597325886988,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-012,R1,2,WO-DOC-020-C004,WO-DOC-020,0.16390911203261152,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Pemeriksaan hasil dan penerimaan
+WO-DEV-012,R1,3,WO-DOC-049-C001,WO-DOC-049,0.14922155960071531,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Hasil debrief yang diperlukan
+WO-DEV-012,R1,4,WO-DOC-050-C008,WO-DOC-050,0.1396216199659427,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Penutupan operasional dan handover
+WO-DEV-012,R1,5,WO-DOC-049-C003,WO-DOC-049,0.1372319771543794,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Urutan rapat
+WO-DEV-012,R1,6,WO-DOC-049-C006,WO-DOC-049,0.12794241750888669,2,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Menulis tindakan perbaikan
+WO-DEV-012,R1,7,WO-DOC-009-C004,WO-DOC-009,0.12335913623760604,0,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-012,R1,8,WO-DOC-002-C002,WO-DOC-002,0.1198139904289485,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan EC sebelum acara
+WO-DEV-012,R1,9,WO-DOC-001-C002,WO-DOC-001,0.11114314403971966,UNJUDGED,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Hierarki dan penugasan simulasi
+WO-DEV-012,R1,10,WO-DOC-019-C007,WO-DOC-019,0.10818258141410327,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Handover final dan evaluasi
+WO-DEV-012,R2,1,WO-DOC-010-C003,WO-DOC-010,14.50732010187928,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-012,R2,2,WO-DOC-020-C004,WO-DOC-020,12.805061928618457,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Pemeriksaan hasil dan penerimaan
+WO-DEV-012,R2,3,WO-DOC-049-C001,WO-DOC-049,12.715380543505532,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Hasil debrief yang diperlukan
+WO-DEV-012,R2,4,WO-DOC-002-C002,WO-DOC-002,11.686099829096129,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan EC sebelum acara
+WO-DEV-012,R2,5,WO-DOC-049-C003,WO-DOC-049,11.26955056258986,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Urutan rapat
+WO-DEV-012,R2,6,WO-DOC-009-C004,WO-DOC-009,11.152657613866575,0,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-012,R2,7,WO-DOC-049-C006,WO-DOC-049,10.905213957041918,2,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Menulis tindakan perbaikan
+WO-DEV-012,R2,8,WO-DOC-043-C016,WO-DOC-043,9.657985005356519,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-012,R2,9,WO-DOC-007-C005,WO-DOC-007,9.533635838672035,UNJUDGED,Panduan Tahapan Persiapan Wedding H-30 hingga H-14,H-16 sampai H-14 melakukan pemeriksaan silang
+WO-DEV-012,R2,10,WO-DOC-050-C004,WO-DOC-050,9.431340404032522,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Keputusan 14.40 dan versi 1.1
+WO-DEV-012,R3,1,WO-DOC-050-C009,WO-DOC-050,0.6296103000640869,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Tindakan perbaikan yang diusulkan
+WO-DEV-012,R3,2,WO-DOC-049-C006,WO-DOC-049,0.6254138946533203,2,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Menulis tindakan perbaikan
+WO-DEV-012,R3,3,WO-DOC-010-C006,WO-DOC-010,0.6099733114242554,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Mengakhiri rapat dan menyebarkan hasil
+WO-DEV-012,R3,4,WO-DOC-010-C008,WO-DOC-010,0.5973429679870605,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Ketika keputusan rapat tidak dapat dijalankan
+WO-DEV-012,R3,5,WO-DOC-049-C007,WO-DOC-049,0.5924780964851379,2,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Menutup rapat dan memantau
+WO-DEV-012,R3,6,WO-DOC-032-C009,WO-DOC-032,0.5842687487602234,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Penutupan dan evaluasi
+WO-DEV-012,R3,7,WO-DOC-030-C003,WO-DOC-030,0.584104597568512,UNJUDGED,Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara,Pilihan berurutan
+WO-DEV-012,R3,8,WO-DOC-049-C002,WO-DOC-049,0.5797570943832397,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Mengumpulkan bukti sebelum rapat
+WO-DEV-012,R3,9,WO-DOC-050-C005,WO-DOC-050,0.5791764259338379,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Pemindahan dan pemeriksaan ulang
+WO-DEV-012,R3,10,WO-DOC-009-C004,WO-DOC-009,0.5784355998039246,0,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-012,R4,1,WO-DOC-049-C006,WO-DOC-049,0.031054405392392875,2,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Menulis tindakan perbaikan
+WO-DEV-012,R4,2,WO-DOC-010-C003,WO-DOC-010,0.03047794966520434,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-012,R4,3,WO-DOC-010-C006,WO-DOC-010,0.02976190476190476,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Mengakhiri rapat dan menyebarkan hasil
+WO-DEV-012,R4,4,WO-DOC-009-C004,WO-DOC-009,0.029437229437229435,0,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-012,R4,5,WO-DOC-020-C004,WO-DOC-020,0.028629032258064516,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Pemeriksaan hasil dan penerimaan
+WO-DEV-012,R4,6,WO-DOC-049-C001,WO-DOC-049,0.02821869488536155,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Hasil debrief yang diperlukan
+WO-DEV-012,R4,7,WO-DOC-050-C004,WO-DOC-050,0.027799227799227798,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Keputusan 14.40 dan versi 1.1
+WO-DEV-012,R4,8,WO-DOC-049-C003,WO-DOC-049,0.027432808155699723,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Urutan rapat
+WO-DEV-012,R4,9,WO-DOC-049-C002,WO-DOC-049,0.02661064425770308,UNJUDGED,Panduan Debrief dan Evaluasi Operasional Setelah Wedding,Mengumpulkan bukti sebelum rapat
+WO-DEV-012,R4,10,WO-DOC-050-C009,WO-DOC-050,0.02649445272396092,UNJUDGED,Laporan Penyelesaian Insiden dan Catatan Perbaikan Operasional,Tindakan perbaikan yang diusulkan
+WO-DEV-013,R1,1,WO-DOC-024-C003,WO-DOC-024,0.26366696338145923,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-013,R1,2,WO-DOC-014-C004,WO-DOC-014,0.22683263813060284,2,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Pemeriksaan siap dan handover ke floor
+WO-DEV-013,R1,3,WO-DOC-014-C002,WO-DOC-014,0.21040554240280798,1,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-013,R1,4,WO-DOC-003-C004,WO-DOC-003,0.20887702941297995,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Peta waktu dan komunikasi
+WO-DEV-013,R1,5,WO-DOC-003-C002,WO-DOC-003,0.207539767941143,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Pegangan kerja PIC pengantin
+WO-DEV-013,R1,6,WO-DOC-029-C002,WO-DOC-029,0.20251863451632787,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Indikator awal dan pemeriksaan
+WO-DEV-013,R1,7,WO-DOC-024-C001,WO-DOC-024,0.19359197478221107,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-013,R1,8,WO-DOC-017-C003,WO-DOC-017,0.17162988935607482,1,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C02 standby entrance pukul 17.20
+WO-DEV-013,R1,9,WO-DOC-010-C003,WO-DOC-010,0.16933536072097913,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-013,R1,10,WO-DOC-012-C004,WO-DOC-012,0.15934180430680206,UNJUDGED,Catatan Briefing Kru Menjelang Wedding Day,Outstanding yang harus ditutup
+WO-DEV-013,R2,1,WO-DOC-024-C003,WO-DOC-024,21.595287720541364,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-013,R2,2,WO-DOC-014-C002,WO-DOC-014,19.15154358956637,1,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-013,R2,3,WO-DOC-014-C004,WO-DOC-014,18.859241421260442,2,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Pemeriksaan siap dan handover ke floor
+WO-DEV-013,R2,4,WO-DOC-003-C002,WO-DOC-003,18.574328157097842,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Pegangan kerja PIC pengantin
+WO-DEV-013,R2,5,WO-DOC-003-C004,WO-DOC-003,18.221978910796835,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Peta waktu dan komunikasi
+WO-DEV-013,R2,6,WO-DOC-029-C003,WO-DOC-029,15.5524363342877,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Mengidentifikasi pekerjaan kritis
+WO-DEV-013,R2,7,WO-DOC-010-C003,WO-DOC-010,14.783280984929938,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-013,R2,8,WO-DOC-029-C002,WO-DOC-029,13.966081837898985,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Indikator awal dan pemeriksaan
+WO-DEV-013,R2,9,WO-DOC-024-C001,WO-DOC-024,13.90095631744362,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-013,R2,10,WO-DOC-009-C001,WO-DOC-009,13.785492263465805,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-013,R3,1,WO-DOC-024-C006,WO-DOC-024,0.6659685373306274,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Touch-up dan akhir layanan
+WO-DEV-013,R3,2,WO-DOC-014-C004,WO-DOC-014,0.6435738205909729,2,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Pemeriksaan siap dan handover ke floor
+WO-DEV-013,R3,3,WO-DOC-014-C002,WO-DOC-014,0.639947772026062,1,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-013,R3,4,WO-DOC-014-C003,WO-DOC-014,0.6396235823631287,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Saat makeup dan dressing berjalan
+WO-DEV-013,R3,5,WO-DOC-024-C003,WO-DOC-024,0.6246914863586426,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-013,R3,6,WO-DOC-017-C003,WO-DOC-017,0.6173174381256104,1,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C02 standby entrance pukul 17.20
+WO-DEV-013,R3,7,WO-DOC-003-C004,WO-DOC-003,0.6172259449958801,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Peta waktu dan komunikasi
+WO-DEV-013,R3,8,WO-DOC-015-C003,WO-DOC-015,0.6129810810089111,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Siklus standby lalu jalan
+WO-DEV-013,R3,9,WO-DOC-044-C010,WO-DOC-044,0.6094077825546265,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,16.00 sampai 16.30 seating dan standby 30 menit
+WO-DEV-013,R3,10,WO-DOC-024-C001,WO-DOC-024,0.6077200174331665,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-013,R4,1,WO-DOC-014-C002,WO-DOC-014,0.03200204813108039,1,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-013,R4,2,WO-DOC-014-C004,WO-DOC-014,0.03200204813108039,2,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Pemeriksaan siap dan handover ke floor
+WO-DEV-013,R4,3,WO-DOC-024-C003,WO-DOC-024,0.03177805800756621,2,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Urutan simulasi pagi EVT-02
+WO-DEV-013,R4,4,WO-DOC-003-C004,WO-DOC-003,0.030309988518943745,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Peta waktu dan komunikasi
+WO-DEV-013,R4,5,WO-DOC-024-C001,WO-DOC-024,0.02877846790890269,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Menyelaraskan layanan dan waktu siap
+WO-DEV-013,R4,6,WO-DOC-003-C002,WO-DOC-003,0.028283227848101264,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Pegangan kerja PIC pengantin
+WO-DEV-013,R4,7,WO-DOC-014-C003,WO-DOC-014,0.027820121951219513,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Saat makeup dan dressing berjalan
+WO-DEV-013,R4,8,WO-DOC-017-C003,WO-DOC-017,0.02749719416386083,1,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C02 standby entrance pukul 17.20
+WO-DEV-013,R4,9,WO-DOC-029-C003,WO-DOC-029,0.027346637102734665,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Mengidentifikasi pekerjaan kritis
+WO-DEV-013,R4,10,WO-DOC-024-C006,WO-DOC-024,0.026702720973466286,UNJUDGED,Panduan Sinkronisasi Makeup Artist dan Jadwal Persiapan Pengantin,Touch-up dan akhir layanan
+WO-DEV-014,R1,1,WO-DOC-022-C004,WO-DOC-022,0.22032598949625085,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Foto kelompok yang terkendali
+WO-DEV-014,R1,2,WO-DOC-041-C010,WO-DOC-041,0.19663404611356686,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Transport dinner EVT-03 belum datang
+WO-DEV-014,R1,3,WO-DOC-005-C003,WO-DOC-005,0.17886836076041254,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",LO menjaga perpindahan kelompok
+WO-DEV-014,R1,4,WO-DOC-039-C006,WO-DOC-039,0.16179898075975271,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Transport dan kepulangan
+WO-DEV-014,R1,5,WO-DOC-039-C003,WO-DOC-039,0.16161286194397415,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-014,R1,6,WO-DOC-015-C006,WO-DOC-015,0.1587407555017981,UNJUDGED,Panduan Floor Coordination dan Alur Prosesi Wedding Ceremony,Transisi setelah ceremony
+WO-DEV-014,R1,7,WO-DOC-022-C005,WO-DOC-022,0.15428933456315605,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Perpindahan dari chapel ke dinner
+WO-DEV-014,R1,8,WO-DOC-043-C009,WO-DOC-043,0.14760387309972056,1,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.25 sampai 16.40 buffer keberangkatan 15 menit
+WO-DEV-014,R1,9,WO-DOC-029-C006,WO-DOC-029,0.14587200006412285,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Contoh dampak berbeda
+WO-DEV-014,R1,10,WO-DOC-043-C010,WO-DOC-043,0.14511808962069875,2,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-014,R2,1,WO-DOC-022-C004,WO-DOC-022,21.82324731284701,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Foto kelompok yang terkendali
+WO-DEV-014,R2,2,WO-DOC-039-C003,WO-DOC-039,20.57079258708838,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-014,R2,3,WO-DOC-025-C001,WO-DOC-025,19.61673604342787,UNJUDGED,"Matriks Penugasan Transport, Driver, Shuttle, dan Logistik","Matriks Penugasan Transport, Driver, Shuttle, dan Logistik / Operasional"
+WO-DEV-014,R2,4,WO-DOC-005-C003,WO-DOC-005,18.409497617874166,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",LO menjaga perpindahan kelompok
+WO-DEV-014,R2,5,WO-DOC-025-C004,WO-DOC-025,18.16742519535162,UNJUDGED,"Matriks Penugasan Transport, Driver, Shuttle, dan Logistik","Matriks Penugasan Transport, Driver, Shuttle, dan Logistik / Operasional"
+WO-DEV-014,R2,6,WO-DOC-022-C005,WO-DOC-022,17.696797342486107,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Perpindahan dari chapel ke dinner
+WO-DEV-014,R2,7,WO-DOC-025-C003,WO-DOC-025,16.99974618430183,UNJUDGED,"Matriks Penugasan Transport, Driver, Shuttle, dan Logistik","Matriks Penugasan Transport, Driver, Shuttle, dan Logistik / Operasional"
+WO-DEV-014,R2,8,WO-DOC-039-C006,WO-DOC-039,16.557854892730717,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Transport dan kepulangan
+WO-DEV-014,R2,9,WO-DOC-041-C010,WO-DOC-041,16.31408723568127,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Transport dinner EVT-03 belum datang
+WO-DEV-014,R2,10,WO-DOC-029-C006,WO-DOC-029,15.980857842811709,UNJUDGED,Prosedur Penanganan Vendor Terlambat atau Tidak Hadir,Contoh dampak berbeda
+WO-DEV-014,R3,1,WO-DOC-043-C009,WO-DOC-043,0.6016231775283813,1,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.25 sampai 16.40 buffer keberangkatan 15 menit
+WO-DEV-014,R3,2,WO-DOC-022-C005,WO-DOC-022,0.5866329669952393,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Perpindahan dari chapel ke dinner
+WO-DEV-014,R3,3,WO-DOC-022-C004,WO-DOC-022,0.5856026411056519,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Foto kelompok yang terkendali
+WO-DEV-014,R3,4,WO-DOC-005-C003,WO-DOC-005,0.5799822807312012,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",LO menjaga perpindahan kelompok
+WO-DEV-014,R3,5,WO-DOC-043-C010,WO-DOC-043,0.5776383876800537,2,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-014,R3,6,WO-DOC-003-C003,WO-DOC-003,0.5733402967453003,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Pegangan kerja PIC keluarga
+WO-DEV-014,R3,7,WO-DOC-039-C003,WO-DOC-039,0.5662287473678589,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-014,R3,8,WO-DOC-043-C004,WO-DOC-043,0.5654506683349609,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",14.00 sampai 14.30 pemeriksaan pasangan dan keluarga 30 menit
+WO-DEV-014,R3,9,WO-DOC-044-C012,WO-DOC-044,0.5644079446792603,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,17.15 sampai 18.00 foto dan transisi 45 menit
+WO-DEV-014,R3,10,WO-DOC-003-C006,WO-DOC-003,0.5594189763069153,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Handover dan pekerjaan penutup
+WO-DEV-014,R4,1,WO-DOC-022-C004,WO-DOC-022,0.032266458495966696,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Foto kelompok yang terkendali
+WO-DEV-014,R4,2,WO-DOC-022-C005,WO-DOC-022,0.03128054740957967,UNJUDGED,Brief Operasional Photography dan Videography Wedding Day,Perpindahan dari chapel ke dinner
+WO-DEV-014,R4,3,WO-DOC-005-C003,WO-DOC-005,0.03125,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",LO menjaga perpindahan kelompok
+WO-DEV-014,R4,4,WO-DOC-039-C003,WO-DOC-039,0.031054405392392875,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-014,R4,5,WO-DOC-043-C009,WO-DOC-043,0.029551337359792925,1,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.25 sampai 16.40 buffer keberangkatan 15 menit
+WO-DEV-014,R4,6,WO-DOC-003-C006,WO-DOC-003,0.028370221327967807,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Handover dan pekerjaan penutup
+WO-DEV-014,R4,7,WO-DOC-041-C010,WO-DOC-041,0.02819138376017471,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Transport dinner EVT-03 belum datang
+WO-DEV-014,R4,8,WO-DOC-043-C010,WO-DOC-043,0.02804284323271665,2,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-014,R4,9,WO-DOC-044-C012,WO-DOC-044,0.028006267136701922,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,17.15 sampai 18.00 foto dan transisi 45 menit
+WO-DEV-014,R4,10,WO-DOC-003-C003,WO-DOC-003,0.027651515151515153,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Pegangan kerja PIC keluarga
+WO-DEV-015,R1,1,WO-DOC-032-C002,WO-DOC-032,0.25507435543564466,1,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Indikator awal
+WO-DEV-015,R1,2,WO-DOC-032-C003,WO-DOC-032,0.24126993339009933,2,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pemeriksaan awal
+WO-DEV-015,R1,3,WO-DOC-035-C002,WO-DOC-035,0.23634058102785166,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Akses vendor dan pembagian zona
+WO-DEV-015,R1,4,WO-DOC-032-C001,WO-DOC-032,0.2186231467031141,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Dasar jumlah dan kapasitas
+WO-DEV-015,R1,5,WO-DOC-032-C005,WO-DOC-032,0.20448591233591804,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pilihan penataan
+WO-DEV-015,R1,6,WO-DOC-032-C004,WO-DOC-032,0.1974471709541992,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Tindakan sementara yang boleh dilakukan
+WO-DEV-015,R1,7,WO-DOC-032-C006,WO-DOC-032,0.19491646554275568,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Perubahan seating yang dapat ditelusuri
+WO-DEV-015,R1,8,WO-DOC-041-C009,WO-DOC-041,0.1702289718084644,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu datang saat ceremony berjalan
+WO-DEV-015,R1,9,WO-DOC-032-C007,WO-DOC-032,0.16046094035350525,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Komunikasi kepada tamu dan client
+WO-DEV-015,R1,10,WO-DOC-035-C006,WO-DOC-035,0.15860692363289605,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Perubahan jadwal dan gangguan
+WO-DEV-015,R2,1,WO-DOC-032-C001,WO-DOC-032,25.27802513972027,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Dasar jumlah dan kapasitas
+WO-DEV-015,R2,2,WO-DOC-035-C002,WO-DOC-035,24.949072765424418,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Akses vendor dan pembagian zona
+WO-DEV-015,R2,3,WO-DOC-032-C005,WO-DOC-032,24.618780004814013,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pilihan penataan
+WO-DEV-015,R2,4,WO-DOC-032-C003,WO-DOC-032,23.932264656991006,2,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pemeriksaan awal
+WO-DEV-015,R2,5,WO-DOC-032-C002,WO-DOC-032,23.891091944242802,1,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Indikator awal
+WO-DEV-015,R2,6,WO-DOC-032-C004,WO-DOC-032,21.611671981261438,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Tindakan sementara yang boleh dilakukan
+WO-DEV-015,R2,7,WO-DOC-032-C006,WO-DOC-032,20.66930519956834,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Perubahan seating yang dapat ditelusuri
+WO-DEV-015,R2,8,WO-DOC-041-C009,WO-DOC-041,18.53476042468067,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu datang saat ceremony berjalan
+WO-DEV-015,R2,9,WO-DOC-032-C007,WO-DOC-032,18.200138690286327,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Komunikasi kepada tamu dan client
+WO-DEV-015,R2,10,WO-DOC-020-C002,WO-DOC-020,17.76533447953067,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Sebelum loading dimulai
+WO-DEV-015,R3,1,WO-DOC-032-C003,WO-DOC-032,0.6514191627502441,2,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pemeriksaan awal
+WO-DEV-015,R3,2,WO-DOC-032-C001,WO-DOC-032,0.6425827741622925,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Dasar jumlah dan kapasitas
+WO-DEV-015,R3,3,WO-DOC-032-C005,WO-DOC-032,0.6351581811904907,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pilihan penataan
+WO-DEV-015,R3,4,WO-DOC-032-C002,WO-DOC-032,0.6267116665840149,1,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Indikator awal
+WO-DEV-015,R3,5,WO-DOC-041-C003,WO-DOC-041,0.6197527050971985,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-015,R3,6,WO-DOC-040-C006,WO-DOC-040,0.6190191507339478,UNJUDGED,Matriks Seating Allocation dan Penugasan Guest Escort,Matriks Seating Allocation dan Penugasan Guest Escort / Perubahan
+WO-DEV-015,R3,7,WO-DOC-032-C006,WO-DOC-032,0.6172589063644409,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Perubahan seating yang dapat ditelusuri
+WO-DEV-015,R3,8,WO-DOC-021-C005,WO-DOC-021,0.6144838333129883,UNJUDGED,Panduan Sinkronisasi Catering dan Banquet Service,Penundaan dan perubahan headcount
+WO-DEV-015,R3,9,WO-DOC-041-C002,WO-DOC-041,0.5990375280380249,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Kode undangan tidak ada pada daftar
+WO-DEV-015,R3,10,WO-DOC-032-C009,WO-DOC-032,0.5866591334342957,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Penutupan dan evaluasi
+WO-DEV-015,R4,1,WO-DOC-032-C001,WO-DOC-032,0.03252247488101534,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Dasar jumlah dan kapasitas
+WO-DEV-015,R4,2,WO-DOC-032-C003,WO-DOC-032,0.032018442622950824,2,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pemeriksaan awal
+WO-DEV-015,R4,3,WO-DOC-032-C005,WO-DOC-032,0.031746031746031744,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Pilihan penataan
+WO-DEV-015,R4,4,WO-DOC-032-C002,WO-DOC-032,0.031009615384615385,1,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Indikator awal
+WO-DEV-015,R4,5,WO-DOC-032-C006,WO-DOC-032,0.029850746268656716,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Perubahan seating yang dapat ditelusuri
+WO-DEV-015,R4,6,WO-DOC-035-C002,WO-DOC-035,0.02946236559139785,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Akses vendor dan pembagian zona
+WO-DEV-015,R4,7,WO-DOC-041-C003,WO-DOC-041,0.029083245521601686,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-015,R4,8,WO-DOC-032-C004,WO-DOC-032,0.02904040404040404,UNJUDGED,Prosedur Penanganan Tamu Melebihi Kapasitas dan Perubahan Seating,Tindakan sementara yang boleh dilakukan
+WO-DEV-015,R4,9,WO-DOC-021-C005,WO-DOC-021,0.028594771241830064,UNJUDGED,Panduan Sinkronisasi Catering dan Banquet Service,Penundaan dan perubahan headcount
+WO-DEV-015,R4,10,WO-DOC-041-C009,WO-DOC-041,0.02786377708978328,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu datang saat ceremony berjalan
+WO-DEV-016,R1,1,WO-DOC-010-C003,WO-DOC-010,0.17514294281735757,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-016,R1,2,WO-DOC-021-C002,WO-DOC-021,0.16239999652622616,UNJUDGED,Panduan Sinkronisasi Catering dan Banquet Service,Menetapkan dasar layanan
+WO-DEV-016,R1,3,WO-DOC-005-C004,WO-DOC-005,0.15379646556124277,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Guest desk menyelesaikan pertanyaan praktis
+WO-DEV-016,R1,4,WO-DOC-039-C005,WO-DOC-039,0.14818767360966906,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Permintaan khusus dan keluhan
+WO-DEV-016,R1,5,WO-DOC-041-C007,WO-DOC-041,0.1387140235253408,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu meminta makanan tertentu
+WO-DEV-016,R1,6,WO-DOC-002-C003,WO-DOC-002,0.13562821142618878,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan WC sebelum acara
+WO-DEV-016,R1,7,WO-DOC-039-C003,WO-DOC-039,0.1339276994851872,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-016,R1,8,WO-DOC-039-C004,WO-DOC-039,0.12450410442709815,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Pendampingan prosesi dan foto
+WO-DEV-016,R1,9,WO-DOC-041-C003,WO-DOC-041,0.12336943192471513,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-016,R1,10,WO-DOC-028-C002,WO-DOC-028,0.11813952948581545,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-016,R2,1,WO-DOC-021-C002,WO-DOC-021,21.3714003311321,UNJUDGED,Panduan Sinkronisasi Catering dan Banquet Service,Menetapkan dasar layanan
+WO-DEV-016,R2,2,WO-DOC-010-C003,WO-DOC-010,20.079459850294676,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-016,R2,3,WO-DOC-002-C003,WO-DOC-002,17.69258851452674,UNJUDGED,Uraian Tugas Event Coordinator dan Wedding Coordinator,Pekerjaan WC sebelum acara
+WO-DEV-016,R2,4,WO-DOC-005-C004,WO-DOC-005,17.54656793873248,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Guest desk menyelesaikan pertanyaan praktis
+WO-DEV-016,R2,5,WO-DOC-039-C005,WO-DOC-039,17.417355556879176,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Permintaan khusus dan keluhan
+WO-DEV-016,R2,6,WO-DOC-039-C003,WO-DOC-039,16.979261064534487,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-016,R2,7,WO-DOC-039-C004,WO-DOC-039,15.901814799554435,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Pendampingan prosesi dan foto
+WO-DEV-016,R2,8,WO-DOC-041-C007,WO-DOC-041,15.1361078581483,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu meminta makanan tertentu
+WO-DEV-016,R2,9,WO-DOC-028-C002,WO-DOC-028,14.93496242752732,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-016,R2,10,WO-DOC-035-C005,WO-DOC-035,14.475771244906248,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Banquet dan arus tamu
+WO-DEV-016,R3,1,WO-DOC-041-C007,WO-DOC-041,0.7204834818840027,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu meminta makanan tertentu
+WO-DEV-016,R3,2,WO-DOC-005-C004,WO-DOC-005,0.6754963994026184,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Guest desk menyelesaikan pertanyaan praktis
+WO-DEV-016,R3,3,WO-DOC-041-C003,WO-DOC-041,0.675033688545227,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-016,R3,4,WO-DOC-041-C010,WO-DOC-041,0.6505622863769531,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Transport dinner EVT-03 belum datang
+WO-DEV-016,R3,5,WO-DOC-041-C008,WO-DOC-041,0.6479759216308594,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Apakah seseorang sudah hadir
+WO-DEV-016,R3,6,WO-DOC-039-C005,WO-DOC-039,0.6416956186294556,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Permintaan khusus dan keluhan
+WO-DEV-016,R3,7,WO-DOC-041-C006,WO-DOC-041,0.6409739255905151,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu membutuhkan bantuan bergerak
+WO-DEV-016,R3,8,WO-DOC-041-C002,WO-DOC-041,0.6371583938598633,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Kode undangan tidak ada pada daftar
+WO-DEV-016,R3,9,WO-DOC-039-C003,WO-DOC-039,0.6368343830108643,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-016,R3,10,WO-DOC-041-C012,WO-DOC-041,0.6355886459350586,UNJUDGED,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Lokasi acara berubah karena kondisi cuaca
+WO-DEV-016,R4,1,WO-DOC-005-C004,WO-DOC-005,0.031754032258064516,UNJUDGED,"Panduan Operasional Runner, Liaison Officer, dan Guest Desk",Guest desk menyelesaikan pertanyaan praktis
+WO-DEV-016,R4,2,WO-DOC-041-C007,WO-DOC-041,0.031099324975891997,2,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Tamu meminta makanan tertentu
+WO-DEV-016,R4,3,WO-DOC-039-C005,WO-DOC-039,0.030536130536130537,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Permintaan khusus dan keluhan
+WO-DEV-016,R4,4,WO-DOC-021-C002,WO-DOC-021,0.03028233151183971,UNJUDGED,Panduan Sinkronisasi Catering dan Banquet Service,Menetapkan dasar layanan
+WO-DEV-016,R4,5,WO-DOC-039-C003,WO-DOC-039,0.02964426877470356,UNJUDGED,"Panduan Pendampingan Keluarga Inti, VIP, dan Tamu Khusus",Kedatangan dan pengantaran
+WO-DEV-016,R4,6,WO-DOC-041-C003,WO-DOC-041,0.029030910609857977,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Satu kelompok datang lebih banyak dari rencana
+WO-DEV-016,R4,7,WO-DOC-035-C005,WO-DOC-035,0.02761904761904762,UNJUDGED,Panduan Operasional Wedding pada Hotel Ballroom dan Indoor Venue,Banquet dan arus tamu
+WO-DEV-016,R4,8,WO-DOC-043-C013,WO-DOC-043,0.02690501986276634,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",18.00 sampai 19.00 dinner 60 menit
+WO-DEV-016,R4,9,WO-DOC-021-C005,WO-DOC-021,0.026547116736990152,UNJUDGED,Panduan Sinkronisasi Catering dan Banquet Service,Penundaan dan perubahan headcount
+WO-DEV-016,R4,10,WO-DOC-041-C008,WO-DOC-041,0.02625418060200669,0,FAQ Internal Guest Desk dan Penanganan Kebutuhan Tamu,Apakah seseorang sudah hadir
+WO-DEV-017,R1,1,WO-DOC-043-C012,WO-DOC-043,0.1601405380096038,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",17.30 sampai 18.00 entrance dan sambutan 30 menit
+WO-DEV-017,R1,2,WO-DOC-030-C004,WO-DOC-030,0.15613821299633088,2,Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara,Contoh EVT-02
+WO-DEV-017,R1,3,WO-DOC-017-C005,WO-DOC-017,0.15271896472013127,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C04 sambutan pukul 17.40
+WO-DEV-017,R1,4,WO-DOC-010-C003,WO-DOC-010,0.12201471946498481,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-017,R1,5,WO-DOC-044-C014,WO-DOC-044,0.12140018258819577,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,19.00 sampai 20.30 resepsi dan entertainment 90 menit
+WO-DEV-017,R1,6,WO-DOC-043-C001,WO-DOC-043,0.1101628544800527,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",Konteks rundown EVT-03
+WO-DEV-017,R1,7,WO-DOC-043-C010,WO-DOC-043,0.10211239882265588,0,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-017,R1,8,WO-DOC-047-C002,WO-DOC-047,0.0997005223393063,0,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Isi paket serah terima
+WO-DEV-017,R1,9,WO-DOC-009-C004,WO-DOC-009,0.0942886862087946,1,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Menemukan selisih dan menguji dampak
+WO-DEV-017,R1,10,WO-DOC-043-C008,WO-DOC-043,0.0917829938470735,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.00 sampai 16.25 foto prioritas 25 menit
+WO-DEV-017,R2,1,WO-DOC-030-C004,WO-DOC-030,14.955491025339555,2,Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara,Contoh EVT-02
+WO-DEV-017,R2,2,WO-DOC-017-C005,WO-DOC-017,12.713995096804224,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C04 sambutan pukul 17.40
+WO-DEV-017,R2,3,WO-DOC-043-C012,WO-DOC-043,12.462266130652125,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",17.30 sampai 18.00 entrance dan sambutan 30 menit
+WO-DEV-017,R2,4,WO-DOC-044-C014,WO-DOC-044,11.92053285036988,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,19.00 sampai 20.30 resepsi dan entertainment 90 menit
+WO-DEV-017,R2,5,WO-DOC-010-C003,WO-DOC-010,11.29936908233785,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-017,R2,6,WO-DOC-047-C002,WO-DOC-047,10.499928425714954,0,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Isi paket serah terima
+WO-DEV-017,R2,7,WO-DOC-023-C004,WO-DOC-023,9.941752594541054,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Pelaksanaan resepsi
+WO-DEV-017,R2,8,WO-DOC-014-C002,WO-DOC-014,9.332174332953416,0,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-017,R2,9,WO-DOC-020-C002,WO-DOC-020,9.326965029096735,UNJUDGED,"Panduan Koordinasi Vendor Dekorasi, Lighting, dan Area Setup",Sebelum loading dimulai
+WO-DEV-017,R2,10,WO-DOC-017-C001,WO-DOC-017,9.155853413430474,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",Konteks cue resepsi
+WO-DEV-017,R3,1,WO-DOC-043-C013,WO-DOC-043,0.7004433870315552,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",18.00 sampai 19.00 dinner 60 menit
+WO-DEV-017,R3,2,WO-DOC-043-C010,WO-DOC-043,0.6942596435546875,0,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-017,R3,3,WO-DOC-030-C004,WO-DOC-030,0.6932079195976257,2,Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara,Contoh EVT-02
+WO-DEV-017,R3,4,WO-DOC-043-C012,WO-DOC-043,0.6889370679855347,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",17.30 sampai 18.00 entrance dan sambutan 30 menit
+WO-DEV-017,R3,5,WO-DOC-043-C006,WO-DOC-043,0.6806007027626038,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",15.00 sampai 15.15 standby dan buffer 15 menit
+WO-DEV-017,R3,6,WO-DOC-043-C016,WO-DOC-043,0.6729379892349243,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-017,R3,7,WO-DOC-043-C009,WO-DOC-043,0.6724770665168762,0,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.25 sampai 16.40 buffer keberangkatan 15 menit
+WO-DEV-017,R3,8,WO-DOC-043-C005,WO-DOC-043,0.6724117994308472,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",14.30 sampai 15.00 registrasi dan seating 30 menit
+WO-DEV-017,R3,9,WO-DOC-030-C002,WO-DOC-030,0.6719169616699219,2,Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara,Sebelum memilih tindakan
+WO-DEV-017,R3,10,WO-DOC-043-C011,WO-DOC-043,0.6707701683044434,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",17.00 sampai 17.30 welcome dan transisi 30 menit
+WO-DEV-017,R4,1,WO-DOC-030-C004,WO-DOC-030,0.032266458495966696,2,Panduan Penyesuaian Rundown dan Penanganan Keterlambatan Acara,Contoh EVT-02
+WO-DEV-017,R4,2,WO-DOC-043-C012,WO-DOC-043,0.03149801587301587,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",17.30 sampai 18.00 entrance dan sambutan 30 menit
+WO-DEV-017,R4,3,WO-DOC-043-C010,WO-DOC-043,0.02928692699490662,0,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.40 sampai 17.00 perpindahan 20 menit
+WO-DEV-017,R4,4,WO-DOC-044-C014,WO-DOC-044,0.028283227848101264,UNJUDGED,Timeline Koordinasi International Wedding dan Outdoor Reception,19.00 sampai 20.30 resepsi dan entertainment 90 menit
+WO-DEV-017,R4,5,WO-DOC-023-C004,WO-DOC-023,0.0266900790166813,UNJUDGED,"Panduan Koordinasi MC, Entertainment, dan Audio Cue",Pelaksanaan resepsi
+WO-DEV-017,R4,6,WO-DOC-043-C001,WO-DOC-043,0.02667140825035562,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",Konteks rundown EVT-03
+WO-DEV-017,R4,7,WO-DOC-043-C016,WO-DOC-043,0.02664576802507837,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-017,R4,8,WO-DOC-043-C008,WO-DOC-043,0.026153846153846153,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",16.00 sampai 16.25 foto prioritas 25 menit
+WO-DEV-017,R4,9,WO-DOC-017-C005,WO-DOC-017,0.025562994522215457,UNJUDGED,"Cue Sheet Koordinasi MC, Banquet, dan Reception Flow",C04 sambutan pukul 17.40
+WO-DEV-017,R4,10,WO-DOC-043-C013,WO-DOC-043,0.02445795875198308,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",18.00 sampai 19.00 dinner 60 menit
+WO-DEV-018,R1,1,WO-DOC-010-C003,WO-DOC-010,0.16771150950968,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-018,R1,2,WO-DOC-014-C006,WO-DOC-014,0.1580548175352147,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Setelah prosesi
+WO-DEV-018,R1,3,WO-DOC-046-C004,WO-DOC-046,0.1353295369374098,UNJUDGED,Panduan Singkat Jalur Eskalasi dan Hak Pengambilan Keputusan,Bila penerima tidak menjawab
+WO-DEV-018,R1,4,WO-DOC-009-C001,WO-DOC-009,0.13077430327691322,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-018,R1,5,WO-DOC-028-C002,WO-DOC-028,0.11759031233090925,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-018,R1,6,WO-DOC-004-C004,WO-DOC-004,0.10782239942380949,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Saat vendor tiba dan bekerja
+WO-DEV-018,R1,7,WO-DOC-047-C001,WO-DOC-047,0.099017686154683,UNJUDGED,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Mengapa handover memerlukan pengakuan
+WO-DEV-018,R1,8,WO-DOC-013-C001,WO-DOC-013,0.09672703685676105,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Tujuan dan kondisi awal
+WO-DEV-018,R1,9,WO-DOC-014-C002,WO-DOC-014,0.09546697347829392,0,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-018,R1,10,WO-DOC-003-C006,WO-DOC-003,0.0942563409490778,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Handover dan pekerjaan penutup
+WO-DEV-018,R2,1,WO-DOC-014-C006,WO-DOC-014,18.233584831252273,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Setelah prosesi
+WO-DEV-018,R2,2,WO-DOC-010-C003,WO-DOC-010,17.781967447744144,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Urutan pembahasan yang disarankan
+WO-DEV-018,R2,3,WO-DOC-009-C001,WO-DOC-009,16.478377796083667,UNJUDGED,Prosedur Final Confirmation dan Rekonsiliasi Kesiapan Vendor,Apa yang harus direkonsiliasi
+WO-DEV-018,R2,4,WO-DOC-028-C002,WO-DOC-028,14.204125762010005,UNJUDGED,Prosedur Penanganan Gangguan Listrik dan Koordinasi Backup Power,Antisipasi sebelum acara
+WO-DEV-018,R2,5,WO-DOC-014-C002,WO-DOC-014,13.667817682549884,0,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Memeriksa rencana sebelum layanan dimulai
+WO-DEV-018,R2,6,WO-DOC-004-C004,WO-DOC-004,13.515539656998532,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Saat vendor tiba dan bekerja
+WO-DEV-018,R2,7,WO-DOC-010-C001,WO-DOC-010,12.8855088560634,UNJUDGED,Panduan Technical Meeting dan Catatan Keputusan Pra-Acara,Tujuan pertemuan teknis
+WO-DEV-018,R2,8,WO-DOC-046-C004,WO-DOC-046,12.836397775987738,UNJUDGED,Panduan Singkat Jalur Eskalasi dan Hak Pengambilan Keputusan,Bila penerima tidak menjawab
+WO-DEV-018,R2,9,WO-DOC-019-C001,WO-DOC-019,12.575484284250152,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Penutupan publik dan penutupan kerja
+WO-DEV-018,R2,10,WO-DOC-003-C006,WO-DOC-003,12.303602941917722,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Handover dan pekerjaan penutup
+WO-DEV-018,R3,1,WO-DOC-003-C006,WO-DOC-003,0.722736120223999,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Handover dan pekerjaan penutup
+WO-DEV-018,R3,2,WO-DOC-001-C005,WO-DOC-001,0.6968288421630859,2,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Handover pada pergantian fase
+WO-DEV-018,R3,3,WO-DOC-047-C004,WO-DOC-047,0.6827641725540161,UNJUDGED,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Contoh antar-PIC saat EVT-01 pindah
+WO-DEV-018,R3,4,WO-DOC-013-C006,WO-DOC-013,0.6816227436065674,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Pergantian tugas dan istirahat
+WO-DEV-018,R3,5,WO-DOC-047-C001,WO-DOC-047,0.6722823977470398,UNJUDGED,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Mengapa handover memerlukan pengakuan
+WO-DEV-018,R3,6,WO-DOC-019-C007,WO-DOC-019,0.6670486927032471,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Handover final dan evaluasi
+WO-DEV-018,R3,7,WO-DOC-047-C006,WO-DOC-047,0.6607259511947632,UNJUDGED,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Handover menuju penutupan
+WO-DEV-018,R3,8,WO-DOC-043-C016,WO-DOC-043,0.6558750867843628,UNJUDGED,"Rundown Pemberkatan, Perpindahan Venue, dan Intimate Dinner",20.00 sampai 21.00 breakdown dan handover 60 menit
+WO-DEV-018,R3,9,WO-DOC-004-C005,WO-DOC-004,0.6539853811264038,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Serah terima area dan pengecualian
+WO-DEV-018,R3,10,WO-DOC-003-C002,WO-DOC-003,0.6518059968948364,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Pegangan kerja PIC pengantin
+WO-DEV-018,R4,1,WO-DOC-003-C006,WO-DOC-003,0.030679156908665108,UNJUDGED,Panduan Tanggung Jawab PIC Pengantin dan PIC Keluarga,Handover dan pekerjaan penutup
+WO-DEV-018,R4,2,WO-DOC-001-C005,WO-DOC-001,0.027893738140417457,2,Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer,Handover pada pergantian fase
+WO-DEV-018,R4,3,WO-DOC-013-C006,WO-DOC-013,0.027820121951219513,UNJUDGED,"SOP Kedatangan Kru, Check-in, dan Persiapan Area Kerja",Pergantian tugas dan istirahat
+WO-DEV-018,R4,4,WO-DOC-014-C006,WO-DOC-014,0.027629397679130595,UNJUDGED,Prosedur Pendampingan Persiapan Pengantin dan Keluarga Inti,Setelah prosesi
+WO-DEV-018,R4,5,WO-DOC-047-C001,WO-DOC-047,0.027432808155699723,UNJUDGED,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Mengapa handover memerlukan pengakuan
+WO-DEV-018,R4,6,WO-DOC-048-C006,WO-DOC-048,0.025793650793650792,UNJUDGED,"Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset","Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional"
+WO-DEV-018,R4,7,WO-DOC-004-C004,WO-DOC-004,0.025677830940988834,UNJUDGED,Uraian Tugas PIC Vendor dan PIC Venue,Saat vendor tiba dan bekerja
+WO-DEV-018,R4,8,WO-DOC-047-C002,WO-DOC-047,0.02519288301054952,2,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Isi paket serah terima
+WO-DEV-018,R4,9,WO-DOC-019-C007,WO-DOC-019,0.023847167325428194,UNJUDGED,Prosedur Penutupan Acara dan Serah Terima Area Operasional,Handover final dan evaluasi
+WO-DEV-018,R4,10,WO-DOC-047-C006,WO-DOC-047,0.023697302958889763,UNJUDGED,Panduan Handover Antar-PIC dan Pencatatan Keputusan Lapangan,Handover menuju penutupan

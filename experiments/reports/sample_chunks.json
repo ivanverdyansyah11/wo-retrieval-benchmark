@@ -1,0 +1,711 @@
+[
+  {
+    "chunk_id": "WO-DOC-001-C001",
+    "document_id": "WO-DOC-001",
+    "format": "DOCX",
+    "heading": "Cara menggunakan struktur lapangan",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "b0006",
+          "body_position": 6,
+          "heading": "Cara menggunakan struktur lapangan",
+          "heading_path": [
+            "Cara menggunakan struktur lapangan"
+          ],
+          "paragraph_position": 6,
+          "serialized_char_end": 598,
+          "serialized_char_start": 0
+        }
+      ]
+    },
+    "text_preview": "Cara menggunakan struktur lapangan\n\nWedding Organizer X membagi pekerjaan menurut kendali acara, pendampingan orang, koordinasi pemasok, dan penguasaan fasilitas. Struktur ini dipakai untuk menetapkan siapa yang menyelesaikan pekerjaan dan siapa yang mengesahkan perubahan. Satu orang boleh memegang lebih dari satu peran pada acara kecil, tetapi penugasannya harus tertulis. Merangkap PIC pengantin dan pengendali seluruh vendor tidak dianjurkan ketika kedua pekerjaan berlangsung bersamaan. Daftar penugasan diterbitkan Event Coordinator sebelum briefing terakhir; kru membaca peran, pengganti, area kerja, dan jalur laporan mereka.",
+    "token_count": 159
+  },
+  {
+    "chunk_id": "WO-DOC-014-C001",
+    "document_id": "WO-DOC-014",
+    "format": "DOCX",
+    "heading": "Lingkup pendampingan",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "b0006",
+          "body_position": 6,
+          "heading": "Lingkup pendampingan",
+          "heading_path": [
+            "Lingkup pendampingan"
+          ],
+          "paragraph_position": 6,
+          "serialized_char_end": 422,
+          "serialized_char_start": 0
+        }
+      ]
+    },
+    "text_preview": "Lingkup pendampingan\n\nProsedur ini digunakan untuk persiapan pasangan dan keluarga inti pada EVT-02 di hotel ballroom VENUE-02 dengan sekitar 280 tamu. PIC pengantin STAFF-03 berkoordinasi dengan WC dan VEN-MUA-01. PIC keluarga STAFF-04 mengatur kelompok pendamping. Tujuannya menjaga waktu siap yang realistis, kenyamanan, privasi, serta perpindahan menuju akad. Urutan ritual hanya mengikuti konfirmasi pemimpin prosesi dan client melalui WC.",
+    "token_count": 111
+  },
+  {
+    "chunk_id": "WO-DOC-028-C001",
+    "document_id": "WO-DOC-028",
+    "format": "DOCX",
+    "heading": "Tujuan dan batas tindakan",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "b0006",
+          "body_position": 6,
+          "heading": "Tujuan dan batas tindakan",
+          "heading_path": [
+            "Tujuan dan batas tindakan"
+          ],
+          "paragraph_position": 6,
+          "serialized_char_end": 494,
+          "serialized_char_start": 0
+        }
+      ]
+    },
+    "text_preview": "Tujuan dan batas tindakan\n\nPanduan ini mengatur koordinasi ketika pasokan listrik atau layanan yang bergantung padanya terganggu. Berlaku untuk garden EVT-01 dan ballroom EVT-02 sesuai fasilitas masing-masing. WO mengoordinasikan penghentian kegiatan, perlindungan arus orang, komunikasi, serta keputusan acara. Pemeriksaan instalasi, isolasi sumber daya, penyambungan backup, dan penilaian kelayakan hanya dilakukan petugas berkompeten yang berwenang. Dokumen ini tidak memberi prosedur perbaikan listrik untuk kru umum.",
+    "token_count": 131
+  },
+  {
+    "chunk_id": "WO-DOC-005-C001",
+    "document_id": "WO-DOC-005",
+    "format": "PDF",
+    "heading": "Pegangan cepat kru pendukung",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "p001-b007",
+          "heading": "Pegangan cepat kru pendukung",
+          "page_block": 7,
+          "page_end": 1,
+          "page_start": 1,
+          "serialized_char_end": 510,
+          "serialized_char_start": 0
+        }
+      ],
+      "page_end": 1,
+      "page_start": 1
+    },
+    "text_preview": "Pegangan cepat kru pendukung\n\nPanduan ini digunakan runner, LO, dan guest desk saat EVT-03 di VENUE-03 dengan 45 tamu. Ketiganya bekerja dekat tamu, tetapi menerima tugas dari PIC yang berbeda. Runner menerima penugasan logistik dari PIC terkait melalui pengendali tugas. LO transport bekerja dengan PIC keluarga dan penyedia kendaraan. Guest desk melapor kepada STAFF-08. Jika dua orang memberikan tugas bersamaan, kru menyampaikan pekerjaan yang sedang berjalan dan meminta prioritas; jangan meninggalkan penugasan pertama tanpa handover.",
+    "token_count": 135
+  },
+  {
+    "chunk_id": "WO-DOC-021-C001",
+    "document_id": "WO-DOC-021",
+    "format": "PDF",
+    "heading": "Titik temu WO dan banquet",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "p001-b007",
+          "heading": "Titik temu WO dan banquet",
+          "page_block": 7,
+          "page_end": 1,
+          "page_start": 1,
+          "serialized_char_end": 429,
+          "serialized_char_start": 0
+        }
+      ],
+      "page_end": 1,
+      "page_start": 1
+    },
+    "text_preview": "Titik temu WO dan banquet\n\nPada EVT-02, sekitar 280 tamu mengikuti akad dan resepsi di ballroom VENUE-02. Banquet hotel dan penyedia catering yang benar-benar digunakan bertanggung jawab atas penyiapan serta layanan makanan sesuai lingkup mereka. WO mengendalikan arus acara dan pertukaran informasi. PIC vendor STAFF-05 menjadi jalur koordinasi layanan, PIC venue STAFF-06 menghubungkan kebutuhan fasilitas hotel, dan EC mengesahkan perubahan waktu utama.",
+    "token_count": 114
+  },
+  {
+    "chunk_id": "WO-DOC-037-C001",
+    "document_id": "WO-DOC-037",
+    "format": "PDF",
+    "heading": "Konteks dan asumsi lokasi",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "p001-b007",
+          "heading": "Konteks dan asumsi lokasi",
+          "page_block": 7,
+          "page_end": 1,
+          "page_start": 1,
+          "serialized_char_end": 426,
+          "serialized_char_start": 0
+        }
+      ],
+      "page_end": 1,
+      "page_start": 1
+    },
+    "text_preview": "Konteks dan asumsi lokasi\n\nEVT-04 adalah beach wedding untuk sekitar 80 tamu di VENUE-04. Penggunaan area diasumsikan telah memperoleh persetujuan pengelola lokasi; dokumen ini tidak menjadi bukti izin, prediksi pasang surut, atau jaminan keamanan pantai. PIC venue memverifikasi ketentuan lokasi dan berkoordinasi dengan pihak berwenang bila diperlukan. EC mengendalikan keputusan operasional, WC mengurus persetujuan client terkait biaya atau lingkup.",
+    "token_count": 114
+  },
+  {
+    "chunk_id": "WO-DOC-012-C001",
+    "document_id": "WO-DOC-012",
+    "format": "TXT",
+    "heading": "Briefing simulasi H-1 pukul 17.00 WITA",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "l0008-0008",
+          "line_end": 8,
+          "line_start": 8,
+          "section": "Briefing simulasi H-1 pukul 17.00 WITA",
+          "serialized_char_end": 380,
+          "serialized_char_start": 0
+        }
+      ],
+      "line_end": 8,
+      "line_start": 8
+    },
+    "text_preview": "Briefing simulasi H-1 pukul 17.00 WITA\n\nEvent EVT-01, CLIENT-01, VENUE-01 garden villa, sekitar 120 tamu. Ceremony sore dan resepsi malam menggunakan rundown versi 1.0. Catatan ini adalah briefing terisi untuk simulasi; seluruh status di bawah merupakan asumsi latihan. STAFF-01 memimpin kendali acara dan STAFF-02 memegang komunikasi client. Jangan memakai catatan ini sebagai bukti kesiapan fasilitas pada acara nyata.",
+    "token_count": 105
+  },
+  {
+    "chunk_id": "WO-DOC-018-C001",
+    "document_id": "WO-DOC-018",
+    "format": "TXT",
+    "heading": "Catatan lapangan simulasi EVT-01",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "l0008-0008",
+          "line_end": 8,
+          "line_start": 8,
+          "section": "Catatan lapangan simulasi EVT-01",
+          "serialized_char_end": 348,
+          "serialized_char_start": 0
+        }
+      ],
+      "line_end": 8,
+      "line_start": 8
+    },
+    "text_preview": "Catatan lapangan simulasi EVT-01\n\nEvent: EVT-01. Client: CLIENT-01. Venue: VENUE-01 garden villa. Jumlah rencana: sekitar 120 tamu. Waktu: WITA. Catatan ini merupakan kasus simulasi perpindahan dari garden ke area tertutup, bukan arsip kejadian perusahaan. Log disusun STAFF-07 dan diserahkan kepada STAFF-01 untuk pengendalian. Rundown awal versi 1.0 mengikuti briefing WO-DOC-012.",
+    "token_count": 96
+  },
+  {
+    "chunk_id": "WO-DOC-030-C001",
+    "document_id": "WO-DOC-030",
+    "format": "TXT",
+    "heading": "Kartu keputusan untuk keterlambatan",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "l0008-0008",
+          "line_end": 8,
+          "line_start": 8,
+          "section": "Kartu keputusan untuk keterlambatan",
+          "serialized_char_end": 347,
+          "serialized_char_start": 0
+        }
+      ],
+      "line_end": 8,
+      "line_start": 8
+    },
+    "text_preview": "Kartu keputusan untuk keterlambatan\n\nEC STAFF-01 memutuskan perubahan rundown utama. PIC melaporkan posisi kegiatan, prasyarat yang gagal, perkiraan siap, dan dampak. WC STAFF-02 memeriksa persetujuan client bila biaya atau lingkup berubah. Floor tidak memotong urutan utama sendiri, MC tidak mengumumkan jam baru sebelum instruksi, dan runner tidak menyetujui perubahan atas nama EC.",
+    "token_count": 96
+  },
+  {
+    "chunk_id": "WO-DOC-006-C001",
+    "document_id": "WO-DOC-006",
+    "format": "XLSX",
+    "heading": "Matriks Pembagian Tanggung Jawab Tim Wedding Day / Operasional",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "s1-r0006",
+          "column_end": "F",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 6,
+          "row_start": 6,
+          "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+          "serialized_char_end": 172,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0007",
+          "column_end": "F",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 7,
+          "row_start": 7,
+          "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+          "serialized_char_end": 178,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0008",
+          "column_end": "F",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 8,
+          "row_start": 8,
+          "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+          "serialized_char_end": 195,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0009",
+          "column_end": "F",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 9,
+          "row_start": 9,
+          "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+          "serialized_char_end": 176,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0010",
+          "column_end": "F",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 10,
+          "row_start": 10,
+          "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+          "serialized_char_end": 177,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0011",
+          "column_end": "F",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 11,
+          "row_start": 11,
+          "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+          "serialized_char_end": 183,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0012",
+          "column_end": "F",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 12,
+          "row_start": 12,
+          "section": "Matriks Pembagian Tanggung Jawab Tim Wedding Day",
+          "serialized_char_end": 191,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        }
+      ],
+      "header_row": 5,
+      "row_end": 12,
+      "row_start": 6,
+      "sheet": "Operasional",
+      "table": "Operasional:table-1"
+    },
+    "text_preview": "Sheet: Operasional\nSection: Matriks Pembagian Tanggung Jawab Tim Wedding Day\nHeader: Tugas | A | R | C | I | Keluaran dan batas kewenangan\n\nBagian: Konteks 2\nKeterangan: A adalah pengesah operasional untuk satu tugas; R pelaksana utama, C dimintai masukan, I penerima informasi.\n\nRow: 6\nTugas: Menetapkan lingkup layanan\nA: WC\nR: WC\nC: EC; client\nI: PIC vendor\nKeluaran dan batas kewenangan: Client menyetujui lingkup dan biaya; WC mencatat persetujuan\n\nRow: 7\nTugas: Menyusun rundown utama\nA: EC\nR: floor\nC: WC; PIC vendor; PIC venue\nI: seluruh PIC\nKeluaran dan batas kewenangan: Versi aktif disahkan EC setelah prasyarat diperiksa\n\nRow: 8\nTugas: Mengonfirmasi urutan ritual\nA: WC\nR: WC\nC: pemimpin prosesi; client\nI: floor; PIC keluarga\nKeluaran dan batas kewenangan: Arahan ritual berasal dari pihak berwenang, bukan asumsi WO\n\nRow: 9\nTugas: Membagi personel dan pengganti\nA: EC\nR: EC\nC: WC; seluruh PIC\nI: runner; LO\nKeluaran dan batas kewenangan: Setiap fungsi kritis mempunyai penerima serta pengganti\n\nRow: 10\nTugas: Memeriksa akses loading\nA: EC\nR: PIC venue\nC: pengelola; PIC vendor\nI: runner\nKeluaran dan batas kewenangan: Pengelola mengizinkan akses; EC mengatur urutan kerja\n\nRow: 11\nTugas: Merekonsiliasi lingkup dekor\nA: EC\nR: PIC vendor\nC: WC; PIC venue\nI: floor\nKeluaran dan batas kewenangan: Selisih tampilan dibawa WC kepada client bila mengubah lingkup\n\nRow: 12\nTugas: Menilai fasi",
+    "token_count": 391
+  },
+  {
+    "chunk_id": "WO-DOC-025-C001",
+    "document_id": "WO-DOC-025",
+    "format": "XLSX",
+    "heading": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik / Operasional",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "s1-r0006",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 6,
+          "row_start": 6,
+          "section": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik",
+          "serialized_char_end": 235,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0007",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 7,
+          "row_start": 7,
+          "section": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik",
+          "serialized_char_end": 247,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0008",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 8,
+          "row_start": 8,
+          "section": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik",
+          "serialized_char_end": 264,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0009",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 9,
+          "row_start": 9,
+          "section": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik",
+          "serialized_char_end": 246,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0010",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 10,
+          "row_start": 10,
+          "section": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik",
+          "serialized_char_end": 216,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0011",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 11,
+          "row_start": 11,
+          "section": "Matriks Penugasan Transport, Driver, Shuttle, dan Logistik",
+          "serialized_char_end": 223,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        }
+      ],
+      "header_row": 5,
+      "row_end": 11,
+      "row_start": 6,
+      "sheet": "Operasional",
+      "table": "Operasional:table-1"
+    },
+    "text_preview": "Sheet: Operasional\nSection: Matriks Penugasan Transport, Driver, Shuttle, dan Logistik\nHeader: Waktu WITA | Unit atau tugas | Muatan atau kelompok | Jumlah orang | PIC | Prasyarat | Penerima dan fallback\n\nRow: 6\nWaktu WITA: H-7\nUnit atau tugas: Verifikasi rute\nMuatan atau kelompok: chapel ke dinner\nJumlah orang: 0\nPIC: PIC venue\nPrasyarat: Pengelola mengonfirmasi akses\nPenerima dan fallback: LO menerima batas; revisi durasi bila berbeda\n\nRow: 7\nWaktu WITA: H-7\nUnit atau tugas: Verifikasi kapasitas\nMuatan atau kelompok: TRN-01 sampai TRN-03\nJumlah orang: 0\nPIC: PIC vendor\nPrasyarat: Penyedia memeriksa kendaraan\nPenerima dan fallback: EC menerima kemampuan aktual, bukan asumsi tabel\n\nRow: 8\nWaktu WITA: H-3\nUnit atau tugas: Konfirmasi bantuan akses\nMuatan atau kelompok: kelompok berkebutuhan bantuan\nJumlah orang: 0\nPIC: PIC keluarga\nPrasyarat: Tanyakan bantuan yang diinginkan\nPenerima dan fallback: LO dan penyedia memilih dukungan terkonfirmasi\n\nRow: 9\nWaktu WITA: H-1\nUnit atau tugas: Konfirmasi driver\nMuatan atau kelompok: DRIVER-01 sampai DRIVER-03\nJumlah orang: 0\nPIC: PIC vendor\nPrasyarat: Penyedia menunjuk penanggung jawab\nPenerima dan fallback: LO menerima kanal transport konseptual\n\nRow: 10\nWaktu WITA: 12:30:00\nUnit atau tugas: Briefing dispatch\nMuatan atau kelompok: STAFF-10\nJumlah orang: 1\nPIC: EC\nPrasyarat: Rundown dan daftar berlaku\nPenerima dan fallback: LO mengulang ti",
+    "token_count": 412
+  },
+  {
+    "chunk_id": "WO-DOC-040-C001",
+    "document_id": "WO-DOC-040",
+    "format": "XLSX",
+    "heading": "Matriks Seating Allocation dan Penugasan Guest Escort / Operasional",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "s1-r0006",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 6,
+          "row_start": 6,
+          "section": "Matriks Seating Allocation dan Penugasan Guest Escort",
+          "serialized_char_end": 223,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0007",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 7,
+          "row_start": 7,
+          "section": "Matriks Seating Allocation dan Penugasan Guest Escort",
+          "serialized_char_end": 223,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0008",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 8,
+          "row_start": 8,
+          "section": "Matriks Seating Allocation dan Penugasan Guest Escort",
+          "serialized_char_end": 223,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0009",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 9,
+          "row_start": 9,
+          "section": "Matriks Seating Allocation dan Penugasan Guest Escort",
+          "serialized_char_end": 223,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0010",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 10,
+          "row_start": 10,
+          "section": "Matriks Seating Allocation dan Penugasan Guest Escort",
+          "serialized_char_end": 224,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0011",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 11,
+          "row_start": 11,
+          "section": "Matriks Seating Allocation dan Penugasan Guest Escort",
+          "serialized_char_end": 224,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        }
+      ],
+      "header_row": 5,
+      "row_end": 11,
+      "row_start": 6,
+      "sheet": "Operasional",
+      "table": "Operasional:table-1"
+    },
+    "text_preview": "Sheet: Operasional\nSection: Matriks Seating Allocation dan Penugasan Guest Escort\nHeader: Kelompok | Alokasi | Jumlah orang | Sektor | Escort | Titik serah terima | Kontrol perubahan\n\nRow: 6\nKelompok: G-01\nAlokasi: SEAT-01\nJumlah orang: 10\nSektor: A keluarga\nEscort: STAFF-11\nTitik serah terima: Guest desk ke floor sektor A\nKontrol perubahan: PIC keluarga konfirmasi prioritas, tidak tukar tanpa verifikasi\n\nRow: 7\nKelompok: G-02\nAlokasi: SEAT-02\nJumlah orang: 10\nSektor: A keluarga\nEscort: STAFF-12\nTitik serah terima: Guest desk ke floor sektor A\nKontrol perubahan: PIC keluarga konfirmasi prioritas, tidak tukar tanpa verifikasi\n\nRow: 8\nKelompok: G-03\nAlokasi: SEAT-03\nJumlah orang: 10\nSektor: A keluarga\nEscort: STAFF-11\nTitik serah terima: Guest desk ke floor sektor A\nKontrol perubahan: PIC keluarga konfirmasi prioritas, tidak tukar tanpa verifikasi\n\nRow: 9\nKelompok: G-04\nAlokasi: SEAT-04\nJumlah orang: 10\nSektor: A keluarga\nEscort: STAFF-12\nTitik serah terima: Guest desk ke floor sektor A\nKontrol perubahan: PIC keluarga konfirmasi prioritas, tidak tukar tanpa verifikasi\n\nRow: 10\nKelompok: G-05\nAlokasi: SEAT-05\nJumlah orang: 10\nSektor: A keluarga\nEscort: STAFF-11\nTitik serah terima: Guest desk ke floor sektor A\nKontrol perubahan: PIC keluarga konfirmasi prioritas, tidak tukar tanpa verifikasi\n\nRow: 11\nKelompok: G-06\nAlokasi: SEAT-06\nJumlah orang: 10\nSektor: A keluarga\nEscort: STAFF-",
+    "token_count": 384
+  },
+  {
+    "chunk_id": "WO-DOC-042-C001",
+    "document_id": "WO-DOC-042",
+    "format": "XLSX",
+    "heading": "Rundown Operasional Akad dan Resepsi Hotel Ballroom / Operasional",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "s1-r0006",
+          "column_end": "I",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 6,
+          "row_start": 6,
+          "section": "Rundown Operasional Akad dan Resepsi Hotel Ballroom",
+          "serialized_char_end": 241,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0007",
+          "column_end": "I",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 7,
+          "row_start": 7,
+          "section": "Rundown Operasional Akad dan Resepsi Hotel Ballroom",
+          "serialized_char_end": 249,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0008",
+          "column_end": "I",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 8,
+          "row_start": 8,
+          "section": "Rundown Operasional Akad dan Resepsi Hotel Ballroom",
+          "serialized_char_end": 251,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0009",
+          "column_end": "I",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 9,
+          "row_start": 9,
+          "section": "Rundown Operasional Akad dan Resepsi Hotel Ballroom",
+          "serialized_char_end": 257,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0010",
+          "column_end": "I",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 10,
+          "row_start": 10,
+          "section": "Rundown Operasional Akad dan Resepsi Hotel Ballroom",
+          "serialized_char_end": 258,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        }
+      ],
+      "header_row": 5,
+      "row_end": 10,
+      "row_start": 6,
+      "sheet": "Operasional",
+      "table": "Operasional:table-1"
+    },
+    "text_preview": "Sheet: Operasional\nSection: Rundown Operasional Akad dan Resepsi Hotel Ballroom\nHeader: Mulai | Selesai | Durasi menit | Aktivitas | PIC | Vendor terkait | Cue | Dependensi | Fallback atau komunikasi\n\nRow: 6\nMulai: 05:30:00\nSelesai: 06:00:00\nDurasi menit: 30\nAktivitas: Crew inti dan akses ruang\nPIC: EC\nVendor terkait: VEN-MUA-01\nCue: Cek akses\nDependensi: Pengelola melepas ruang\nFallback atau komunikasi: PIC venue konfirmasi bila tertahan\n\nRow: 7\nMulai: 06:00:00\nSelesai: 07:30:00\nDurasi menit: 90\nAktivitas: Makeup pasangan\nPIC: PIC pengantin\nVendor terkait: VEN-MUA-01\nCue: Mulai layanan\nDependensi: Lingkup serta urutan diakui\nFallback atau komunikasi: WC meminta prioritas bila berubah\n\nRow: 8\nMulai: 06:00:00\nSelesai: 07:00:00\nDurasi menit: 60\nAktivitas: Setup akhir ballroom\nPIC: PIC vendor\nVendor terkait: VEN-DEC-01; VEN-AV-01\nCue: Area kerja\nDependensi: Akses loading disetujui\nFallback atau komunikasi: EC menentukan keluaran kritis\n\nRow: 9\nMulai: 07:00:00\nSelesai: 07:30:00\nDurasi menit: 30\nAktivitas: Uji perangkat oleh teknisi\nPIC: PIC vendor\nVendor terkait: VEN-AV-01\nCue: Sound check\nDependensi: Posisi dan fasilitas dinilai\nFallback atau komunikasi: Tahan cue jika perangkat belum siap\n\nRow: 10\nMulai: 07:30:00\nSelesai: 08:00:00\nDurasi menit: 30\nAktivitas: Dressing serta benda prosesi\nPIC: PIC pengantin\nVendor terkait: VEN-MUA-01\nCue: Cek siap\nDependensi: Makeup selesai, barang",
+    "token_count": 367
+  },
+  {
+    "chunk_id": "WO-DOC-048-C001",
+    "document_id": "WO-DOC-048",
+    "format": "XLSX",
+    "heading": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset / Operasional",
+    "source_locator": {
+      "blocks": [
+        {
+          "block_id": "s1-r0006",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 6,
+          "row_start": 6,
+          "section": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset",
+          "serialized_char_end": 212,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0007",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 7,
+          "row_start": 7,
+          "section": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset",
+          "serialized_char_end": 219,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0008",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 8,
+          "row_start": 8,
+          "section": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset",
+          "serialized_char_end": 235,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0009",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 9,
+          "row_start": 9,
+          "section": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset",
+          "serialized_char_end": 211,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0010",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 10,
+          "row_start": 10,
+          "section": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset",
+          "serialized_char_end": 221,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        },
+        {
+          "block_id": "s1-r0011",
+          "column_end": "G",
+          "column_start": "A",
+          "header_row": 5,
+          "merged_ranges": [],
+          "row_end": 11,
+          "row_start": 11,
+          "section": "Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset",
+          "serialized_char_end": 210,
+          "serialized_char_start": 0,
+          "sheet": "Operasional",
+          "table": "Operasional:table-1"
+        }
+      ],
+      "header_row": 5,
+      "row_end": 11,
+      "row_start": 6,
+      "sheet": "Operasional",
+      "table": "Operasional:table-1"
+    },
+    "text_preview": "Sheet: Operasional\nSection: Checklist Breakdown Venue, Vendor Checkout, dan Pengembalian Aset\nHeader: Urutan | Pekerjaan | PIC | Kriteria selesai | Penerima atau eskalasi | Status | Waktu aktual dan temuan\n\nRow: 6\nUrutan: 1\nPekerjaan: Konfirmasi cue tutup\nPIC: floor\nKriteria selesai: EC memberi izin setelah kesiapan pulang\nPenerima atau eskalasi: MC menerima C penutup\nStatus: Belum diperiksa\nWaktu aktual dan temuan:\n\nRow: 7\nUrutan: 2\nPekerjaan: Periksa tamu masih di area\nPIC: guest desk\nKriteria selesai: Kelompok tersisa mempunyai pendamping\nPenerima atau eskalasi: PIC keluarga dan EC\nStatus: Belum diperiksa\nWaktu aktual dan temuan:\n\nRow: 8\nUrutan: 3\nPekerjaan: Konfirmasi transport pulang\nPIC: LO\nKriteria selesai: Kendaraan serta tujuan terkonfirmasi bila digunakan\nPenerima atau eskalasi: PIC keluarga menerima status\nStatus: Belum diperiksa\nWaktu aktual dan temuan:\n\nRow: 9\nUrutan: 4\nPekerjaan: Periksa foto akhir\nPIC: PIC vendor\nKriteria selesai: WC dan dokumentasi mengakui selesai\nPenerima atau eskalasi: EC sebelum lepas zona\nStatus: Belum diperiksa\nWaktu aktual dan temuan:\n\nRow: 10\nUrutan: 5\nPekerjaan: Kembalikan barang pengantin\nPIC: PIC pengantin\nKriteria selesai: Penerima disetujui dan tercatat\nPenerima atau eskalasi: WC bila belum diterima\nStatus: Belum diperiksa\nWaktu aktual dan temuan:\n\nRow: 11\nUrutan: 6\nPekerjaan: Serahkan keluarga tersisa\nPIC: PIC keluarga\nKriteria sel",
+    "token_count": 382
+  }
+]

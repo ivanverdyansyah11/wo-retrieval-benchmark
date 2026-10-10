@@ -1,0 +1,23 @@
+Panduan Singkat Jalur Eskalasi dan Hak Pengambilan Keputusan
+WO-DOC-046 | Wedding Organizer X | Versi 1.0
+Draft susunan peneliti; belum divalidasi praktisi. Skenario simulasi.
+Konteks: EVT-01, EVT-02, EVT-03, EVT-04
+Dokumen terkait: WO-DOC-001, WO-DOC-002, WO-DOC-034, WO-DOC-045, WO-DOC-047
+
+Kartu referensi kewenangan
+STAFF-01 Event Coordinator mengesahkan perubahan rundown utama dan koordinasi lintas fungsi. STAFF-02 Wedding Coordinator mengurus kebutuhan serta persetujuan client. Perubahan biaya atau lingkup memerlukan persetujuan client melalui WC. Pengelola venue dan petugas kompeten menentukan kelayakan fasilitas serta tindakan keselamatan sesuai bidangnya. Persetujuan client tidak menggantikan penilaian tersebut.
+
+Jalur sesuai sumber masalah
+Pengantin: STAFF-03 melapor ke WC, kemudian EC bila berdampak pada waktu atau alur. Keluarga dan seating: STAFF-04 mengonfirmasi kebutuhan, floor memeriksa kondisi, EC memutuskan dampak operasional utama. Vendor: STAFF-05 memeriksa keluaran dan pilihan pemasok, lalu EC menetapkan prioritas. Venue: STAFF-06 menghubungi pengelola atau petugas berwenang, lalu EC mengatur konsekuensi acara. Guest desk STAFF-08 meneruskan kebutuhan kepada PIC sesuai masalahnya.
+
+Bila ada dugaan bahaya
+Setiap kru boleh menahan tugasnya, menjauh dari bagian terdampak sesuai arahan, dan melapor segera. Libatkan PIC venue, EC, serta petugas berwenang. Jangan memperbaiki instalasi, memberi tindakan medis, atau melakukan pemeriksaan keamanan di luar kompetensi. Pembukaan kembali menunggu penilaian pihak terkait dan koordinasi EC. Kartu ini tidak menetapkan ambang keselamatan atau nomor bantuan darurat lokasi.
+
+Bila penerima tidak menjawab
+Gunakan jalur cadangan yang disepakati saat briefing. Sampaikan event, lokasi, fakta, dampak, serta keputusan yang dibutuhkan. Penerima membaca ulang waktu dan tujuan. Tidak ada jawaban bukan persetujuan. Floor menahan cue yang belum memenuhi prasyarat; runner membawa pesan tetapi tidak mengambil alih kewenangan pengesah.
+
+Batas delegasi
+Delegasi menyebut penerima, tugas, batas, dan masa berlaku. STAFF-02 dapat menjaga koordinasi sementara sesuai mandat EC yang tertulis, tetapi keputusan di luar mandat tetap diekskalasikan kecuali penghentian demi keselamatan. STAFF-07 boleh menahan entrance ketika jalur belum siap; ia tidak memotong prosesi atau membuka dinner sendiri. Catat delegasi lisan mendesak setelah keadaan memungkinkan.
+
+Jejak keputusan minimum
+Tuliskan waktu, pemicu, keputusan, pengesah, penerima, instruksi pengganti, dan status tindak lanjut. Sebut versi rundown apabila berubah. Handover kepada pengganti harus mendapat pengakuan. Masalah selesai secara lapangan dapat tetap memiliki tindakan perbaikan terbuka setelah acara; pemilik tindak lanjut tidak boleh hilang saat kru checkout.

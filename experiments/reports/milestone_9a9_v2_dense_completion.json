@@ -1,0 +1,151 @@
+{
+  "milestone": "9A.9",
+  "status": "OFFLINE_IMPLEMENTATION_PASS_GPU_BLOCKED_R3_V2_INCOMPLETE",
+  "created_at_utc": "2026-10-09T04:27:02.234149+00:00",
+  "snapshot_id": "WO-CORPUS-V2-AI-CORRECTED-PILOT-001",
+  "snapshot_fingerprint": "78cd4e407bb9bbad1766d0ec3827931381a469695b995a1acb8bbad1444addc6",
+  "corpus_validation_status": "ai_corrected_pilot_not_human_validated",
+  "resource_preflight": {
+    "initial_resource": {
+      "available_ram_bytes": 4555309056,
+      "commit_headroom_bytes": 10388144128,
+      "memory_load_percent": 73,
+      "process_rss_bytes": 150802432,
+      "process_peak_working_set_bytes": 152559616,
+      "disk_free_bytes": {
+        "C:/": 13986942976,
+        "D:/": 909337649152
+      }
+    },
+    "initial_gpu": {
+      "name": "NVIDIA GeForce GTX 1050",
+      "driver": "581.80",
+      "total_mib": 4096,
+      "used_mib": 0,
+      "free_mib": 4007
+    },
+    "approved_low_memory": true,
+    "approval_note": "User attachment aa0ea420-38db-448b-b370-fa762d0d8428 authorizes one controlled run; existing approved gate 5 GiB",
+    "loading_gate_gib": 5,
+    "effective_resource_policy": {
+      "cpu": "Intel Core i7-7700HQ",
+      "ram_gib_nominal": 16,
+      "gpu": "NVIDIA GTX 1050 4GB, capability6.1",
+      "threads": 4,
+      "single_model_process": true,
+      "recommended_available_ram_gib": 6,
+      "ram_gate": "dynamic preflight required; lower-margin run needs recorded explicit approval, not automatic override",
+      "monitor_interval_seconds": 0.2,
+      "gpu_monitor_interval_seconds": 2.0,
+      "stop_available_ram_mib": 2048,
+      "stop_commit_headroom_gib": 1,
+      "stop_memory_load_percent": 97,
+      "stop_sustained_seconds": 0,
+      "oom_policy": "stop own test/run; log full error and affected ID; release GPU; mark partial cache incomplete; no automatic retry",
+      "cpu_fallback": "separate RAM reassessment/approval and FP32 validation; never silently mix device/precision within one run",
+      "cache_and_temp_drive": "D:",
+      "cloud_policy": "separate declared environment/run; same protocol/snapshot hashes; no mixing local/cloud latency"
+    },
+    "model_loading": "NOT RUN",
+    "gpu_inference": "NOT RUN",
+    "initial_gate": "FAIL",
+    "error": "Available RAM below 5 GiB model-loading gate; no model loaded",
+    "other_python_processes": [
+      {
+        "pid": 18116,
+        "name": "python.exe",
+        "rss_bytes": 3620864
+      }
+    ]
+  },
+  "offline_verification": {
+    "status": "PASS",
+    "source_index_readiness": "PASS",
+    "v2_r1_r2_readiness": "PASS",
+    "reusable_verified_vectors": 369,
+    "requires_reembedding": [
+      "WO-DOC-024-C003",
+      "WO-DOC-027-C009"
+    ],
+    "snapshot_id": "WO-CORPUS-V2-AI-CORRECTED-PILOT-001",
+    "snapshot_fingerprint": "78cd4e407bb9bbad1766d0ec3827931381a469695b995a1acb8bbad1444addc6",
+    "target_identity_fingerprint": "8dba4c5660edd892285f0b3093732f11a5815e4ac39d06707900ff468f204254",
+    "source_vector_shape": [
+      371,
+      1024
+    ],
+    "v2_complete_index_exists": false,
+    "missing_v2_rejected_without_fallback": true,
+    "neural_runtime_imported": false,
+    "changed_token_lengths": [
+      {
+        "chunk_id": "WO-DOC-024-C003",
+        "serialized_text_sha256": "4a3795989f57df285596b4a1b73eb6a70723a67e6cbe1a94f34046b906e00208",
+        "token_length": 218
+      },
+      {
+        "chunk_id": "WO-DOC-027-C009",
+        "serialized_text_sha256": "d1704c559dfa415f359f820e11c726fb20f3ccec84117a98b03d0567a7f75bbf",
+        "token_length": 169
+      }
+    ]
+  },
+  "gpu_loading": "NOT RUN",
+  "two_new_embeddings": "NOT RUN",
+  "new_embeddings_generated": 0,
+  "actual_embedding_seconds": null,
+  "peak_model_ram_bytes": null,
+  "peak_gpu_allocated_bytes": null,
+  "peak_gpu_reserved_bytes": null,
+  "preflight_device_used_mib": 0,
+  "final_v2_index_shape": null,
+  "expected_v2_index_shape": [
+    371,
+    1024
+  ],
+  "r3_v2_ready": false,
+  "v2_index_directory_exists": false,
+  "live_query_sanity": "NOT RUN",
+  "offline_assembly_and_scoring_tests": "PASS with synthetic vectors only",
+  "gpu_model_loading_attempts": 0,
+  "actual_resource_gate_checks_for_this_run": 1,
+  "automatic_retry": false,
+  "cuda_readiness": "NOT RUN; initial resource gate failed before ML imports",
+  "tests": {
+    "retrieval_and_versioned": 91,
+    "ingestion": 29,
+    "total_distinct": 120,
+    "new_versioned_tests": 19,
+    "status": "PASS"
+  },
+  "integrity": {
+    "status": "PASS",
+    "existing_files_unchanged": 647,
+    "changes": [],
+    "final_resource": {
+      "available_ram_bytes": 4903788544,
+      "commit_headroom_bytes": 10329014272,
+      "memory_load_percent": 71,
+      "process_rss_bytes": 20738048,
+      "process_peak_working_set_bytes": 22380544,
+      "disk_free_bytes": {
+        "C:/": 13982470144,
+        "D:/": 909331726336
+      }
+    }
+  },
+  "created_implementation_sha256": {
+    "experiments/configs/dense_v2_binding.json": "5155ce8f7a5773b6372be74f5c08ef91f09a14241ab78293803e41d2c7f1232a",
+    "src/wo_retrieval/versioned_dense.py": "4e07ec7ca65b0e2ebdbb81b9be297188322e3eb71126de683675366414c2af65",
+    "tests/test_versioned_dense.py": "cdb42c6a03a33d58580a93c5a42b990d4637ae4c9a52c7fda188653c3a6d1d01"
+  },
+  "existing_files_changed": [],
+  "limitations": [
+    "No live CUDA or BGE-M3 model load/inference in this milestone.",
+    "Atomic completion and exact search tested only with synthetic fixtures; real V2 completion remains pending.",
+    "Inherited vector eligibility is input/config/checksum verification, not fresh semantic or numerical inference validation.",
+    "Model-process detection is conservative for known commands and locks; unmanaged processes may require manual inspection.",
+    "Human validation and complete ground truth remain pending."
+  ],
+  "next_action": "After review and fresh authorization/resource check: one incremental run for two changed inputs, no R4 or effectiveness evaluation."
+}

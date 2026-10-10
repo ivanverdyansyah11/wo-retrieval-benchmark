@@ -1,0 +1,163 @@
+{
+  "examples": [
+    {
+      "after_retrievable_text": "",
+      "before": "Struktur Organisasi Lapangan dan Alur Komando Wedding Organizer",
+      "retained_as": "canonical block plus administrative_blocks metadata",
+      "rule": "document_title_to_metadata",
+      "source_locator": {
+        "body_position": 1,
+        "heading": null,
+        "heading_path": [],
+        "paragraph_position": 1
+      }
+    },
+    {
+      "after_retrievable_text": "",
+      "before": "Konteks: EVT-01, EVT-02, EVT-03, EVT-04. Dokumen terkait: WO-DOC-002, WO-DOC-003, WO-DOC-004, WO-DOC-006, WO-DOC-045, WO-DOC-046.",
+      "retained_as": "canonical block plus administrative_blocks metadata",
+      "rule": "event_relation_banner_to_metadata",
+      "source_locator": {
+        "body_position": 4,
+        "heading": null,
+        "heading_path": [],
+        "paragraph_position": 4
+      }
+    },
+    {
+      "after_retrievable_text": "",
+      "before": "Wedding Organizer X | WO-DOC-005 1",
+      "retained_as": "canonical block plus administrative_blocks metadata",
+      "rule": "exact_pdf_running_footer_to_metadata",
+      "source_locator": {
+        "heading": null,
+        "page_block": 1,
+        "page_end": 1,
+        "page_start": 1
+      }
+    },
+    {
+      "after_retrievable_text": "",
+      "before": "Draft operasional susunan peneliti. Status: belum divalidasi praktisi. Skenario dan catatan pelaksanaan bersifat simulasi.",
+      "retained_as": "canonical block plus administrative_blocks metadata",
+      "rule": "exact_provenance_notice_to_metadata",
+      "source_locator": {
+        "body_position": 3,
+        "heading": null,
+        "heading_path": [],
+        "paragraph_position": 3
+      }
+    },
+    {
+      "after_retrievable_text": "",
+      "before": "Bagian: Identitas\nKeterangan: WO-DOC-006 | Wedding Organizer X | Versi 1.0",
+      "retained_as": "canonical block plus administrative_blocks metadata",
+      "rule": "guide_administrative_row_to_metadata",
+      "source_locator": {
+        "column_end": "B",
+        "column_start": "A",
+        "header_row": 5,
+        "merged_ranges": [],
+        "row_end": 6,
+        "row_start": 6,
+        "section": "Panduan",
+        "sheet": "Panduan",
+        "table": "Panduan:table-1"
+      }
+    },
+    {
+      "after_retrievable_text": "",
+      "before": "WO-DOC-001  |  Versi 1.0  |  Wedding Organizer X",
+      "retained_as": "canonical block plus administrative_blocks metadata",
+      "rule": "identity_version_status_to_metadata",
+      "source_locator": {
+        "body_position": 2,
+        "heading": null,
+        "heading_path": [],
+        "paragraph_position": 2
+      }
+    }
+  ],
+  "patterns": {
+    "document_code": {
+      "chunk_ids": [
+        "WO-DOC-008-C004",
+        "WO-DOC-009-C004",
+        "WO-DOC-013-C007",
+        "WO-DOC-017-C010",
+        "WO-DOC-018-C001",
+        "WO-DOC-018-C009",
+        "WO-DOC-027-C008",
+        "WO-DOC-030-C005",
+        "WO-DOC-036-C006",
+        "WO-DOC-044-C007",
+        "WO-DOC-048-C007",
+        "WO-DOC-050-C001"
+      ],
+      "chunks_with_pattern": 12,
+      "occurrences": 12
+    },
+    "draft_notice": {
+      "chunk_ids": [],
+      "chunks_with_pattern": 0,
+      "occurrences": 0
+    },
+    "organization_name": {
+      "chunk_ids": [
+        "WO-DOC-001-C001",
+        "WO-DOC-006-C005",
+        "WO-DOC-034-C006",
+        "WO-DOC-050-C001"
+      ],
+      "chunks_with_pattern": 4,
+      "occurrences": 4
+    },
+    "pending_validation": {
+      "chunk_ids": [],
+      "chunks_with_pattern": 0,
+      "occurrences": 0
+    },
+    "version": {
+      "chunk_ids": [
+        "WO-DOC-005-C005",
+        "WO-DOC-008-C005",
+        "WO-DOC-012-C001",
+        "WO-DOC-012-C007",
+        "WO-DOC-018-C001",
+        "WO-DOC-018-C002",
+        "WO-DOC-018-C005",
+        "WO-DOC-018-C008",
+        "WO-DOC-027-C008",
+        "WO-DOC-030-C005",
+        "WO-DOC-044-C007",
+        "WO-DOC-047-C004",
+        "WO-DOC-049-C005",
+        "WO-DOC-050-C002",
+        "WO-DOC-050-C004",
+        "WO-DOC-050-C006",
+        "WO-DOC-050-C009"
+      ],
+      "chunks_with_pattern": 17,
+      "occurrences": 20
+    }
+  },
+  "policy": "Full-block exact administrative matches only. Operational mentions, event context in prose, negations, document relations in operational prose and rundown versions remain.",
+  "retained_operational_examples": [
+    {
+      "chunk_id": "WO-DOC-001-C001",
+      "text": "Cara menggunakan struktur lapangan\n\nWedding Organizer X membagi pekerjaan menurut kendali acara, pendampingan orang, koordinasi pemasok, dan penguasaan fasilitas. Struktur ini dipakai untuk menetapkan siapa yang menyelesaikan pekerjaan dan siapa yang mengesahkan perubahan. Satu orang boleh memegang lebih dari satu peran pada acara kecil, tetapi penugasannya harus tertulis. Merangkap PIC pengantin dan pengendali seluruh vendor tidak dianjurkan ketika kedua pekerjaan berlangsung bersamaan. Daftar penugasan diterbitkan Event Coordinator sebelum briefing terakhir; kru membaca peran, pengganti, area kerja, dan jalur laporan mereka."
+    },
+    {
+      "chunk_id": "WO-DOC-006-C005",
+      "text": "Sheet: Panduan\nSection: Panduan\nHeader: Bagian | Keterangan\n\nRow: 9\nBagian: Cara pakai\nKeterangan: Kegiatan berstatus rencana atau belum diperiksa. Isi temuan setelah pemeriksaan; jangan menandai selesai tanpa bukti.\n\nRow: 10\nBagian: Konteks 1\nKeterangan: Matriks penugasan Wedding Organizer X.\n\nRow: 11\nBagian: Konteks 2\nKeterangan: A adalah pengesah operasional untuk satu tugas; R pelaksana utama, C dimintai masukan, I penerima informasi.\n\nRow: 12\nBagian: Konteks 3\nKeterangan: Persetujuan client atas biaya atau lingkup serta kelayakan fasilitas oleh petugas berwenang dicatat pada kolom batas, tidak digantikan oleh A.\n\nRow: 13\nBagian: Konteks 4\nKeterangan: STAFF-01 EC; STAFF-02 WC; STAFF-03 PIC pengantin; STAFF-04 PIC keluarga; STAFF-05 PIC vendor; STAFF-06 PIC venue; STAFF-07 floor; STAFF-08 guest desk; STAFF-09 runner; STAFF-10 LO.\n\nRow: 14\nBagian: Konteks 5\nKeterangan: Pada event kecil perangkapan harus tertulis dan beban kerja diperiksa EC.\n\nRow: 15\nBagian: Konteks 6\nKeterangan: Sem"
+    }
+  ],
+  "rule_counts": {
+    "document_title_to_metadata": 40,
+    "event_relation_banner_to_metadata": 45,
+    "exact_pdf_running_footer_to_metadata": 19,
+    "exact_provenance_notice_to_metadata": 40,
+    "guide_administrative_row_to_metadata": 30,
+    "identity_version_status_to_metadata": 61
+  }
+}

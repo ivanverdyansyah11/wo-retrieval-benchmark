@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "ranking_mutation_rejected": true,
+  "unknown_query_rejected": true,
+  "model_loading_blocked": true,
+  "torch_imported": false
+}

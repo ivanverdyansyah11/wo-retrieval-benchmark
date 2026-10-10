@@ -1,0 +1,24 @@
+{
+  "schema_version": "wo_dense_version_binding_v1",
+  "corpus_version": "v2",
+  "snapshot_id": "WO-CORPUS-V2-AI-CORRECTED-PILOT-001",
+  "snapshot_fingerprint": "78cd4e407bb9bbad1766d0ec3827931381a469695b995a1acb8bbad1444addc6",
+  "snapshot_manifest": "data/versions/v2_ai_corrected/validation/pilot_snapshot.json",
+  "snapshot_sha256": "6658fee4737c0d2fa725ee31cb647ec638de350fc2ccfe669999847ac2331b07",
+  "parent_protocol": "experiments/configs/retrieval_protocol_v1.toml",
+  "parent_protocol_sha256": "dbfc1e5b5ab21fa09b429c5fa4f25c390abaa1d8cc137c32ae63f8fae83b2300",
+  "preparation_script": "scripts/prepare_v2_indexes.py",
+  "preparation_script_sha256": "cf07935147e07c959c5305500c914f93d6ac2c01b79ae4df2f0495ec4d046bd0",
+  "eligibility_manifest": "experiments/indexes/v2_ai_corrected/dense_reuse_eligibility.json",
+  "eligibility_manifest_sha256": "334c76a4fd565cfa47e6155b9deb1f25dfbbc660a18524102fd9a92e5c0a1010",
+  "r1_index": "experiments/indexes/v2_ai_corrected/R1",
+  "r2_index": "experiments/indexes/v2_ai_corrected/R2",
+  "r3_index": "experiments/indexes/v2_ai_corrected/R3",
+  "v1_dense_index": "D:\\ModelCache\\wo-retrieval-benchmark\\R3\\7867c587b38f59de19ca9f278a29e9f22a5cdbe25f08a4d1289d4d629528b50f",
+  "changed_chunk_ids": [
+    "WO-DOC-024-C003",
+    "WO-DOC-027-C009"
+  ],
+  "retrieval_parameters_inherited_unchanged": true,
+  "validation_status": "ai_corrected_pilot_not_human_validated"
+}

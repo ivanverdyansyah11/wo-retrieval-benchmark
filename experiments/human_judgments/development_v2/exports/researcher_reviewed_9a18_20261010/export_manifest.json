@@ -1,0 +1,151 @@
+{
+  "label": "Researcher-annotated relevance judgments",
+  "scope": "development",
+  "expert_validated": false,
+  "independently_validated": false,
+  "completeness": {
+    "total": 654,
+    "resolved": 654,
+    "missing": 0,
+    "unresolved": 0,
+    "resolved_fraction": 1.0,
+    "status": "COMPLETE_RESOLVED",
+    "by_query": [
+      {
+        "query_id": "WO-DEV-001",
+        "total": 39,
+        "resolved": 39,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-002",
+        "total": 32,
+        "resolved": 32,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-003",
+        "total": 36,
+        "resolved": 36,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-004",
+        "total": 30,
+        "resolved": 30,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-005",
+        "total": 29,
+        "resolved": 29,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-006",
+        "total": 39,
+        "resolved": 39,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-007",
+        "total": 36,
+        "resolved": 36,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-008",
+        "total": 38,
+        "resolved": 38,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-009",
+        "total": 43,
+        "resolved": 43,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-010",
+        "total": 37,
+        "resolved": 37,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-011",
+        "total": 39,
+        "resolved": 39,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-012",
+        "total": 38,
+        "resolved": 38,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-013",
+        "total": 37,
+        "resolved": 37,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-014",
+        "total": 33,
+        "resolved": 33,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-015",
+        "total": 31,
+        "resolved": 31,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-016",
+        "total": 36,
+        "resolved": 36,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-017",
+        "total": 37,
+        "resolved": 37,
+        "pending": 0,
+        "unresolved": 0
+      },
+      {
+        "query_id": "WO-DEV-018",
+        "total": 44,
+        "resolved": 44,
+        "pending": 0,
+        "unresolved": 0
+      }
+    ]
+  },
+  "package_id": "wo-human-development-v2-17042",
+  "input_sha256": "f67790436f726a064e234d6665c0c3a7fdbc93a725dc14fea9face2b40afe960",
+  "protocol_sha256": "aa161d98569636970c4551cfd336e11268ed7f278b134abad5441acfbdac9278",
+  "history_sha256": "f7265cef577c0871745d0e7511a922a31e7f2bf4b8898f02ab5de498dd98f04d",
+  "outputs": {
+    "human_judgments.jsonl": "cf983d6810b8ef5f3c53d503c3acb8637ae46a5b6e728e9bfff2d1d46fa98fd7",
+    "human_resolved_qrels.tsv": "e8e740bc5b7ea5f43c117258bac8fcf1b549a8a1376116f78df153e6aa76bcf4"
+  },
+  "warning": "TSV contains only RESOLVED pairs; absent pairs remain unknown, not Grade 0."
+}
