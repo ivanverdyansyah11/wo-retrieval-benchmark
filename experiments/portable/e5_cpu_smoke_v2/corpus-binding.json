@@ -1,0 +1,6 @@
+{
+  "path": "data/versions/v2_ai_corrected/reports/serialized_inputs.jsonl",
+  "sha256": "43d9ce463c5613834a3cddab19c204d29b8a805a15a7ebb2594d5ba4bbbdfd14",
+  "rows": 371,
+  "source_status": "frozen V2 serialized inputs; read only; not redistributed in the E5 source bundle"
+}
