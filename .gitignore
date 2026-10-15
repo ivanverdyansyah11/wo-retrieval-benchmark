@@ -33,3 +33,48 @@ Thumbs.db
 # Transient annotation locks must never be shared as live locks.
 /experiments/human_judgments/development_v2/.server.lock
 /experiments/human_judgments/development_v2/.write.lock
+# Main evaluation workspaces contain reviewer provenance and private decisions.
+/experiments/checkpoints/
+/experiments/main_evaluation/query_preparation_v1/
+/experiments/main_evaluation/query_preparation_100_v1/
+/experiments/main_evaluation/assessment_v1/
+/experiments/main_evaluation/assessments/
+/experiments/main_evaluation/main_runs/
+/experiments/main_evaluation/encoding_packages/
+/experiments/main_evaluation/query_vectors/
+/experiments/main_evaluation/query_packages/
+/experiments/main_evaluation/rankings/
+/experiments/main_evaluation/pools/
+/experiments/main_evaluation/analysis/
+**/.server.lock
+**/.write.lock
+# Private versioned research exports and reproducibility backups.
+/experiments/main_evaluation/dataset_releases/
+/experiments/main_evaluation/qrels_drafts/
+/experiments/reports/retrieval_comparison_20261011/source_backup.zip
+/experiments/reports/retrieval_comparison_20261011/backup_manifest.json
+/experiments/reports/milestone_9a28_evidence/source_backup.zip
+/experiments/reports/milestone_9a28_evidence/backup_manifest.json
+
+# JavaScript runtime dependencies, including shared directory junctions in report helpers.
+node_modules/
+# Additional dedicated Python environments; retain dependency lock files in the repo.
+.venv-*/
+
+# Local embedding artifacts are preserved on disk; publication uses reviewed source allowlists.
+/experiments/embedding_profiles/v1/.inference.lock
+/experiments/embedding_profiles/v1/e5_small_cpu_v1/
+/experiments/embedding_portability/v1/
+/experiments/embedding_portability/v2/
+
+# Private active review sessions and application integration workspace.
+/experiments/main_evaluation/human_need_reviews/
+/experiments/main_evaluation/query_reconciliation_9a31_v1/
+/experiments/main_evaluation/semantic_review_quality_inventory_v1/
+/experiments/prototype_integration/e5_cpu_20261015/
+
+# Verified duplicate source transfer archive; retained locally rather than deleted.
+/src.zip
+# Regenerable workbook previews only; preserve the referenced XLSX and verification receipt.
+/outputs/01a1304b-4ca9-70a3-812f-d868357fad4a/*.xlsx.*.png
+/outputs/01a1304b-4ca9-70a3-812f-d868357fad4a/*.xlsx.inspect.ndjson
